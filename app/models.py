@@ -1,4 +1,4 @@
-from sqlalchemy import Boolean, Column, ForeignKey, Integer, String, DateTime, Text, Table
+from sqlalchemy import Boolean, Column, ForeignKey, Integer, String, DateTime, Text, Table, Float
 from sqlalchemy.orm import relationship
 from .database import Base
 import datetime
@@ -19,8 +19,9 @@ class User(Base):
     username = Column(String, unique=True, index=True)
     hashed_password = Column(String)
     is_active = Column(Boolean, default=True)
+    created_at = Column(DateTime, default=datetime.datetime.utcnow)
     
-    workouts = relationship("Workout", back_populates="user")
+    workouts = relationship("Workout", back_populates="user", cascade="all, delete-orphan")
     partners = relationship(
         "User",
         secondary=accountability_partners,
@@ -34,21 +35,29 @@ class Workout(Base):
 
     id = Column(Integer, primary_key=True, index=True)
     title = Column(String, index=True)
-    description = Column(String)
+    description = Column(Text)
     date = Column(DateTime, default=datetime.datetime.utcnow)
     completed = Column(Boolean, default=False)
     user_id = Column(Integer, ForeignKey("users.id"))
+    created_at = Column(DateTime, default=datetime.datetime.utcnow)
+    updated_at = Column(DateTime, onupdate=datetime.datetime.utcnow)
 
     user = relationship("User", back_populates="workouts")
-    exercises = relationship("Exercise", back_populates="workout")
+    exercises = relationship("Exercise", back_populates="workout", cascade="all, delete-orphan")
 
 class Exercise(Base):
     __tablename__ = "exercises"
 
     id = Column(Integer, primary_key=True, index=True)
     title = Column(String, index=True)
-    description = Column(String)
+    description = Column(Text)
     workout_id = Column(Integer, ForeignKey("workouts.id"))
+    sets = Column(Integer)
+    reps = Column(Integer)
+    weight = Column(Float)
+    duration = Column(Integer)  # in seconds
+    distance = Column(Float)    # in meters
+    created_at = Column(DateTime, default=datetime.datetime.utcnow)
 
     workout = relationship("Workout", back_populates="exercises")
 
@@ -58,27 +67,30 @@ class WorkoutAsset(Base):
     id = Column(Integer, primary_key=True, index=True)
     title = Column(String)
     description = Column(Text)
-    category = Column(String)
-    difficulty = Column(String)
+    category = Column(String, index=True)
+    difficulty = Column(String, index=True)
     instructions = Column(Text)
     benefits = Column(Text)
     muscles_worked = Column(Text)
     variations = Column(Text)
     image_path = Column(String)
     animation_path = Column(String)
-    
-    exercise_assets = relationship("ExerciseAsset", back_populates="workout")
+    created_at = Column(DateTime, default=datetime.datetime.utcnow)
+
+    exercise_assets = relationship("ExerciseAsset", back_populates="workout", cascade="all, delete-orphan")
 
     def __repr__(self):
-        return f"<WorkoutAsset(id={self.id}, title='{self.title}', category='{self.category}')>"
+        return f"<WorkoutAsset {self.title}>"
 
 class ExerciseAsset(Base):
     __tablename__ = "exercise_assets"
 
     id = Column(Integer, primary_key=True, index=True)
     title = Column(String, index=True)
-    instructions = Column(String)
-    benefits = Column(String)
-    image_paths = Column(String)  # JSON string containing array of image paths
+    instructions = Column(Text)
+    benefits = Column(Text)
+    image_paths = Column(String)
     workout_id = Column(Integer, ForeignKey("workout_assets.id"))
+    created_at = Column(DateTime, default=datetime.datetime.utcnow)
+
     workout = relationship("WorkoutAsset", back_populates="exercise_assets")
