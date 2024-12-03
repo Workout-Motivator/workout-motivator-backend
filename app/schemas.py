@@ -76,5 +76,17 @@ class ExerciseAsset(BaseModel):
     class Config:
         orm_mode = True
 
+class CategoryCount(BaseModel):
+    category: str
+    count: int
+
+class PaginatedWorkoutAssets(BaseModel):
+    exercises: List[WorkoutAsset]
+    total: int
+
+    class Config:
+        orm_mode = True
+        from_attributes = True
+
 # Update forward references
 WorkoutAssetDetail.update_forward_refs()
