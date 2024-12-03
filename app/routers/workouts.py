@@ -9,10 +9,10 @@ logger = logging.getLogger(__name__)
 
 router = APIRouter()
 
-@router.get("/assets/", response_model=List[schemas.WorkoutAsset])
+@router.get("/assets/", response_model=schemas.PaginatedWorkoutAssets)
 def get_workout_assets(
     skip: int = 0,
-    limit: int = 100,
+    limit: int = 10,
     category: str = None,
     difficulty: str = None,
     search: str = None,
@@ -20,38 +20,39 @@ def get_workout_assets(
 ):
     """
     Get workout assets with filtering options.
+    - skip: Number of records to skip for pagination
+    - limit: Maximum number of records to return
     - category: Filter by workout category
     - difficulty: Filter by difficulty level
     - search: Search in title and description
     """
-    query = db.query(models.WorkoutAsset)
-    
-    if category:
-        query = query.filter(models.WorkoutAsset.category == category)
-    if difficulty:
-        query = query.filter(models.WorkoutAsset.difficulty == difficulty)
-    if search:
-        search_term = f"%{search}%"
-        query = query.filter(
-            (models.WorkoutAsset.title.ilike(search_term)) |
-            (models.WorkoutAsset.description.ilike(search_term))
-        )
-    
-    total = query.count()
-    workouts = query.offset(skip).limit(limit).all()
-    
-    if not workouts and (category or difficulty or search):
+    try:
+        query = db.query(models.WorkoutAsset)
+        
+        if category:
+            query = query.filter(models.WorkoutAsset.category == category)
+        if difficulty:
+            query = query.filter(models.WorkoutAsset.difficulty == difficulty)
         if search:
-            raise HTTPException(
-                status_code=404,
-                detail=f"No workouts found matching search term: {search}"
+            search_term = f"%{search}%"
+            query = query.filter(
+                (models.WorkoutAsset.title.ilike(search_term)) |
+                (models.WorkoutAsset.description.ilike(search_term))
             )
-        else:
-            raise HTTPException(
-                status_code=404,
-                detail="No workouts found with specified filters"
-            )
-    return workouts
+        
+        total = query.count()
+        workouts = query.offset(skip).limit(limit).all()
+        
+        return {
+            "exercises": workouts,
+            "total": total,
+        }
+    except Exception as e:
+        logger.error(f"Error fetching workout assets: {str(e)}", exc_info=True)
+        raise HTTPException(
+            status_code=500,
+            detail=f"Error fetching workout assets: {str(e)}"
+        )
 
 @router.get("/assets/{workout_id}", response_model=schemas.WorkoutAssetDetail)
 def get_workout_asset(workout_id: int, db: Session = Depends(database.get_db)):
@@ -70,21 +71,6 @@ def get_workout_asset(workout_id: int, db: Session = Depends(database.get_db)):
             detail=f"Error retrieving workout: {str(e)}"
         )
 
-@router.get("/assets/categories", response_model=List[str])
-def get_categories(db: Session = Depends(database.get_db)):
-    """Get all unique categories from workout assets"""
-    try:
-        categories = db.query(models.WorkoutAsset.category).distinct().all()
-        # Convert from list of tuples to list of strings and filter out None values
-        categories = [cat[0] for cat in categories if cat[0] is not None]
-        return categories
-    except Exception as e:
-        logger.error(f"Error fetching categories: {str(e)}", exc_info=True)
-        raise HTTPException(
-            status_code=500,
-            detail=f"Error fetching categories: {str(e)}"
-        )
-
 @router.get("/assets/categories")
 def get_workout_categories(db: Session = Depends(database.get_db)):
     """Get all available workout categories with counts."""
@@ -95,13 +81,16 @@ def get_workout_categories(db: Session = Depends(database.get_db)):
                 func.count(models.WorkoutAsset.id).label('count')
             )
             .group_by(models.WorkoutAsset.category)
+            .filter(models.WorkoutAsset.category.isnot(None))
             .all()
         )
+        
         return [{"category": cat, "count": count} for cat, count in categories]
     except Exception as e:
+        logger.error(f"Error fetching categories: {str(e)}", exc_info=True)
         raise HTTPException(
             status_code=500,
-            detail=f"Error retrieving categories: {str(e)}"
+            detail=f"Error fetching categories: {str(e)}"
         )
 
 @router.get("/assets/exercise/{title}", response_model=schemas.WorkoutAsset)
