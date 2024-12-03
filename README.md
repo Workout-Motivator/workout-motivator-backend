@@ -6,11 +6,24 @@ A FastAPI backend service for the Workout Motivator application. This service ha
 
 - RESTful API with FastAPI
 - PostgreSQL Database Integration
-- JWT Authentication
-- Workout Management
-- Partner Matching Algorithm
-- Real-time Updates with WebSockets
+- Firebase Authentication
+- Exercise Management
+  - Categorized exercises
+  - Search and filtering
+  - Pagination support
+  - Category statistics
+- Partner System
+  - Partner matching
+  - Request management
+  - Real-time status updates
+- Error Handling
+  - Detailed error messages
+  - Comprehensive logging
+  - Type-safe responses
 - Docker Containerization
+  - Multi-stage builds
+  - Development and production configs
+  - Docker Compose support
 
 ## Prerequisites
 
