@@ -1,0 +1,54 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: workout-motivator-backend
+  namespace: workout-motivator
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: workout-motivator-backend
+  template:
+    metadata:
+      labels:
+        app: workout-motivator-backend
+    spec:
+      imagePullSecrets:
+      - name: acr-secret
+      containers:
+      - name: workout-motivator-backend
+        image: workoutmotivatoracr.azurecr.io/workout-motivator-backend:latest
+        ports:
+        - containerPort: 8000
+        resources:
+          requests:
+            cpu: "200m"
+            memory: "256Mi"
+          limits:
+            cpu: "500m"
+            memory: "512Mi"
+        env:
+        - name: DATABASE_URL
+          valueFrom:
+            secretKeyRef:
+              name: db-config
+              key: DATABASE_URL
+        - name: JWT_SECRET
+          valueFrom:
+            secretKeyRef:
+              name: backend-secrets
+              key: JWT_SECRET
+        - name: CORS_ORIGINS
+          value: "http://localhost:3000,https://workout-motivator.azurewebsites.net"
+        livenessProbe:
+          httpGet:
+            path: /health
+            port: 8000
+          initialDelaySeconds: 30
+          periodSeconds: 10
+        readinessProbe:
+          httpGet:
+            path: /health
+            port: 8000
+          initialDelaySeconds: 5
+          periodSeconds: 10
