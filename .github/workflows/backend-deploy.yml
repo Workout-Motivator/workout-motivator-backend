@@ -11,7 +11,7 @@ env:
   AZURE_CONTAINER_REGISTRY: workoutmotivatoracr.azurecr.io
   BACKEND_IMAGE_NAME: workout-motivator-backend
   NAMESPACE: workout-motivator
-  CLUSTER_NAME: workout-motivator-aks
+  CLUSTER_NAME: workout-motivator
   RESOURCE_GROUP: WAP
 
 jobs:
