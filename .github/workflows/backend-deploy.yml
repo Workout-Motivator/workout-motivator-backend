@@ -98,5 +98,19 @@ jobs:
 
     - name: Verify deployment
       run: |
+        echo "Checking pod status..."
+        kubectl get pods -n ${{ env.NAMESPACE }} -l app=workout-motivator-backend
+        
+        echo "Checking pod logs..."
+        for pod in $(kubectl get pods -n ${{ env.NAMESPACE }} -l app=workout-motivator-backend -o name); do
+          echo "Logs for $pod:"
+          kubectl logs -n ${{ env.NAMESPACE }} $pod --previous || true
+          kubectl logs -n ${{ env.NAMESPACE }} $pod || true
+        done
+
+        echo "Checking deployment events..."
+        kubectl describe deployment workout-motivator-backend -n ${{ env.NAMESPACE }}
+
+        echo "Waiting for rollouts..."
         kubectl rollout status deployment/workout-motivator-backend --namespace ${{ env.NAMESPACE }}
         kubectl rollout status deployment/postgres --namespace ${{ env.NAMESPACE }}
