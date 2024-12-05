@@ -3,9 +3,11 @@ name: Deploy Backend to AKS
 on:
   push:
     branches: [ main ]
-    paths:
-      - 'workout-motivator-backend/**'
-      - '.github/workflows/backend-deploy.yml'
+    paths-ignore:
+      - '**.md'
+      - '.gitignore'
+      - 'LICENSE'
+      - 'README.md'
 
 env:
   AZURE_CONTAINER_REGISTRY: workoutmotivatoracr.azurecr.io
