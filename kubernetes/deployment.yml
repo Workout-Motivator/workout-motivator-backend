@@ -4,7 +4,8 @@ metadata:
   name: workout-motivator-backend
   namespace: workout-motivator
 spec:
-  replicas: 2
+  replicas: 1
+  progressDeadlineSeconds: 300
   selector:
     matchLabels:
       app: workout-motivator-backend
