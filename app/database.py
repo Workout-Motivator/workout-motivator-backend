@@ -4,7 +4,7 @@ from sqlalchemy.orm import sessionmaker
 import os
 import logging
 import psycopg2
-from urllib.parse import urlparse
+from urllib.parse import urlparse, quote_plus
 
 # Create a logger
 logger = logging.getLogger(__name__)
@@ -15,7 +15,7 @@ SQLALCHEMY_DATABASE_URL = os.getenv("DATABASE_URL", "postgresql://postgres:postg
 url = urlparse(SQLALCHEMY_DATABASE_URL)
 DB_NAME = url.path[1:]  # Remove leading '/'
 DB_USER = url.username
-DB_PASSWORD = url.password
+DB_PASSWORD = quote_plus(url.password)
 DB_HOST = url.hostname
 DB_PORT = url.port or 5432
 
