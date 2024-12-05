@@ -85,16 +85,16 @@ jobs:
       run: |
         kubectl apply -f kubernetes/database/
 
+    - name: Deploy backend
+      run: |
+        kubectl apply -f kubernetes/deployment.yml
+        kubectl apply -f kubernetes/service.yml
+
     - name: Update backend deployment image
       run: |
         kubectl set image deployment/workout-motivator-backend \
           workout-motivator-backend=${{ env.AZURE_CONTAINER_REGISTRY }}/${{ env.BACKEND_IMAGE_NAME }}:${{ github.sha }} \
           --namespace ${{ env.NAMESPACE }}
-
-    - name: Deploy backend
-      run: |
-        kubectl apply -f workout-motivator-backend/kubernetes/deployment.yml
-        kubectl apply -f workout-motivator-backend/kubernetes/service.yml
 
     - name: Verify deployment
       run: |
