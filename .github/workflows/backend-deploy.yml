@@ -63,12 +63,13 @@ jobs:
     - name: Create database secrets
       run: |
         kubectl delete secret db-config --namespace ${{ env.NAMESPACE }} --ignore-not-found
+        DB_URL=$(echo "postgresql://${{ secrets.POSTGRES_USER }}:${{ secrets.POSTGRES_PASSWORD }}@postgres:5432/${{ secrets.POSTGRES_DB }}" | sed 's/:/\\:/g')
         kubectl create secret generic db-config \
           --namespace ${{ env.NAMESPACE }} \
           --from-literal=POSTGRES_DB=${{ secrets.POSTGRES_DB }} \
           --from-literal=POSTGRES_USER=${{ secrets.POSTGRES_USER }} \
           --from-literal=POSTGRES_PASSWORD=${{ secrets.POSTGRES_PASSWORD }} \
-          --from-literal=DATABASE_URL="postgresql://${{ secrets.POSTGRES_USER }}:${{ secrets.POSTGRES_PASSWORD }}@postgres:5432/${{ secrets.POSTGRES_DB }}"
+          --from-literal=DATABASE_URL="$DB_URL"
 
     - name: Create backend secrets
       run: |
