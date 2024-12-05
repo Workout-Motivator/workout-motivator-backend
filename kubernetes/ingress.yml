@@ -8,11 +8,6 @@ metadata:
     nginx.ingress.kubernetes.io/use-regex: "true"
     nginx.ingress.kubernetes.io/ssl-redirect: "false"
     cert-manager.io/cluster-issuer: "letsencrypt-staging"
-    # Add exception for ACME challenge path
-    nginx.ingress.kubernetes.io/configuration-snippet: |
-      location ^~ /.well-known/acme-challenge/ {
-        rewrite ^/.well-known/acme-challenge/(.*) /$1 break;
-      }
 spec:
   ingressClassName: nginx
   tls:
@@ -24,6 +19,13 @@ spec:
   - host: fitfocusapp.com
     http:
       paths:
+      - path: /.well-known/acme-challenge/(.*)
+        pathType: ImplementationSpecific
+        backend:
+          service:
+            name: workout-motivator-ingress-acme-solver
+            port:
+              number: 80
       - path: /api(/|$)(.*)
         pathType: ImplementationSpecific
         backend:
@@ -41,6 +43,13 @@ spec:
   - host: www.fitfocusapp.com
     http:
       paths:
+      - path: /.well-known/acme-challenge/(.*)
+        pathType: ImplementationSpecific
+        backend:
+          service:
+            name: workout-motivator-ingress-acme-solver
+            port:
+              number: 80
       - path: /api(/|$)(.*)
         pathType: ImplementationSpecific
         backend:
