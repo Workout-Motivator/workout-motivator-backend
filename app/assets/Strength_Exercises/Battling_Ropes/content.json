@@ -1,0 +1,80 @@
+{
+    "title": "Battling Ropes",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Battling Ropes Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold the ends of the battling ropes in each hand.",
+                    "Engage your core and begin to move your arms up and down in a wave-like motion.",
+                    "Continue the wave motion for 30 seconds to 1 minute, or until fatigued.",
+                    "Rest for 30 seconds to 1 minute and repeat for 3-4 sets."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Battling Ropes Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Battling Ropes Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves cardiovascular endurance",
+                    "Increases muscular endurance and strength",
+                    "Enhances grip strength and forearm development",
+                    "Engages multiple muscle groups, including the core, shoulders, and arms",
+                    "Provides a low-impact workout option",
+                    "Can be adapted for various fitness levels and goals",
+                    "Offers a fun and challenging workout experience"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Battling Ropes Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Shoulders",
+                    "Arms",
+                    "Back",
+                    "Core",
+                    "Legs"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Battling Ropes Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Alternating Waves",
+                    "Double Waves",
+                    "Slams",
+                    "Jumping Jacks",
+                    "Figure 8s",
+                    "Snakes",
+                    "Power Slams",
+                    "Reverse Waves",
+                    "Outside Circles",
+                    "Inside Circles"
+                ]
+            }
+        }
+    ]
+}

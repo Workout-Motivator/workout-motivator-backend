@@ -1,0 +1,76 @@
+{
+    "title": "Dumbbell Full Can Lateral Raise",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Full Can Lateral Raise Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a dumbbell in each hand.",
+                    "Bring your arms up to shoulder height, with your elbows bent at a 90-degree angle and your palms facing forward.",
+                    "Slowly raise your arms up and out to the sides, keeping your elbows bent and your palms facing down.",
+                    "Continue lifting until your arms are parallel to the ground.",
+                    "Hold for a moment, then slowly lower your arms back down to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Full Can Lateral Raise Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Full Can Lateral Raise Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the lateral deltoid muscle, which helps to widen the shoulders and create a more defined look",
+                    "Improves shoulder stability and mobility",
+                    "Can help to prevent shoulder injuries",
+                    "Engages the core muscles for added stability and strength",
+                    "Can be performed with light weights and high reps for a toning effect, or with heavier weights and lower reps for muscle building"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Full Can Lateral Raise Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Shoulder (deltoid) muscles",
+                    "Rotator cuff muscles",
+                    "Trapezius muscle",
+                    "Supraspinatus muscle",
+                    "Infraspinatus muscle",
+                    "Terres minor muscle"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Full Can Lateral Raise Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Half Can Lateral Raise",
+                    "Dumbbell Front Raise",
+                    "Dumbbell Lateral Raise",
+                    "Cable Lateral Raise",
+                    "Resistance Band Lateral Raise"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "title": "90 to 90 Stretch",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "90 to 90 Stretch Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by sitting on the floor with your legs straight out in front of you.",
+                    "Slowly bend your right knee and bring your foot towards your left thigh.",
+                    "Place your right hand on the floor behind you for support.",
+                    "Take your left hand and place it on your right knee.",
+                    "Gently twist your torso to the right, using your left hand to deepen the stretch.",
+                    "Hold the stretch for 30 seconds to 1 minute.",
+                    "Release the stretch and repeat on the other side."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "90 to 90 Stretch Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "90 to 90 Stretch Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens abdominal muscles",
+                    "Improves core stability",
+                    "Increases flexibility in the lower back",
+                    "Helps improve posture",
+                    "Can be modified for different fitness levels",
+                    "Can be done with minimal equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "90 to 90 Stretch Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Hamstrings",
+                    "Glutes",
+                    "Lower back"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "90 to 90 Stretch Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "90/90 hip stretch",
+                    "90/90 hamstring stretch",
+                    "90/90 thoracic rotation stretch",
+                    "90/90 quadricep stretch",
+                    "90/90 adductor stretch"
+                ]
+            }
+        }
+    ]
+}

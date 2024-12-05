@@ -1,0 +1,76 @@
+{
+    "title": "Smith Incline Bench Press",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Smith Incline Bench Press Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Set up an incline bench at a 45-degree angle.",
+                    "Lie down on the bench with your feet flat on the ground.",
+                    "Grasp the barbell with an overhand grip, slightly wider than shoulder-width apart.",
+                    "Unrack the barbell and lower it towards your chest, keeping your elbows tucked in.",
+                    "Pause when the barbell is just above your chest, then press it back up to the starting position.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Smith Incline Bench Press Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Smith Incline Bench Press Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the upper chest muscles",
+                    "Allows for a greater range of motion compared to traditional bench press",
+                    "Provides stability and support for the lifter",
+                    "Can help improve overall bench press strength",
+                    "Can be adjusted to target different areas of the chest by changing the incline angle"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Smith Incline Bench Press Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Pectoralis major (upper fibers)",
+                    "Anterior deltoids",
+                    "Triceps brachii"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Smith Incline Bench Press Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Smith Decline Bench Press",
+                    "Smith Flat Bench Press",
+                    "Smith Close-Grip Bench Press",
+                    "Smith Wide-Grip Bench Press",
+                    "Smith Incline Dumbbell Press",
+                    "Smith Incline Flyes",
+                    "Smith Incline Cable Press",
+                    "Smith Incline Push-Ups"
+                ]
+            }
+        }
+    ]
+}

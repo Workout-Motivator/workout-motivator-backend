@@ -1,0 +1,72 @@
+{
+    "title": "Standing Hip Adduction Stretch",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Standing Hip Adduction Stretch Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet hip-width apart and your hands on your hips.",
+                    "Lift your right leg off the ground and bring it across your body, placing your right ankle on your left thigh.",
+                    "Slowly lower your body down towards your left leg, keeping your back straight and your hips level.",
+                    "Hold the stretch for 15-30 seconds, feeling a stretch in your right hip.",
+                    "Slowly return to the starting position and repeat on the other side."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Standing Hip Adduction Stretch Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Standing Hip Adduction Stretch Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves hip mobility and flexibility",
+                    "Strengthens hip muscles",
+                    "Improves balance and stability",
+                    "Can help alleviate lower back pain",
+                    "Can be done anywhere without equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Standing Hip Adduction Stretch Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Inner thigh muscles (adductors)",
+                    "Gluteus medius",
+                    "Tensor fasciae latae"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Standing Hip Adduction Stretch Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "standing-hip-abduction-stretch",
+                    "seated-hip-adduction-stretch",
+                    "lying-hip-adduction-stretch",
+                    "standing-hip-crossover-stretch",
+                    "seated-hip-crossover-stretch"
+                ]
+            }
+        }
+    ]
+}

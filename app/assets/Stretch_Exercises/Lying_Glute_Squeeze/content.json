@@ -1,0 +1,72 @@
+{
+    "title": "Lying Glute Squeeze",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Lying Glute Squeeze Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on your back with your knees bent and feet flat on the ground.",
+                    "Engage your glutes by squeezing them together.",
+                    "Hold the squeeze for 5-10 seconds.",
+                    "Release the squeeze and relax your glutes.",
+                    "Repeat for 10-15 repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Lying Glute Squeeze Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Lying Glute Squeeze Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Relieves lower back pain and tension",
+                    "Stretches the hamstrings and glutes",
+                    "Improves flexibility and range of motion in the lower body",
+                    "Can help alleviate sciatica pain",
+                    "Reduces stress and promotes relaxation"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Lying Glute Squeeze Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Gluteus maximus",
+                    "Hamstrings",
+                    "Erector spinae"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Lying Glute Squeeze Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "standing-glute-squeeze",
+                    "bridging",
+                    "single-leg-bridging",
+                    "clamshells",
+                    "fire-hydrants"
+                ]
+            }
+        }
+    ]
+}

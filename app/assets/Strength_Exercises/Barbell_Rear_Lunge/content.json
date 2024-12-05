@@ -1,0 +1,80 @@
+{
+    "title": "Barbell Rear Lunge",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Barbell Rear Lunge Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by standing with your feet shoulder-width apart and your core engaged.",
+                    "Hold a barbell across your upper back with an overhand grip.",
+                    "Step back with your right foot and lower your body until your left knee is bent at a 90-degree angle.",
+                    "Make sure your left knee is directly above your left ankle and your right knee is hovering just above the ground.",
+                    "Push through your left heel to return to the starting position.",
+                    "Repeat on the other side by stepping back with your left foot.",
+                    "Complete 3 sets of 10-12 reps on each leg."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Barbell Rear Lunge Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Barbell Rear Lunge Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the quadriceps, hamstrings, and glutes",
+                    "Improves balance and stability",
+                    "Targets the muscles in the lower body more effectively than traditional lunges",
+                    "Increases hip mobility and flexibility",
+                    "Can be modified to increase or decrease difficulty by adjusting weight or range of motion"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Barbell Rear Lunge Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Barbell Rear Lunge Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Rear Lunge",
+                    "Reverse Lunge with Knee Drive",
+                    "Barbell Front Lunge",
+                    "Dumbbell Front Lunge",
+                    "Walking Lunge",
+                    "Curtsy Lunge",
+                    "Side Lunge",
+                    "Jumping Lunge",
+                    "Split Squat"
+                ]
+            }
+        }
+    ]
+}

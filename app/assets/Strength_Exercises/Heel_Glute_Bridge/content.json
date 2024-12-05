@@ -1,0 +1,74 @@
+{
+    "title": "Heel Glute Bridge",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Heel Glute Bridge Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on your back with your knees bent and feet flat on the ground.",
+                    "Place your heels close to your glutes, with your toes pointing forward.",
+                    "Engage your glutes and lift your hips off the ground, pushing through your heels.",
+                    "Hold for a few seconds at the top, squeezing your glutes.",
+                    "Lower your hips back down to the ground, but don’t let them touch the ground completely.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Heel Glute Bridge Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Heel Glute Bridge Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves balance and coordination",
+                    "Strengthens the muscles in the legs and core",
+                    "Increases proprioception (awareness of body position and movement)",
+                    "Can be used as a rehabilitation exercise for ankle or foot injuries",
+                    "Can be done anywhere without equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Heel Glute Bridge Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Glutes",
+                    "Hamstrings",
+                    "Lower back",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Heel Glute Bridge Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single-leg heel-glute-bridge",
+                    "Weighted heel-glute-bridge",
+                    "Band-resisted heel-glute-bridge",
+                    "Heel-glute-bridge with pulse at the top",
+                    "Heel-glute-bridge with abduction at the top"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "title": "Strongman Viking Press",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Strongman Viking Press Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with feet shoulder-width apart and grip the handles of the Viking Press with an overhand grip.",
+                    "Lift the Viking Press off the ground and bring it to your chest, keeping your elbows close to your body.",
+                    "Press the Viking Press overhead, extending your arms fully.",
+                    "Lower the Viking Press back to your chest and repeat for desired number of reps.",
+                    "When finished, carefully lower the Viking Press back to the ground."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Strongman Viking Press Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Strongman Viking Press Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Increases upper body strength and power",
+                    "Targets shoulders, triceps, and upper back muscles",
+                    "Improves core stability and balance",
+                    "Can be used as a full body exercise when combined with a squat or lunge",
+                    "Provides a unique and challenging workout experience"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Strongman Viking Press Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Shoulder muscles (deltoids)",
+                    "Triceps",
+                    "Chest muscles (pectoralis major)",
+                    "Upper back muscles (trapezius and rhomboids)",
+                    "Core muscles (abdominals and lower back)"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Strongman Viking Press Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "StrongMan Viking Press with barbell",
+                    "StrongMan Viking Press with dumbbells",
+                    "Single-arm StrongMan Viking Press",
+                    "Seated StrongMan Viking Press",
+                    "Push press with StrongMan Viking Press"
+                ]
+            }
+        }
+    ]
+}

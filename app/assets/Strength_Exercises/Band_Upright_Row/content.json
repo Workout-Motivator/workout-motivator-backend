@@ -1,0 +1,75 @@
+{
+    "title": "Band Upright Row",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Band Upright Row Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a resistance band with both hands, palms facing down.",
+                    "Bring the band up towards your chest, keeping your elbows close to your body and squeezing your shoulder blades together.",
+                    "Pause for a moment at the top of the movement, then slowly lower the band back down to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Band Upright Row Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Band Upright Row Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the upper back muscles, specifically the trapezius and rhomboids",
+                    "Improves posture by strengthening the muscles that support the shoulders and spine",
+                    "Increases shoulder mobility and flexibility",
+                    "Can be done with resistance bands, making it a convenient exercise to do at home or while traveling",
+                    "Engages the biceps and forearms as secondary muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Band Upright Row Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Deltoids",
+                    "Trapezius",
+                    "Rhomboids",
+                    "Biceps"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Band Upright Row Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single-arm band upright row",
+                    "Wide-grip band upright row",
+                    "Narrow-grip band upright row",
+                    "Reverse-grip band upright row",
+                    "Seated band upright row",
+                    "Standing band upright row with twist",
+                    "Band high pull",
+                    "Band face pull"
+                ]
+            }
+        }
+    ]
+}

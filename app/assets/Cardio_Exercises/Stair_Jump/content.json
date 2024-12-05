@@ -1,0 +1,82 @@
+{
+    "title": "Stair Jump",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Stair Jump Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand at the bottom of a flight of stairs.",
+                    "Jump up onto the first step with both feet.",
+                    "Immediately jump back down to the ground.",
+                    "Jump up onto the second step with both feet.",
+                    "Immediately jump back down to the ground.",
+                    "Continue jumping up one step at a time until you reach the top of the stairs.",
+                    "Once you reach the top, jump back down to the bottom and repeat the exercise for desired number of sets."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Stair Jump Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Stair Jump Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves cardiovascular endurance",
+                    "Strengthens leg muscles",
+                    "Increases explosive power",
+                    "Improves balance and coordination",
+                    "Burns calories and aids in weight loss",
+                    "Can be done anywhere with stairs"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Stair Jump Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Calves",
+                    "Hamstrings",
+                    "Core muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Stair Jump Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single-leg stair jump",
+                    "Double-leg stair jump",
+                    "Stair jump with lateral movement",
+                    "Stair jump with forward and backward movement",
+                    "Stair jump with medicine ball toss",
+                    "Stair jump with resistance band",
+                    "Stair jump with weighted vest",
+                    "Stair jump with alternating legs",
+                    "Stair jump with high knees",
+                    "Stair jump with butt kicks"
+                ]
+            }
+        }
+    ]
+}

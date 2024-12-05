@@ -1,0 +1,78 @@
+{
+    "title": "Shoulder Stand Yoga Pose",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Shoulder Stand Yoga Pose Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying flat on your back with your arms at your sides.",
+                    "Bend your knees and bring your feet close to your buttocks.",
+                    "Place your hands on your lower back and lift your legs up towards the ceiling.",
+                    "Slowly lift your hips off the ground and bring your legs over your head, supporting your lower back with your hands.",
+                    "Extend your legs straight up towards the ceiling, keeping your neck and head relaxed on the ground.",
+                    "Hold the pose for several breaths, then slowly lower your legs back down to the ground."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Shoulder Stand Yoga Pose Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Shoulder Stand Yoga Pose Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves circulation to the upper body and brain",
+                    "Stimulates the thyroid gland, which can help regulate metabolism",
+                    "Strengthens the shoulders, neck, and core muscles",
+                    "Relieves stress and anxiety",
+                    "Can help improve digestion and relieve constipation",
+                    "May improve sleep quality"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Shoulder Stand Yoga Pose Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Trapezius",
+                    "Rhomboids",
+                    "Deltoids",
+                    "Abdominals",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Shoulder Stand Yoga Pose Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Half Shoulder Stand",
+                    "Supported Shoulder Stand",
+                    "Plow Pose",
+                    "Bridge Pose",
+                    "Wheel Pose"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "title": "Barbell Kas Glute Bridge",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Barbell Kas Glute Bridge Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on your back with your knees bent and feet flat on the ground.",
+                    "Place a barbell across your hips and hold it in place with your hands.",
+                    "Engage your glutes and lift your hips up towards the ceiling, keeping your feet and shoulders on the ground.",
+                    "Pause at the top of the movement and squeeze your glutes.",
+                    "Lower your hips back down to the starting position and repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Barbell Kas Glute Bridge Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Barbell Kas Glute Bridge Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the quadriceps, glutes, and core muscles",
+                    "Improves lower body strength and stability",
+                    "Increases hip mobility and flexibility",
+                    "Can help prevent knee injuries by strengthening the muscles around the knee joint",
+                    "Can be modified for different fitness levels and goals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Barbell Kas Glute Bridge Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Glutes",
+                    "Hamstrings",
+                    "Lower back",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Barbell Kas Glute Bridge Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "barbell-kas-glute-bridge with resistance band",
+                    "single-leg barbell-kas-glute-bridge",
+                    "barbell-kas-glute-bridge with weight plate",
+                    "barbell-kas-glute-bridge with dumbbells",
+                    "barbell-kas-glute-bridge with kettlebell"
+                ]
+            }
+        }
+    ]
+}

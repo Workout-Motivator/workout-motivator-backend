@@ -1,0 +1,72 @@
+{
+    "title": "Lying Abductor Stretch",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Lying Abductor Stretch Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on your back with your legs straight out in front of you.",
+                    "Bend your right knee and place your right foot flat on the ground.",
+                    "Keeping your left leg straight, lift it up towards the ceiling.",
+                    "Slowly lower your left leg out to the side, keeping it straight and as close to the ground as possible.",
+                    "Hold the stretch for 15-30 seconds, feeling the stretch in your inner thigh and hip.",
+                    "Bring your left leg back up to the center and repeat on the other side."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Lying Abductor Stretch Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Lying Abductor Stretch Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Stretches the hip abductor muscles, including the gluteus medius and minimus",
+                    "Improves hip mobility and flexibility",
+                    "Reduces tightness and discomfort in the hips and lower back",
+                    "May help prevent injuries related to the hips and lower body",
+                    "Can be modified for different levels of flexibility and comfort"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Lying Abductor Stretch Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Gluteus medius",
+                    "Tensor fasciae latae"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Lying Abductor Stretch Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Standing Abductor Stretch",
+                    "Seated Abductor Stretch",
+                    "Butterfly Stretch",
+                    "Side Lunge Stretch",
+                    "Sumo Squat Stretch"
+                ]
+            }
+        }
+    ]
+}

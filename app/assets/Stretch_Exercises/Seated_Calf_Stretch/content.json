@@ -1,0 +1,71 @@
+{
+    "title": "Seated Calf Stretch",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Seated Calf Stretch Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by sitting on the floor with your legs extended in front of you.",
+                    "Place a rolled-up towel or yoga block under the balls of your feet.",
+                    "Flex your feet so that your toes are pointing towards your shins.",
+                    "Slowly lean forward, keeping your back straight, until you feel a stretch in your calves.",
+                    "Hold the stretch for 15-30 seconds, then release and repeat as desired."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Seated Calf Stretch Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Seated Calf Stretch Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves flexibility and range of motion in the spine",
+                    "Stretches the muscles in the back, shoulders, and chest",
+                    "Relieves tension and stiffness in the upper body",
+                    "May help alleviate back pain",
+                    "Can be done anywhere, even at a desk or in a chair"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Seated Calf Stretch Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Gastrocnemius",
+                    "Soleus"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Seated Calf Stretch Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "standing-calf-stretch",
+                    "donkey-calf-raise",
+                    "single-leg-calf-raise",
+                    "toe-walking",
+                    "heel-walking"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "title": "Dumbbell Devils Press",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Devils Press Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart, holding a dumbbell in each hand at shoulder height.",
+                    "Squat down, bringing the dumbbells to the ground.",
+                    "Jump your feet back into a plank position, keeping your hands on the dumbbells.",
+                    "Lower your body into a push-up, keeping your elbows close to your sides.",
+                    "Push back up into a plank position.",
+                    "Jump your feet forward to your hands, standing up with the dumbbells at your sides.",
+                    "Press the dumbbells overhead, extending your arms fully.",
+                    "Lower the dumbbells back to shoulder height and repeat the exercise for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Devils Press Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Devils Press Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Full body workout",
+                    "Improves cardiovascular endurance",
+                    "Increases strength and power",
+                    "Targets multiple muscle groups including shoulders, chest, back, arms, and legs",
+                    "Improves coordination and balance",
+                    "Can be modified for different fitness levels",
+                    "Can be done with minimal equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Devils Press Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Shoulders",
+                    "Chest",
+                    "Triceps",
+                    "Back",
+                    "Core",
+                    "Legs"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Devils Press Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Thruster",
+                    "Dumbbell Clean and Jerk",
+                    "Dumbbell Snatch",
+                    "Dumbbell Push Press",
+                    "Dumbbell Renegade Row"
+                ]
+            }
+        }
+    ]
+}

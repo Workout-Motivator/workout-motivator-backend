@@ -1,0 +1,71 @@
+{
+    "title": "Band Lying Leg Curl",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Band Lying Leg Curl Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Adjust the machine to fit your body size and lie face down on the bench with your knees just off the end.",
+                    "Hook the resistance band around your ankles and attach the other end to the weight stack.",
+                    "Keeping your hips pressed into the bench, curl your legs up towards your glutes, squeezing your hamstrings at the top of the movement.",
+                    "Slowly lower your legs back down to the starting position, keeping tension on the band throughout the entire movement.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Band Lying Leg Curl Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Band Lying Leg Curl Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the hamstrings, which are important for knee stability and overall lower body strength",
+                    "Can be done with minimal equipment, making it a convenient exercise to do at home or while traveling",
+                    "Allows for a greater range of motion compared to traditional machine-based leg curls",
+                    "Engages the core muscles for added stability and balance",
+                    "Can be easily modified by adjusting the resistance band or adding ankle weights for increased difficulty"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Band Lying Leg Curl Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Hamstrings",
+                    "Glutes"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Band Lying Leg Curl Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single leg lying leg curl",
+                    "Seated leg curl",
+                    "Standing leg curl",
+                    "Prone leg curl",
+                    "Swiss ball leg curl"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "title": "Barbell Suitcase Carry",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Barbell Suitcase Carry Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Begin by standing next to a loaded barbell on the ground.",
+                    "Position your feet shoulder-width apart and hinge at the hips to grip the barbell with one hand.",
+                    "Engage your core and lift the barbell off the ground, keeping your back straight and your arm extended.",
+                    "Walk forward while maintaining a stable core and keeping the barbell off the ground.",
+                    "After walking a certain distance, switch hands and repeat the exercise on the other side.",
+                    "Continue walking back and forth for the desired number of repetitions or time.",
+                    "When finished, lower the barbell back to the ground with control."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Barbell Suitcase Carry Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Barbell Suitcase Carry Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves grip strength",
+                    "Increases core stability",
+                    "Develops unilateral strength and balance",
+                    "Enhances overall body control and coordination",
+                    "Can be used as a functional exercise for everyday activities"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Barbell Suitcase Carry Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Forearm muscles",
+                    "Abdominal muscles",
+                    "Back muscles",
+                    "Glute muscles",
+                    "Quadriceps muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Barbell Suitcase Carry Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Suitcase Carry",
+                    "Kettlebell Suitcase Carry",
+                    "Farmers Walk",
+                    "Single Arm Farmers Walk",
+                    "Overhead Carry",
+                    "Waiter Carry",
+                    "Bottoms Up Carry",
+                    "Offset Carry",
+                    "Yoke Carry"
+                ]
+            }
+        }
+    ]
+}

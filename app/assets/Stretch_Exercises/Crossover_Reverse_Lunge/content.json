@@ -1,0 +1,75 @@
+{
+    "title": "Crossover Reverse Lunge",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Crossover Reverse Lunge Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet hip-width apart and hold a dumbbell in each hand.",
+                    "Step your left foot back and cross it behind your right foot, bending both knees to lower into a lunge.",
+                    "As you lower, curl the dumbbells up towards your shoulders.",
+                    "Push through your right heel to stand back up, lowering the dumbbells back down to your sides.",
+                    "Repeat on the other side, stepping your right foot back and crossing it behind your left foot.",
+                    "Continue alternating sides for the desired number of reps or time."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Crossover Reverse Lunge Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Crossover Reverse Lunge Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets multiple muscle groups including glutes, quads, hamstrings, and calves",
+                    "Improves balance and stability",
+                    "Incorporates a functional movement pattern that mimics everyday activities",
+                    "Increases cardiovascular endurance",
+                    "Can be modified to increase or decrease intensity"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Crossover Reverse Lunge Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Glutes",
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Calves",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Crossover Reverse Lunge Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Jumping Crossover Reverse Lunge",
+                    "Weighted Crossover Reverse Lunge",
+                    "Side-to-Side Crossover Reverse Lunge",
+                    "Curtsy Crossover Reverse Lunge",
+                    "Single-Leg Crossover Reverse Lunge"
+                ]
+            }
+        }
+    ]
+}

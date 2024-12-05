@@ -1,0 +1,73 @@
+{
+    "title": "Knuckle Push-up",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Knuckle Push-up Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start in a plank position with your hands slightly wider than shoulder-width apart and your fingers pointing forward.",
+                    "Lower your body down towards the ground, keeping your elbows close to your sides.",
+                    "As you lower yourself, shift your weight onto your knuckles instead of your palms.",
+                    "Push yourself back up to the starting position, again using your knuckles to support your weight.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Knuckle Push-up Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Knuckle Push-up Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Increases wrist and forearm strength",
+                    "Improves grip strength",
+                    "Engages more muscles in the chest, shoulders, and triceps compared to regular push-ups",
+                    "Challenges balance and stability",
+                    "Can be done anywhere without equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Knuckle Push-up Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Chest muscles (pectoralis major and minor)",
+                    "Shoulder muscles (deltoids)",
+                    "Triceps",
+                    "Core muscles (abdominals and lower back)"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Knuckle Push-up Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Wide Knuckle Push-Up",
+                    "Close Knuckle Push-Up",
+                    "One-Arm Knuckle Push-Up",
+                    "Clapping Knuckle Push-Up",
+                    "Spiderman Knuckle Push-Up"
+                ]
+            }
+        }
+    ]
+}

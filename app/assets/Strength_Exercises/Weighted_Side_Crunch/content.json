@@ -1,0 +1,73 @@
+{
+    "title": "Weighted Side Crunch",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Weighted Side Crunch Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on your side with your legs extended and your bottom arm extended straight out from your shoulder.",
+                    "Hold a weight in your top hand and place it on your hip.",
+                    "Engage your core and lift your legs off the ground, keeping them straight.",
+                    "Simultaneously lift your upper body towards your legs, bringing the weight towards your knee.",
+                    "Pause at the top of the movement and then slowly lower back down to the starting position.",
+                    "Complete the desired number of reps on one side before switching to the other side."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Weighted Side Crunch Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Weighted Side Crunch Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the oblique muscles, which are responsible for twisting and rotating the torso",
+                    "Increases core strength and stability",
+                    "Improves balance and coordination",
+                    "Can help reduce the risk of lower back pain by strengthening the muscles that support the spine",
+                    "Can be modified to increase or decrease the difficulty level based on individual fitness level"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Weighted Side Crunch Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Obliques",
+                    "Rectus Abdominis",
+                    "Transverse Abdominis"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Weighted Side Crunch Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Side Plank with Hip Dips",
+                    "Side Plank with Leg Lifts",
+                    "Side Plank with Oblique Crunches",
+                    "Side Plank with Reach Throughs",
+                    "Side Plank with Thread the Needle"
+                ]
+            }
+        }
+    ]
+}

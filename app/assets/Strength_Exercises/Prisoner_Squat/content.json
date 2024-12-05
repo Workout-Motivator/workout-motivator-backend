@@ -1,0 +1,74 @@
+{
+    "title": "Prisoner Squat",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Prisoner Squat Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your hands behind your head.",
+                    "Lower your body by bending your knees and pushing your hips back as if you were sitting in a chair.",
+                    "Keep your chest up and your back straight as you lower your body until your thighs are parallel to the ground.",
+                    "Pause for a moment, then push through your heels to stand back up to the starting position.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Prisoner Squat Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Prisoner Squat Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the lower body muscles, including the quadriceps, hamstrings, and glutes",
+                    "Improves balance and stability",
+                    "Increases flexibility in the hips and ankles",
+                    "Can be done without equipment and in a small space",
+                    "Can be modified for different fitness levels by adjusting the depth of the squat"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Prisoner Squat Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Prisoner Squat Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Jump Squats",
+                    "Sumo Squats",
+                    "Single-Leg Squats",
+                    "Box Jumps",
+                    "Wall Sits"
+                ]
+            }
+        }
+    ]
+}

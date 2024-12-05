@@ -1,0 +1,74 @@
+{
+    "title": "Body Saw Plank",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Body Saw Plank Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start in a plank position with your forearms on the ground and your body in a straight line from head to heels.",
+                    "Engage your core and glutes to maintain the plank position.",
+                    "Shift your body forward by pushing your forearms into the ground and moving your shoulders slightly past your elbows.",
+                    "Hold this position for a few seconds, then shift your body back to the starting plank position.",
+                    "Repeat the forward and backward movement for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Body Saw Plank Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Body Saw Plank Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the core muscles, including the abs, obliques, and lower back",
+                    "Improves stability and balance",
+                    "Increases shoulder and upper body strength",
+                    "Engages the glutes and hamstrings for a full body workout",
+                    "Can be modified for different fitness levels and abilities"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Body Saw Plank Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus Abdominis",
+                    "Transverse Abdominis",
+                    "Obliques",
+                    "Erector Spinae",
+                    "Glutes",
+                    "Quadriceps"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Body Saw Plank Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Body Saw Plank with Feet on Sliders",
+                    "Body Saw Plank with Forearms on Swiss Ball",
+                    "Body Saw Plank with Feet Elevated on Bench",
+                    "Body Saw Plank with Alternating Knee Tucks"
+                ]
+            }
+        }
+    ]
+}

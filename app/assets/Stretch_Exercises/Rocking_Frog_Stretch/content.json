@@ -1,0 +1,74 @@
+{
+    "title": "Rocking Frog Stretch",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Rocking Frog Stretch Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start in a tabletop position with your hands and knees on the ground.",
+                    "Bring your knees out wide and bring your big toes together to touch.",
+                    "Sit back onto your heels and reach your arms out in front of you.",
+                    "Slowly rock forward onto your hands and lift your hips up towards the ceiling.",
+                    "Hold for a few seconds and then rock back onto your heels.",
+                    "Repeat this rocking motion for 10-15 repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Rocking Frog Stretch Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Rocking Frog Stretch Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Stretches the hip flexors and quadriceps",
+                    "Improves flexibility in the lower body",
+                    "Helps to alleviate lower back pain",
+                    "Strengthens the core muscles",
+                    "Improves balance and stability"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Rocking Frog Stretch Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Glutes",
+                    "Hip flexors",
+                    "Lower back"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Rocking Frog Stretch Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rocking Frog Stretch with a Twist",
+                    "Rocking Frog Stretch with Arm Reach",
+                    "Rocking Frog Stretch with Leg Extension",
+                    "Advanced Rocking Frog Stretch with Arm and Leg Extension"
+                ]
+            }
+        }
+    ]
+}

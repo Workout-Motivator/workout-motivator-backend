@@ -1,0 +1,72 @@
+{
+    "title": "Cable Standing Fly",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Cable Standing Fly Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand in the center of a cable machine with the pulleys set at shoulder height.",
+                    "Grasp the handles with an overhand grip and step forward to create tension in the cables.",
+                    "Keep your arms slightly bent and your palms facing forward.",
+                    "Slowly bring your arms forward and together in front of your body, squeezing your chest muscles as you do so.",
+                    "Pause for a moment at the end of the movement, then slowly release back to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Cable Standing Fly Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Cable Standing Fly Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the chest muscles, specifically the pectoralis major and minor",
+                    "Helps to improve upper body strength and muscle definition",
+                    "Allows for a greater range of motion compared to traditional dumbbell fly exercises",
+                    "Engages the stabilizer muscles in the shoulders and core",
+                    "Can be easily adjusted to target different areas of the chest by changing the height of the cable pulleys"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cable Standing Fly Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Chest muscles (pectoralis major and minor)",
+                    "Shoulder muscles (anterior deltoids)"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cable Standing Fly Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Cable Reverse Fly",
+                    "Cable Crossover Fly",
+                    "Cable Chest Fly",
+                    "Cable Incline Fly",
+                    "Cable Decline Fly"
+                ]
+            }
+        }
+    ]
+}

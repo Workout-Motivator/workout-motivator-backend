@@ -1,0 +1,76 @@
+{
+    "title": "Standing Long Jump",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Standing Long Jump Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart.",
+                    "Bend your knees and lower your hips, keeping your back straight.",
+                    "Swing your arms back behind you.",
+                    "Jump forward as far as you can, swinging your arms forward to help propel you.",
+                    "Land on both feet, with your knees slightly bent to absorb the impact.",
+                    "Measure the distance you jumped from the starting line.",
+                    "Repeat for desired number of jumps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Standing Long Jump Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Standing Long Jump Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves explosive power in the legs",
+                    "Increases overall lower body strength",
+                    "Improves coordination and balance",
+                    "Helps to develop better jumping technique",
+                    "Can be used as a measure of athletic ability and progress"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Standing Long Jump Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Calf muscles",
+                    "Glutes",
+                    "Core muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Standing Long Jump Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single Leg Standing Long Jump",
+                    "Weighted Standing Long Jump",
+                    "Standing Broad Jump",
+                    "Box Jumps",
+                    "Depth Jumps"
+                ]
+            }
+        }
+    ]
+}

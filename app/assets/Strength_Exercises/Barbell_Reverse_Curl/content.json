@@ -1,0 +1,71 @@
+{
+    "title": "Barbell Reverse Curl",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Barbell Reverse Curl Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold the barbell with an overhand grip, palms facing down.",
+                    "Keep your elbows close to your body and curl the barbell up towards your chest, exhaling as you lift.",
+                    "Pause for a moment at the top of the movement, then slowly lower the barbell back down to the starting position, inhaling as you lower.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Barbell Reverse Curl Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Barbell Reverse Curl Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the brachioradialis muscle in the forearm",
+                    "Improves grip strength",
+                    "Helps with everyday activities that require forearm strength, such as carrying groceries or opening jars",
+                    "Can be done with a relatively light weight, making it accessible for beginners",
+                    "Variations of the exercise can be done with dumbbells or cables for added variety"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Barbell Reverse Curl Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Brachioradialis",
+                    "Biceps brachii",
+                    "Brachialis"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Barbell Reverse Curl Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Reverse Curl",
+                    "Cable Reverse Curl",
+                    "Hammer Curl",
+                    "Concentration Curl",
+                    "Preacher Curl"
+                ]
+            }
+        }
+    ]
+}

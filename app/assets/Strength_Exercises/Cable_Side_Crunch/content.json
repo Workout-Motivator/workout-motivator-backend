@@ -1,0 +1,72 @@
+{
+    "title": "Cable Side Crunch",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Cable Side Crunch Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on your right side with your legs extended and your left leg crossed over your right leg.",
+                    "Place your right hand behind your head and your left hand on the floor in front of you for support.",
+                    "Engage your core and lift your shoulders off the ground, bringing your right elbow towards your left knee.",
+                    "Pause at the top of the movement and then slowly lower back down to the starting position.",
+                    "Complete the desired number of reps on your right side before switching to your left side and repeating the exercise."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Cable Side Crunch Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Cable Side Crunch Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the oblique muscles, which are responsible for twisting and rotating the torso",
+                    "Improves core stability and balance",
+                    "Increases overall abdominal strength",
+                    "Can be modified to increase or decrease resistance, making it suitable for all fitness levels",
+                    "Engages multiple muscle groups, including the rectus abdominis, transverse abdominis, and erector spinae"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cable Side Crunch Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Obliques",
+                    "Rectus Abdominis",
+                    "Transverse Abdominis"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cable Side Crunch Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Weighted Cable Side Crunch",
+                    "Standing Cable Side Crunch",
+                    "Seated Cable Side Crunch",
+                    "Single Arm Cable Side Crunch",
+                    "Reverse Cable Side Crunch"
+                ]
+            }
+        }
+    ]
+}

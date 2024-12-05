@@ -1,0 +1,74 @@
+{
+    "title": "Drop Push Up",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Drop Push Up Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start in a high plank position with your hands shoulder-width apart and your feet hip-width apart.",
+                    "Lower your chest towards the ground by bending your elbows.",
+                    "As you lower your chest, simultaneously jump your feet towards your hands, landing in a squat position.",
+                    "From the squat position, jump back into the high plank position.",
+                    "Push up to return to the starting position.",
+                    "Repeat for desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Drop Push Up Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Drop Push Up Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets multiple muscle groups including chest, shoulders, triceps, and core",
+                    "Increases upper body strength and endurance",
+                    "Improves overall fitness and cardiovascular health",
+                    "Can be modified for different fitness levels by adjusting the height of the drop",
+                    "Engages stabilizer muscles for improved balance and coordination"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Drop Push Up Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Chest muscles (pectoralis major and minor)",
+                    "Shoulder muscles (deltoids)",
+                    "Triceps",
+                    "Core muscles (abdominals and lower back)"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Drop Push Up Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single Leg Drop Push Up",
+                    "Decline Drop Push Up",
+                    "Spiderman Drop Push Up",
+                    "Plyometric Drop Push Up",
+                    "Close Grip Drop Push Up"
+                ]
+            }
+        }
+    ]
+}

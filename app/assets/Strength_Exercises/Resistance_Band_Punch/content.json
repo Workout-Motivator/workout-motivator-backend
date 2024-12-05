@@ -1,0 +1,77 @@
+{
+    "title": "Resistance Band Punch",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Resistance Band Punch Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by standing with your feet shoulder-width apart and placing the resistance band under your feet.",
+                    "Hold the resistance band handles with both hands and bring them up to shoulder height, keeping your elbows bent and close to your body.",
+                    "Extend your right arm forward, punching the resistance band out in front of you while keeping your left arm in the starting position.",
+                    "Return your right arm to the starting position and repeat the punch with your left arm.",
+                    "Continue alternating punches for the desired number of repetitions or time."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Resistance Band Punch Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Resistance Band Punch Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the upper body muscles, including the chest, shoulders, and arms",
+                    "Improves punching power and speed",
+                    "Increases endurance and stamina",
+                    "Helps to develop better coordination and balance",
+                    "Can be done anywhere, making it a convenient exercise option",
+                    "Low-impact exercise, making it suitable for individuals with joint pain or injuries",
+                    "Can be easily modified to increase or decrease resistance, making it suitable for all fitness levels"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Resistance Band Punch Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Shoulders",
+                    "Chest",
+                    "Triceps",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Resistance Band Punch Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Resistance Band Cross Punch",
+                    "Resistance Band Jab",
+                    "Resistance Band Hook",
+                    "Resistance Band Uppercut",
+                    "Resistance Band Overhead Punch",
+                    "Resistance Band Speed Punches",
+                    "Resistance Band Shadow Boxing"
+                ]
+            }
+        }
+    ]
+}

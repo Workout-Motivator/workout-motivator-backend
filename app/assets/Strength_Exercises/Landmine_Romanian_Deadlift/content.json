@@ -1,0 +1,76 @@
+{
+    "title": "Landmine Romanian Deadlift",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Landmine Romanian Deadlift Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by placing a landmine attachment into a corner of the room or using a landmine base.",
+                    "Load the barbell with an appropriate weight and place it into the landmine attachment.",
+                    "Stand facing the landmine with your feet shoulder-width apart and your toes pointing forward.",
+                    "Grab the barbell with both hands, keeping your palms facing each other and your arms fully extended.",
+                    "Engage your core and hinge at the hips, lowering the barbell towards the ground while keeping your back straight.",
+                    "Lower the barbell until you feel a stretch in your hamstrings, then slowly raise it back up to the starting position.",
+                    "Repeat for the desired number of reps, then switch sides and repeat the exercise with your other leg forward."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Landmine Romanian Deadlift Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Landmine Romanian Deadlift Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets glutes, hamstrings, and core muscles",
+                    "Improves hip mobility and stability",
+                    "Helps to correct muscle imbalances between left and right sides of the body",
+                    "Increases overall strength and power in lower body",
+                    "Can be modified for different fitness levels and abilities"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Landmine Romanian Deadlift Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Erector spinae",
+                    "Gluteus maximus",
+                    "Hamstrings",
+                    "Quadriceps",
+                    "Gastrocnemius"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Landmine Romanian Deadlift Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single-leg landmine Romanian deadlift",
+                    "Sumo landmine Romanian deadlift",
+                    "Landmine reverse lunge to Romanian deadlift",
+                    "Landmine stiff-legged deadlift",
+                    "Landmine squat to Romanian deadlift"
+                ]
+            }
+        }
+    ]
+}

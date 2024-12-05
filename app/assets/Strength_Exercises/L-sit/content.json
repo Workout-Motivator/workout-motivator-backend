@@ -1,0 +1,76 @@
+{
+    "title": "L-sit",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "L-sit Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by sitting on the floor with your legs straight out in front of you.",
+                    "Place your hands on the floor next to your hips, fingers pointing forward.",
+                    "Press down through your hands and lift your hips off the ground.",
+                    "Engage your core and straighten your arms, lifting your legs off the ground.",
+                    "Hold this position for as long as you can, aiming for at least 10 seconds.",
+                    "To release, slowly lower your legs and hips back down to the ground."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "L-sit Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "L-sit Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the core muscles",
+                    "Improves hip flexor flexibility",
+                    "Increases shoulder and arm strength",
+                    "Improves balance and stability",
+                    "Enhances overall body control and coordination"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "L-sit Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus abdominis",
+                    "Transverse abdominis",
+                    "Obliques",
+                    "Quadriceps",
+                    "Hip flexors"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "L-sit Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Tuck L-sit",
+                    "Straddle L-sit",
+                    "Full L-sit",
+                    "Half L-sit",
+                    "One-legged L-sit",
+                    "Weighted L-sit"
+                ]
+            }
+        }
+    ]
+}

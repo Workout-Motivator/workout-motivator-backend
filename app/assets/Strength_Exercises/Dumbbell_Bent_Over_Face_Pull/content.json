@@ -1,0 +1,76 @@
+{
+    "title": "Dumbbell Bent Over Face Pull",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Bent Over Face Pull Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a dumbbell in each hand.",
+                    "Bend your knees slightly and hinge forward at the hips, keeping your back straight.",
+                    "Bring the dumbbells up to your shoulders, with your palms facing each other.",
+                    "Keeping your elbows high, pull the dumbbells back towards your face, squeezing your shoulder blades together.",
+                    "Pause for a moment, then slowly lower the dumbbells back to the starting position.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Bent Over Face Pull Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Bent Over Face Pull Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the upper back muscles, including the rhomboids, traps, and rear deltoids",
+                    "Improves posture by pulling the shoulders back and down",
+                    "Helps prevent shoulder injuries by strengthening the rotator cuff muscles",
+                    "Increases shoulder mobility and flexibility",
+                    "Can be modified to target different areas of the upper back and shoulders",
+                    "Can be done with minimal equipment, making it a convenient exercise to do at home or while traveling"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Bent Over Face Pull Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rhomboids",
+                    "Trapezius",
+                    "Posterior deltoids",
+                    "Rotator cuff muscles",
+                    "Forearms (grip strength)"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Bent Over Face Pull Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Rear Delt Fly",
+                    "Cable Face Pull",
+                    "Resistance Band Face Pull",
+                    "Barbell Bent Over Row",
+                    "Seated Cable Row"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "title": "V Up",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "V Up Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying flat on your back with your arms extended above your head and your legs straight out in front of you.",
+                    "Engage your core muscles and lift your legs and upper body off the ground at the same time, forming a “V” shape with your body.",
+                    "Hold this position for a few seconds, making sure to keep your core engaged and your back straight.",
+                    "Slowly lower your body back down to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "V Up Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "V Up Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the core muscles",
+                    "Improves balance and stability",
+                    "Targets the lower abs",
+                    "Can be modified for different fitness levels",
+                    "Helps to improve posture"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "V Up Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus abdominis",
+                    "Obliques",
+                    "Hip flexors"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "V Up Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "V sit-up",
+                    "V crunch",
+                    "V leg raise",
+                    "V twist",
+                    "V hold"
+                ]
+            }
+        }
+    ]
+}

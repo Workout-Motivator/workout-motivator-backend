@@ -1,0 +1,72 @@
+{
+    "title": "Exercise Ball Leg Curl",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Exercise Ball Leg Curl Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on your back with your arms at your sides and your feet on top of the exercise ball.",
+                    "Engage your core and lift your hips off the ground so that your body forms a straight line from your shoulders to your feet.",
+                    "Bend your knees and roll the exercise ball towards your glutes, keeping your hips lifted throughout the movement.",
+                    "Pause for a moment at the top of the movement, then slowly roll the exercise ball back out to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Exercise Ball Leg Curl Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Exercise Ball Leg Curl Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the hamstrings, glutes, and lower back muscles",
+                    "Improves balance and stability",
+                    "Engages the core muscles for added abdominal strength",
+                    "Can be modified for different fitness levels and goals",
+                    "Requires minimal equipment and can be done at home or in the gym"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Exercise Ball Leg Curl Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Hamstrings",
+                    "Glutes",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Exercise Ball Leg Curl Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single Leg Exercise Ball Leg Curl",
+                    "Exercise Ball Hamstring Curl",
+                    "Alternating Exercise Ball Leg Curl",
+                    "Exercise Ball Leg Curl with Hip Raise",
+                    "Exercise Ball Leg Curl with Stability Ball"
+                ]
+            }
+        }
+    ]
+}

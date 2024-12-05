@@ -1,0 +1,72 @@
+{
+    "title": "Seated Neck Stretch",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Seated Neck Stretch Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Sit on a chair with your back straight and your feet flat on the ground.",
+                    "Place your right hand on the top of your head and gently pull your head towards your right shoulder.",
+                    "Hold the stretch for 15-30 seconds and then release.",
+                    "Repeat the stretch on the other side by placing your left hand on the top of your head and gently pulling your head towards your left shoulder.",
+                    "Repeat the stretch on both sides for 2-3 sets."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Seated Neck Stretch Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Seated Neck Stretch Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Relieves tension and stiffness in the neck and shoulders",
+                    "Improves range of motion in the neck",
+                    "Reduces headaches and neck pain",
+                    "Can be done anywhere, anytime",
+                    "Easy to perform and requires no equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Seated Neck Stretch Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Sternocleidomastoid",
+                    "Trapezius",
+                    "Levator Scapulae"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Seated Neck Stretch Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Standing Neck Stretch",
+                    "Chin Tucks",
+                    "Neck Rolls",
+                    "Shoulder Shrugs",
+                    "Shoulder Rolls"
+                ]
+            }
+        }
+    ]
+}

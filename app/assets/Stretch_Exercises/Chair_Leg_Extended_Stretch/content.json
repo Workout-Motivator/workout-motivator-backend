@@ -1,0 +1,74 @@
+{
+    "title": "Chair Leg Extended Stretch",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Chair Leg Extended Stretch Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by sitting on a chair with your feet flat on the ground and your knees bent at a 90-degree angle.",
+                    "Extend one leg out in front of you, keeping it straight and parallel to the ground.",
+                    "Flex your foot, pointing your toes towards your body.",
+                    "Lean forward slightly, reaching towards your toes with both hands.",
+                    "Hold the stretch for 15-30 seconds, feeling the stretch in the back of your leg.",
+                    "Release the stretch and switch legs, repeating the exercise on the other side."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Chair Leg Extended Stretch Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Chair Leg Extended Stretch Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves flexibility and range of motion in the hips and lower back",
+                    "Relieves tension and tightness in the hip flexors and quadriceps",
+                    "Strengthens the muscles of the lower back and glutes",
+                    "Improves posture and alignment of the spine",
+                    "Can help alleviate lower back pain and discomfort"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Chair Leg Extended Stretch Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Hamstrings",
+                    "Glutes",
+                    "Lower back",
+                    "Quadriceps"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Chair Leg Extended Stretch Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Chair Leg Cross-Body Stretch",
+                    "Chair Leg Hamstring Stretch",
+                    "Chair Leg Quad Stretch",
+                    "Chair Leg Calf Stretch",
+                    "Chair Leg IT Band Stretch"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "title": "Barbell Guillotine Bench Press",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Barbell Guillotine Bench Press Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Set up a barbell on a bench press station, with the weight appropriate for your fitness level.",
+                    "Lie down on the bench with your feet flat on the ground and your back flat against the bench.",
+                    "Grasp the barbell with an overhand grip, with your hands slightly wider than shoulder-width apart.",
+                    "Lift the barbell off the rack and hold it directly above your chest, with your arms fully extended.",
+                    "Slowly lower the barbell towards your neck, keeping your elbows pointed outwards and your wrists straight.",
+                    "Stop when the barbell is just above your neck, and hold for a moment.",
+                    "Push the barbell back up to the starting position, fully extending your arms.",
+                    "Repeat for the desired number of repetitions.",
+                    "When finished, carefully rack the barbell back on the station."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Barbell Guillotine Bench Press Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Barbell Guillotine Bench Press Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the upper portion of the chest muscles",
+                    "Increases strength and size of the chest muscles",
+                    "Improves shoulder stability and mobility",
+                    "Engages the triceps and anterior deltoids as secondary muscles",
+                    "Allows for a greater range of motion compared to traditional bench press",
+                    "Can help break through plateaus in chest development"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Barbell Guillotine Bench Press Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Pectoralis major (upper and lower)",
+                    "Triceps brachii",
+                    "Anterior deltoids",
+                    "Coracobrachialis"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Barbell Guillotine Bench Press Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Guillotine Bench Press",
+                    "Incline Guillotine Bench Press",
+                    "Close-Grip Guillotine Bench Press",
+                    "Smith Machine Guillotine Bench Press",
+                    "Reverse-Grip Guillotine Bench Press"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "title": "Barbell Bench Press",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Barbell Bench Press Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying flat on a bench with your feet firmly planted on the ground.",
+                    "Grab the barbell with an overhand grip, hands slightly wider than shoulder-width apart.",
+                    "Lift the barbell off the rack and hold it directly above your chest with your arms fully extended.",
+                    "Slowly lower the barbell down towards your chest, keeping your elbows tucked in close to your body.",
+                    "Pause for a moment when the barbell touches your chest, then push it back up to the starting position.",
+                    "Repeat for the desired number of reps.",
+                    "When finished, carefully rack the barbell back onto the rack."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Barbell Bench Press Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Barbell Bench Press Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets multiple muscle groups including chest, shoulders, and triceps",
+                    "Increases upper body strength and muscle mass",
+                    "Improves overall pushing power and ability",
+                    "Can be easily modified for different fitness levels and goals",
+                    "Helps improve posture and stability in the upper body",
+                    "Can be performed with a variety of equipment, including barbells, dumbbells, and machines"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Barbell Bench Press Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Chest muscles (pectoralis major and minor)",
+                    "Shoulder muscles (anterior deltoids)",
+                    "Triceps brachii"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Barbell Bench Press Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Incline Barbell Bench Press",
+                    "Decline Barbell Bench Press",
+                    "Close-Grip Barbell Bench Press",
+                    "Wide-Grip Barbell Bench Press",
+                    "Paused Barbell Bench Press",
+                    "Reverse-Grip Barbell Bench Press",
+                    "Board Press",
+                    "Pin Press",
+                    "Spoto Press",
+                    "Floor Press"
+                ]
+            }
+        }
+    ]
+}

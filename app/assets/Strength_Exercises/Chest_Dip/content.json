@@ -1,0 +1,76 @@
+{
+    "title": "Chest Dip",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Chest Dip Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Find a set of parallel bars that are sturdy and can support your weight.",
+                    "Stand between the bars and place your hands on each bar, gripping them tightly.",
+                    "Lift yourself up so that your arms are fully extended and your feet are off the ground.",
+                    "Lower your body by bending your elbows and leaning forward slightly.",
+                    "Continue lowering yourself until your chest is level with the bars.",
+                    "Push yourself back up to the starting position by straightening your arms.",
+                    "Repeat for desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Chest Dip Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Chest Dip Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the chest, triceps, and shoulders",
+                    "Helps to build upper body strength and muscle mass",
+                    "Improves overall upper body stability and balance",
+                    "Can be done with minimal equipment, making it a convenient exercise to do at home or at the gym",
+                    "Allows for variations in hand placement and body position to target different muscle groups"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Chest Dip Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Pectoralis major",
+                    "Triceps brachii",
+                    "Anterior deltoids",
+                    "Rhomboids",
+                    "Trapezius"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Chest Dip Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Weighted Chest Dip",
+                    "Assisted Chest Dip",
+                    "Parallel Bar Dip",
+                    "Ring Dip",
+                    "Single Bar Dip"
+                ]
+            }
+        }
+    ]
+}

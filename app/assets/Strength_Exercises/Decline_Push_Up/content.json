@@ -1,0 +1,74 @@
+{
+    "title": "Decline Push Up",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Decline Push Up Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start in a high plank position with your hands shoulder-width apart and your feet hip-width apart.",
+                    "Lower your body down to the ground by bending your elbows and keeping your body in a straight line.",
+                    "Once your chest is just above the ground, push yourself back up to the starting position.",
+                    "Place your hands on an elevated surface, such as a bench or step, to increase the difficulty of the exercise.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Decline Push Up Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Decline Push Up Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the lower chest muscles",
+                    "Increases upper body strength",
+                    "Improves core stability",
+                    "Engages triceps and shoulders",
+                    "Can be done with minimal equipment",
+                    "Variations can be added for increased difficulty"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Decline Push Up Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Pectoralis major (chest)",
+                    "Triceps brachii (back of upper arm)",
+                    "Anterior deltoids (front of shoulders)",
+                    "Serratus anterior (muscles along the sides of the chest)"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Decline Push Up Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Feet elevated decline push up",
+                    "Single leg decline push up",
+                    "Decline diamond push up",
+                    "Decline spiderman push up",
+                    "Decline pike push up"
+                ]
+            }
+        }
+    ]
+}

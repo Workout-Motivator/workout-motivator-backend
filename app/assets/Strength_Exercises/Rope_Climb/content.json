@@ -1,0 +1,79 @@
+{
+    "title": "Rope Climb",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Rope Climb Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by standing in front of the rope with your feet shoulder-width apart.",
+                    "Grab the rope with both hands, making sure your hands are shoulder-width apart as well.",
+                    "Use your legs to jump up and wrap one leg around the rope.",
+                    "Use your arms to pull yourself up, bringing your other leg up to wrap around the rope as well.",
+                    "Continue to climb the rope by alternating which leg you use to wrap around the rope and pulling yourself up with your arms.",
+                    "When you reach the top, touch the ceiling or designated marker and then slowly lower yourself back down to the ground.",
+                    "Repeat for desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Rope Climb Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Rope Climb Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves upper body strength and endurance",
+                    "Increases grip strength",
+                    "Improves coordination and balance",
+                    "Engages multiple muscle groups including arms, shoulders, back, and core",
+                    "Provides a full body workout",
+                    "Can be modified for different skill levels",
+                    "Challenges mental toughness and perseverance"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Rope Climb Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Biceps",
+                    "Forearms",
+                    "Back muscles",
+                    "Shoulders",
+                    "Abdominals",
+                    "Legs (for stabilization)"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Rope Climb Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Legless Rope Climb",
+                    "Weighted Rope Climb",
+                    "One-Arm Rope Climb",
+                    "Speed Rope Climb",
+                    "Assisted Rope Climb"
+                ]
+            }
+        }
+    ]
+}

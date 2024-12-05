@@ -1,0 +1,76 @@
+{
+    "title": "Dumbbell Step Up",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Step Up Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand in front of a bench or step with a dumbbell in each hand.",
+                    "Place your right foot on the bench or step.",
+                    "Push through your right heel and lift your body up onto the bench or step.",
+                    "Bring your left foot up onto the bench or step.",
+                    "Step back down with your left foot, then your right foot.",
+                    "Repeat for desired number of reps, then switch sides and repeat."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Step Up Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Step Up Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens leg muscles, including quadriceps, hamstrings, and glutes",
+                    "Improves balance and stability",
+                    "Increases cardiovascular endurance",
+                    "Targets specific muscle imbalances or weaknesses",
+                    "Can be modified for different fitness levels and goals",
+                    "Requires minimal equipment and can be done at home or in the gym"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Step Up Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Step Up Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Step up with Knee Raise",
+                    "Dumbbell Step up with Lateral Raise",
+                    "Dumbbell Step up with Bicep Curl",
+                    "Dumbbell Step up with Overhead Press",
+                    "Dumbbell Step up with Front Raise"
+                ]
+            }
+        }
+    ]
+}

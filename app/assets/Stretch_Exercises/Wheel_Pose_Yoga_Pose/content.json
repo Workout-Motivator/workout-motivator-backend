@@ -1,0 +1,83 @@
+{
+    "title": "Wheel Pose Yoga Pose",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Wheel Pose Yoga Pose Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on your back with your knees bent and feet flat on the ground.",
+                    "Place your hands on the ground beside your ears with your fingers pointing towards your shoulders.",
+                    "Press into your hands and feet, lifting your hips off the ground.",
+                    "Slowly straighten your arms and lift your head off the ground, coming into a backbend.",
+                    "Hold the pose for a few breaths, then slowly lower yourself back down to the ground."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_0.gif"
+        },
+        {
+            "type": "section",
+            "title": "Wheel Pose Yoga Pose Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Wheel Pose Yoga Pose Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Stretches the chest, shoulders, and hip flexors",
+                    "Strengthens the back, arms, and wrists",
+                    "Improves spinal flexibility and mobility",
+                    "Stimulates the thyroid and pituitary glands",
+                    "Boosts energy and mood",
+                    "Helps relieve stress and anxiety",
+                    "Improves digestion and circulation",
+                    "Can help alleviate symptoms of asthma and respiratory issues",
+                    "May improve posture and balance"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Wheel Pose Yoga Pose Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Abdominal muscles (rectus abdominis, obliques)",
+                    "Back muscles (erector spinae, latissimus dorsi)",
+                    "Chest muscles (pectoralis major)",
+                    "Shoulder muscles (deltoids)",
+                    "Arm muscles (triceps)",
+                    "Leg muscles (quadriceps, hamstrings)"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Wheel Pose Yoga Pose Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Supported Wheel Pose",
+                    "One-Legged Wheel Pose",
+                    "Forearm Wheel Pose",
+                    "Half Wheel Pose",
+                    "Wall Wheel Pose",
+                    "Bound Wheel Pose",
+                    "One-Arm Wheel Pose",
+                    "Side Wheel Pose",
+                    "Scorpion Wheel Pose"
+                ]
+            }
+        }
+    ]
+}

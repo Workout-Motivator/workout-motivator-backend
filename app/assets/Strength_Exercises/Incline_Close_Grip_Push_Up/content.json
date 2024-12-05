@@ -1,0 +1,78 @@
+{
+    "title": "Incline Close Grip Push Up",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Incline Close Grip Push Up Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start in a plank position with your hands on an elevated surface, such as a bench or step.",
+                    "Place your hands close together, with your thumbs touching and your fingers pointing forward.",
+                    "Lower your body towards the bench, keeping your elbows close to your sides.",
+                    "Pause when your chest is just above the bench.",
+                    "Push back up to the starting position, keeping your core engaged and your body in a straight line.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Incline Close Grip Push Up Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Incline Close Grip Push Up Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the chest, triceps, and shoulders",
+                    "Increases upper body strength and endurance",
+                    "Improves core stability and balance",
+                    "Can be modified for different fitness levels by adjusting the incline",
+                    "Requires no equipment and can be done anywhere"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Incline Close Grip Push Up Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Chest muscles (pectoralis major and minor)",
+                    "Triceps",
+                    "Shoulder muscles (anterior deltoids)"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Incline Close Grip Push Up Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Decline Close Grip Push Up",
+                    "Wide Grip Push Up",
+                    "Diamond Push Up",
+                    "One Arm Push Up",
+                    "Clap Push Up",
+                    "Spiderman Push Up",
+                    "T Push Up",
+                    "Staggered Push Up",
+                    "Explosive Push Up",
+                    "Plyometric Push Up"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "title": "Kettlebell Front Squat",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Front Squat Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold the kettlebell with both hands at chest level, keeping your elbows close to your body.",
+                    "Engage your core and keep your back straight as you lower your body into a squat, pushing your hips back and bending your knees.",
+                    "Lower your body until your thighs are parallel to the ground, or as low as you can comfortably go.",
+                    "Pause for a moment at the bottom of the squat, then push through your heels to stand back up to the starting position.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Front Squat Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Front Squat Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets multiple muscle groups including quads, glutes, hamstrings, and core",
+                    "Improves lower body strength and power",
+                    "Increases cardiovascular endurance",
+                    "Improves balance and stability",
+                    "Can be modified for different fitness levels and goals",
+                    "Requires minimal equipment and can be done at home or in a gym"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Front Squat Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Core",
+                    "Upper back",
+                    "Shoulders"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Front Squat Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Kettlebell Goblet Squat",
+                    "Kettlebell Sumo Squat",
+                    "Kettlebell Bulgarian Split Squat",
+                    "Kettlebell Overhead Squat",
+                    "Kettlebell Single Leg Squat"
+                ]
+            }
+        }
+    ]
+}

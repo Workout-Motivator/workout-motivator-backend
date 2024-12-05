@@ -1,0 +1,74 @@
+{
+    "title": "One Handed Hang",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "One Handed Hang Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Find a sturdy pull-up bar or ledge that can support your body weight.",
+                    "Stand facing the bar and reach up with one hand to grab onto it.",
+                    "Engage your core and lift your feet off the ground, hanging from the bar with only one hand.",
+                    "Hold this position for as long as you can, aiming for at least 10-15 seconds.",
+                    "Lower yourself back down to the ground and switch hands, repeating the exercise on the other side.",
+                    "Repeat for several sets, gradually increasing the amount of time you can hold the one-handed hang."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "One Handed Hang Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "One Handed Hang Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves grip strength",
+                    "Increases forearm and bicep strength",
+                    "Develops shoulder stability and mobility",
+                    "Enhances overall upper body strength",
+                    "Challenges core stability and balance"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "One Handed Hang Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Forearm muscles",
+                    "Grip strength muscles",
+                    "Shoulder muscles",
+                    "Back muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "One Handed Hang Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "One Handed Hang with Towel",
+                    "One Handed Hang with Weight",
+                    "One Handed Hang on a Sloping Edge",
+                    "One Handed Hang with Offset Grip",
+                    "One Handed Hang with Pinch Grip"
+                ]
+            }
+        }
+    ]
+}

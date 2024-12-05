@@ -1,0 +1,75 @@
+{
+    "title": "Dumbbell Rear Delt Fly",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Rear Delt Fly Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a dumbbell in each hand.",
+                    "Bend your knees slightly and hinge forward at the hips, keeping your back straight.",
+                    "Extend your arms straight down towards the floor, palms facing each other.",
+                    "Engage your shoulder blades and lift your arms out to the sides, keeping a slight bend in your elbows.",
+                    "Continue lifting until your arms are parallel to the floor and your shoulder blades are squeezed together.",
+                    "Hold for a moment, then slowly lower the weights back down to the starting position.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Rear Delt Fly Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Rear Delt Fly Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the upper back muscles, including the rhomboids, trapezius, and rear deltoids",
+                    "Improves posture and spinal alignment",
+                    "Increases upper body strength and muscle definition",
+                    "Can be modified for different fitness levels by adjusting weight and incline angle",
+                    "Engages the core muscles for added stability and balance"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Rear Delt Fly Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rear deltoids",
+                    "Trapezius",
+                    "Rhomboids",
+                    "Posterior deltoids"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Rear Delt Fly Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "dumbbell-front-raise",
+                    "dumbbell-lateral-raise",
+                    "cable-rear-delt-fly",
+                    "band-rear-delt-fly",
+                    "seated-rear-delt-fly"
+                ]
+            }
+        }
+    ]
+}

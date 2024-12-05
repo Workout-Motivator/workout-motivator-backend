@@ -1,0 +1,75 @@
+{
+    "title": "Band Lunges",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Band Lunges Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet hip-width apart and your arms at your sides.",
+                    "Step your right foot back and to the left, crossing it behind your left foot.",
+                    "Bend both knees and lower your body into a lunge position.",
+                    "Push through your left heel to stand back up, bringing your right foot back to the starting position.",
+                    "Repeat on the other side, stepping your left foot back and to the right.",
+                    "Continue alternating sides for the desired number of repetitions or time."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Band Lunges Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Band Lunges Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets multiple muscle groups including glutes, quads, hamstrings, and calves",
+                    "Improves balance and stability",
+                    "Increases lower body strength and power",
+                    "Can be modified for different fitness levels by adjusting the resistance band or adding weights",
+                    "Engages the core for added abdominal and back strength"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Band Lunges Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Band Lunges Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Reverse Lunges",
+                    "Walking Lunges",
+                    "Curtsy Lunges",
+                    "Side Lunges",
+                    "Jumping Lunges"
+                ]
+            }
+        }
+    ]
+}

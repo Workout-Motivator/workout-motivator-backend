@@ -1,0 +1,81 @@
+{
+    "title": "Split Jacks",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Split Jacks Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet together and your arms at your sides.",
+                    "Jump your feet apart while simultaneously raising your arms out to the sides and up above your head.",
+                    "Jump your feet back together while lowering your arms back down to your sides.",
+                    "Jump your feet apart again, this time crossing your right foot in front of your left foot.",
+                    "Jump your feet back together, uncrossing them.",
+                    "Jump your feet apart again, this time crossing your left foot in front of your right foot.",
+                    "Jump your feet back together, uncrossing them.",
+                    "Repeat steps 2-7 for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_0.webp"
+        },
+        {
+            "type": "section",
+            "title": "Split Jacks Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Split Jacks Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Increases cardiovascular endurance",
+                    "Improves coordination and balance",
+                    "Targets multiple muscle groups including legs, glutes, and core",
+                    "Can be modified for different fitness levels",
+                    "Can be done without equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Split Jacks Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Glutes",
+                    "Calves",
+                    "Abdominals",
+                    "Obliques",
+                    "Shoulders",
+                    "Chest",
+                    "Back"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Split Jacks Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Jumping Jacks",
+                    "Plank Jacks",
+                    "Star Jumps",
+                    "Scissor Jacks",
+                    "Side-to-Side Jacks"
+                ]
+            }
+        }
+    ]
+}

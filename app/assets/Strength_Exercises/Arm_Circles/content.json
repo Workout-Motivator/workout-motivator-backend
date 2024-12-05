@@ -1,0 +1,75 @@
+{
+    "title": "Arm Circles",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Arm Circles Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your arms extended straight out to the sides at shoulder height.",
+                    "Slowly begin to make small circles with your arms, moving them forward in a clockwise direction.",
+                    "Gradually increase the size of the circles until you are making full rotations with your arms.",
+                    "After a few rotations, switch directions and make circles in a counterclockwise direction.",
+                    "Continue making circles for 30-60 seconds, then slowly lower your arms back down to your sides."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Arm Circles Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Arm Circles Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves shoulder mobility and flexibility",
+                    "Increases blood flow to the arms and shoulders",
+                    "Helps to prevent shoulder injuries",
+                    "Can be done as a warm-up before other exercises",
+                    "Can be done anywhere without any equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Arm Circles Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Deltoids",
+                    "Trapezius",
+                    "Rotator cuff muscles",
+                    "Latissimus dorsi",
+                    "Triceps",
+                    "Biceps"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Arm Circles Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Arm Circles with weights",
+                    "Arm Circles in reverse",
+                    "Arm Circles with resistance bands",
+                    "Arm Circles with a medicine ball",
+                    "Arm Circles with a stability ball"
+                ]
+            }
+        }
+    ]
+}

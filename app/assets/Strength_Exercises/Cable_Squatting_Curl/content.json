@@ -1,0 +1,76 @@
+{
+    "title": "Cable Squatting Curl",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Cable Squatting Curl Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Attach a cable machine to a low pulley and select a weight that is appropriate for your fitness level.",
+                    "Stand facing the machine with your feet shoulder-width apart and your toes pointing forward.",
+                    "Hold the cable handle with an underhand grip, palms facing up, and your arms extended down in front of your thighs.",
+                    "Lower your body into a squat position by bending your knees and pushing your hips back, keeping your chest up and your back straight.",
+                    "As you lower your body, curl the cable handle towards your shoulders by bending your elbows and keeping your upper arms stationary.",
+                    "Pause for a moment at the bottom of the squat and squeeze your biceps.",
+                    "Slowly straighten your arms and stand back up to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Cable Squatting Curl Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Cable Squatting Curl Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets multiple muscle groups including the quadriceps, hamstrings, glutes, biceps, and forearms",
+                    "Improves overall lower body and arm strength",
+                    "Increases stability and balance",
+                    "Can be modified to accommodate different fitness levels and goals",
+                    "Provides a low-impact option for those with joint pain or injuries"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cable Squatting Curl Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Glutes",
+                    "Biceps"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cable Squatting Curl Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Cable Squatting Curl with Resistance Band",
+                    "Cable Squatting Curl with Dumbbells",
+                    "Cable Squatting Curl with Barbell",
+                    "Cable Squatting Curl with Kettlebell",
+                    "Cable Squatting Curl with Medicine Ball"
+                ]
+            }
+        }
+    ]
+}

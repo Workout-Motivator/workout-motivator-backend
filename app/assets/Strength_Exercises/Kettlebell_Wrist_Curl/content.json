@@ -1,0 +1,75 @@
+{
+    "title": "Kettlebell Wrist Curl",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Wrist Curl Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by sitting on a bench or chair with your feet flat on the ground and your back straight.",
+                    "Hold a kettlebell in one hand with your palm facing up and your elbow resting on your thigh.",
+                    "Slowly lower the kettlebell towards the ground, keeping your wrist straight.",
+                    "Then, curl the kettlebell back up towards your forearm, using only your wrist.",
+                    "Repeat for the desired number of repetitions, then switch to the other hand."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Wrist Curl Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Wrist Curl Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the wrist flexors and extensors",
+                    "Improves grip strength",
+                    "Helps prevent wrist injuries",
+                    "Can be done with a variety of weights and kettlebell sizes",
+                    "Targets the forearms and can improve overall arm definition"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Wrist Curl Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Forearm Flexors"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Wrist Curl Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Kettlebell Reverse Wrist Curl",
+                    "Kettlebell Hammer Curl",
+                    "Kettlebell Bicep Curl",
+                    "Kettlebell Tricep Extension",
+                    "Kettlebell Overhead Press",
+                    "Kettlebell Front Raise",
+                    "Kettlebell Lateral Raise",
+                    "Kettlebell Upright Row",
+                    "Kettlebell Bent Over Row",
+                    "Kettlebell Deadlift"
+                ]
+            }
+        }
+    ]
+}

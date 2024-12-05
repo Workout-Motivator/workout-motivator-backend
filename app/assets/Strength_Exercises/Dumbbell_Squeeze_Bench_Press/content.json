@@ -1,0 +1,75 @@
+{
+    "title": "Dumbbell Squeeze Bench Press",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Squeeze Bench Press Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying flat on a bench with your feet firmly planted on the ground.",
+                    "Hold a dumbbell in each hand and bring them together so that the weights are touching each other.",
+                    "Slowly lower the dumbbells towards your chest, keeping them squeezed together the entire time.",
+                    "Pause for a moment when the dumbbells are just above your chest.",
+                    "Push the dumbbells back up to the starting position, still keeping them squeezed together.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Squeeze Bench Press Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Squeeze Bench Press Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the chest muscles, specifically the pectoralis major and minor",
+                    "Engages the triceps and shoulders as secondary muscles",
+                    "Improves upper body strength and power",
+                    "Increases muscle activation and tension in the chest compared to traditional bench press",
+                    "Helps to correct muscle imbalances in the chest and shoulders",
+                    "Can be performed with a variety of dumbbell weights and grip positions for variation",
+                    "Provides a challenging and effective workout for both beginners and advanced lifters"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Squeeze Bench Press Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Pectoralis major",
+                    "Triceps brachii",
+                    "Anterior deltoids"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Squeeze Bench Press Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Incline Dumbbell Squeeze Bench Press",
+                    "Decline Dumbbell Squeeze Bench Press",
+                    "Single Arm Dumbbell Squeeze Bench Press",
+                    "Close Grip Dumbbell Squeeze Bench Press",
+                    "Alternating Dumbbell Squeeze Bench Press"
+                ]
+            }
+        }
+    ]
+}

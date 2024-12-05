@@ -1,0 +1,77 @@
+{
+    "title": "Side Lunge Stretch",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Side Lunge Stretch Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet hip-width apart and your hands on your hips.",
+                    "Take a big step to the right with your right foot, keeping your left foot in place.",
+                    "Bend your right knee and push your hips back as you lower your body into a lunge position.",
+                    "Keep your left leg straight and your left foot firmly planted on the ground.",
+                    "Hold the stretch for 10-15 seconds, feeling the stretch in your inner thigh and groin area.",
+                    "Slowly straighten your right leg and return to the starting position.",
+                    "Repeat on the other side, taking a big step to the left with your left foot.",
+                    "Do 10-15 repetitions on each side, or as many as feels comfortable for your body."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Side Lunge Stretch Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Side Lunge Stretch Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Increases flexibility in the hips, groin, and inner thighs",
+                    "Improves balance and stability",
+                    "Strengthens the legs, particularly the quadriceps and glutes",
+                    "Helps to alleviate lower back pain by stretching the muscles in the lower back",
+                    "Can be modified to target different areas of the legs and hips"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Side Lunge Stretch Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Glutes",
+                    "Inner Thighs",
+                    "Calves"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Side Lunge Stretch Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Side Lunge with Twist",
+                    "Side Lunge with Reach",
+                    "Side Lunge with Knee Drive",
+                    "Side Lunge with Calf Raise",
+                    "Side Lunge with Arm Circle"
+                ]
+            }
+        }
+    ]
+}

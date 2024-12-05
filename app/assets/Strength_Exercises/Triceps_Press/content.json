@@ -1,0 +1,70 @@
+{
+    "title": "Triceps Press",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Triceps Press Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by sitting on a bench with your feet flat on the ground and your back straight.",
+                    "Hold a dumbbell in each hand and raise them above your head, keeping your arms straight.",
+                    "Slowly lower the dumbbells behind your head, bending your elbows and keeping your upper arms stationary.",
+                    "Pause for a moment, then raise the dumbbells back up to the starting position.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Triceps Press Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Triceps Press Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the triceps muscles, helping to tone and strengthen them",
+                    "Can be done with dumbbells, barbells, or a cable machine, allowing for variety in equipment and resistance",
+                    "Helps to improve overall upper body strength and stability",
+                    "Can be modified to target different areas of the triceps, such as the long head or lateral head",
+                    "Assists in improving pushing movements, such as push-ups and bench press"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Triceps Press Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Triceps"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Triceps Press Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Triceps Extension",
+                    "Triceps Kickback",
+                    "Close-Grip Bench Press",
+                    "Diamond Push-Up",
+                    "Overhead Triceps Extension"
+                ]
+            }
+        }
+    ]
+}

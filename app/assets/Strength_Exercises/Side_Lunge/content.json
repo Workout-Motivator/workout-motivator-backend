@@ -1,0 +1,77 @@
+{
+    "title": "Side Lunge",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Side Lunge Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet hip-width apart and your hands on your hips.",
+                    "Take a big step to the right with your right foot, keeping your left foot in place.",
+                    "Bend your right knee and push your hips back as you lower your body into a lunge position.",
+                    "Make sure your right knee is directly above your ankle and your left leg is straight.",
+                    "Push off with your right foot and return to the starting position.",
+                    "Repeat on the other side by stepping to the left with your left foot.",
+                    "Complete 10-12 reps on each side for a full set."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Side Lunge Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Side Lunge Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the quadriceps, hamstrings, and glutes",
+                    "Improves hip mobility and flexibility",
+                    "Engages the core muscles for stability and balance",
+                    "Targets the inner and outer thighs for toning and shaping",
+                    "Can be modified for different fitness levels and goals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Side Lunge Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Glutes",
+                    "Adductors",
+                    "Abductors",
+                    "Calves"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Side Lunge Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Curtsy Lunge",
+                    "Reverse Lunge with Lateral Raise",
+                    "Sumo Squat with Side Leg Lift",
+                    "Skater Lunge",
+                    "Side Lunge with Dumbbell Curl"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "title": "Wheel Run",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Wheel Run Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by standing with your feet shoulder-width apart and your arms at your sides.",
+                    "Take a big step forward with your right foot and bend your right knee to a 90-degree angle, keeping your left leg straight behind you.",
+                    "As you lower your body down, reach your left arm forward and your right arm back, as if you are running.",
+                    "Push off your right foot and jump up, switching your legs mid-air so that your left foot is now in front and your right foot is behind you.",
+                    "As you land, lower your body down again into a lunge position, this time with your left knee bent and your right leg straight behind you.",
+                    "As you lower your body down, reach your right arm forward and your left arm back, as if you are running.",
+                    "Repeat this movement, alternating legs and arms with each jump, for the desired number of repetitions or time."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Wheel Run Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Wheel Run Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves cardiovascular endurance",
+                    "Strengthens leg muscles",
+                    "Improves balance and coordination",
+                    "Increases core stability",
+                    "Burns calories and aids in weight loss",
+                    "Low-impact exercise that is easy on joints"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Wheel Run Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Abdominal muscles",
+                    "Oblique muscles",
+                    "Lower back muscles",
+                    "Hip flexor muscles",
+                    "Quadriceps muscles",
+                    "Hamstring muscles",
+                    "Gluteus maximus muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Wheel Run Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Wheel Run with Resistance Bands",
+                    "Single Leg Wheel Run",
+                    "Reverse Wheel Run",
+                    "Side-to-Side Wheel Run",
+                    "Wheel Run with Knee Tucks"
+                ]
+            }
+        }
+    ]
+}

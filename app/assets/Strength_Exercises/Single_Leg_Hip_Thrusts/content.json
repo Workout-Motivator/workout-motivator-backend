@@ -1,0 +1,74 @@
+{
+    "title": "Single Leg Hip Thrusts",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Single Leg Hip Thrusts Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on your back with your knees bent and feet flat on the ground.",
+                    "Extend one leg straight out in front of you, keeping it hovering just above the ground.",
+                    "Place your hands on the ground by your sides for support.",
+                    "Engage your glutes and lift your hips up towards the ceiling, keeping your extended leg straight and in line with your body.",
+                    "Pause at the top of the movement, then slowly lower your hips back down to the ground.",
+                    "Repeat for the desired number of reps, then switch legs and repeat on the other side."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Single Leg Hip Thrusts Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Single Leg Hip Thrusts Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens glutes, hamstrings, and lower back muscles",
+                    "Improves hip stability and balance",
+                    "Helps prevent lower back pain and injury",
+                    "Increases power and explosiveness in lower body movements",
+                    "Can be done with minimal equipment and space"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Single Leg Hip Thrusts Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Glutes",
+                    "Hamstrings",
+                    "Quadriceps",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Single Leg Hip Thrusts Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Weighted Single Leg Hip Thrusts",
+                    "Single Leg Hip Thrusts with Resistance Bands",
+                    "Single Leg Hip Thrusts on a Stability Ball",
+                    "Single Leg Hip Thrusts with a Medicine Ball",
+                    "Single Leg Hip Thrusts with a Barbell"
+                ]
+            }
+        }
+    ]
+}

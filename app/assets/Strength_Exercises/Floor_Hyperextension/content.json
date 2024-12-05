@@ -1,0 +1,72 @@
+{
+    "title": "Floor Hyperextension",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Floor Hyperextension Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Position yourself on a hyperextension bench with your feet securely anchored under the footpads and your upper thighs resting on the padded support.",
+                    "Lower your body down until your torso is parallel to the floor.",
+                    "Slowly raise your torso back up until your body is in a straight line.",
+                    "Hold for a second at the top of the movement, then slowly lower your body back down to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Floor Hyperextension Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Floor Hyperextension Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the muscles in the lower back and glutes",
+                    "Improves posture and spinal alignment",
+                    "Increases stability and balance",
+                    "Can help alleviate lower back pain",
+                    "Can be done anywhere without equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Floor Hyperextension Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Erector spinae",
+                    "Gluteus maximus",
+                    "Hamstrings"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Floor Hyperextension Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Weighted floor hyperextension",
+                    "Single leg floor hyperextension",
+                    "Reverse hyperextension",
+                    "45-degree hyperextension",
+                    "Swiss ball hyperextension"
+                ]
+            }
+        }
+    ]
+}

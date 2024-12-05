@@ -1,0 +1,73 @@
+{
+    "title": "Push Up Medicine Ball",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Push Up Medicine Ball Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start in a plank position with your hands on the medicine ball, shoulder-width apart.",
+                    "Lower your body towards the ball by bending your elbows, keeping your body in a straight line.",
+                    "Push back up to the starting position, using your chest and triceps to lift your body.",
+                    "Roll the medicine ball to your other hand and repeat the push up.",
+                    "Continue alternating sides for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Push Up Medicine Ball Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Push Up Medicine Ball Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens chest, shoulders, triceps, and core muscles",
+                    "Improves upper body endurance and stability",
+                    "Increases range of motion in shoulders",
+                    "Engages multiple muscle groups for a full body workout",
+                    "Can be modified for different fitness levels and goals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Push Up Medicine Ball Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Chest muscles (pectoralis major and minor)",
+                    "Shoulder muscles (deltoids)",
+                    "Triceps",
+                    "Core muscles (abdominals and lower back)"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Push Up Medicine Ball Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Push Up Medicine Ball with one hand",
+                    "Push Up Medicine Ball with alternating hands",
+                    "Push Up Medicine Ball with feet elevated",
+                    "Push Up Medicine Ball with hands on medicine ball",
+                    "Push Up Medicine Ball with clap"
+                ]
+            }
+        }
+    ]
+}

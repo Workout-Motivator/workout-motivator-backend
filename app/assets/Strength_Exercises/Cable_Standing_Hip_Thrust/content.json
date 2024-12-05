@@ -1,0 +1,75 @@
+{
+    "title": "Cable Standing Hip Thrust",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Cable Standing Hip Thrust Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Attach a cable to a low pulley and place a bench perpendicular to the cable.",
+                    "Sit on the bench with your back against it and your feet flat on the ground, hip-width apart.",
+                    "Place the cable between your legs and hold onto the handle with both hands.",
+                    "Lean back slightly and engage your core.",
+                    "Thrust your hips forward, squeezing your glutes at the top of the movement.",
+                    "Slowly lower your hips back down to the starting position.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Cable Standing Hip Thrust Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Cable Standing Hip Thrust Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the rotator cuff muscles",
+                    "Improves shoulder stability",
+                    "Helps prevent shoulder injuries",
+                    "Improves posture",
+                    "Increases range of motion in the shoulder joint"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cable Standing Hip Thrust Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Glutes",
+                    "Hamstrings",
+                    "Quadriceps",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cable Standing Hip Thrust Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "cable standing hip thrust",
+                    "standing cable hip thrust",
+                    "cable hip thrust standing",
+                    "standing hip thrust with cable",
+                    "hip thrust standing with cable"
+                ]
+            }
+        }
+    ]
+}

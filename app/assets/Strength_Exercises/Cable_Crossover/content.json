@@ -1,0 +1,77 @@
+{
+    "title": "Cable Crossover",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Cable Crossover Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand in the center of a cable crossover machine with one foot in front of the other.",
+                    "Grasp the handles of the cables with your palms facing down and your arms extended out to the sides.",
+                    "Bring your hands together in front of your chest, crossing the cables over each other.",
+                    "Slowly release the cables back to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Cable Crossover Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Cable Crossover Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the chest muscles from different angles, leading to better muscle activation and growth",
+                    "Improves upper body strength and power",
+                    "Increases range of motion in the shoulder joint",
+                    "Helps to correct muscle imbalances in the chest and shoulders",
+                    "Can be easily modified to target specific areas of the chest, such as the upper or lower portions"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cable Crossover Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Pectoralis major (upper and lower fibers)",
+                    "Anterior deltoids",
+                    "Triceps brachii"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cable Crossover Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single-arm cable crossover",
+                    "Low-to-high cable crossover",
+                    "High-to-low cable crossover",
+                    "Reverse-grip cable crossover",
+                    "Standing cable crossover",
+                    "Seated cable crossover",
+                    "Decline cable crossover",
+                    "Incline cable crossover",
+                    "Wide-grip cable crossover",
+                    "Narrow-grip cable crossover"
+                ]
+            }
+        }
+    ]
+}

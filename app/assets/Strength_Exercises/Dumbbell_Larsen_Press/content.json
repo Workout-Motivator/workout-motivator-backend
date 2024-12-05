@@ -1,0 +1,74 @@
+{
+    "title": "Dumbbell Larsen Press",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Larsen Press Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by sitting on a bench with a dumbbell in each hand.",
+                    "Bring the dumbbells up to shoulder height, with your palms facing each other.",
+                    "Slowly lower the dumbbells down to your sides, keeping your elbows tucked in and your palms facing forward.",
+                    "Pause for a moment at the bottom of the movement, then press the dumbbells back up to shoulder height.",
+                    "As you press the dumbbells up, rotate your wrists so that your palms are facing each other again.",
+                    "Repeat the movement for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Larsen Press Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Larsen Press Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens leg muscles, including quadriceps, hamstrings, and glutes",
+                    "Improves balance and stability",
+                    "Increases cardiovascular endurance",
+                    "Targets the core muscles for added stability and strength",
+                    "Can be modified for different fitness levels and goals",
+                    "Can be done with minimal equipment and space"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Larsen Press Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Triceps",
+                    "Shoulders",
+                    "Chest"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Larsen Press Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "barbell-larsen-press",
+                    "dumbbell-incline-press",
+                    "single-arm-dumbbell-press",
+                    "machine-larsen-press",
+                    "resistance-band-larsen-press"
+                ]
+            }
+        }
+    ]
+}

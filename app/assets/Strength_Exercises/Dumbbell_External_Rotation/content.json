@@ -1,0 +1,76 @@
+{
+    "title": "Dumbbell External Rotation",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell External Rotation Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a dumbbell in one hand.",
+                    "Bend your elbow to a 90-degree angle and keep it close to your body.",
+                    "Rotate your arm outward, away from your body, until your forearm is parallel to the ground.",
+                    "Hold for a moment, then slowly lower your arm back to the starting position.",
+                    "Repeat for the desired number of repetitions, then switch arms and repeat."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell External Rotation Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell External Rotation Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the rotator cuff muscles, which helps to stabilize the shoulder joint",
+                    "Improves shoulder mobility and flexibility",
+                    "Helps to prevent shoulder injuries",
+                    "Can be done with light weights and is suitable for beginners",
+                    "Can be easily modified to target different areas of the rotator cuff"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell External Rotation Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rotator Cuff Muscles (Supraspinatus, Infraspinatus, Teres Minor)",
+                    "Deltoid (Posterior)",
+                    "Triceps Brachii (Long Head)"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell External Rotation Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Internal Rotation",
+                    "Cable External Rotation",
+                    "Cable Internal Rotation",
+                    "Resistance Band External Rotation",
+                    "Resistance Band Internal Rotation",
+                    "Plate External Rotation",
+                    "Plate Internal Rotation",
+                    "Barbell External Rotation",
+                    "Barbell Internal Rotation"
+                ]
+            }
+        }
+    ]
+}

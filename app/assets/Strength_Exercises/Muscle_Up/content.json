@@ -1,0 +1,80 @@
+{
+    "title": "Muscle Up",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Muscle Up Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by hanging from a pull-up bar with your palms facing away from you and your arms fully extended.",
+                    "Engage your shoulder blades and pull yourself up towards the bar, keeping your elbows close to your body.",
+                    "As you reach the top of the pull-up, begin to transition your body by pushing your chest forward and pulling your hips up towards the bar.",
+                    "As you continue to push and pull, your body will eventually pass over the bar and you will be in the top position of the muscle up.",
+                    "To complete the exercise, lower yourself back down to the starting position with control."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Muscle Up Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Muscle Up Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Develops upper body strength and power",
+                    "Improves grip strength and forearm endurance",
+                    "Engages multiple muscle groups including chest, back, shoulders, triceps, and biceps",
+                    "Improves coordination and body control",
+                    "Challenges the core muscles for stability and balance",
+                    "Can be modified for different fitness levels and goals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Muscle Up Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Chest",
+                    "Triceps",
+                    "Shoulders",
+                    "Back",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Muscle Up Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strict Muscle Up",
+                    "Kipping Muscle Up",
+                    "Ring Muscle Up",
+                    "Bar Muscle Up",
+                    "False Grip Muscle Up",
+                    "Weighted Muscle Up",
+                    "Slow Muscle Up",
+                    "Explosive Muscle Up",
+                    "Strict Chest-to-Bar Muscle Up",
+                    "Kipping Chest-to-Bar Muscle Up"
+                ]
+            }
+        }
+    ]
+}

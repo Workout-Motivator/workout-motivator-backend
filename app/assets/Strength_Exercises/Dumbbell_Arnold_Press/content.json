@@ -1,0 +1,73 @@
+{
+    "title": "Dumbbell Arnold Press",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Arnold Press Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a dumbbell in each hand at shoulder height with your palms facing your body.",
+                    "Rotate your palms so they are facing forward.",
+                    "As you press the dumbbells overhead, rotate your palms so they are facing away from your body.",
+                    "Lower the dumbbells back to shoulder height while rotating your palms back to the starting position.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Arnold Press Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Arnold Press Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets multiple muscle groups including the shoulders, chest, and triceps",
+                    "Improves shoulder mobility and stability",
+                    "Increases upper body strength and muscle definition",
+                    "Can be modified for different fitness levels by adjusting weight and reps",
+                    "Engages the core muscles for added stability and balance"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Arnold Press Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Deltoids (shoulders)",
+                    "Triceps (back of upper arm)",
+                    "Trapezius (upper back)",
+                    "Rotator cuff muscles (shoulder stabilizers)"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Arnold Press Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Shoulder Press",
+                    "Barbell Arnold Press",
+                    "Seated Arnold Press",
+                    "Single Arm Arnold Press",
+                    "Resistance Band Arnold Press"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "title": "Bodyweight Rear Lunge",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Bodyweight Rear Lunge Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet hip-width apart and your hands on your hips.",
+                    "Step your right foot back and lower your body until your left knee is bent at a 90-degree angle.",
+                    "Make sure your left knee is directly above your left ankle and your right knee is hovering just above the ground.",
+                    "Push through your left heel to stand back up to the starting position.",
+                    "Repeat on the other side by stepping your left foot back.",
+                    "Complete 10-12 reps on each leg for 3 sets."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Bodyweight Rear Lunge Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Bodyweight Rear Lunge Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the quadriceps, hamstrings, and glutes",
+                    "Improves balance and stability",
+                    "Engages the core muscles",
+                    "Increases flexibility in the hip flexors and ankles",
+                    "Can be done anywhere without equipment",
+                    "Can be modified to increase or decrease difficulty"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Bodyweight Rear Lunge Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Bodyweight Rear Lunge Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Bodyweight Forward Lunge",
+                    "Weighted Rear Lunge",
+                    "Jumping Rear Lunge",
+                    "Curtsy Lunge",
+                    "Walking Lunge"
+                ]
+            }
+        }
+    ]
+}

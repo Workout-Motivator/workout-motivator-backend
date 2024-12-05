@@ -1,0 +1,78 @@
+{
+    "title": "Butt Ups",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Butt Ups Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying flat on your back with your arms extended above your head and your legs straight out in front of you.",
+                    "Engage your core muscles and lift your legs up towards the ceiling, keeping them straight and together.",
+                    "At the same time, lift your upper body off the ground and reach your arms towards your toes.",
+                    "Pause at the top of the movement, then slowly lower your legs and upper body back down to the starting position.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Butt Ups Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Butt Ups Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the glutes and hamstrings",
+                    "Improves hip mobility and stability",
+                    "Helps to prevent lower back pain",
+                    "Can be done with minimal equipment",
+                    "Targets the muscles used in running, jumping, and other athletic movements"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Butt Ups Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Glutes",
+                    "Hamstrings",
+                    "Lower back",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Butt Ups Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Butt kicks",
+                    "Reverse crunches",
+                    "Leg raises",
+                    "Plank hip dips",
+                    "Mountain climbers",
+                    "Flutter kicks",
+                    "Bicycle crunches",
+                    "Russian twists",
+                    "Side plank dips",
+                    "Scissor kicks"
+                ]
+            }
+        }
+    ]
+}

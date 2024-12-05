@@ -1,0 +1,74 @@
+{
+    "title": "Chin to Chest Stretch",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Chin to Chest Stretch Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand or sit with your back straight and shoulders relaxed.",
+                    "Slowly lower your chin towards your chest, keeping your back straight and shoulders relaxed.",
+                    "You should feel a stretch in the back of your neck and upper back.",
+                    "Hold the stretch for 15-30 seconds.",
+                    "Gently lift your head back up to the starting position.",
+                    "Repeat the stretch 2-3 times."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Chin to Chest Stretch Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Chin to Chest Stretch Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Relieves tension in the neck and upper back muscles",
+                    "Improves flexibility in the neck and spine",
+                    "Reduces headaches and neck pain",
+                    "Helps improve posture",
+                    "Can be done anywhere, anytime, without any equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Chin to Chest Stretch Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Neck flexors",
+                    "Trapezius",
+                    "Splenius capitis",
+                    "Semispinalis capitis"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Chin to Chest Stretch Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Chin to chest stretch with rotation",
+                    "Chin to chest stretch with shoulder rolls",
+                    "Chin to chest stretch with arm reach",
+                    "Chin to chest stretch with neck circles",
+                    "Chin to chest stretch with seated twist"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "title": "Strongman Log Lift",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Strongman Log Lift Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand in front of the StrongMan Log with feet shoulder-width apart.",
+                    "Bend down and grip the handles of the log with an overhand grip.",
+                    "Engage your core and lift the log off the ground, keeping your back straight.",
+                    "As you lift the log, use your legs to drive the weight up and overhead.",
+                    "Once the log is overhead, hold it for a few seconds before lowering it back down to the ground.",
+                    "Repeat for desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Strongman Log Lift Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Strongman Log Lift Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Increases upper body strength and power",
+                    "Improves grip strength and forearm endurance",
+                    "Engages multiple muscle groups including shoulders, back, and core",
+                    "Improves overall functional fitness and athleticism",
+                    "Can be modified for different fitness levels and goals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Strongman Log Lift Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Glutes",
+                    "Lower back",
+                    "Upper back",
+                    "Shoulders",
+                    "Forearms",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Strongman Log Lift Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single-arm StrongMan Log Lift",
+                    "StrongMan Log Clean and Press",
+                    "StrongMan Log Deadlift",
+                    "StrongMan Log Squat",
+                    "StrongMan Log Carry"
+                ]
+            }
+        }
+    ]
+}

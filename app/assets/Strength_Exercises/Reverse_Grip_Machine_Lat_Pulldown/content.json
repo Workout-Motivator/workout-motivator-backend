@@ -1,0 +1,85 @@
+{
+    "title": "Reverse Grip Machine Lat Pulldown",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Reverse Grip Machine Lat Pulldown Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Adjust the seat height so that your feet are flat on the ground and your knees are at a 90-degree angle.",
+                    "Select the appropriate weight on the weight stack.",
+                    "Sit facing the machine with your knees under the pads and your hands on the handles with an underhand grip.",
+                    "Engage your core and keep your chest up as you pull the handles down towards your chest.",
+                    "Squeeze your shoulder blades together at the bottom of the movement.",
+                    "Slowly release the handles back up to the starting position.",
+                    "Repeat for desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Reverse Grip Machine Lat Pulldown Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Reverse Grip Machine Lat Pulldown Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the latissimus dorsi muscles, which are responsible for pulling the arms down and back towards the body.",
+                    "Also works the biceps and forearms as secondary muscles.",
+                    "Helps to improve posture and upper body strength.",
+                    "Allows for a greater range of motion compared to traditional lat pulldowns.",
+                    "Reduces strain on the wrists and elbows due to the reverse grip position."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Reverse Grip Machine Lat Pulldown Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Biceps brachii",
+                    "Brachialis",
+                    "Brachioradialis",
+                    "Trapezius",
+                    "Rhomboids",
+                    "Latissimus dorsi"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Reverse Grip Machine Lat Pulldown Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Wide grip machine lat pulldown",
+                    "Narrow grip machine lat pulldown",
+                    "Close grip machine lat pulldown",
+                    "Assisted machine lat pulldown",
+                    "One-arm machine lat pulldown",
+                    "Cable lat pulldown",
+                    "Barbell bent-over row",
+                    "Dumbbell bent-over row",
+                    "T-bar row",
+                    "Seated cable row",
+                    "One-arm dumbbell row",
+                    "Chin-up",
+                    "Pull-up"
+                ]
+            }
+        }
+    ]
+}

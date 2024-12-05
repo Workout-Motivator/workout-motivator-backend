@@ -1,0 +1,74 @@
+{
+    "title": "Kneeling Hip Flexor",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Kneeling Hip Flexor Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by kneeling on the ground with one knee on the floor and the other foot in front of you, with the knee bent at a 90-degree angle.",
+                    "Engage your core and glutes to maintain a stable position.",
+                    "Slowly shift your weight forward, keeping your back straight, until you feel a stretch in the hip flexor of the kneeling leg.",
+                    "Hold the stretch for 15-30 seconds, then release and switch legs.",
+                    "Repeat for 2-3 sets on each leg."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Kneeling Hip Flexor Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Kneeling Hip Flexor Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves hip flexibility and mobility",
+                    "Stretches the hip flexor muscles",
+                    "Reduces lower back pain",
+                    "Improves posture and balance",
+                    "Increases range of motion in the hips",
+                    "Can help prevent hip and knee injuries"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Kneeling Hip Flexor Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus femoris",
+                    "Iliopsoas",
+                    "Sartorius",
+                    "Pectineus"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Kneeling Hip Flexor Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Standing Hip Flexor Stretch",
+                    "Lunges",
+                    "Runner’s Lunge",
+                    "Seated Butterfly Stretch",
+                    "Supine Hamstring Stretch"
+                ]
+            }
+        }
+    ]
+}

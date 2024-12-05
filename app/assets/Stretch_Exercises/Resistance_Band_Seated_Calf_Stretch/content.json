@@ -1,0 +1,71 @@
+{
+    "title": "Resistance Band Seated Calf Stretch",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Resistance Band Seated Calf Stretch Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Begin by sitting on the floor with your legs straight out in front of you.",
+                    "Loop a resistance band around the ball of your foot and hold onto the ends of the band with both hands.",
+                    "Slowly flex your foot back towards your body, using the resistance band to gently pull your foot towards you.",
+                    "Hold the stretch for 15-30 seconds, feeling the stretch in your calf muscle.",
+                    "Release the stretch and repeat on the other leg."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Resistance Band Seated Calf Stretch Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Resistance Band Seated Calf Stretch Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the shoulder muscles",
+                    "Improves shoulder stability",
+                    "Helps prevent shoulder injuries",
+                    "Can improve posture",
+                    "Can improve overall upper body strength"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Resistance Band Seated Calf Stretch Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Gastrocnemius",
+                    "Soleus"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Resistance Band Seated Calf Stretch Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Resistance band standing calf stretch",
+                    "Resistance band donkey calf raise",
+                    "Resistance band calf raise",
+                    "Resistance band seated toe raise",
+                    "Resistance band ankle inversion and eversion"
+                ]
+            }
+        }
+    ]
+}

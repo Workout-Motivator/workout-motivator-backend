@@ -1,0 +1,76 @@
+{
+    "title": "Above Head Chest Stretch",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Above Head Chest Stretch Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your arms at your sides.",
+                    "Reach both arms up and interlace your fingers with your palms facing up.",
+                    "Take a deep breath in and lift your arms up and over your head, keeping your palms facing up.",
+                    "As you exhale, gently lean your upper body to the right, feeling a stretch in your left side.",
+                    "Hold the stretch for 10-15 seconds, then inhale and return to center.",
+                    "Exhale and lean your upper body to the left, feeling a stretch in your right side.",
+                    "Hold the stretch for 10-15 seconds, then inhale and return to center.",
+                    "Repeat the stretch 2-3 times on each side."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Above Head Chest Stretch Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Above Head Chest Stretch Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Relieves tension in the chest and shoulders",
+                    "Improves posture by opening up the chest",
+                    "Increases flexibility in the shoulders and upper back",
+                    "Can help alleviate upper back pain",
+                    "May improve breathing by expanding the chest and lungs"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Above Head Chest Stretch Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Pectoralis Major",
+                    "Pectoralis Minor",
+                    "Deltoids",
+                    "Triceps"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Above Head Chest Stretch Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Behind the back chest stretch",
+                    "Wall chest stretch",
+                    "Doorway chest stretch",
+                    "Seated chest stretch",
+                    "Standing chest stretch with arm rotation"
+                ]
+            }
+        }
+    ]
+}

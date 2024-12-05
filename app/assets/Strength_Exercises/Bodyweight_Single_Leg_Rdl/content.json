@@ -1,0 +1,74 @@
+{
+    "title": "Bodyweight Single Leg Rdl",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Bodyweight Single Leg Rdl Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet hip-width apart and your weight evenly distributed between both feet.",
+                    "Lift one foot off the ground and balance on the other foot.",
+                    "Engage your core and keep your back straight as you hinge forward at the hips, extending your lifted leg behind you.",
+                    "Lower your torso until it is parallel to the ground, keeping your lifted leg in line with your torso.",
+                    "Pause for a moment, then use your glutes and hamstrings to lift your torso back up to the starting position.",
+                    "Repeat for the desired number of reps, then switch legs and repeat on the other side."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Bodyweight Single Leg Rdl Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Bodyweight Single Leg Rdl Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves balance and stability",
+                    "Strengthens the hamstrings, glutes, and lower back",
+                    "Helps prevent injury by improving hip and ankle mobility",
+                    "Increases core strength and stability",
+                    "Can be done anywhere without equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Bodyweight Single Leg Rdl Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Hamstrings",
+                    "Glutes",
+                    "Lower back",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Bodyweight Single Leg Rdl Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Bodyweight Single Leg RDL with Dumbbell",
+                    "Bodyweight Single Leg RDL with Kettlebell",
+                    "Bodyweight Single Leg RDL with Resistance Band",
+                    "Bodyweight Single Leg RDL with Barbell",
+                    "Bodyweight Single Leg RDL with Medicine Ball"
+                ]
+            }
+        }
+    ]
+}

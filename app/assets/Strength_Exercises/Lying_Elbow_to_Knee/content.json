@@ -1,0 +1,77 @@
+{
+    "title": "Lying Elbow to Knee",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Lying Elbow to Knee Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying flat on your back with your arms extended above your head.",
+                    "Bend your left knee and bring it towards your chest.",
+                    "At the same time, lift your head and shoulders off the ground and bring your right elbow towards your left knee.",
+                    "Hold this position for a few seconds, then return to the starting position.",
+                    "Repeat on the other side, bringing your left elbow towards your right knee while lifting your head and shoulders off the ground.",
+                    "Continue alternating sides for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Lying Elbow to Knee Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Lying Elbow to Knee Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens glute muscles",
+                    "Improves hip stability",
+                    "Helps prevent lower back pain",
+                    "Can improve posture",
+                    "Can be done anywhere without equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Lying Elbow to Knee Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus abdominis",
+                    "Obliques",
+                    "Hip flexors"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Lying Elbow to Knee Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "lying elbow-to-knee with twist",
+                    "standing elbow-to-knee",
+                    "seated elbow-to-knee",
+                    "plank elbow-to-knee",
+                    "side plank elbow-to-knee",
+                    "reverse plank elbow-to-knee",
+                    "lying bicycle crunches",
+                    "standing bicycle crunches",
+                    "seated bicycle crunches"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "title": "Front Plank With Arm Lift",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Front Plank With Arm Lift Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start in a plank position with your forearms on the ground and your elbows directly under your shoulders.",
+                    "Engage your core and lift one arm off the ground, extending it straight out in front of you.",
+                    "Hold for a few seconds, then lower the arm back down to the ground.",
+                    "Repeat with the other arm.",
+                    "Continue alternating arms for the desired number of repetitions or time."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Front Plank With Arm Lift Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Front Plank With Arm Lift Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens core muscles",
+                    "Improves balance and stability",
+                    "Targets glutes, hamstrings, and lower back muscles",
+                    "Increases overall body strength",
+                    "Improves posture",
+                    "Can help prevent lower back pain",
+                    "Can be modified for different fitness levels"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Front Plank With Arm Lift Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus abdominis",
+                    "Transverse abdominis",
+                    "Erector spinae",
+                    "Gluteus maximus",
+                    "Shoulder stabilizers"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Front Plank With Arm Lift Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Front plank with leg lift",
+                    "Side plank with arm reach",
+                    "Reverse plank with leg lift",
+                    "Plank with shoulder taps",
+                    "Plank with knee-to-elbow twist"
+                ]
+            }
+        }
+    ]
+}

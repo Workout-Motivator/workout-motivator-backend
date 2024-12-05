@@ -1,0 +1,80 @@
+{
+    "title": "Trap Bar Deadlift",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Trap Bar Deadlift Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand in the center of the trap bar with your feet shoulder-width apart.",
+                    "Bend down and grip the handles of the trap bar with your palms facing your body.",
+                    "Engage your core and lift the trap bar by standing up straight, keeping your back straight and your shoulders back.",
+                    "Lower the trap bar back down to the ground by bending at the hips and knees, keeping your back straight.",
+                    "Repeat for desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Trap Bar Deadlift Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Trap Bar Deadlift Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets multiple muscle groups including the glutes, hamstrings, quads, and back",
+                    "Allows for a more upright posture compared to traditional deadlifts, reducing strain on the lower back",
+                    "Can be easier to learn and perform for beginners compared to traditional deadlifts",
+                    "Increases overall strength and power in the lower body",
+                    "Improves grip strength and forearm development",
+                    "Can be modified for different fitness levels and goals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Trap Bar Deadlift Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Trapezius",
+                    "Erector Spinae",
+                    "Glutes",
+                    "Hamstrings",
+                    "Quadriceps",
+                    "Calves"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Trap Bar Deadlift Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Sumo Deadlift",
+                    "Conventional Deadlift",
+                    "Romanian Deadlift",
+                    "Single-Leg Deadlift",
+                    "Stiff-Leg Deadlift",
+                    "Deficit Deadlift",
+                    "Snatch Grip Deadlift",
+                    "Block Pull Deadlift",
+                    "Paused Deadlift"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "title": "Barbell Good Morning",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Barbell Good Morning Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by standing with your feet shoulder-width apart and your toes pointing forward.",
+                    "Place the barbell on your shoulders behind your neck, gripping it with both hands.",
+                    "Engage your core and keep your back straight as you hinge forward at the hips, pushing your buttocks back.",
+                    "Lower your torso until it is parallel to the ground, keeping your knees slightly bent.",
+                    "Pause for a moment, then slowly return to the starting position by pushing your hips forward and standing up straight.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Barbell Good Morning Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Barbell Good Morning Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the lower back muscles",
+                    "Improves hip mobility and flexibility",
+                    "Targets the hamstrings and glutes",
+                    "Helps to improve posture and spinal alignment",
+                    "Can be used as a warm-up exercise for deadlifts and squats"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Barbell Good Morning Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Erector Spinae",
+                    "Glutes",
+                    "Hamstrings",
+                    "Abdominals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Barbell Good Morning Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Good Morning",
+                    "Kettlebell Good Morning",
+                    "Single-leg Good Morning",
+                    "Seated Good Morning",
+                    "Band-resisted Good Morning"
+                ]
+            }
+        }
+    ]
+}

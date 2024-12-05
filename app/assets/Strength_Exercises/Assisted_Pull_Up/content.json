@@ -1,0 +1,74 @@
+{
+    "title": "Assisted Pull Up",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Assisted Pull Up Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand facing the pull-up bar with your feet shoulder-width apart.",
+                    "Reach up and grasp the bar with an overhand grip, hands slightly wider than shoulder-width apart.",
+                    "Jump up and hold yourself in the top position of a pull-up, with your chin above the bar and your elbows bent.",
+                    "Slowly lower yourself down to the starting position, keeping your arms straight.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Assisted Pull Up Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Assisted Pull Up Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Builds upper body strength, particularly in the back, shoulders, and arms",
+                    "Improves grip strength",
+                    "Assists in developing proper form and technique for unassisted pull ups",
+                    "Allows individuals who may not have the strength to do unassisted pull ups to still work on the same muscle groups",
+                    "Can be adjusted to different levels of assistance, making it accessible for a wide range of fitness levels"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Assisted Pull Up Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Latissimus dorsi",
+                    "Trapezius",
+                    "Rhomboids",
+                    "Biceps",
+                    "Forearms"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Assisted Pull Up Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Band assisted pull up",
+                    "Machine assisted pull up",
+                    "Partner assisted pull up",
+                    "Negative pull up",
+                    "Weighted assisted pull up"
+                ]
+            }
+        }
+    ]
+}

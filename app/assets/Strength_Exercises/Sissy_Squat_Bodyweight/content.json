@@ -1,0 +1,75 @@
+{
+    "title": "Sissy Squat Bodyweight",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Sissy Squat Bodyweight Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your arms extended in front of you.",
+                    "Shift your weight onto your toes and lift your heels off the ground.",
+                    "Slowly lower your body down by bending your knees and keeping your back straight.",
+                    "Continue lowering your body until your thighs are parallel to the ground.",
+                    "Pause for a moment, then push through your toes to lift your body back up to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Sissy Squat Bodyweight Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Sissy Squat Bodyweight Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens quadriceps muscles",
+                    "Improves knee stability and mobility",
+                    "Increases lower body endurance",
+                    "Can be done without equipment",
+                    "Targets the rectus femoris muscle, which is often neglected in traditional squat exercises"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Sissy Squat Bodyweight Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Sissy Squat Bodyweight Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Sissy Squat with Dumbbells",
+                    "Sissy Squat with Resistance Bands",
+                    "Weighted Sissy Squat",
+                    "Single Leg Sissy Squat",
+                    "Assisted Sissy Squat"
+                ]
+            }
+        }
+    ]
+}

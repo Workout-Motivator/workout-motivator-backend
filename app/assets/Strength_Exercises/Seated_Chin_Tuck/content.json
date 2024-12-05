@@ -1,0 +1,76 @@
+{
+    "title": "Seated Chin Tuck",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Seated Chin Tuck Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Sit up straight in a chair with your feet flat on the ground.",
+                    "Place your hands on your thighs.",
+                    "Gently tuck your chin towards your chest, keeping your head level.",
+                    "Hold the position for 5-10 seconds.",
+                    "Release and repeat for 10-15 repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Seated Chin Tuck Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Seated Chin Tuck Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves posture by strengthening the neck and upper back muscles",
+                    "Reduces neck and shoulder pain by relieving tension in those areas",
+                    "Helps prevent headaches caused by poor posture",
+                    "Improves breathing by opening up the chest and allowing for better lung expansion",
+                    "Can be done anywhere, anytime, without any equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Seated Chin Tuck Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Cervical flexors",
+                    "Trapezius",
+                    "Rhomboids",
+                    "Erector spinae"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Seated Chin Tuck Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Standing Chin Tuck",
+                    "Supine Chin Tuck",
+                    "Prone Chin Tuck",
+                    "Wall Chin Tuck",
+                    "Chin Tuck with Resistance Band",
+                    "Chin Tuck with Towel",
+                    "Chin Tuck with Foam Roller",
+                    "Chin Tuck with Tennis Ball"
+                ]
+            }
+        }
+    ]
+}

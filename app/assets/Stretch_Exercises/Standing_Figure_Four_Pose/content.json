@@ -1,0 +1,79 @@
+{
+    "title": "Standing Figure Four Pose",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Standing Figure Four Pose Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Begin by standing with your feet hip-width apart and your arms at your sides.",
+                    "Lift your right foot off the ground and cross it over your left thigh, placing your right ankle on top of your left knee.",
+                    "Bend your left knee and lower your hips down towards the ground, keeping your back straight and your chest lifted.",
+                    "Place your hands on your hips or bring them together in front of your heart.",
+                    "Hold the pose for 5-10 breaths, then release and repeat on the other side."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Standing Figure Four Pose Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Standing Figure Four Pose Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Stretches the hamstrings, calves, and hips",
+                    "Relieves tension in the spine and neck",
+                    "Calms the mind and reduces stress",
+                    "Improves digestion and relieves constipation",
+                    "Stimulates the liver and kidneys",
+                    "Can help alleviate symptoms of menopause",
+                    "May reduce anxiety and depression"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Standing Figure Four Pose Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Glutes",
+                    "Hamstrings",
+                    "Quadriceps",
+                    "Calves"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Standing Figure Four Pose Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Seated Figure Four Pose",
+                    "Supine Figure Four Pose",
+                    "Reclined Figure Four Pose",
+                    "Thread the Needle Pose",
+                    "Half Pigeon Pose",
+                    "Double Pigeon Pose",
+                    "Fire Log Pose",
+                    "Bound Angle Pose",
+                    "Happy Baby Pose"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "title": "Landmine 180",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Landmine 180 Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by standing with your feet shoulder-width apart and placing a barbell with weight plates on the ground to your right side.",
+                    "Grab the end of the barbell with both hands and lift it up to your chest, keeping your arms straight.",
+                    "Rotate your torso to the left, pivoting on your right foot, and lower the barbell towards the ground on your left side.",
+                    "As you reach the bottom of the movement, your arms should be fully extended and the barbell should be touching the ground.",
+                    "Reverse the movement by rotating your torso to the right, pivoting on your left foot, and lifting the barbell back up to your chest.",
+                    "Repeat the movement for the desired number of repetitions, then switch sides and perform the exercise on your left side."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Landmine 180 Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Landmine 180 Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets multiple muscle groups including the shoulders, core, and legs",
+                    "Improves rotational power and stability",
+                    "Can be modified for different fitness levels and abilities",
+                    "Requires minimal equipment and space",
+                    "Can be incorporated into a full body workout routine"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Landmine 180 Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Obliques",
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Shoulders",
+                    "Triceps",
+                    "Forearms"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Landmine 180 Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Landmine 90",
+                    "Landmine 270",
+                    "Landmine 360",
+                    "Landmine 540"
+                ]
+            }
+        }
+    ]
+}

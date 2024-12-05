@@ -1,0 +1,77 @@
+{
+    "title": "Isometric Chest Squeeze",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Isometric Chest Squeeze Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand or sit with good posture, keeping your back straight and shoulders relaxed.",
+                    "Bring your hands together in front of your chest, with your palms facing each other.",
+                    "Press your palms together as hard as you can, engaging your chest muscles.",
+                    "Hold the squeeze for 5-10 seconds, focusing on keeping your chest muscles engaged.",
+                    "Release the squeeze and rest for a few seconds before repeating the exercise.",
+                    "Repeat the exercise for 3-4 sets of 10-15 repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Isometric Chest Squeeze Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Isometric Chest Squeeze Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the chest muscles",
+                    "Improves posture",
+                    "Helps prevent shoulder injuries",
+                    "Can be done anywhere without equipment",
+                    "Can be modified for different fitness levels"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Isometric Chest Squeeze Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Pectoralis major",
+                    "Pectoralis minor",
+                    "Serratus anterior",
+                    "Anterior deltoids"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Isometric Chest Squeeze Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Isometric Shoulder Squeeze",
+                    "Isometric Bicep Curl",
+                    "Isometric Tricep Extension",
+                    "Isometric Squat",
+                    "Isometric Plank",
+                    "Isometric Wall Sit",
+                    "Isometric Calf Raise",
+                    "Isometric Glute Bridge"
+                ]
+            }
+        }
+    ]
+}

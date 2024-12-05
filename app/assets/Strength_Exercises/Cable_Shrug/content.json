@@ -1,0 +1,71 @@
+{
+    "title": "Cable Shrug",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Cable Shrug Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a cable in each hand with an overhand grip.",
+                    "Bring your shoulders up towards your ears, squeezing your traps at the top of the movement.",
+                    "Hold for a second, then slowly lower your shoulders back down to the starting position.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Cable Shrug Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Cable Shrug Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the trapezius muscles in the upper back and shoulders",
+                    "Improves posture and shoulder stability",
+                    "Can be done with heavy weights to increase strength and muscle mass",
+                    "Allows for a greater range of motion compared to traditional barbell shrugs",
+                    "Can be easily modified for different fitness levels and abilities"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cable Shrug Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Trapezius",
+                    "Rhomboids",
+                    "Levator Scapulae"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cable Shrug Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Barbell Shrug",
+                    "Dumbbell Shrug",
+                    "Kettlebell Shrug",
+                    "Trap Bar Shrug",
+                    "Smith Machine Shrug"
+                ]
+            }
+        }
+    ]
+}

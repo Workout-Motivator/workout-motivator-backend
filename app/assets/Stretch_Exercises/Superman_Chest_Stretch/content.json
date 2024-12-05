@@ -1,0 +1,74 @@
+{
+    "title": "Superman Chest Stretch",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Superman Chest Stretch Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your arms at your sides.",
+                    "Bring your arms behind your back and clasp your hands together.",
+                    "Slowly lift your arms up and away from your body, keeping them straight.",
+                    "Hold the stretch for 10-15 seconds, feeling the stretch in your chest and shoulders.",
+                    "Release the stretch and repeat as desired."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Superman Chest Stretch Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Superman Chest Stretch Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves posture by opening up the chest and shoulders",
+                    "Relieves tension and tightness in the chest and upper back muscles",
+                    "Increases flexibility and range of motion in the shoulders",
+                    "Helps to prevent shoulder and neck injuries",
+                    "Can be done anywhere without any equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Superman Chest Stretch Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rhomboids",
+                    "Trapezius",
+                    "Pectoralis Major",
+                    "Erector Spinae",
+                    "Latissimus Dorsi"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Superman Chest Stretch Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Superman Lat Pull",
+                    "Superman Push-Up",
+                    "Superman Plank",
+                    "Superman Back Extension",
+                    "Superman Squat"
+                ]
+            }
+        }
+    ]
+}

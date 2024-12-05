@@ -1,0 +1,74 @@
+{
+    "title": "Barbell Standing Calf Raise",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Barbell Standing Calf Raise Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Place a barbell on the back of your shoulders, standing with your feet shoulder-width apart.",
+                    "Slowly raise your heels off the ground, standing on your toes.",
+                    "Hold the position for a few seconds, then lower your heels back down to the ground.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Barbell Standing Calf Raise Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Barbell Standing Calf Raise Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens and tones the calf muscles",
+                    "Improves ankle stability and balance",
+                    "Increases ankle mobility and flexibility",
+                    "Can help prevent injuries such as ankle sprains and Achilles tendonitis",
+                    "Can be easily modified by adjusting the weight or using a step or platform for added range of motion"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Barbell Standing Calf Raise Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Gastrocnemius",
+                    "Soleus"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Barbell Standing Calf Raise Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single Leg Barbell Standing Calf Raise",
+                    "Seated Calf Raise",
+                    "Donkey Calf Raise",
+                    "Smith Machine Standing Calf Raise",
+                    "Dumbbell Standing Calf Raise",
+                    "Leg Press Calf Raise",
+                    "Standing Calf Raise on a Step",
+                    "Toe Press on Leg Press Machine",
+                    "Standing Calf Raise with Resistance Band"
+                ]
+            }
+        }
+    ]
+}

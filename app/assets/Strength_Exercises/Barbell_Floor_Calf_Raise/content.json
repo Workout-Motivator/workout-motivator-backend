@@ -1,0 +1,72 @@
+{
+    "title": "Barbell Floor Calf Raise",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Barbell Floor Calf Raise Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Place a barbell on the floor in front of you.",
+                    "Stand with the balls of your feet on the barbell, with your heels hanging off the edge.",
+                    "Hold onto a stable object for balance, such as a wall or a weight rack.",
+                    "Raise your heels as high as possible, contracting your calf muscles.",
+                    "Lower your heels back down to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Barbell Floor Calf Raise Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Barbell Floor Calf Raise Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the calf muscles",
+                    "Improves ankle stability and balance",
+                    "Targets the soleus muscle, which is often neglected in other calf exercises",
+                    "Can be done with heavy weights to increase muscle mass and power",
+                    "Can be done at home with a barbell and weight plates"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Barbell Floor Calf Raise Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Gastrocnemius",
+                    "Soleus"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Barbell Floor Calf Raise Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single Leg Barbell Floor Calf Raise",
+                    "Seated Barbell Calf Raise",
+                    "Standing Barbell Calf Raise",
+                    "Donkey Calf Raise with Barbell",
+                    "Smith Machine Calf Raise"
+                ]
+            }
+        }
+    ]
+}

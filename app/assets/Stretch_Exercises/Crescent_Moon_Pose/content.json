@@ -1,0 +1,79 @@
+{
+    "title": "Crescent Moon Pose",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Crescent Moon Pose Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet hip-width apart and your arms at your sides.",
+                    "Take a deep breath in and raise your arms overhead, stretching your fingers towards the ceiling.",
+                    "Exhale and bend your torso to the right, keeping your arms straight and your left hand reaching towards the floor.",
+                    "Hold the stretch for a few breaths, feeling the stretch in your left side body.",
+                    "Inhale and come back to center, reaching your arms overhead again.",
+                    "Exhale and bend your torso to the left, keeping your arms straight and your right hand reaching towards the floor.",
+                    "Hold the stretch for a few breaths, feeling the stretch in your right side body.",
+                    "Inhale and come back to center, lowering your arms to your sides."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Crescent Moon Pose Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Crescent Moon Pose Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Stretches the hips, thighs, and groin",
+                    "Relieves tension in the lower back",
+                    "Improves flexibility in the spine",
+                    "Calms the mind and reduces stress",
+                    "Can help alleviate menstrual cramps"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Crescent Moon Pose Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Glutes",
+                    "Calves",
+                    "Abdominals",
+                    "Obliques",
+                    "Back muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Crescent Moon Pose Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Half Moon Pose",
+                    "Revolved Half Moon Pose",
+                    "Warrior III Pose",
+                    "Revolved Triangle Pose",
+                    "Triangle Pose"
+                ]
+            }
+        }
+    ]
+}

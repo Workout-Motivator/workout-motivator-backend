@@ -1,0 +1,78 @@
+{
+    "title": "Dumbbell Side Lunge",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Side Lunge Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a dumbbell in each hand.",
+                    "Take a big step to the right with your right foot, keeping your left foot in place.",
+                    "Bend your right knee and push your hips back as you lower your body into a lunge position.",
+                    "Keep your left leg straight and your left foot flat on the ground.",
+                    "Push through your right foot to return to the starting position.",
+                    "Repeat on the other side by stepping to the left with your left foot.",
+                    "Complete 10-12 reps on each side for 3-4 sets."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Side Lunge Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Side Lunge Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets multiple muscle groups including the glutes, quads, hamstrings, and inner thighs",
+                    "Improves balance and stability",
+                    "Increases lower body strength and power",
+                    "Can be modified for different fitness levels by adjusting the weight of the dumbbells",
+                    "Provides a cardiovascular workout by elevating the heart rate"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Side Lunge Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Glutes",
+                    "Adductors",
+                    "Abductors",
+                    "Calves",
+                    "Core muscles for stability"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Side Lunge Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell reverse lunge",
+                    "Dumbbell front lunge",
+                    "Dumbbell walking lunge",
+                    "Dumbbell curtsy lunge",
+                    "Dumbbell step-up"
+                ]
+            }
+        }
+    ]
+}

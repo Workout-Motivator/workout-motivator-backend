@@ -1,0 +1,76 @@
+{
+    "title": "Astride Jumps",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Astride Jumps Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your arms at your sides.",
+                    "Bend your knees slightly and jump up, pushing off the balls of your feet.",
+                    "While in the air, spread your legs apart and bring your arms up to shoulder height.",
+                    "Land with your feet wider than shoulder-width apart and your knees bent.",
+                    "Jump again, bringing your legs back together and lowering your arms to your sides.",
+                    "Repeat the sequence for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Astride Jumps Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Astride Jumps Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves hand-eye coordination",
+                    "Increases cardiovascular endurance",
+                    "Strengthens upper body muscles",
+                    "Enhances agility and quickness",
+                    "Improves reaction time",
+                    "Boosts mental focus and concentration"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Astride Jumps Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Calves",
+                    "Hamstrings",
+                    "Core muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Astride Jumps Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Straddle jumps",
+                    "Single leg astride jumps",
+                    "Double leg astride jumps with a hop",
+                    "Astride jumps with a 180-degree turn",
+                    "Astride jumps with a 360-degree turn"
+                ]
+            }
+        }
+    ]
+}

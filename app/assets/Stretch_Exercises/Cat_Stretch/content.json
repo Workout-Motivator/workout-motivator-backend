@@ -1,0 +1,76 @@
+{
+    "title": "Cat Stretch",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Cat Stretch Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start on your hands and knees with your wrists directly under your shoulders and your knees directly under your hips.",
+                    "As you inhale, arch your back and lift your head and tailbone towards the ceiling, allowing your belly to sink towards the floor.",
+                    "As you exhale, round your spine and tuck your chin towards your chest, bringing your tailbone towards your knees.",
+                    "Repeat this movement, flowing smoothly between the two positions, for several breaths.",
+                    "Finish by returning to a neutral spine position."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Cat Stretch Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Cat Stretch Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves flexibility and mobility in the spine",
+                    "Stretches the muscles in the back, shoulders, and neck",
+                    "Relieves tension and stress in the upper body",
+                    "Can help alleviate back pain and improve posture",
+                    "Increases circulation and blood flow to the spine and surrounding muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cat Stretch Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Spinal erectors",
+                    "Latissimus dorsi",
+                    "Trapezius",
+                    "Rhomboids",
+                    "Abdominals",
+                    "Glutes",
+                    "Hamstrings"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cat Stretch Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Modified Cat Stretch",
+                    "Extended Cat Stretch",
+                    "Seated Cat Stretch",
+                    "Standing Cat Stretch",
+                    "Dynamic Cat Stretch"
+                ]
+            }
+        }
+    ]
+}

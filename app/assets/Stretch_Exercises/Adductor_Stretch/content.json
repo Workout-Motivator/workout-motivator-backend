@@ -1,0 +1,70 @@
+{
+    "title": "Adductor Stretch",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Adductor Stretch Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by sitting on the floor with your legs straight out in front of you.",
+                    "Bend your right knee and place your right foot on the floor on the outside of your left knee.",
+                    "Place your left hand on your right knee and your right hand behind you on the floor.",
+                    "Slowly twist your torso to the right, using your left hand to gently push your right knee towards the floor.",
+                    "Hold the stretch for 15-30 seconds, then release and repeat on the other side."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Adductor Stretch Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Adductor Stretch Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves flexibility and range of motion in the inner thighs",
+                    "Reduces the risk of groin strains and injuries",
+                    "Helps alleviate lower back pain by releasing tension in the hips",
+                    "Can improve posture and balance by strengthening the core and lower body muscles",
+                    "May improve athletic performance in activities that require lateral movement, such as dancing or soccer"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Adductor Stretch Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Inner thigh muscles (adductors)"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Adductor Stretch Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Standing adductor stretch",
+                    "Seated adductor stretch",
+                    "Butterfly stretch",
+                    "Side lunge stretch",
+                    "Sumo squat stretch"
+                ]
+            }
+        }
+    ]
+}

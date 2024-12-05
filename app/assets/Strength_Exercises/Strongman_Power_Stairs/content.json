@@ -1,0 +1,79 @@
+{
+    "title": "Strongman Power Stairs",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Strongman Power Stairs Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand at the bottom of the StrongMan Power Stairs with your feet shoulder-width apart.",
+                    "Grasp the handles of the sled and begin to pull it towards you.",
+                    "As the sled moves towards you, take a step up onto the first stair with your right foot.",
+                    "Follow with your left foot, stepping up onto the first stair as well.",
+                    "Continue to step up the stairs, alternating your feet with each step.",
+                    "As you climb, keep your core engaged and your back straight.",
+                    "Once you reach the top of the stairs, step back down to the bottom and repeat for desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Strongman Power Stairs Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Strongman Power Stairs Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves overall strength and power",
+                    "Targets multiple muscle groups including legs, glutes, back, and core",
+                    "Increases cardiovascular endurance",
+                    "Enhances grip strength and forearm muscles",
+                    "Simulates real-life functional movements such as carrying heavy objects up stairs",
+                    "Can be modified for different fitness levels and goals",
+                    "Provides a challenging and fun workout"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Strongman Power Stairs Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Glutes",
+                    "Calves",
+                    "Core muscles",
+                    "Forearms"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Strongman Power Stairs Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "StrongMan Power Stairs with weights",
+                    "Single-leg StrongMan Power Stairs",
+                    "Explosive StrongMan Power Stairs",
+                    "Side-step StrongMan Power Stairs",
+                    "Backward StrongMan Power Stairs"
+                ]
+            }
+        }
+    ]
+}

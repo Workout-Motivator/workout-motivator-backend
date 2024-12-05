@@ -1,0 +1,76 @@
+{
+    "title": "Resistance Band Pull Through",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Resistance Band Pull Through Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Attach the resistance band to a sturdy anchor point, such as a pole or door handle.",
+                    "Stand facing away from the anchor point with your feet shoulder-width apart and the band looped around your waist.",
+                    "Take a few steps forward to create tension in the band.",
+                    "Keeping your back straight and your core engaged, hinge at the hips and lower your torso towards the ground.",
+                    "As you lower your torso, reach through your legs and grab the band with both hands.",
+                    "Drive your hips forward and stand up straight, pulling the band through your legs and squeezing your glutes at the top of the movement.",
+                    "Slowly lower the band back down towards the ground and repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Resistance Band Pull Through Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Resistance Band Pull Through Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the rear deltoid muscles",
+                    "Improves posture and shoulder stability",
+                    "Strengthens the upper back muscles",
+                    "Can be done anywhere with a resistance band",
+                    "Allows for a full range of motion",
+                    "Can be modified for different fitness levels"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Resistance Band Pull Through Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Glutes",
+                    "Hamstrings",
+                    "Lower back",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Resistance Band Pull Through Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Resistance band pull apart",
+                    "Resistance band face pull",
+                    "Resistance band row",
+                    "Resistance band bicep curl",
+                    "Resistance band tricep extension"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "title": "Weighted Inverted Row",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Weighted Inverted Row Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Set up a barbell on a squat rack at waist height.",
+                    "Attach a weight plate to a weight belt and put it on.",
+                    "Lie down under the barbell and grab it with an overhand grip, hands shoulder-width apart.",
+                    "Engage your core and glutes, and pull your chest up towards the barbell.",
+                    "Lower yourself back down to the starting position with control.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Weighted Inverted Row Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Weighted Inverted Row Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the upper back muscles, including the rhomboids, trapezius, and latissimus dorsi",
+                    "Improves posture by pulling the shoulders back and down",
+                    "Increases grip strength and forearm muscles",
+                    "Engages the core muscles for stability and balance",
+                    "Can be modified for different fitness levels by adjusting the weight or angle of the body"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Weighted Inverted Row Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Latissimus dorsi",
+                    "Trapezius",
+                    "Rhomboids",
+                    "Biceps brachii",
+                    "Forearm muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Weighted Inverted Row Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Unweighted Inverted Row",
+                    "Single Arm Inverted Row",
+                    "Feet Elevated Inverted Row",
+                    "Wide Grip Inverted Row",
+                    "Narrow Grip Inverted Row",
+                    "Neutral Grip Inverted Row",
+                    "One Leg Inverted Row",
+                    "Explosive Inverted Row",
+                    "Isometric Inverted Row",
+                    "Band Resisted Inverted Row"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "title": "Barbell Clean and Jerk",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Barbell Clean and Jerk Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start with the barbell on the ground in front of you, with your feet shoulder-width apart and your toes pointing forward.",
+                    "Bend down and grip the barbell with your hands slightly wider than shoulder-width apart, palms facing down.",
+                    "Stand up, keeping your back straight and your arms extended.",
+                    "As you stand up, pull the barbell up towards your chest, keeping it close to your body.",
+                    "Once the barbell reaches your chest, quickly drop into a squat position, catching the barbell on your shoulders.",
+                    "Stand up from the squat position, using the momentum to push the barbell overhead.",
+                    "Lock your arms out overhead, with the barbell directly above your head.",
+                    "Lower the barbell back down to your shoulders, then drop it back down to the ground.",
+                    "Repeat the exercise for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Barbell Clean and Jerk Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Barbell Clean and Jerk Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Full body workout",
+                    "Improves explosive power and strength",
+                    "Increases cardiovascular endurance",
+                    "Enhances coordination and balance",
+                    "Targets multiple muscle groups including legs, back, shoulders, and arms",
+                    "Can be modified for different fitness levels and goals",
+                    "Helps with weight loss and muscle gain",
+                    "Improves athletic performance in other sports"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Barbell Clean and Jerk Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Glutes",
+                    "Calves",
+                    "Lower back",
+                    "Upper back",
+                    "Shoulders",
+                    "Triceps",
+                    "Forearms",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Barbell Clean and Jerk Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Clean and Jerk",
+                    "Kettlebell Clean and Jerk",
+                    "Single Arm Clean and Jerk",
+                    "Hang Clean and Jerk",
+                    "Push Press",
+                    "Split Jerk",
+                    "Power Clean and Jerk",
+                    "Thruster"
+                ]
+            }
+        }
+    ]
+}

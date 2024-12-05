@@ -1,0 +1,84 @@
+{
+    "title": "Weighted Muscle-up",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Weighted Muscle-up Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by hanging from a pull-up bar with your hands shoulder-width apart and your palms facing away from you.",
+                    "Engage your core and pull your shoulder blades down and back.",
+                    "Bend your elbows and pull your chest towards the bar, keeping your elbows close to your body.",
+                    "As you reach the top of the pull-up, explosively push down on the bar and use your momentum to transition into a dip position.",
+                    "As you dip down, bring your knees up towards your chest and tuck them in tightly.",
+                    "Extend your arms and push yourself up into a full dip position.",
+                    "Lower yourself back down into the tuck position and then back down to the starting position.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Weighted Muscle-up Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Weighted Muscle-up Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves cardiovascular endurance",
+                    "Increases muscular strength and endurance",
+                    "Enhances coordination and balance",
+                    "Burns calories and aids in weight loss",
+                    "Boosts mood and reduces stress",
+                    "Improves bone density and joint health",
+                    "Can be done with minimal equipment and space",
+                    "Can be modified for different fitness levels and goals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Weighted Muscle-up Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Chest muscles",
+                    "Shoulder muscles",
+                    "Triceps muscles",
+                    "Back muscles",
+                    "Biceps muscles",
+                    "Core muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Weighted Muscle-up Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strict muscle-up",
+                    "Kipping muscle-up",
+                    "Ring muscle-up",
+                    "Bar muscle-up",
+                    "Weighted pull-up",
+                    "Weighted dip",
+                    "Strict chest-to-bar pull-up",
+                    "Kipping chest-to-bar pull-up"
+                ]
+            }
+        }
+    ]
+}

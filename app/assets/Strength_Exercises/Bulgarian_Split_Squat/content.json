@@ -1,0 +1,78 @@
+{
+    "title": "Bulgarian Split Squat",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Bulgarian Split Squat Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet hip-width apart and take a step forward with your right foot.",
+                    "Place the top of your left foot on a bench or step behind you.",
+                    "Lower your body down until your right thigh is parallel to the ground.",
+                    "Push through your right heel to stand back up to the starting position.",
+                    "Repeat for the desired number of reps, then switch legs and repeat."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Bulgarian Split Squat Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Bulgarian Split Squat Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves balance and stability",
+                    "Strengthens the quadriceps, hamstrings, glutes, and calves",
+                    "Increases hip mobility and flexibility",
+                    "Helps to correct muscle imbalances between the left and right legs",
+                    "Can be done with minimal equipment and in a small space"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Bulgarian Split Squat Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Bulgarian Split Squat Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rear Foot Elevated Bulgarian Split Squat",
+                    "Front Foot Elevated Bulgarian Split Squat",
+                    "Dumbbell Bulgarian Split Squat",
+                    "Barbell Bulgarian Split Squat",
+                    "Kettlebell Bulgarian Split Squat",
+                    "Smith Machine Bulgarian Split Squat",
+                    "Single Leg Bulgarian Split Squat",
+                    "Isometric Bulgarian Split Squat",
+                    "Jumping Bulgarian Split Squat"
+                ]
+            }
+        }
+    ]
+}

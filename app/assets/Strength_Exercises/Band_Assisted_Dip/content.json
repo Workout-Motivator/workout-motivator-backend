@@ -1,0 +1,76 @@
+{
+    "title": "Band Assisted Dip",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Band Assisted Dip Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Attach a band to a pull-up bar or dip station.",
+                    "Step onto the band and hold onto the handles with your palms facing down.",
+                    "Jump up and straighten your arms to get into the starting position.",
+                    "Lower your body by bending your elbows until your upper arms are parallel to the ground.",
+                    "Push yourself back up to the starting position by straightening your arms.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Band Assisted Dip Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Band Assisted Dip Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets multiple muscle groups including chest, triceps, and shoulders",
+                    "Assists in building upper body strength and muscle mass",
+                    "Improves overall upper body stability and balance",
+                    "Can be modified for different fitness levels by adjusting band resistance",
+                    "Low impact exercise that is easy on joints"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Band Assisted Dip Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Chest muscles (pectoralis major and minor)",
+                    "Shoulder muscles (anterior deltoid and rotator cuff muscles)",
+                    "Triceps brachii",
+                    "Latissimus dorsi",
+                    "Trapezius",
+                    "Rhomboids"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Band Assisted Dip Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Weighted Dip",
+                    "Assisted Dip Machine",
+                    "Bodyweight Dip",
+                    "Ring Dip",
+                    "Parallel Bar Dip"
+                ]
+            }
+        }
+    ]
+}

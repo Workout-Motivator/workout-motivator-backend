@@ -1,0 +1,72 @@
+{
+    "title": "Standing Calf Raise",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Standing Calf Raise Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand on a raised surface such as a step or block with the balls of your feet on the edge and your heels hanging off.",
+                    "Hold onto a stable surface such as a wall or railing for balance.",
+                    "Raise your heels as high as possible, lifting your body weight onto the balls of your feet.",
+                    "Hold for a few seconds at the top of the movement.",
+                    "Lower your heels back down below the level of the step or block.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Standing Calf Raise Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Standing Calf Raise Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Stretches the hips, glutes, and lower back",
+                    "Improves balance and stability",
+                    "Strengthens the legs and core",
+                    "Relieves tension in the lower body",
+                    "Can help alleviate sciatica pain"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Standing Calf Raise Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Gastrocnemius",
+                    "Soleus"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Standing Calf Raise Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "seated-calf-raise",
+                    "single-leg-standing-calf-raise",
+                    "donkey-calf-raise",
+                    "smith-machine-calf-raise",
+                    "barbell-calf-raise"
+                ]
+            }
+        }
+    ]
+}

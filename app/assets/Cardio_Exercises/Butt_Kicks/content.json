@@ -1,0 +1,75 @@
+{
+    "title": "Butt Kicks",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Butt Kicks Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet hip-width apart and your arms at your sides.",
+                    "Start jogging in place, but bring your heels up towards your glutes with each step.",
+                    "Continue for 30 seconds to 1 minute, or until you feel warmed up."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Butt Kicks Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Butt Kicks Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Increases cardiovascular endurance",
+                    "Improves lower body strength and flexibility",
+                    "Activates and strengthens the glutes, hamstrings, and calves",
+                    "Helps to improve running form and speed",
+                    "Can be done as a warm-up or as a high-intensity interval training exercise"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Butt Kicks Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Hamstrings",
+                    "Glutes",
+                    "Calves"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Butt Kicks Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "High Knees",
+                    "Jumping Jacks",
+                    "Mountain Climbers",
+                    "Skaters",
+                    "Running in Place",
+                    "Burpees",
+                    "Jump Squats",
+                    "Box Jumps",
+                    "Lunges",
+                    "Step-Ups"
+                ]
+            }
+        }
+    ]
+}

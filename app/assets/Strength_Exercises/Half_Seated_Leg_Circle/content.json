@@ -1,0 +1,79 @@
+{
+    "title": "Half Seated Leg Circle",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Half Seated Leg Circle Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by sitting on the floor with your legs extended in front of you.",
+                    "Bend your left knee and place your left foot on the floor, bringing your heel close to your left buttock.",
+                    "Place your left hand on the floor behind you for support.",
+                    "Extend your right leg out to the side, keeping it straight and your foot flexed.",
+                    "Slowly lift your right leg off the floor and begin to make small circles with your foot, keeping your leg straight and your toes pointed.",
+                    "Complete 10 circles in one direction, then switch and complete 10 circles in the opposite direction.",
+                    "Repeat on the other side."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Half Seated Leg Circle Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Half Seated Leg Circle Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens abdominal muscles",
+                    "Improves core stability",
+                    "Helps with posture",
+                    "Can be done anywhere without equipment",
+                    "Low impact exercise",
+                    "Can be modified for different fitness levels"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Half Seated Leg Circle Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Abdominal muscles",
+                    "Gluteal muscles",
+                    "Hip flexor muscles",
+                    "Quadriceps muscles",
+                    "Hamstring muscles",
+                    "Inner thigh muscles",
+                    "Outer thigh muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Half Seated Leg Circle Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "full-seated-leg-circle",
+                    "standing-leg-circle",
+                    "lying-leg-circle",
+                    "one-legged-leg-circle",
+                    "reverse-leg-circle"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "title": "Kettlebell Split Snatch",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Split Snatch Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by standing with your feet shoulder-width apart, holding a kettlebell in your right hand.",
+                    "Take a large step forward with your left foot, keeping your right foot in place.",
+                    "Bend your left knee and lower your body into a lunge position, while simultaneously swinging the kettlebell back between your legs.",
+                    "As you begin to stand up, use the momentum to swing the kettlebell forward and up, bringing it to shoulder height.",
+                    "At the same time, jump up and switch your feet, so that your right foot is now in front and your left foot is behind you.",
+                    "As you land, lower your body back into a lunge position, while simultaneously lowering the kettlebell back down between your legs.",
+                    "Repeat the movement, alternating sides with each rep."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Split Snatch Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Split Snatch Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves explosive power and strength in the legs, hips, and shoulders",
+                    "Increases cardiovascular endurance",
+                    "Enhances coordination and balance",
+                    "Targets multiple muscle groups including the glutes, quads, hamstrings, shoulders, and core",
+                    "Can be modified for different fitness levels and goals",
+                    "Provides a full-body workout in a short amount of time",
+                    "Can be done with minimal equipment and space"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Split Snatch Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Core",
+                    "Shoulders",
+                    "Triceps",
+                    "Back"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Split Snatch Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Kettlebell Clean and Jerk",
+                    "Kettlebell Swing",
+                    "Kettlebell Snatch",
+                    "Kettlebell Turkish Get-Up",
+                    "Kettlebell Windmill"
+                ]
+            }
+        }
+    ]
+}

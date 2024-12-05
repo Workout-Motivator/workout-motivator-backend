@@ -1,0 +1,73 @@
+{
+    "title": "Cable Incline Bench Press",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Cable Incline Bench Press Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Adjust the bench to a 30-45 degree incline.",
+                    "Attach a cable to each side of the bench and adjust the height to chest level.",
+                    "Grab the handles and sit on the bench with your feet firmly planted on the ground.",
+                    "Engage your core and press the handles forward until your arms are fully extended.",
+                    "Slowly lower the handles back down to your chest, keeping your elbows slightly bent.",
+                    "Repeat for desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Cable Incline Bench Press Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Cable Incline Bench Press Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the upper chest muscles",
+                    "Allows for a greater range of motion compared to traditional incline bench press",
+                    "Provides constant tension on the chest muscles throughout the movement",
+                    "Engages the triceps and shoulders as secondary muscles",
+                    "Can be easily adjusted to accommodate different fitness levels and goals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cable Incline Bench Press Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Pectoralis major (upper and middle fibers)",
+                    "Anterior deltoids",
+                    "Triceps brachii"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cable Incline Bench Press Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Incline Bench Press",
+                    "Barbell Incline Bench Press",
+                    "Machine Incline Bench Press",
+                    "Single Arm Cable Incline Bench Press",
+                    "Close Grip Cable Incline Bench Press"
+                ]
+            }
+        }
+    ]
+}

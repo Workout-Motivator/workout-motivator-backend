@@ -1,0 +1,73 @@
+{
+    "title": "Lying Leg Hip Raise",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Lying Leg Hip Raise Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying flat on your back with your arms at your sides and your legs extended straight out in front of you.",
+                    "Bend your knees and place your feet flat on the ground, hip-width apart.",
+                    "Engage your core and glutes as you lift your hips off the ground, keeping your feet and shoulders firmly planted on the floor.",
+                    "Slowly lower your hips back down to the starting position, keeping your core and glutes engaged throughout the movement.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Lying Leg Hip Raise Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Lying Leg Hip Raise Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the glutes and hamstrings",
+                    "Improves hip mobility and flexibility",
+                    "Helps to alleviate lower back pain",
+                    "Targets the lower abs and core muscles",
+                    "Can be modified for different fitness levels"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Lying Leg Hip Raise Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Glutes",
+                    "Hamstrings",
+                    "Lower back",
+                    "Abdominals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Lying Leg Hip Raise Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single leg lying leg hip raise",
+                    "Weighted lying leg hip raise",
+                    "Decline lying leg hip raise",
+                    "Side lying leg hip raise",
+                    "Reverse lying leg hip raise"
+                ]
+            }
+        }
+    ]
+}

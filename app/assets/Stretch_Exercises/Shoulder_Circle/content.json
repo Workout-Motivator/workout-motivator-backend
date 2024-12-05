@@ -1,0 +1,77 @@
+{
+    "title": "Shoulder Circle",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Shoulder Circle Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your arms at your sides.",
+                    "Slowly raise your shoulders up towards your ears, hold for a few seconds, and then lower them back down.",
+                    "Next, roll your shoulders forward in a circular motion, making sure to keep your arms at your sides.",
+                    "After a few rotations, switch directions and roll your shoulders backwards in a circular motion.",
+                    "Repeat the exercise for 10-15 repetitions in each direction."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Shoulder Circle Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Shoulder Circle Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves shoulder mobility and flexibility",
+                    "Helps to prevent shoulder injuries",
+                    "Increases blood flow to the shoulder joint",
+                    "Can help to alleviate shoulder pain and discomfort",
+                    "Strengthens the muscles surrounding the shoulder joint",
+                    "Can be done anywhere without equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Shoulder Circle Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Deltoids",
+                    "Trapezius",
+                    "Rotator cuff muscles",
+                    "Levator scapulae",
+                    "Rhomboids",
+                    "Infraspinatus",
+                    "Supraspinatus"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Shoulder Circle Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Shoulder shrugs",
+                    "Shoulder rotations with weights",
+                    "Shoulder press",
+                    "Shoulder blade squeeze",
+                    "Shoulder stretch"
+                ]
+            }
+        }
+    ]
+}

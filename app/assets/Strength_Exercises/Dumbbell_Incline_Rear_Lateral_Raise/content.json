@@ -1,0 +1,73 @@
+{
+    "title": "Dumbbell Incline Rear Lateral Raise",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Incline Rear Lateral Raise Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying face down on an incline bench with a dumbbell in each hand.",
+                    "Extend your arms straight down towards the floor with your palms facing each other.",
+                    "Slowly raise your arms out to the sides, keeping your elbows slightly bent, until they are parallel with your shoulders.",
+                    "Pause for a moment at the top of the movement, then slowly lower the dumbbells back down to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Incline Rear Lateral Raise Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Incline Rear Lateral Raise Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the rear deltoids, which are often neglected in traditional shoulder exercises",
+                    "Improves shoulder stability and posture",
+                    "Increases shoulder mobility and range of motion",
+                    "Can help prevent shoulder injuries",
+                    "Can be easily modified for different fitness levels by adjusting the weight of the dumbbells"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Incline Rear Lateral Raise Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rear Deltoids",
+                    "Trapezius",
+                    "Rhomboids",
+                    "Rotator Cuff"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Incline Rear Lateral Raise Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Incline Front Lateral Raise",
+                    "Dumbbell Incline Reverse Fly",
+                    "Dumbbell Incline Rear Delt Raise",
+                    "Dumbbell Incline Bent-Over Lateral Raise",
+                    "Dumbbell Incline Y-Raise"
+                ]
+            }
+        }
+    ]
+}

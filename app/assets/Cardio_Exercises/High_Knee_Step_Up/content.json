@@ -1,0 +1,74 @@
+{
+    "title": "High Knee Step Up",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "High Knee Step Up Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand in front of a bench or step with your feet hip-width apart.",
+                    "Step up onto the bench with your right foot, bringing your left knee up towards your chest.",
+                    "Step down with your left foot, returning to the starting position.",
+                    "Repeat on the other side, stepping up with your left foot and bringing your right knee up towards your chest.",
+                    "Continue alternating sides for the desired number of repetitions or time."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "High Knee Step Up Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "High Knee Step Up Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves cardiovascular endurance",
+                    "Strengthens lower body muscles, including quadriceps, hamstrings, and glutes",
+                    "Improves balance and coordination",
+                    "Increases hip mobility and flexibility",
+                    "Burns calories and aids in weight loss"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "High Knee Step Up Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calf muscles",
+                    "Core muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "High Knee Step Up Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "High Knee Lateral Step up",
+                    "High Knee Reverse Lunge",
+                    "High Knee Jog in Place",
+                    "High Knee March",
+                    "High Knee Skips"
+                ]
+            }
+        }
+    ]
+}

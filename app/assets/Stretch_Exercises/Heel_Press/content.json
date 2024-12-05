@@ -1,0 +1,70 @@
+{
+    "title": "Heel Press",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Heel Press Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet hip-width apart and your arms at your sides.",
+                    "Lift your left heel off the ground and press your toes into the floor.",
+                    "Hold for a few seconds, then release and repeat on the other side.",
+                    "Continue alternating sides for 10-15 repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Heel Press Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Heel Press Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the calf muscles",
+                    "Improves ankle stability",
+                    "Helps prevent ankle injuries",
+                    "Can be done anywhere without equipment",
+                    "Can be easily modified for different fitness levels"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Heel Press Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Gastrocnemius",
+                    "Soleus"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Heel Press Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Heel Lift",
+                    "Heel Tap",
+                    "Heel Raise",
+                    "Heel Drop",
+                    "Heel Slide"
+                ]
+            }
+        }
+    ]
+}

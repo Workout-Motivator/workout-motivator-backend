@@ -1,0 +1,75 @@
+{
+    "title": "Strongman Keg Toss",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Strongman Keg Toss Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand facing the keg with your feet shoulder-width apart.",
+                    "Bend your knees slightly and grip the keg with both hands.",
+                    "Lift the keg up to your chest and hold it close to your body.",
+                    "Take a step forward with your left foot and shift your weight onto your left leg.",
+                    "Swing the keg back between your legs and then explosively throw it forward and upward with both hands.",
+                    "Release the keg at the top of the toss and let it fly through the air.",
+                    "Repeat the exercise for the desired number of reps or time."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Strongman Keg Toss Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Strongman Keg Toss Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves explosive power and strength in the upper body",
+                    "Targets the shoulders, back, and arms",
+                    "Increases grip strength and forearm endurance",
+                    "Enhances overall athletic performance and power output",
+                    "Provides a fun and challenging workout"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Strongman Keg Toss Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Shoulders",
+                    "Back",
+                    "Core",
+                    "Legs"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Strongman Keg Toss Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single Arm Keg Toss",
+                    "Double Arm Keg Toss",
+                    "Overhead Keg Toss",
+                    "Backward Keg Toss",
+                    "Side Keg Toss"
+                ]
+            }
+        }
+    ]
+}

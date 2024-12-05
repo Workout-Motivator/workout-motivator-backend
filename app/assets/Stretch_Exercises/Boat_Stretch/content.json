@@ -1,0 +1,79 @@
+{
+    "title": "Boat Stretch",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Boat Stretch Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by sitting on the floor with your legs extended in front of you.",
+                    "Bend your knees and place your feet flat on the floor.",
+                    "Place your hands behind you, with your fingers pointing towards your feet.",
+                    "Press your hands into the floor and lift your hips up towards the ceiling.",
+                    "As you lift your hips, allow your head to fall back and your chest to open up.",
+                    "Hold the stretch for 10-15 seconds, then release and lower your hips back down to the floor.",
+                    "Repeat the stretch for 2-3 sets, taking a short break in between each set."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Boat Stretch Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Boat Stretch Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves flexibility in the hips, lower back, and hamstrings",
+                    "Strengthens the core muscles",
+                    "Relieves tension in the lower back",
+                    "Improves posture and balance",
+                    "Can help alleviate stress and anxiety"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Boat Stretch Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus abdominis",
+                    "Obliques",
+                    "Erector spinae",
+                    "Glutes",
+                    "Hamstrings"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Boat Stretch Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Boat Pose",
+                    "Boat Pose with Leg Lifts",
+                    "Boat Pose with Twist",
+                    "Half Boat Pose",
+                    "Low Boat Pose",
+                    "Reverse Boat Pose",
+                    "Side Boat Pose",
+                    "Superman Pose"
+                ]
+            }
+        }
+    ]
+}

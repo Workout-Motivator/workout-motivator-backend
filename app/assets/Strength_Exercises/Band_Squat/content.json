@@ -1,0 +1,76 @@
+{
+    "title": "Band Squat",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Band Squat Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by standing with your feet shoulder-width apart and your toes pointing slightly outward.",
+                    "Place a resistance band around your thighs, just above your knees.",
+                    "Lower yourself into a squat position by bending your knees and pushing your hips back.",
+                    "As you lower yourself, push your knees out against the resistance of the band.",
+                    "Keep your chest up and your back straight throughout the movement.",
+                    "Pause briefly at the bottom of the squat, then push through your heels to stand back up.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Band Squat Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Band Squat Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets multiple muscle groups including quads, glutes, hamstrings, and calves",
+                    "Increases strength and power in lower body",
+                    "Improves balance and stability",
+                    "Can be modified for different fitness levels by adjusting band resistance or depth of squat",
+                    "Can be done with minimal equipment and space"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Band Squat Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Band Squat Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Paused band squat",
+                    "Band box squat",
+                    "Reverse band squat",
+                    "Band front squat",
+                    "Band hack squat"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "title": "L-sit on Floor",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "L-sit on Floor Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by sitting on the floor with your legs straight out in front of you.",
+                    "Place your hands on the floor next to your hips, fingers pointing forward.",
+                    "Press down through your hands and lift your hips off the ground.",
+                    "Engage your core muscles and lift your legs off the ground, keeping them straight and parallel to the floor.",
+                    "Hold this position for as long as you can, aiming for at least 10-15 seconds.",
+                    "To release, lower your legs back down to the ground and then lower your hips back down as well."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "L-sit on Floor Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "L-sit on Floor Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves agility and coordination",
+                    "Increases foot speed and quickness",
+                    "Enhances balance and body control",
+                    "Boosts cardiovascular endurance",
+                    "Can be done with minimal equipment and space",
+                    "Can be modified for different fitness levels and goals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "L-sit on Floor Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus abdominis",
+                    "Transverse abdominis",
+                    "Quadriceps",
+                    "Hip flexors",
+                    "Erector spinae"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "L-sit on Floor Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "L-sit on parallettes",
+                    "L-sit on rings",
+                    "Weighted L-sit",
+                    "Straddle L-sit",
+                    "Single leg L-sit"
+                ]
+            }
+        }
+    ]
+}

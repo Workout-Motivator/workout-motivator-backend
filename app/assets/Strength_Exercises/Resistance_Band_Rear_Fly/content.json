@@ -1,0 +1,75 @@
+{
+    "title": "Resistance Band Rear Fly",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Resistance Band Rear Fly Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Attach the resistance band to a sturdy anchor point at chest height.",
+                    "Stand facing away from the anchor point with feet shoulder-width apart.",
+                    "Hold the resistance band handles with palms facing each other and arms extended in front of you.",
+                    "Engage your core and keep your back straight as you slowly pull the resistance band handles back towards your chest.",
+                    "Squeeze your shoulder blades together at the top of the movement.",
+                    "Slowly release the resistance band back to the starting position.",
+                    "Repeat for desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Resistance Band Rear Fly Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Resistance Band Rear Fly Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the upper back muscles",
+                    "Improves posture",
+                    "Helps prevent shoulder injuries",
+                    "Targets the rear deltoids and rhomboids",
+                    "Can be done anywhere with a resistance band"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Resistance Band Rear Fly Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rhomboids",
+                    "Trapezius",
+                    "Posterior deltoids",
+                    "Rotator cuff muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Resistance Band Rear Fly Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Resistance Band Reverse Fly",
+                    "Resistance Band Bent Over Row",
+                    "Resistance Band Face Pull",
+                    "Resistance Band Pull Apart",
+                    "Resistance Band Seated Row"
+                ]
+            }
+        }
+    ]
+}

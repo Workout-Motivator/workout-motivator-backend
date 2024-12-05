@@ -1,0 +1,77 @@
+{
+    "title": "Neck Extension Stretch",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Neck Extension Stretch Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand or sit with your back straight and shoulders relaxed.",
+                    "Slowly tilt your head back, keeping your chin level.",
+                    "Hold the stretch for 15-30 seconds, feeling a gentle stretch in the front of your neck.",
+                    "Return your head to a neutral position and repeat the stretch 2-3 times."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Neck Extension Stretch Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Neck Extension Stretch Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Relieves tension and stiffness in the neck muscles",
+                    "Improves range of motion in the neck",
+                    "Reduces the risk of neck injuries",
+                    "Helps alleviate headaches and migraines",
+                    "Can improve posture and reduce neck pain"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Neck Extension Stretch Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Trapezius",
+                    "Splenius capitis",
+                    "Splenius cervicis",
+                    "Semispinalis capitis",
+                    "Semispinalis cervicis",
+                    "Longissimus capitis",
+                    "Longissimus cervicis",
+                    "Spinalis capitis",
+                    "Spinalis cervicis"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Neck Extension Stretch Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Seated Neck Extension Stretch",
+                    "Standing Neck Extension Stretch",
+                    "Assisted Neck Extension Stretch",
+                    "Neck Extension Stretch with Resistance Band",
+                    "Neck Extension Stretch with Foam Roller"
+                ]
+            }
+        }
+    ]
+}

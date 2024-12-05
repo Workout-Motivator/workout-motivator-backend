@@ -1,0 +1,76 @@
+{
+    "title": "Commando Pull Up",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Commando Pull Up Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Find a pull-up bar and grip it with your palms facing away from you, shoulder-width apart.",
+                    "Engage your core and pull your shoulder blades down and back.",
+                    "Begin to pull yourself up towards the bar, leading with your chest.",
+                    "As you pull up, bring one knee towards your chest and twist your torso towards that knee.",
+                    "Lower yourself back down to the starting position and repeat on the other side.",
+                    "Continue alternating sides with each repetition."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Commando Pull Up Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Commando Pull Up Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets multiple muscle groups including back, biceps, and shoulders",
+                    "Improves grip strength and forearm endurance",
+                    "Increases overall upper body strength and muscle definition",
+                    "Challenges core stability and balance",
+                    "Can be modified for different fitness levels by adjusting the number of reps or using assistance bands"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Commando Pull Up Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Biceps",
+                    "Forearms",
+                    "Latissimus dorsi",
+                    "Trapezius",
+                    "Rhomboids",
+                    "Abdominals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Commando Pull Up Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Wide grip commando pull up",
+                    "Narrow grip commando pull up",
+                    "Assisted commando pull up",
+                    "Weighted commando pull up",
+                    "One arm commando pull up"
+                ]
+            }
+        }
+    ]
+}

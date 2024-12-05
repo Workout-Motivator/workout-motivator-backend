@@ -1,0 +1,74 @@
+{
+    "title": "Dumbbell Lying Rear Lateral Raise",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Lying Rear Lateral Raise Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying face down on a flat bench with a dumbbell in each hand.",
+                    "Extend your arms straight down towards the floor with your palms facing each other.",
+                    "Engage your shoulder blades and lift your arms up and out to the sides until they are parallel with the floor.",
+                    "Pause for a moment at the top of the movement, then slowly lower the dumbbells back down to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Lying Rear Lateral Raise Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Lying Rear Lateral Raise Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the rear deltoids, which are often neglected in traditional shoulder exercises",
+                    "Improves shoulder stability and posture",
+                    "Can help prevent shoulder injuries",
+                    "Can be done with light weights and minimal equipment, making it accessible for beginners",
+                    "Can be easily modified by adjusting the weight or angle of the exercise to increase or decrease difficulty"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Lying Rear Lateral Raise Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rhomboids",
+                    "Trapezius",
+                    "Posterior deltoids",
+                    "Infraspinatus",
+                    "Terres minor"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Lying Rear Lateral Raise Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Lying Rear Lateral Raise with palms facing down",
+                    "Dumbbell Lying Rear Lateral Raise with palms facing each other",
+                    "Dumbbell Lying Rear Lateral Raise with thumbs up",
+                    "Dumbbell Lying Rear Lateral Raise with elbows bent",
+                    "Dumbbell Lying Rear Lateral Raise with alternating arms"
+                ]
+            }
+        }
+    ]
+}

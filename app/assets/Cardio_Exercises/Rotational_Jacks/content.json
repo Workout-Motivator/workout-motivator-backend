@@ -1,0 +1,80 @@
+{
+    "title": "Rotational Jacks",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Rotational Jacks Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your arms at your sides.",
+                    "Jump and rotate your body 90 degrees to the right, landing on the ball of your right foot and the heel of your left foot.",
+                    "At the same time, swing your left arm across your body and your right arm behind you.",
+                    "Jump and rotate your body 180 degrees to the left, landing on the ball of your left foot and the heel of your right foot.",
+                    "At the same time, swing your right arm across your body and your left arm behind you.",
+                    "Repeat this movement, alternating sides with each jump.",
+                    "Continue for the desired number of repetitions or time."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Rotational Jacks Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Rotational Jacks Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves cardiovascular endurance",
+                    "Increases agility and coordination",
+                    "Engages multiple muscle groups, including the legs, core, and arms",
+                    "Helps to improve balance and stability",
+                    "Can be modified for different fitness levels",
+                    "Provides a low-impact option for those with joint pain or injuries"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Rotational Jacks Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Obliques",
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Shoulders",
+                    "Chest",
+                    "Back"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Rotational Jacks Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Jumping Jacks",
+                    "Plank Jacks",
+                    "Cross Jacks",
+                    "Star Jacks",
+                    "Seal Jacks"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "title": "Crunch With Medicine Ball",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Crunch With Medicine Ball Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on your back with your knees bent and feet flat on the ground.",
+                    "Hold a medicine ball with both hands and extend your arms straight up towards the ceiling.",
+                    "Engage your core and lift your shoulders off the ground, bringing the medicine ball towards your knees.",
+                    "Pause for a moment and then slowly lower your shoulders back down to the ground.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Crunch With Medicine Ball Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Crunch With Medicine Ball Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets abdominal muscles for a stronger core",
+                    "Increases upper body strength through use of medicine ball",
+                    "Improves coordination and balance",
+                    "Can be modified for different fitness levels",
+                    "Can be done at home or in the gym"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Crunch With Medicine Ball Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus abdominis",
+                    "Obliques",
+                    "Hip flexors"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Crunch With Medicine Ball Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Crunch with Dumbbell",
+                    "Crunch with Resistance Band",
+                    "Reverse Crunch with Medicine Ball",
+                    "Oblique Crunch with Medicine Ball",
+                    "Medicine Ball Russian Twist"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "title": "Handstand Hold on Wall",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Handstand Hold on Wall Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Find a clear wall space with enough room to kick up into a handstand.",
+                    "Stand facing the wall with your feet hip-width apart.",
+                    "Place your hands on the ground shoulder-width apart, about a foot away from the wall.",
+                    "Shift your weight forward onto your hands and kick one leg up towards the wall.",
+                    "As your first leg reaches the wall, kick your second leg up to meet it.",
+                    "Press your hands firmly into the ground and engage your core to hold the handstand position.",
+                    "Hold the handstand for as long as you can, aiming for at least 10-15 seconds.",
+                    "To come down, slowly lower one leg at a time back to the ground.",
+                    "Rest for a few breaths before attempting another handstand hold."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Handstand Hold on Wall Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Handstand Hold on Wall Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens core muscles",
+                    "Improves posture",
+                    "Increases stability and balance",
+                    "Enhances grip strength",
+                    "Improves overall body control and coordination"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Handstand Hold on Wall Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Shoulders",
+                    "Triceps",
+                    "Core",
+                    "Back",
+                    "Glutes",
+                    "Legs"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Handstand Hold on Wall Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Handstand hold on parallettes",
+                    "Handstand hold on rings",
+                    "Freestanding handstand hold",
+                    "Handstand push-ups on wall",
+                    "Handstand walk on floor"
+                ]
+            }
+        }
+    ]
+}

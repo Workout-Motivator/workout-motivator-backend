@@ -1,0 +1,78 @@
+{
+    "title": "Rocker With Open Legs",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Rocker With Open Legs Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by sitting on the floor with your legs straight out in front of you.",
+                    "Bend your knees and place the soles of your feet on the floor.",
+                    "Place your hands behind you, fingers pointing towards your feet.",
+                    "Lean back slightly and lift your hips off the floor.",
+                    "Open your legs as wide as you can while keeping your feet on the floor.",
+                    "Slowly rock back and forth, using your hands to support your weight.",
+                    "Continue rocking for 10-15 repetitions.",
+                    "To release, lower your hips back down to the floor and bring your legs back together."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Rocker With Open Legs Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Rocker With Open Legs Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the core muscles",
+                    "Improves posture and balance",
+                    "Increases flexibility in the spine and hips",
+                    "Relieves tension in the lower back",
+                    "Stimulates digestion and improves circulation",
+                    "Can be modified for different levels of fitness and flexibility"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Rocker With Open Legs Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Abdominal muscles",
+                    "Quadriceps",
+                    "Hip flexors",
+                    "Glutes",
+                    "Lower back muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Rocker With Open Legs Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "rocker-with-closed-legs",
+                    "rocker-with-straight-legs",
+                    "rocker-with-twisted-torso",
+                    "rocker-with-arms-extended",
+                    "rocker-with-one-leg-extended"
+                ]
+            }
+        }
+    ]
+}

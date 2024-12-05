@@ -1,0 +1,75 @@
+{
+    "title": "Lateral Step Up",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Lateral Step Up Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand next to a bench or step with your feet hip-width apart.",
+                    "Place your left foot on the bench or step.",
+                    "Push through your left foot and lift your body up onto the bench or step.",
+                    "Bring your right foot up to meet your left foot on the bench or step.",
+                    "Step back down with your right foot, followed by your left foot.",
+                    "Repeat for the desired number of repetitions, then switch sides and repeat with your right foot on the bench or step."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Lateral Step Up Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Lateral Step Up Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the glutes, quadriceps, and hamstrings",
+                    "Improves balance and stability",
+                    "Increases hip mobility",
+                    "Can be modified to increase or decrease difficulty",
+                    "Can be done with or without weights"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Lateral Step Up Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Abductors"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Lateral Step Up Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Lateral Box Step Up",
+                    "Lateral Bench Step Up",
+                    "Lateral Dumbbell Step Up",
+                    "Lateral Barbell Step Up",
+                    "Lateral Cable Step Up"
+                ]
+            }
+        }
+    ]
+}

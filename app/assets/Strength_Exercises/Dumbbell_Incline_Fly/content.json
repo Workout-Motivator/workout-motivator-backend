@@ -1,0 +1,73 @@
+{
+    "title": "Dumbbell Incline Fly",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Incline Fly Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on an incline bench with your feet flat on the ground and your head resting at the top of the bench.",
+                    "Hold a dumbbell in each hand with your palms facing each other and your arms extended above your chest.",
+                    "Slowly lower the dumbbells out to the sides, keeping a slight bend in your elbows, until your arms are parallel to the ground.",
+                    "Pause for a moment, then slowly bring the dumbbells back up to the starting position, squeezing your chest muscles as you do so.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Incline Fly Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Incline Fly Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the chest muscles, specifically the upper portion",
+                    "Helps to increase chest strength and size",
+                    "Improves shoulder stability and mobility",
+                    "Engages the core muscles for added stability and balance",
+                    "Can be modified for different fitness levels by adjusting the weight of the dumbbells"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Incline Fly Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Chest muscles (pectoralis major and minor)",
+                    "Shoulder muscles (anterior deltoids)",
+                    "Triceps brachii"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Incline Fly Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Decline Fly",
+                    "Dumbbell Flat Fly",
+                    "Cable Incline Fly",
+                    "Cable Decline Fly",
+                    "Cable Crossover",
+                    "Pec Deck Machine Fly"
+                ]
+            }
+        }
+    ]
+}

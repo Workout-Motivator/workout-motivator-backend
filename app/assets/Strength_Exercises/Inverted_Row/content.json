@@ -1,0 +1,81 @@
+{
+    "title": "Inverted Row",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Inverted Row Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Find a sturdy horizontal bar that can support your weight. A pull-up bar or a Smith machine bar works well.",
+                    "Set the bar at a height that allows you to hang from it with your arms fully extended and your feet on the ground.",
+                    "Lie down on your back directly underneath the bar.",
+                    "Reach up and grab the bar with an overhand grip, hands shoulder-width apart.",
+                    "Engage your core and glutes to lift your hips off the ground until your body forms a straight line from your head to your heels.",
+                    "Pull your chest up towards the bar, keeping your elbows close to your body.",
+                    "Pause at the top of the movement, then slowly lower yourself back down to the starting position.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Inverted Row Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Inverted Row Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the upper back muscles, including the rhomboids, trapezius, and rear deltoids",
+                    "Improves posture by counteracting the effects of sitting and slouching",
+                    "Engages the core muscles for stability and balance",
+                    "Can be modified to increase or decrease difficulty, making it accessible for a wide range of fitness levels",
+                    "Requires minimal equipment and can be done at home or in a gym"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Inverted Row Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Latissimus dorsi",
+                    "Trapezius",
+                    "Rhomboids",
+                    "Biceps brachii",
+                    "Forearm muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Inverted Row Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single-arm inverted row",
+                    "Feet-elevated inverted row",
+                    "Wide-grip inverted row",
+                    "Close-grip inverted row",
+                    "Reverse-grip inverted row",
+                    "Band-resisted inverted row",
+                    "Weighted inverted row",
+                    "Isometric hold inverted row",
+                    "Explosive inverted row"
+                ]
+            }
+        }
+    ]
+}

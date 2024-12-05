@@ -1,0 +1,73 @@
+{
+    "title": "Triceps Dips Floor",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Triceps Dips Floor Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Find a sturdy chair or bench and place it behind you.",
+                    "Sit on the edge of the chair or bench and place your hands on the edge, fingers pointing forward.",
+                    "Slide your butt off the edge of the chair or bench and straighten your arms, keeping your heels on the ground.",
+                    "Bend your elbows and lower your body towards the ground, keeping your back close to the chair or bench.",
+                    "Push yourself back up to the starting position, straightening your arms.",
+                    "Repeat for desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Triceps Dips Floor Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Triceps Dips Floor Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens triceps muscles",
+                    "Improves upper body strength",
+                    "Targets the back of the arms",
+                    "Can be done anywhere without equipment",
+                    "Helps with pushing movements in other exercises"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Triceps Dips Floor Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Triceps",
+                    "Chest",
+                    "Shoulders"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Triceps Dips Floor Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Triceps Dips Bench",
+                    "Triceps Dips Machine",
+                    "Triceps Dips with Resistance Band",
+                    "Triceps Dips on Parallel Bars",
+                    "Triceps Dips on Rings"
+                ]
+            }
+        }
+    ]
+}

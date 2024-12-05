@@ -1,0 +1,73 @@
+{
+    "title": "Dumbbell Cuban Press",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Cuban Press Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a dumbbell in each hand.",
+                    "Bring the dumbbells up to your shoulders with your palms facing up.",
+                    "Rotate your palms so they are facing down and press the dumbbells up above your head.",
+                    "Lower the dumbbells back down to your shoulders with your palms facing down.",
+                    "Rotate your palms so they are facing up and bring the dumbbells back down to your sides.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Cuban Press Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Cuban Press Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the shoulders, specifically the rotator cuff muscles",
+                    "Improves shoulder stability and mobility",
+                    "Helps prevent shoulder injuries",
+                    "Can be done with light weights, making it accessible for beginners",
+                    "Can be easily modified for different fitness levels"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Cuban Press Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Shoulder muscles (deltoids)",
+                    "Forearm muscles (brachioradialis, wrist flexors and extensors)",
+                    "Upper back muscles (trapezius, rhomboids)"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Cuban Press Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Cuban Rotation",
+                    "Dumbbell Cuban Snatch",
+                    "Dumbbell Cuban Clean and Press",
+                    "Dumbbell Cuban Jerk",
+                    "Dumbbell Cuban Split Jerk"
+                ]
+            }
+        }
+    ]
+}

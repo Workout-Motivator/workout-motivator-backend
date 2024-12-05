@@ -1,0 +1,72 @@
+{
+    "title": "Cable One Arm Front Raise",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Cable One Arm Front Raise Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a cable in one hand with an overhand grip.",
+                    "Extend your arm straight out in front of you, keeping it parallel to the floor.",
+                    "Slowly raise the cable up to shoulder height, keeping your arm straight.",
+                    "Pause for a moment at the top of the movement, then slowly lower the cable back down to the starting position.",
+                    "Repeat for the desired number of repetitions, then switch arms and repeat the exercise on the other side."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Cable One Arm Front Raise Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Cable One Arm Front Raise Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the upper back muscles",
+                    "Improves posture",
+                    "Increases shoulder stability",
+                    "Targets the rear deltoids",
+                    "Can be done with minimal equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cable One Arm Front Raise Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Anterior deltoid",
+                    "Lateral deltoid",
+                    "Supraspinatus"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cable One Arm Front Raise Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "cable-one-arm-lateral-raise",
+                    "cable-one-arm-rear-delt-fly",
+                    "cable-one-arm-shoulder-press",
+                    "cable-one-arm-upright-row",
+                    "cable-one-arm-bent-over-rear-delt-fly"
+                ]
+            }
+        }
+    ]
+}

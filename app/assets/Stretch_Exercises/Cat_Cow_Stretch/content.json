@@ -1,0 +1,75 @@
+{
+    "title": "Cat Cow Stretch",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Cat Cow Stretch Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start on your hands and knees with your wrists directly under your shoulders and your knees directly under your hips.",
+                    "Inhale and arch your back, lifting your head and tailbone towards the ceiling. This is the “cat” position.",
+                    "Exhale and round your spine, tucking your chin to your chest and bringing your tailbone towards your knees. This is the “cow” position.",
+                    "Repeat the cat and cow positions for several breaths, moving smoothly and slowly between the two positions.",
+                    "Focus on the movement of your spine and the stretch in your back.",
+                    "Finish by returning to a neutral spine position."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Cat Cow Stretch Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Cat Cow Stretch Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves spinal flexibility and mobility",
+                    "Stretches the back, hips, and abdomen",
+                    "Relieves tension and stress in the spine and neck",
+                    "Increases circulation to the spinal discs and nerves",
+                    "Helps improve posture and alignment",
+                    "Can be done as a gentle warm-up or cool-down exercise"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cat Cow Stretch Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Abdominal muscles",
+                    "Back muscles",
+                    "Neck muscles",
+                    "Chest muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cat Cow Stretch Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Cat Cow Stretch with arm reach",
+                    "Cat Cow Stretch with leg extension",
+                    "Cat Cow Stretch with spinal twist",
+                    "Cat Cow Stretch with hip circles",
+                    "Cat Cow Stretch with neck stretch"
+                ]
+            }
+        }
+    ]
+}

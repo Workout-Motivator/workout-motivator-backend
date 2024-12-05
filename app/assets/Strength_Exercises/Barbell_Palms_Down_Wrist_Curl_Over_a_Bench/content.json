@@ -1,0 +1,73 @@
+{
+    "title": "Barbell Palms Down Wrist Curl Over a Bench",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Barbell Palms Down Wrist Curl Over a Bench Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Place a bench in front of you and position a barbell on the floor behind it.",
+                    "Kneel down in front of the bench and grasp the barbell with an overhand grip, with your palms facing down.",
+                    "Rest your forearms on the bench, with your wrists hanging over the edge.",
+                    "Curl your wrists upwards, lifting the barbell towards your forearms.",
+                    "Pause briefly at the top of the movement, then slowly lower the barbell back down to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Barbell Palms Down Wrist Curl Over a Bench Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Barbell Palms Down Wrist Curl Over a Bench Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the wrist flexors and extensors",
+                    "Improves grip strength",
+                    "Helps prevent wrist injuries",
+                    "Can improve performance in sports that require wrist strength, such as tennis or golf",
+                    "Can be done with relatively light weights, making it accessible for beginners"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Barbell Palms Down Wrist Curl Over a Bench Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Forearm flexors"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Barbell Palms Down Wrist Curl Over a Bench Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Barbell Palms Up Wrist Curl Over A Bench",
+                    "Dumbbell Palms Down Wrist Curl Over A Bench",
+                    "Dumbbell Palms Up Wrist Curl Over A Bench",
+                    "Reverse Barbell Palms Up Wrist Curl Over A Bench",
+                    "Reverse Dumbbell Palms Up Wrist Curl Over A Bench",
+                    "Plate Palms Down Wrist Curl Over A Bench",
+                    "Plate Palms Up Wrist Curl Over A Bench"
+                ]
+            }
+        }
+    ]
+}

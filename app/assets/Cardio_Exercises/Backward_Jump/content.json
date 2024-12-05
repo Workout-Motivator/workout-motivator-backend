@@ -1,0 +1,77 @@
+{
+    "title": "Backward Jump",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Backward Jump Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your arms at your sides.",
+                    "Bend your knees slightly and jump backwards as far as you can.",
+                    "Land softly on the balls of your feet and immediately jump backwards again.",
+                    "Repeat for the desired number of repetitions or time."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Backward Jump Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Backward Jump Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves explosive power in the legs",
+                    "Increases agility and coordination",
+                    "Strengthens the lower body muscles, including the glutes, hamstrings, and calves",
+                    "Improves cardiovascular endurance",
+                    "Can be done with minimal equipment and space"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Backward Jump Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calf muscles",
+                    "Core muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Backward Jump Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Forward Jump",
+                    "Lateral Jump",
+                    "Single-Leg Jump",
+                    "Box Jump",
+                    "Tuck Jump",
+                    "Split Squat Jump",
+                    "Skater Jump",
+                    "Broad Jump",
+                    "Depth Jump"
+                ]
+            }
+        }
+    ]
+}

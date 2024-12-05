@@ -1,0 +1,76 @@
+{
+    "title": "Downward Facing Dog",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Downward Facing Dog Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start on your hands and knees with your wrists directly under your shoulders and your knees directly under your hips.",
+                    "Spread your fingers wide and press firmly through your palms and knuckles, tucking your toes under.",
+                    "Exhale and lift your knees away from the floor, keeping them slightly bent.",
+                    "Lengthen your tailbone away from the back of your pelvis and press it lightly toward the pubis.",
+                    "Press your heels down toward the floor and straighten your legs, but do not lock your knees.",
+                    "Keep your head between your upper arms and your gaze toward your navel.",
+                    "Hold for 5-10 breaths, then release back to your hands and knees."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Downward Facing Dog Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Downward Facing Dog Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Stretches the hamstrings, calves, and spine",
+                    "Strengthens the arms and shoulders",
+                    "Improves digestion and relieves stress",
+                    "Helps to relieve headaches, fatigue, and back pain",
+                    "Can improve posture and balance"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Downward Facing Dog Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Shoulders",
+                    "Arms",
+                    "Back",
+                    "Hamstrings",
+                    "Calves"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Downward Facing Dog Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Three-Legged Downward Facing Dog",
+                    "Downward Facing Dog with Alternating Leg Lifts",
+                    "Downward Facing Dog with Knee-to-Nose",
+                    "Downward Facing Dog with Dolphin Plank",
+                    "Downward Facing Dog with Side Plank"
+                ]
+            }
+        }
+    ]
+}

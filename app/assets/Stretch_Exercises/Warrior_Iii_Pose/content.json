@@ -1,0 +1,84 @@
+{
+    "title": "Warrior Iii Pose",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Warrior Iii Pose Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Begin in a standing position with your feet hip-width apart.",
+                    "Shift your weight onto your left foot and lift your right leg off the ground, bending your knee and bringing it towards your chest.",
+                    "Extend your right leg straight back behind you, keeping it parallel to the ground.",
+                    "Reach your arms forward, keeping them parallel to the ground as well.",
+                    "Engage your core and lengthen through your spine, creating a straight line from your fingertips to your toes.",
+                    "Hold the pose for several breaths, then release and repeat on the other side."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Warrior Iii Pose Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Warrior Iii Pose Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens legs, arms, and back muscles",
+                    "Improves balance and stability",
+                    "Stretches hips, thighs, and ankles",
+                    "Increases focus and concentration",
+                    "Relieves stress and anxiety",
+                    "Improves digestion and circulation"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Warrior Iii Pose Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Glutes",
+                    "Hamstrings",
+                    "Quadriceps",
+                    "Core muscles",
+                    "Back muscles",
+                    "Shoulder muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Warrior Iii Pose Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Warrior I Pose",
+                    "Warrior II Pose",
+                    "Reverse Warrior Pose",
+                    "Extended Side Angle Pose",
+                    "Half Moon Pose",
+                    "Triangle Pose",
+                    "Revolved Triangle Pose",
+                    "Bound Triangle Pose",
+                    "Warrior III Pose with arms extended",
+                    "Warrior III Pose with hands in prayer position",
+                    "Warrior III Pose with hands clasped behind back",
+                    "Warrior III Pose with one arm extended forward and one arm extended back"
+                ]
+            }
+        }
+    ]
+}

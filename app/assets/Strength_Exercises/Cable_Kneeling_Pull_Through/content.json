@@ -1,0 +1,73 @@
+{
+    "title": "Cable Kneeling Pull Through",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Cable Kneeling Pull Through Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Attach a cable to a low pulley and adjust the weight accordingly.",
+                    "Kneel down facing away from the cable machine and grab the handle with both hands between your legs.",
+                    "Keep your back straight and your core engaged as you pull the cable towards your hips.",
+                    "Pause for a moment at the end of the movement, then slowly release the cable back to the starting position.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Cable Kneeling Pull Through Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Cable Kneeling Pull Through Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets multiple muscle groups including glutes, hamstrings, and lower back",
+                    "Improves hip mobility and flexibility",
+                    "Helps to strengthen the core and improve posture",
+                    "Can be modified for different fitness levels by adjusting the weight and resistance",
+                    "Low impact exercise that is easy on the joints"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cable Kneeling Pull Through Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Glutes",
+                    "Hamstrings",
+                    "Lower back",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cable Kneeling Pull Through Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single Arm Cable Kneeling Pull Through",
+                    "Resistance Band Kneeling Pull Through",
+                    "Barbell Kneeling Pull Through",
+                    "Dumbbell Kneeling Pull Through",
+                    "Medicine Ball Kneeling Pull Through"
+                ]
+            }
+        }
+    ]
+}

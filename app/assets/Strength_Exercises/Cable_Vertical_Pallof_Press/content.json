@@ -1,0 +1,75 @@
+{
+    "title": "Cable Vertical Pallof Press",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Cable Vertical Pallof Press Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand perpendicular to a cable machine with the cable at chest height.",
+                    "Grasp the handle with both hands and step away from the machine until there is tension on the cable.",
+                    "Brace your core and maintain an upright posture.",
+                    "Press the handle away from your chest, extending your arms fully.",
+                    "Hold this position for a few seconds, then slowly bring the handle back towards your chest.",
+                    "Repeat for the desired number of repetitions, then switch sides and repeat."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Cable Vertical Pallof Press Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Cable Vertical Pallof Press Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the latissimus dorsi muscles, which are responsible for pulling movements and contribute to overall upper body strength",
+                    "Engages the biceps, forearms, and upper back muscles as secondary muscles",
+                    "Improves posture and spinal stability",
+                    "Increases grip strength",
+                    "Can be modified for different fitness levels and goals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cable Vertical Pallof Press Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Obliques",
+                    "Transverse Abdominis",
+                    "Erector Spinae",
+                    "Glutes",
+                    "Quadriceps"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cable Vertical Pallof Press Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "cable horizontal pallof press",
+                    "cable diagonal pallof press",
+                    "cable anti-rotation hold",
+                    "cable chop",
+                    "cable lift"
+                ]
+            }
+        }
+    ]
+}

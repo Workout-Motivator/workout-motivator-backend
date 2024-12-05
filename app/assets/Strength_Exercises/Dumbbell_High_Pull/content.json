@@ -1,0 +1,78 @@
+{
+    "title": "Dumbbell High Pull",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell High Pull Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a dumbbell in each hand with an overhand grip.",
+                    "Bend your knees slightly and hinge forward at the hips, keeping your back straight and your core engaged.",
+                    "As you exhale, pull the dumbbells up towards your shoulders, keeping your elbows high and your wrists straight.",
+                    "Pause at the top of the movement, then slowly lower the dumbbells back down to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell High Pull Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell High Pull Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets multiple muscle groups including the shoulders, back, and arms",
+                    "Improves upper body strength and power",
+                    "Increases cardiovascular endurance",
+                    "Improves posture and stability",
+                    "Can be modified for different fitness levels and goals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell High Pull Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Trapezius",
+                    "Deltoids",
+                    "Rhomboids",
+                    "Biceps",
+                    "Forearms",
+                    "Glutes",
+                    "Hamstrings",
+                    "Quadriceps",
+                    "Core muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell High Pull Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Hang High Pull",
+                    "Dumbbell Clean High Pull",
+                    "Dumbbell Snatch High Pull",
+                    "Kettlebell High Pull",
+                    "Barbell High Pull"
+                ]
+            }
+        }
+    ]
+}

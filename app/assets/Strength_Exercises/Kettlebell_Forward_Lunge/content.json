@@ -1,0 +1,76 @@
+{
+    "title": "Kettlebell Forward Lunge",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Forward Lunge Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet hip-width apart, holding a kettlebell in your right hand at shoulder height.",
+                    "Step forward with your left foot, bending both knees to lower your body into a lunge position.",
+                    "As you lunge forward, press the kettlebell overhead with your right arm.",
+                    "Push off your left foot to return to the starting position, lowering the kettlebell back to shoulder height.",
+                    "Repeat on the other side, stepping forward with your right foot and pressing the kettlebell overhead with your left arm.",
+                    "Continue alternating sides for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Forward Lunge Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Forward Lunge Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the lower body muscles, including the quadriceps, hamstrings, and glutes",
+                    "Improves balance and stability",
+                    "Engages the core muscles for added stability and strength",
+                    "Increases cardiovascular endurance",
+                    "Can be modified for different fitness levels and goals",
+                    "Can be done with minimal equipment and space"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Forward Lunge Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Forward Lunge Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Kettlebell Reverse Lunge",
+                    "Kettlebell Walking Lunge",
+                    "Kettlebell Side Lunge",
+                    "Kettlebell Curtsy Lunge",
+                    "Kettlebell Goblet Lunge"
+                ]
+            }
+        }
+    ]
+}

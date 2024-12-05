@@ -1,0 +1,85 @@
+{
+    "title": "Cable Rope Crossover Seated Row",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Cable Rope Crossover Seated Row Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Attach a cable rope to a high pulley on a cable machine.",
+                    "Sit on the machine with your feet flat on the floor and your knees slightly bent.",
+                    "Grasp the cable rope with both hands, palms facing each other.",
+                    "Extend your arms out to the sides, keeping a slight bend in your elbows.",
+                    "Bring your hands together in front of your chest, crossing the rope over each other.",
+                    "Slowly release the rope back to the starting position, keeping a slight bend in your elbows.",
+                    "Repeat for desired number of reps.",
+                    "For the seated row, adjust the cable machine to a low pulley and attach a straight bar.",
+                    "Sit on the machine with your feet flat on the footrests and your knees slightly bent.",
+                    "Grasp the bar with an overhand grip, hands shoulder-width apart.",
+                    "Keeping your back straight, pull the bar towards your chest, squeezing your shoulder blades together.",
+                    "Slowly release the bar back to the starting position.",
+                    "Repeat for desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Cable Rope Crossover Seated Row Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Cable Rope Crossover Seated Row Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets multiple muscle groups including the back, shoulders, and biceps",
+                    "Improves posture and upper body strength",
+                    "Allows for a full range of motion and can be adjusted for different fitness levels",
+                    "Helps to prevent injury by strengthening the muscles that support the spine",
+                    "Can be used as a warm-up or as part of a full workout routine"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cable Rope Crossover Seated Row Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rhomboids",
+                    "Trapezius",
+                    "Latissimus dorsi",
+                    "Biceps",
+                    "Forearms"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cable Rope Crossover Seated Row Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Cable Rope Crossover",
+                    "Seated Row",
+                    "Single-Arm Cable Rope Crossover",
+                    "Wide-Grip Seated Row",
+                    "Narrow-Grip Seated Row",
+                    "Reverse-Grip Seated Row",
+                    "One-Arm Dumbbell Row",
+                    "T-Bar Row"
+                ]
+            }
+        }
+    ]
+}

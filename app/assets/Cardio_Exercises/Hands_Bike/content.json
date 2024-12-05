@@ -1,0 +1,80 @@
+{
+    "title": "Hands Bike",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Hands Bike Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Adjust the seat height of the stationary bike so that your hands can comfortably reach the handlebars.",
+                    "Sit on the bike seat and place your hands on the handlebars.",
+                    "Start pedaling the bike with your feet while keeping your hands on the handlebars.",
+                    "Gradually increase the resistance on the bike to make the exercise more challenging.",
+                    "Continue pedaling for the desired amount of time or until you reach your fitness goal."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Hands Bike Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Hands Bike Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves cardiovascular health",
+                    "Strengthens upper body muscles, including arms, shoulders, and back",
+                    "Increases endurance and stamina",
+                    "Low-impact exercise that is easy on joints",
+                    "Can be done indoors or outdoors",
+                    "Can be adjusted to different levels of intensity"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Hands Bike Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Forearm muscles",
+                    "Biceps",
+                    "Triceps",
+                    "Deltoids",
+                    "Trapezius",
+                    "Latissimus dorsi",
+                    "Abdominals",
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Gastrocnemius"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Hands Bike Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Hands bike with resistance bands",
+                    "Hands bike with dumbbells",
+                    "Hands bike with kettlebells",
+                    "Hands bike with medicine ball",
+                    "Hands bike with weighted gloves"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "title": "Medicine Ball Overhead Throw",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Medicine Ball Overhead Throw Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a medicine ball with both hands at chest level.",
+                    "Engage your core and lift the ball overhead, fully extending your arms.",
+                    "Take a step forward with your left foot and shift your weight onto your left leg.",
+                    "As you step forward, forcefully throw the ball forward and down towards the ground.",
+                    "Release the ball just before it reaches the ground.",
+                    "Repeat the exercise, alternating legs with each throw."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Medicine Ball Overhead Throw Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Medicine Ball Overhead Throw Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves power and explosiveness in the upper body",
+                    "Targets the shoulders, chest, and triceps",
+                    "Engages the core muscles for stability and balance",
+                    "Can be used as a full-body warm-up exercise",
+                    "Can be modified for different fitness levels and goals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Medicine Ball Overhead Throw Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Shoulders",
+                    "Triceps",
+                    "Core",
+                    "Legs"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Medicine Ball Overhead Throw Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Medicine Ball Slam",
+                    "Medicine Ball Chest Pass",
+                    "Medicine Ball Side Throw",
+                    "Medicine Ball Rotational Throw",
+                    "Medicine Ball Wall Throw"
+                ]
+            }
+        }
+    ]
+}

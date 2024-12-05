@@ -1,0 +1,74 @@
+{
+    "title": "Exercise Ball Lat Stretch",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Exercise Ball Lat Stretch Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by sitting on an exercise ball with your feet flat on the ground.",
+                    "Slowly walk your feet forward, rolling the ball underneath you until your lower back is supported by the ball.",
+                    "Place your hands behind your head and gently lean back, allowing your upper back and shoulders to stretch over the ball.",
+                    "Hold the stretch for 10-15 seconds, then slowly return to the starting position.",
+                    "Repeat the stretch for 2-3 sets of 10-15 repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Exercise Ball Lat Stretch Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Exercise Ball Lat Stretch Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens hamstrings",
+                    "Improves balance and stability",
+                    "Engages core muscles",
+                    "Increases flexibility in hips and legs",
+                    "Can be modified for different fitness levels"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Exercise Ball Lat Stretch Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Latissimus dorsi",
+                    "Teres major",
+                    "Rhomboids",
+                    "Trapezius",
+                    "Deltoids"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Exercise Ball Lat Stretch Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Exercise ball lat stretch",
+                    "Standing lat stretch",
+                    "Seated lat stretch",
+                    "Doorway lat stretch",
+                    "Wall lat stretch"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "title": "Band Pushdown",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Band Pushdown Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by attaching a resistance band to a sturdy anchor point, such as a door frame or squat rack.",
+                    "Stand facing away from the anchor point and hold the band with both hands at shoulder height, palms facing forward.",
+                    "Step forward to create tension in the band, keeping your feet shoulder-width apart and your core engaged.",
+                    "Slowly lower your hands down towards your chest, keeping your elbows close to your sides.",
+                    "Pause at the bottom of the movement, then slowly push your hands back up to the starting position.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Band Pushdown Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Band Pushdown Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the triceps muscles, helping to build strength and definition in the arms",
+                    "Can be done with a resistance band, making it a convenient exercise to do at home or while traveling",
+                    "Allows for a full range of motion, helping to engage the triceps muscles more effectively",
+                    "Can be modified by changing the position of the hands or the resistance of the band to increase or decrease the difficulty of the exercise",
+                    "Helps to improve overall upper body strength and stability"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Band Pushdown Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Triceps brachii",
+                    "Anconeus"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Band Pushdown Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single-arm band pushdown",
+                    "Reverse-grip band pushdown",
+                    "Overhead band pushdown",
+                    "Close-grip band pushdown",
+                    "Wide-grip band pushdown",
+                    "Paused band pushdown",
+                    "Slow eccentric band pushdown",
+                    "Band pushdown with external rotation",
+                    "Band pushdown with internal rotation"
+                ]
+            }
+        }
+    ]
+}

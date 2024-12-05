@@ -1,0 +1,73 @@
+{
+    "title": "Assisted Parallel Close Grip Pull Up",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Assisted Parallel Close Grip Pull Up Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand under the pull-up bar and reach up to grab it with a close grip, with your palms facing towards you.",
+                    "Jump up or use a step to get your chin above the bar.",
+                    "Lower yourself down slowly, keeping your elbows close to your body.",
+                    "When your arms are fully extended, pull yourself back up to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Assisted Parallel Close Grip Pull Up Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Assisted Parallel Close Grip Pull Up Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens abdominal muscles",
+                    "Improves core stability",
+                    "Assists in developing proper form for full sit-ups",
+                    "Can be modified for different fitness levels",
+                    "Can be done with minimal equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Assisted Parallel Close Grip Pull Up Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Biceps",
+                    "Forearms",
+                    "Lats",
+                    "Middle back",
+                    "Rhomboids",
+                    "Trapezius"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Assisted Parallel Close Grip Pull Up Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Assisted pull-up",
+                    "Parallel grip pull-up",
+                    "Close grip pull-up"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "title": "Dumbbell Biceps Curl",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Biceps Curl Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a dumbbell in each hand with your palms facing forward.",
+                    "Keep your elbows close to your sides and slowly lift the dumbbells towards your shoulders, while exhaling.",
+                    "Pause for a moment at the top of the movement, then slowly lower the dumbbells back down to the starting position, while inhaling.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Biceps Curl Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Biceps Curl Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Increases bicep strength and size",
+                    "Improves grip strength",
+                    "Targets the biceps brachii muscle",
+                    "Can be done with a variety of weights and equipment",
+                    "Can be easily modified for different fitness levels",
+                    "Helps to improve overall upper body strength and aesthetics"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Biceps Curl Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Biceps brachii",
+                    "Brachialis",
+                    "Brachioradialis"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Biceps Curl Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Hammer Curl",
+                    "Concentration Curl",
+                    "Preacher Curl",
+                    "Reverse Curl",
+                    "Spider Curl"
+                ]
+            }
+        }
+    ]
+}

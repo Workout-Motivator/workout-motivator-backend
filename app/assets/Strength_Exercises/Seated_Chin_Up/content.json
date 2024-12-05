@@ -1,0 +1,77 @@
+{
+    "title": "Seated Chin Up",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Seated Chin Up Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Find a chin-up bar that is at a height where you can sit on a bench or chair and reach it comfortably.",
+                    "Sit on the bench or chair and grip the bar with your palms facing towards you and your hands shoulder-width apart.",
+                    "Engage your core and pull your shoulder blades down and back.",
+                    "Bend your elbows and pull your chest towards the bar, keeping your elbows close to your body.",
+                    "Pause at the top of the movement and then slowly lower yourself back down to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Seated Chin Up Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Seated Chin Up Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the biceps, back, and shoulders",
+                    "Improves grip strength",
+                    "Targets the upper back muscles, which can improve posture",
+                    "Can be modified for different fitness levels by adjusting the weight or using assistance bands",
+                    "Can be done with minimal equipment, making it a convenient exercise to do at home or while traveling"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Seated Chin Up Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Biceps",
+                    "Forearms",
+                    "Upper back (latissimus dorsi)",
+                    "Shoulders (deltoids)"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Seated Chin Up Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Assisted Seated Chin up",
+                    "Weighted Seated Chin up",
+                    "One Arm Seated Chin up",
+                    "Close Grip Seated Chin up",
+                    "Wide Grip Seated Chin up",
+                    "Behind the Neck Seated Chin up",
+                    "Isometric Seated Chin up",
+                    "Negative Seated Chin up"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "title": "Dumbbell Lying Supination",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Lying Supination Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on your back on a flat bench with your feet flat on the floor and your knees bent.",
+                    "Hold a dumbbell in each hand with your palms facing down and your arms extended straight up towards the ceiling.",
+                    "Slowly rotate your palms so that they are facing up towards the ceiling, while keeping your arms straight.",
+                    "Lower the dumbbells back down to the starting position with your palms facing down.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Lying Supination Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Lying Supination Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the muscles in the chest, shoulders, and arms",
+                    "Improves posture and stability in the upper body",
+                    "Targets the biceps and forearms for added arm definition",
+                    "Can be done with a variety of weights to increase or decrease intensity",
+                    "Engages the core muscles for added abdominal strength"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Lying Supination Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Chest muscles (pectoralis major and minor)",
+                    "Shoulder muscles (anterior deltoid)",
+                    "Triceps brachii",
+                    "Biceps brachii"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Lying Supination Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Lying Pronation",
+                    "Dumbbell Flyes",
+                    "Dumbbell Pullover",
+                    "Dumbbell Bench Press",
+                    "Dumbbell Incline Press"
+                ]
+            }
+        }
+    ]
+}

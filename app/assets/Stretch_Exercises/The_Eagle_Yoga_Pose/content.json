@@ -1,0 +1,84 @@
+{
+    "title": "The Eagle Yoga Pose",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "The Eagle Yoga Pose Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Begin in a standing position with your feet hip-width apart.",
+                    "Take a deep breath in and as you exhale, bend your knees slightly.",
+                    "Lift your right leg and cross it over your left thigh, placing your right foot behind your left calf.",
+                    "Bring your arms out to the sides, parallel to the floor.",
+                    "Cross your left arm over your right arm at the elbows, bringing your palms together.",
+                    "Hold the pose for 5-10 breaths, focusing on your balance and breathing.",
+                    "Release the pose by slowly uncrossing your arms and legs and returning to a standing position.",
+                    "Repeat on the other side, crossing your left leg over your right thigh and left arm over your right arm."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_0.webp"
+        },
+        {
+            "type": "section",
+            "title": "The Eagle Yoga Pose Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "The Eagle Yoga Pose Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the arms, shoulders, and upper back muscles",
+                    "Improves balance and stability",
+                    "Stretches the hips, thighs, and calves",
+                    "Increases focus and concentration",
+                    "Improves respiratory function",
+                    "Relieves stress and anxiety"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "The Eagle Yoga Pose Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Shoulders",
+                    "Upper back",
+                    "Triceps",
+                    "Forearms",
+                    "Thighs",
+                    "Hips",
+                    "Glutes"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "The Eagle Yoga Pose Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Half Eagle Pose",
+                    "Garudasana (Eagle Pose) with a forward fold",
+                    "Garudasana (Eagle Pose) with a backbend",
+                    "Garudasana (Eagle Pose) with a twist",
+                    "Garudasana (Eagle Pose) with a side bend",
+                    "Garudasana (Eagle Pose) with a bound half lotus",
+                    "Garudasana (Eagle Pose) with a bound full lotus",
+                    "Garudasana (Eagle Pose) with a bound extended big toe pose",
+                    "Garudasana (Eagle Pose) with a bound revolved half moon pose"
+                ]
+            }
+        }
+    ]
+}

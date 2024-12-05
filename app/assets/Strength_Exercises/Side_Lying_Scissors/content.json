@@ -1,0 +1,74 @@
+{
+    "title": "Side Lying Scissors",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Side Lying Scissors Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on your side with your legs straight and stacked on top of each other.",
+                    "Place your bottom arm out in front of you for support and your top hand on your hip.",
+                    "Engage your core and lift your top leg up towards the ceiling, keeping it straight.",
+                    "Lower your leg back down to meet your bottom leg, but don’t let it touch.",
+                    "Repeat this movement for 10-15 reps, then switch sides and repeat on the other side."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Side Lying Scissors Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Side Lying Scissors Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the inner and outer thighs",
+                    "Improves hip stability and mobility",
+                    "Strengthens the core muscles",
+                    "Can be modified for different fitness levels",
+                    "Can be done without equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Side Lying Scissors Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Obliques",
+                    "Transverse Abdominis",
+                    "Hip Flexors",
+                    "Glutes",
+                    "Quadriceps"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Side Lying Scissors Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Side Lying Leg Lifts",
+                    "Side Lying Clamshells",
+                    "Side Lying Inner Thigh Lifts",
+                    "Side Lying Bicycle Crunches",
+                    "Side Lying Hip Abduction"
+                ]
+            }
+        }
+    ]
+}

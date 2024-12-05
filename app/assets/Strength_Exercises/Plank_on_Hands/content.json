@@ -1,0 +1,81 @@
+{
+    "title": "Plank on Hands",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Plank on Hands Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start in a push-up position with your hands directly under your shoulders and your body in a straight line from head to heels.",
+                    "Engage your core and glutes to keep your body stable.",
+                    "Hold this position for the desired amount of time, typically 30 seconds to 1 minute.",
+                    "Make sure to breathe deeply and evenly throughout the exercise.",
+                    "To release, lower your knees to the ground and rest for a few seconds before standing up."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Plank on Hands Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Plank on Hands Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens core muscles",
+                    "Improves posture",
+                    "Reduces risk of back pain",
+                    "Increases stability and balance",
+                    "Improves overall body strength"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Plank on Hands Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus Abdominis",
+                    "Transverse Abdominis",
+                    "Obliques",
+                    "Erector Spinae",
+                    "Glutes",
+                    "Quadriceps",
+                    "Shoulders",
+                    "Chest"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Plank on Hands Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Plank on Forearms",
+                    "Side Plank",
+                    "Reverse Plank",
+                    "Plank with Leg Lifts",
+                    "Plank with Shoulder Taps",
+                    "Plank with Knee-to-Elbow",
+                    "Plank with Hip Dips",
+                    "Plank with Arm Raises",
+                    "Plank with Alternating Arm and Leg Lifts"
+                ]
+            }
+        }
+    ]
+}

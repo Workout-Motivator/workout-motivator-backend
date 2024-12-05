@@ -1,0 +1,79 @@
+{
+    "title": "Alternate Leg Raise",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Alternate Leg Raise Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying flat on your back on a mat or comfortable surface.",
+                    "Place your hands by your sides with your palms facing down.",
+                    "Engage your core muscles by pulling your belly button towards your spine.",
+                    "Lift your right leg off the ground, keeping it straight and raising it to a 45-degree angle.",
+                    "Hold this position for a few seconds, then slowly lower your leg back down to the starting position.",
+                    "Repeat the same movement with your left leg, lifting it to a 45-degree angle and holding for a few seconds before lowering it back down.",
+                    "Continue alternating legs for the desired number of repetitions or time."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Alternate Leg Raise Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Alternate Leg Raise Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the lower abdominal muscles",
+                    "Improves balance and stability",
+                    "Helps to reduce lower back pain",
+                    "Increases flexibility in the hips and lower back",
+                    "Can be done anywhere without equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Alternate Leg Raise Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus Abdominis",
+                    "Obliques",
+                    "Hip Flexors",
+                    "Quadriceps"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Alternate Leg Raise Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single Leg Raise",
+                    "Double Leg Raise",
+                    "Flutter Kicks",
+                    "Scissor Kicks",
+                    "Bicycle Crunches",
+                    "Reverse Crunches",
+                    "Leg Lifts with Hip Raise",
+                    "Plank Leg Raises",
+                    "Side Plank Leg Raises"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "title": "Seated Flutter Kick",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Seated Flutter Kick Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by sitting on the floor with your legs extended in front of you.",
+                    "Place your hands on the floor behind you for support.",
+                    "Lift your feet off the ground, keeping your legs straight.",
+                    "Begin to alternate kicking your legs up and down in a quick, fluttering motion.",
+                    "Continue for the desired amount of reps or time.",
+                    "Remember to engage your core and keep your back straight throughout the exercise."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Seated Flutter Kick Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Seated Flutter Kick Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the hip flexors and lower abs",
+                    "Improves core stability and balance",
+                    "Can be done anywhere without equipment",
+                    "Low impact exercise that is easy on the joints",
+                    "Can be modified to increase or decrease intensity"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Seated Flutter Kick Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus Abdominis",
+                    "Transverse Abdominis",
+                    "Obliques",
+                    "Hip Flexors"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Seated Flutter Kick Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Standing Flutter Kick",
+                    "Flutter Kicks on Back",
+                    "Flutter Kicks with Resistance Band",
+                    "Flutter Kicks with Medicine Ball",
+                    "Flutter Kicks with Dumbbells"
+                ]
+            }
+        }
+    ]
+}

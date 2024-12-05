@@ -1,0 +1,75 @@
+{
+    "title": "Kettlebell Snatch",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Snatch Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and the kettlebell on the ground in front of you.",
+                    "Bend down and grab the kettlebell with one hand, keeping your back straight and your core engaged.",
+                    "Stand up quickly, using the momentum to swing the kettlebell up to shoulder height.",
+                    "As the kettlebell reaches shoulder height, rotate your wrist and punch your hand up towards the ceiling, allowing the kettlebell to flip over and land on the back of your wrist.",
+                    "Lower the kettlebell back down to shoulder height and then swing it back down between your legs, bending your knees slightly as you do so.",
+                    "Repeat the movement for the desired number of reps before switching to the other hand."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Snatch Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Snatch Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the lower body muscles, including the glutes, hamstrings, and quadriceps",
+                    "Improves core stability and balance",
+                    "Increases grip strength and forearm muscles",
+                    "Helps to prevent lower back pain and injury",
+                    "Can be modified for different fitness levels and goals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Snatch Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Shoulders",
+                    "Back",
+                    "Glutes",
+                    "Hamstrings",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Snatch Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "kettlebell clean and press",
+                    "kettlebell swing",
+                    "kettlebell high pull",
+                    "kettlebell snatch and press",
+                    "kettlebell windmill"
+                ]
+            }
+        }
+    ]
+}

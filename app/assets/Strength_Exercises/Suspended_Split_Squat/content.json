@@ -1,0 +1,75 @@
+{
+    "title": "Suspended Split Squat",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Suspended Split Squat Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Begin by standing with your feet hip-width apart, facing away from a sturdy chair or bench.",
+                    "Place the top of your left foot on the chair or bench behind you, with your right foot planted firmly on the ground.",
+                    "Engage your core and slowly lower your body down into a lunge position, bending your right knee and keeping your left foot elevated behind you.",
+                    "Lower your body until your right thigh is parallel to the ground, making sure your knee does not extend past your toes.",
+                    "Pause for a moment, then push through your right heel to return to the starting position.",
+                    "Repeat for the desired number of reps, then switch sides and repeat the exercise with your left foot on the ground and your right foot elevated behind you."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Suspended Split Squat Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Suspended Split Squat Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves balance and stability",
+                    "Strengthens the lower body, including the glutes, quads, and hamstrings",
+                    "Increases flexibility in the hip flexors and ankles",
+                    "Engages the core muscles for added stability and strength",
+                    "Can be modified for different fitness levels and goals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Suspended Split Squat Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Suspended Split Squat Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Bulgarian Split Squat",
+                    "Single Leg Squat",
+                    "Split Squat Jump",
+                    "Reverse Lunge",
+                    "Walking Lunge"
+                ]
+            }
+        }
+    ]
+}

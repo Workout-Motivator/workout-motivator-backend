@@ -1,0 +1,74 @@
+{
+    "title": "Band Overhead Triceps Extension",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Band Overhead Triceps Extension Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a resistance band with both hands, palms facing up.",
+                    "Bring the band overhead, keeping your elbows close to your head.",
+                    "Slowly lower the band behind your head, bending your elbows and keeping your upper arms stationary.",
+                    "Pause for a moment, then slowly raise the band back to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Band Overhead Triceps Extension Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Band Overhead Triceps Extension Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the triceps muscles, helping to tone and strengthen them",
+                    "Improves overall arm strength and definition",
+                    "Can be done with a resistance band, making it a convenient and portable exercise",
+                    "Engages the core muscles for added stability and balance",
+                    "Can be modified to target different areas of the triceps by adjusting the grip or angle of the band"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Band Overhead Triceps Extension Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Triceps brachii",
+                    "Anconeus"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Band Overhead Triceps Extension Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single-arm band overhead triceps extension",
+                    "Double-arm band overhead triceps extension",
+                    "Seated band overhead triceps extension",
+                    "Standing band overhead triceps extension",
+                    "Band overhead triceps extension with a twist",
+                    "Band overhead triceps extension with a squat",
+                    "Band overhead triceps extension with a lunge",
+                    "Band overhead triceps extension with a calf raise"
+                ]
+            }
+        }
+    ]
+}

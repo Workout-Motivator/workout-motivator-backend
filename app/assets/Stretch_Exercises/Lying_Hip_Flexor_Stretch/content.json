@@ -1,0 +1,77 @@
+{
+    "title": "Lying Hip Flexor Stretch",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Lying Hip Flexor Stretch Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on your back with your knees bent and feet flat on the ground.",
+                    "Bring your right knee towards your chest and hold onto your shin with both hands.",
+                    "Slowly straighten your left leg along the ground.",
+                    "Keeping your right knee close to your chest, use your left hand to gently press your right knee towards your left shoulder.",
+                    "Hold the stretch for 15-30 seconds, then release and switch sides."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Lying Hip Flexor Stretch Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Lying Hip Flexor Stretch Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves hip flexibility and mobility",
+                    "Reduces lower back pain and tension",
+                    "Stretches the hip flexor muscles, which can become tight from prolonged sitting or standing",
+                    "Helps to improve posture and alignment",
+                    "May improve athletic performance by increasing range of motion in the hips"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Lying Hip Flexor Stretch Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus femoris",
+                    "Iliopsoas",
+                    "Sartorius"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Lying Hip Flexor Stretch Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Standing Hip Flexor Stretch",
+                    "Kneeling Hip Flexor Stretch",
+                    "Seated Hip Flexor Stretch",
+                    "Butterfly Stretch",
+                    "Pigeon Pose",
+                    "Runner’s Lunge",
+                    "Low Lunge",
+                    "High Lunge",
+                    "Warrior I Pose",
+                    "Warrior II Pose"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "title": "Clock Push Up",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Clock Push Up Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start in a plank position with your hands directly under your shoulders and your feet hip-width apart.",
+                    "Lower your body down towards the ground, keeping your elbows close to your sides.",
+                    "As you push back up, lift one hand off the ground and rotate your body to the side, extending your arm towards the ceiling.",
+                    "Return to the plank position and repeat on the other side.",
+                    "Continue alternating sides for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Clock Push Up Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Clock Push Up Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the chest, triceps, and shoulders",
+                    "Improves upper body strength and endurance",
+                    "Engages the core muscles for stability",
+                    "Increases range of motion in the shoulders",
+                    "Can be modified for different fitness levels"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Clock Push Up Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Chest muscles (pectoralis major and minor)",
+                    "Shoulder muscles (deltoids)",
+                    "Triceps",
+                    "Core muscles (abdominals and obliques)"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Clock Push Up Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Spiderman Push Up",
+                    "Decline Push Up",
+                    "One-Arm Push Up",
+                    "Clap Push Up",
+                    "Wide Grip Push Up"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "title": "Kettlebell Burpee",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Burpee Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by standing with your feet shoulder-width apart, holding a kettlebell in both hands at chest level.",
+                    "Squat down and place the kettlebell on the ground in front of you.",
+                    "Jump your feet back into a plank position, keeping your hands on the kettlebell.",
+                    "Perform a push-up, lowering your body until your chest touches the kettlebell.",
+                    "Jump your feet back up to your hands, grabbing the kettlebell again.",
+                    "Stand up, lifting the kettlebell up to chest level as you do so.",
+                    "Press the kettlebell overhead, extending your arms fully.",
+                    "Lower the kettlebell back down to chest level and repeat the exercise for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_0.webp"
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Burpee Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Burpee Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Full body workout",
+                    "Improves cardiovascular endurance",
+                    "Increases strength and power",
+                    "Enhances coordination and balance",
+                    "Burns calories and promotes weight loss",
+                    "Can be modified for different fitness levels",
+                    "Requires minimal equipment",
+                    "Can be done anywhere"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Burpee Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Chest",
+                    "Shoulders",
+                    "Triceps",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Burpee Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Kettlebell Burpee with Push-up",
+                    "Kettlebell Burpee with Row",
+                    "Kettlebell Burpee with Clean and Press",
+                    "Kettlebell Burpee with Goblet Squat",
+                    "Kettlebell Burpee with Deadlift"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "title": "Cable Rope Seated Row",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Cable Rope Seated Row Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Adjust the cable machine to the appropriate weight and attach the rope handle to the cable.",
+                    "Sit on the bench with your feet flat on the floor and your knees bent.",
+                    "Grasp the rope handle with both hands, palms facing each other.",
+                    "Keep your back straight and your shoulders relaxed.",
+                    "Begin the exercise by pulling the rope towards your body, keeping your elbows close to your sides.",
+                    "Squeeze your shoulder blades together at the end of the movement.",
+                    "Slowly release the rope back to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Cable Rope Seated Row Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Cable Rope Seated Row Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets multiple muscle groups including the back, shoulders, and arms",
+                    "Improves posture and spinal alignment",
+                    "Increases overall strength and muscle endurance",
+                    "Allows for a greater range of motion compared to traditional seated rows",
+                    "Can be easily modified to target specific areas of the back or shoulders"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cable Rope Seated Row Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rhomboids",
+                    "Trapezius",
+                    "Erector Spinae",
+                    "Biceps",
+                    "Forearms"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cable Rope Seated Row Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Close-grip cable rope seated row",
+                    "Wide-grip cable rope seated row",
+                    "Reverse-grip cable rope seated row",
+                    "Single-arm cable rope seated row",
+                    "Low-pulley cable rope seated row"
+                ]
+            }
+        }
+    ]
+}

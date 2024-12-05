@@ -1,0 +1,80 @@
+{
+    "title": "Hip Raise Crunch",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Hip Raise Crunch Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on your back with your knees bent and feet flat on the ground.",
+                    "Place your hands by your sides with your palms facing down.",
+                    "Lift your hips off the ground, squeezing your glutes and engaging your core.",
+                    "Hold this position for a few seconds, then lower your hips back down to the ground.",
+                    "Next, lift your shoulders off the ground and bring your knees towards your chest, crunching your abs.",
+                    "Lower your shoulders and legs back down to the starting position.",
+                    "Repeat the hip raise and crunch movements for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Hip Raise Crunch Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Hip Raise Crunch Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens core muscles",
+                    "Improves balance and stability",
+                    "Increases body awareness and control",
+                    "Can be modified for different fitness levels",
+                    "Can be done anywhere without equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Hip Raise Crunch Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus abdominis",
+                    "Obliques",
+                    "Glutes",
+                    "Hamstrings"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Hip Raise Crunch Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "hip raise",
+                    "crunch",
+                    "hip raise and crunch combo",
+                    "weighted hip raise",
+                    "reverse crunch",
+                    "bicycle crunch",
+                    "side plank hip raise",
+                    "oblique crunch",
+                    "leg raise and crunch combo",
+                    "plank hip raise"
+                ]
+            }
+        }
+    ]
+}

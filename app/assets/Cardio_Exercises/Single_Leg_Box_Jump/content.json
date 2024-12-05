@@ -1,0 +1,78 @@
+{
+    "title": "Single Leg Box Jump",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Single Leg Box Jump Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand in front of a sturdy box or platform that is at least knee height.",
+                    "Place one foot on the box and keep the other foot on the ground.",
+                    "Bend your knee slightly and jump up explosively off the ground with your standing leg.",
+                    "As you jump, swing your other leg forward and up towards the box.",
+                    "Land on the box with your jumping leg and stand up straight.",
+                    "Step back down with your jumping leg and return to the starting position.",
+                    "Repeat for the desired number of reps, then switch legs and repeat on the other side."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Single Leg Box Jump Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Single Leg Box Jump Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves explosive power and speed",
+                    "Increases lower body strength and stability",
+                    "Improves balance and coordination",
+                    "Engages core muscles for added stability",
+                    "Can be modified for different fitness levels",
+                    "Provides a cardiovascular workout",
+                    "Can be done with minimal equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Single Leg Box Jump Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calf muscles",
+                    "Core muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Single Leg Box Jump Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single Leg Box Jump with Dumbbells",
+                    "Single Leg Box Jump with Medicine Ball",
+                    "Single Leg Box Jump with Resistance Band",
+                    "Single Leg Box Jump with Weighted Vest",
+                    "Single Leg Box Jump with Plyometric Box"
+                ]
+            }
+        }
+    ]
+}

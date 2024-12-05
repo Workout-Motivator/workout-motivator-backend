@@ -1,0 +1,72 @@
+{
+    "title": "Jackknife Sit Up",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Jackknife Sit Up Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying flat on your back with your arms extended above your head and your legs straight out in front of you.",
+                    "Engage your core muscles and lift your arms and legs up towards each other, bringing your knees and elbows together in the middle.",
+                    "As you lift up, exhale and contract your abs, making sure to keep your lower back pressed firmly into the ground.",
+                    "Hold the position for a second or two, then slowly lower back down to the starting position while inhaling.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Jackknife Sit Up Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Jackknife Sit Up Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the rectus abdominis, obliques, and hip flexors",
+                    "Improves core strength and stability",
+                    "Increases flexibility in the lower back and hips",
+                    "Can be modified for different fitness levels",
+                    "Helps to improve posture and balance"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Jackknife Sit Up Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus Abdominis",
+                    "Obliques",
+                    "Hip Flexors"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Jackknife Sit Up Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Weighted Jackknife Sit Up",
+                    "Reverse Jackknife Sit Up",
+                    "Side Jackknife Sit Up",
+                    "Single Leg Jackknife Sit Up",
+                    "Decline Jackknife Sit Up"
+                ]
+            }
+        }
+    ]
+}

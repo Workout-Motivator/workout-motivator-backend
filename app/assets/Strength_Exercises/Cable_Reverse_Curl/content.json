@@ -1,0 +1,72 @@
+{
+    "title": "Cable Reverse Curl",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Cable Reverse Curl Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a cable attachment with an overhand grip.",
+                    "Keep your elbows close to your sides and curl the cable towards your shoulders.",
+                    "Pause for a second at the top of the movement and squeeze your biceps.",
+                    "Slowly lower the cable back to the starting position.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Cable Reverse Curl Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Cable Reverse Curl Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the brachioradialis muscle in the forearm",
+                    "Improves grip strength",
+                    "Helps with wrist stability and flexibility",
+                    "Can be done with different variations to target different parts of the forearm",
+                    "Can be done with lighter weights and higher reps for endurance or heavier weights and lower reps for strength"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cable Reverse Curl Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Brachioradialis",
+                    "Biceps brachii",
+                    "Brachialis"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cable Reverse Curl Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Barbell Reverse Curl",
+                    "Dumbbell Reverse Curl",
+                    "Machine Reverse Curl",
+                    "Resistance Band Reverse Curl",
+                    "Preacher Reverse Curl"
+                ]
+            }
+        }
+    ]
+}

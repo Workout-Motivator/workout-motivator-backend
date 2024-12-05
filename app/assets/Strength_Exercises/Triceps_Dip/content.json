@@ -1,0 +1,72 @@
+{
+    "title": "Triceps Dip",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Triceps Dip Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Find a sturdy surface to use as a dip station, such as parallel bars or the edge of a bench or chair.",
+                    "Place your hands on the surface with your fingers facing forward and your palms flat.",
+                    "Extend your legs out in front of you and lower your body down by bending your elbows, keeping your back straight.",
+                    "Lower yourself until your arms form a 90-degree angle, then push yourself back up to the starting position.",
+                    "Repeat for desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Triceps Dip Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Triceps Dip Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the triceps muscles, helping to tone and strengthen them",
+                    "Engages the chest, shoulders, and core muscles, providing a full upper body workout",
+                    "Can be done with minimal equipment, making it a convenient exercise to do at home or while traveling",
+                    "Improves overall upper body strength and endurance",
+                    "May help to improve posture and reduce the risk of shoulder injuries"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Triceps Dip Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Triceps",
+                    "Chest",
+                    "Shoulders"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Triceps Dip Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Weighted Triceps Dip",
+                    "Single Leg Triceps Dip",
+                    "Triceps Dip with Knee Tuck",
+                    "Triceps Dip with Leg Extension",
+                    "Triceps Dip with Toe Touch"
+                ]
+            }
+        }
+    ]
+}

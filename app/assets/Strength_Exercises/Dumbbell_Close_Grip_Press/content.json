@@ -1,0 +1,73 @@
+{
+    "title": "Dumbbell Close Grip Press",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Close Grip Press Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying flat on a bench with your feet firmly planted on the ground.",
+                    "Hold a dumbbell in each hand with your palms facing each other and your arms extended straight up above your chest.",
+                    "Slowly lower the dumbbells towards your chest, keeping your elbows close to your body.",
+                    "Pause for a moment when the dumbbells are just above your chest.",
+                    "Push the dumbbells back up to the starting position, fully extending your arms.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Close Grip Press Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Close Grip Press Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the triceps muscles, helping to build strength and size in the arms",
+                    "Can be done with a variety of weights, making it accessible for beginners and advanced lifters",
+                    "Helps to improve overall upper body pressing strength and stability",
+                    "Can be done with dumbbells, making it a great exercise for those who prefer free weights over machines",
+                    "Allows for a greater range of motion compared to other triceps exercises, such as the triceps pushdown"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Close Grip Press Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Triceps brachii",
+                    "Pectoralis major (sternal head)",
+                    "Anterior deltoid"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Close Grip Press Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Close grip Bench Press",
+                    "Dumbbell Close grip Floor Press",
+                    "Dumbbell Close grip Push-up",
+                    "Dumbbell Close grip Overhead Press",
+                    "Dumbbell Close grip Incline Press"
+                ]
+            }
+        }
+    ]
+}

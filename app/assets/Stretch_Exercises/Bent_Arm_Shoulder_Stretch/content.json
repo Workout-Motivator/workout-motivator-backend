@@ -1,0 +1,73 @@
+{
+    "title": "Bent Arm Shoulder Stretch",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Bent Arm Shoulder Stretch Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your arms at your sides.",
+                    "Bend your right arm and bring it across your chest, keeping it parallel to the ground.",
+                    "Use your left hand to gently pull your right elbow towards your left shoulder, feeling a stretch in your right shoulder and upper back.",
+                    "Hold the stretch for 15-30 seconds, then release and repeat on the other side."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Bent Arm Shoulder Stretch Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Bent Arm Shoulder Stretch Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves flexibility and range of motion in the shoulders",
+                    "Relieves tension and tightness in the shoulders and upper back",
+                    "Helps prevent shoulder injuries",
+                    "Can be done anywhere without any equipment",
+                    "Can be modified to target specific areas of the shoulder and upper back"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Bent Arm Shoulder Stretch Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Deltoids",
+                    "Rotator cuff muscles",
+                    "Trapezius",
+                    "Rhomboids",
+                    "Latissimus dorsi"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Bent Arm Shoulder Stretch Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Standing Bent Arm Shoulder Stretch",
+                    "Seated Bent Arm Shoulder Stretch",
+                    "Wall Bent Arm Shoulder Stretch",
+                    "Partner Bent Arm Shoulder Stretch",
+                    "Modified Bent Arm Shoulder Stretch"
+                ]
+            }
+        }
+    ]
+}

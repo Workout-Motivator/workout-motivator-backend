@@ -1,0 +1,81 @@
+{
+    "title": "Tiger Curl Pose",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Tiger Curl Pose Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by standing straight with your feet hip-width apart.",
+                    "Take a deep breath and raise your arms above your head.",
+                    "As you exhale, bend forward from your hips and bring your hands down to the floor.",
+                    "Step your left foot back and lower your left knee to the ground.",
+                    "Place your hands on your right knee and lift your chest up.",
+                    "As you exhale, curl your toes under and lift your left knee off the ground.",
+                    "Press your left foot back and straighten your left leg as much as possible.",
+                    "Hold this pose for a few breaths.",
+                    "Lower your left knee back to the ground and step your left foot forward to meet your right foot.",
+                    "Repeat on the other side."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Tiger Curl Pose Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Tiger Curl Pose Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves balance and coordination",
+                    "Strengthens core muscles",
+                    "Increases focus and concentration",
+                    "Boosts confidence and self-esteem",
+                    "Provides a full-body workout",
+                    "Can be done indoors or outdoors",
+                    "Challenges the mind and body",
+                    "Fun and unique way to exercise"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Tiger Curl Pose Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Biceps brachii",
+                    "Brachialis",
+                    "Brachioradialis",
+                    "Forearm flexors"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Tiger Curl Pose Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Tiger curl pose",
+                    "Tiger pose with curls",
+                    "Curling tiger pose",
+                    "Tiger stretch with curls",
+                    "Crouching tiger curl pose"
+                ]
+            }
+        }
+    ]
+}

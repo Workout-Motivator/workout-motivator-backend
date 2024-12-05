@@ -1,0 +1,78 @@
+{
+    "title": "Cable Standing Row",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Cable Standing Row Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your knees slightly bent.",
+                    "Hold the cable handle with both hands, palms facing down and arms extended in front of you.",
+                    "Engage your shoulder blades and pull the cable towards your chest, keeping your elbows close to your body.",
+                    "Pause for a moment at the top of the movement, squeezing your shoulder blades together.",
+                    "Slowly release the cable back to the starting position, keeping your arms extended.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Cable Standing Row Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Cable Standing Row Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets multiple muscle groups including the back, shoulders, and arms",
+                    "Improves posture and upper body strength",
+                    "Allows for adjustable resistance through cable weight selection",
+                    "Can be modified for different fitness levels and abilities",
+                    "Provides a low-impact exercise option for those with joint pain or injuries"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cable Standing Row Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Trapezius",
+                    "Rhomboids",
+                    "Deltoids",
+                    "Biceps",
+                    "Forearms"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cable Standing Row Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single Arm Cable Standing Row",
+                    "Wide Grip Cable Standing Row",
+                    "Narrow Grip Cable Standing Row",
+                    "Reverse Grip Cable Standing Row",
+                    "Low Cable Standing Row",
+                    "High Cable Standing Row",
+                    "Alternating Cable Standing Row",
+                    "Seated Cable Row"
+                ]
+            }
+        }
+    ]
+}

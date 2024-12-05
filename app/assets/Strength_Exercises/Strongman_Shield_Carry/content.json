@@ -1,0 +1,79 @@
+{
+    "title": "Strongman Shield Carry",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Strongman Shield Carry Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Begin by standing in front of the StrongMan Shield.",
+                    "Squat down and grab the handles on either side of the shield.",
+                    "Lift the shield up and onto your chest, keeping your back straight and core engaged.",
+                    "Take a few steps back to create some space.",
+                    "Begin walking forward, keeping your shoulders back and your chest lifted.",
+                    "Take small, controlled steps, focusing on maintaining your balance and stability.",
+                    "Continue walking for a set distance or time, then carefully lower the shield back down to the ground.",
+                    "Rest for a few moments, then repeat for the desired number of sets."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Strongman Shield Carry Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Strongman Shield Carry Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves grip strength",
+                    "Increases core stability",
+                    "Develops shoulder and upper back strength",
+                    "Enhances overall functional strength and endurance",
+                    "Can be modified for different fitness levels and goals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Strongman Shield Carry Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Glutes",
+                    "Calves",
+                    "Core muscles (abdominals, obliques, lower back)",
+                    "Shoulders",
+                    "Forearms"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Strongman Shield Carry Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single-arm StrongMan Shield Carry",
+                    "Double StrongMan Shield Carry",
+                    "Backward StrongMan Shield Carry",
+                    "Zercher StrongMan Shield Carry",
+                    "Overhead StrongMan Shield Carry"
+                ]
+            }
+        }
+    ]
+}

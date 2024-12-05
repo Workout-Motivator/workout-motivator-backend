@@ -1,0 +1,81 @@
+{
+    "title": "Barbell Deadlift",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Barbell Deadlift Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart, with the barbell on the floor in front of you.",
+                    "Bend down and grip the bar with your hands shoulder-width apart, palms facing down.",
+                    "Engage your core and lift the bar off the ground, keeping your back straight and your shoulders pulled back.",
+                    "As you stand up, keep the bar close to your body and straighten your legs.",
+                    "Pause at the top of the movement, then slowly lower the bar back down to the ground.",
+                    "Repeat for desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Barbell Deadlift Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Barbell Deadlift Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the entire posterior chain, including the glutes, hamstrings, and lower back",
+                    "Improves grip strength and forearm development",
+                    "Increases overall muscle mass and promotes fat loss",
+                    "Improves posture and core stability",
+                    "Enhances athletic performance in sports such as sprinting and jumping"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Barbell Deadlift Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Erector Spinae",
+                    "Glutes",
+                    "Hamstrings",
+                    "Quadriceps",
+                    "Adductor Magnus",
+                    "Soleus",
+                    "Gastrocnemius",
+                    "Trapezius",
+                    "Rhomboids",
+                    "Levator Scapulae",
+                    "Forearms"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Barbell Deadlift Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Sumo Deadlift",
+                    "Romanian Deadlift",
+                    "Trap Bar Deadlift",
+                    "Deficit Deadlift",
+                    "Single-Leg Deadlift"
+                ]
+            }
+        }
+    ]
+}

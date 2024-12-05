@@ -1,0 +1,79 @@
+{
+    "title": "Band Shoulder Press",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Band Shoulder Press Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by standing with your feet shoulder-width apart and holding a resistance band in each hand.",
+                    "Bring your hands up to shoulder height, with your palms facing forward and the bands crossing in front of your chest.",
+                    "Press the bands up and overhead, straightening your arms and keeping your palms facing forward.",
+                    "Lower the bands back down to shoulder height and repeat for the desired number of repetitions.",
+                    "Make sure to engage your core and keep your back straight throughout the exercise."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Band Shoulder Press Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Band Shoulder Press Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the shoulders, triceps, and upper back muscles",
+                    "Improves shoulder stability and mobility",
+                    "Helps to correct muscle imbalances in the upper body",
+                    "Can be performed with a variety of resistance bands, making it a versatile exercise for all fitness levels",
+                    "Allows for a greater range of motion compared to traditional dumbbell or barbell shoulder presses",
+                    "Engages the core muscles for added stability and balance",
+                    "Can be easily modified to target specific areas of the shoulders, such as the front, middle, or rear deltoids"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Band Shoulder Press Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Deltoids",
+                    "Triceps",
+                    "Trapezius",
+                    "Rotator cuff muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Band Shoulder Press Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single-arm band shoulder press",
+                    "Band shoulder press with rotation",
+                    "Band shoulder press with lateral raise",
+                    "Band shoulder press with front raise",
+                    "Band shoulder press with reverse fly",
+                    "Band shoulder press with bicep curl",
+                    "Band shoulder press with tricep extension",
+                    "Band shoulder press with overhead tricep extension",
+                    "Band shoulder press with upright row"
+                ]
+            }
+        }
+    ]
+}

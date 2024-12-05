@@ -1,0 +1,77 @@
+{
+    "title": "Hip Roll Plank",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Hip Roll Plank Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start in a plank position with your forearms on the ground and your body in a straight line from head to heels.",
+                    "Engage your core and glutes to keep your body stable.",
+                    "Shift your weight to your left forearm and rotate your hips to the left, lifting your right arm up towards the ceiling.",
+                    "Hold for a few seconds, then return to the starting position.",
+                    "Repeat on the other side, shifting your weight to your right forearm and rotating your hips to the right while lifting your left arm up towards the ceiling.",
+                    "Continue alternating sides for the desired number of repetitions or time."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Hip Roll Plank Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Hip Roll Plank Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the core muscles, including the abs, obliques, and lower back",
+                    "Improves stability and balance",
+                    "Targets the hip muscles, including the glutes and hip flexors",
+                    "Can help alleviate lower back pain by strengthening the muscles that support the spine",
+                    "Increases overall body awareness and control"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Hip Roll Plank Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus abdominis",
+                    "Obliques",
+                    "Transverse abdominis",
+                    "Erector spinae",
+                    "Glutes",
+                    "Hamstrings",
+                    "Quadriceps"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Hip Roll Plank Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Side Hip Roll Plank",
+                    "Reverse Hip Roll Plank",
+                    "Single Leg Hip Roll Plank",
+                    "Weighted Hip Roll Plank",
+                    "Medicine Ball Hip Roll Plank"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "title": "Dead Bug With Medicine Ball",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Dead Bug With Medicine Ball Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on your back with your knees bent and feet flat on the ground.",
+                    "Hold a medicine ball in both hands and extend your arms straight up towards the ceiling.",
+                    "Engage your core and lift your head, neck, and shoulders off the ground.",
+                    "Simultaneously extend your right arm and left leg out straight, hovering them just above the ground.",
+                    "Bring your right arm and left leg back to the starting position and repeat with your left arm and right leg.",
+                    "Continue alternating sides for the desired number of repetitions or time."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Dead Bug With Medicine Ball Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Dead Bug With Medicine Ball Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the lower abdominal muscles",
+                    "Improves hip flexor flexibility",
+                    "Increases core stability and balance",
+                    "Helps to prevent lower back pain",
+                    "Can be modified for different fitness levels"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dead Bug With Medicine Ball Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus abdominis",
+                    "Obliques",
+                    "Transverse abdominis",
+                    "Hip flexors",
+                    "Quadriceps"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dead Bug With Medicine Ball Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dead bug with dumbbell",
+                    "Dead bug with resistance band",
+                    "Dead bug with stability ball",
+                    "Medicine ball Russian twist",
+                    "Medicine ball sit-up"
+                ]
+            }
+        }
+    ]
+}

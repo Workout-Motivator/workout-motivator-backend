@@ -1,0 +1,71 @@
+{
+    "title": "Standing Achilles Stretch",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Standing Achilles Stretch Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand facing a wall or sturdy object for support.",
+                    "Step back with one foot, keeping the heel on the ground.",
+                    "Bend the opposite knee and lean forward, keeping the back leg straight and the heel on the ground.",
+                    "Hold the stretch for 15-30 seconds.",
+                    "Switch legs and repeat."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Standing Achilles Stretch Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Standing Achilles Stretch Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Stretches the Achilles tendon and calf muscles",
+                    "Improves ankle flexibility and range of motion",
+                    "Helps prevent injuries such as Achilles tendonitis and plantar fasciitis",
+                    "Can be done anywhere without any equipment",
+                    "Can be modified to increase or decrease intensity"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Standing Achilles Stretch Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Gastrocnemius",
+                    "Soleus"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Standing Achilles Stretch Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Seated Achilles Stretch",
+                    "Wall Achilles Stretch",
+                    "Stair Achilles Stretch",
+                    "Downward Dog Achilles Stretch",
+                    "Runner’s Lunge Achilles Stretch"
+                ]
+            }
+        }
+    ]
+}

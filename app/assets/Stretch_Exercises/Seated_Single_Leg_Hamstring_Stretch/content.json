@@ -1,0 +1,76 @@
+{
+    "title": "Seated Single Leg Hamstring Stretch",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Seated Single Leg Hamstring Stretch Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Sit on the floor with your legs straight out in front of you.",
+                    "Bend your left knee and place your left foot on the floor, keeping your right leg straight.",
+                    "Place your hands on your right thigh and inhale.",
+                    "Exhale and slowly lean forward from your hips, keeping your back straight.",
+                    "Stop when you feel a stretch in the back of your right thigh.",
+                    "Hold the stretch for 15-30 seconds.",
+                    "Inhale and slowly sit back up.",
+                    "Repeat on the other side."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Seated Single Leg Hamstring Stretch Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Seated Single Leg Hamstring Stretch Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves flexibility and range of motion in the hamstrings",
+                    "Reduces risk of injury in the hamstrings and lower back",
+                    "Helps alleviate lower back pain",
+                    "Can be done anywhere without equipment",
+                    "Can be modified for different levels of flexibility"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Seated Single Leg Hamstring Stretch Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Hamstrings",
+                    "Glutes",
+                    "Lower back"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Seated Single Leg Hamstring Stretch Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Standing Single Leg Hamstring Stretch",
+                    "Lying Single Leg Hamstring Stretch",
+                    "Seated Double Leg Hamstring Stretch",
+                    "Standing Double Leg Hamstring Stretch",
+                    "Lying Double Leg Hamstring Stretch",
+                    "Partner Assisted Hamstring Stretch"
+                ]
+            }
+        }
+    ]
+}

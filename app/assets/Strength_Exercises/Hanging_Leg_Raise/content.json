@@ -1,0 +1,72 @@
+{
+    "title": "Hanging Leg Raise",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Hanging Leg Raise Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Hang from a pull-up bar with your arms straight and your feet off the ground.",
+                    "Engage your core and lift your legs up towards your chest, keeping them straight.",
+                    "Pause at the top of the movement and then slowly lower your legs back down to the starting position.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Hanging Leg Raise Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Hanging Leg Raise Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the abdominal muscles",
+                    "Improves core stability and balance",
+                    "Targets the hip flexors and lower back muscles",
+                    "Increases flexibility in the hips and lower back",
+                    "Can be modified to increase or decrease difficulty",
+                    "Requires minimal equipment and can be done at home or in the gym"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Hanging Leg Raise Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus Abdominis",
+                    "Obliques",
+                    "Hip Flexors"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Hanging Leg Raise Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Weighted Hanging Leg Raise",
+                    "Side-to-Side Hanging Leg Raise",
+                    "Oblique Hanging Leg Raise",
+                    "Windshield Wiper Hanging Leg Raise",
+                    "Dragon Flag"
+                ]
+            }
+        }
+    ]
+}

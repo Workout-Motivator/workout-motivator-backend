@@ -1,0 +1,79 @@
+{
+    "title": "Kettlebell Farmers Walk",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Farmers Walk Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your kettlebells on the ground in front of you.",
+                    "Bend down and grab the handles of the kettlebells with a neutral grip (palms facing each other).",
+                    "Engage your core and lift the kettlebells off the ground.",
+                    "Walk forward with small, controlled steps, keeping your shoulders back and your chest up.",
+                    "Continue walking for a set distance or time, making sure to keep your core engaged and your posture upright.",
+                    "When you’re finished, carefully lower the kettlebells back to the ground."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Farmers Walk Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Farmers Walk Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves core stability and strength",
+                    "Increases shoulder mobility and stability",
+                    "Enhances overall body coordination and balance",
+                    "Targets multiple muscle groups including the glutes, hamstrings, quads, and abs",
+                    "Can be modified for different fitness levels and abilities",
+                    "Helps to prevent injury by improving joint stability and flexibility",
+                    "Can be done with minimal equipment and space",
+                    "Provides a full-body workout in a short amount of time"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Farmers Walk Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Forearms",
+                    "Grip strength",
+                    "Shoulders",
+                    "Back",
+                    "Core",
+                    "Legs"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Farmers Walk Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "kettlebell farmers walk",
+                    "kettlebell suitcase carry",
+                    "single arm kettlebell carry",
+                    "double kettlebell carry",
+                    "overhead kettlebell carry"
+                ]
+            }
+        }
+    ]
+}

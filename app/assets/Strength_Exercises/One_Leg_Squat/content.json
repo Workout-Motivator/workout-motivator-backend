@@ -1,0 +1,81 @@
+{
+    "title": "One Leg Squat",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "One Leg Squat Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet hip-width apart and your arms at your sides.",
+                    "Lift your left foot off the ground and balance on your right foot.",
+                    "Slowly lower your body down by bending your right knee and pushing your hips back.",
+                    "Keep your left leg lifted off the ground and your arms at your sides.",
+                    "Lower your body until your right thigh is parallel to the ground.",
+                    "Pause for a moment, then push through your right foot to return to the starting position.",
+                    "Repeat for the desired number of repetitions, then switch legs and repeat on the other side."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "One Leg Squat Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "One Leg Squat Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves balance and stability",
+                    "Strengthens the legs, particularly the quads, glutes, and hamstrings",
+                    "Increases ankle and hip mobility",
+                    "Engages the core muscles for improved posture and spinal alignment",
+                    "Can be done with or without weights, making it a versatile exercise for all fitness levels"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "One Leg Squat Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "One Leg Squat Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Bulgarian Split Squat",
+                    "Pistol Squat",
+                    "Step-Up",
+                    "Lunge",
+                    "Curtsy Lunge",
+                    "Reverse Lunge",
+                    "Side Lunge",
+                    "Jump Squat",
+                    "Box Jump",
+                    "Wall Sit"
+                ]
+            }
+        }
+    ]
+}

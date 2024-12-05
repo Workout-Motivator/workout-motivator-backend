@@ -1,0 +1,73 @@
+{
+    "title": "Pvc Good Morning",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Pvc Good Morning Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by standing with your feet shoulder-width apart and holding a PVC pipe with both hands, palms facing down.",
+                    "Bring the PVC pipe up to your shoulders, keeping your elbows bent and close to your body.",
+                    "Slowly hinge forward at your hips, keeping your back straight and your core engaged.",
+                    "Lower the PVC pipe towards the ground, keeping your arms straight and your elbows locked.",
+                    "Pause when you feel a stretch in your hamstrings and glutes, then slowly return to the starting position.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Pvc Good Morning Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Pvc Good Morning Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the lower back muscles",
+                    "Improves hip mobility and flexibility",
+                    "Increases core stability and balance",
+                    "Targets the hamstrings and glutes",
+                    "Can be modified for different fitness levels"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Pvc Good Morning Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Erector Spinae",
+                    "Hamstrings",
+                    "Glutes"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Pvc Good Morning Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "PVC Good Morning with a band",
+                    "PVC Good Morning with a barbell",
+                    "PVC Good Morning with dumbbells",
+                    "PVC Good Morning with kettlebells",
+                    "PVC Good Morning with a sandbag"
+                ]
+            }
+        }
+    ]
+}

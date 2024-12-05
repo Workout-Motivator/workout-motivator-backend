@@ -1,0 +1,76 @@
+{
+    "title": "Duck Walk",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Duck Walk Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start in a standing position with your feet shoulder-width apart.",
+                    "Squat down until your thighs are parallel to the ground.",
+                    "Place your hands on your hips or out in front of you for balance.",
+                    "Begin walking forward by taking small steps with your feet, keeping your knees bent and your weight on the balls of your feet.",
+                    "Continue walking forward for a set distance or time.",
+                    "Turn around and walk back to your starting position.",
+                    "Repeat for desired number of sets."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Duck Walk Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Duck Walk Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the shoulders and upper back muscles",
+                    "Improves posture and stability",
+                    "Increases range of motion in the shoulders",
+                    "Helps prevent shoulder injuries",
+                    "Can be done with minimal equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Duck Walk Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Core muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Duck Walk Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "duck-walk with weights",
+                    "duck-walk with resistance band",
+                    "duck-walk with lateral steps",
+                    "duck-walk with squat jumps",
+                    "duck-walk with medicine ball toss"
+                ]
+            }
+        }
+    ]
+}

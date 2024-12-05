@@ -1,0 +1,77 @@
+{
+    "title": "Barbell Single Leg Deadlift",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Barbell Single Leg Deadlift Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by standing with your feet hip-width apart and holding a barbell in front of your thighs with an overhand grip.",
+                    "Lift your left foot off the ground and extend it behind you, keeping your knee slightly bent.",
+                    "Slowly hinge forward at the hips, lowering the barbell towards the ground while keeping your back straight and your right knee slightly bent.",
+                    "Lower the barbell until it is just above the ground, then slowly lift back up to the starting position.",
+                    "Repeat for the desired number of reps, then switch legs and repeat on the other side."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Barbell Single Leg Deadlift Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Barbell Single Leg Deadlift Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves balance and stability",
+                    "Strengthens the glutes, hamstrings, and lower back",
+                    "Increases core strength and stability",
+                    "Improves hip mobility and flexibility",
+                    "Helps to correct muscle imbalances between the left and right sides of the body",
+                    "Can be modified to increase or decrease the difficulty level"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Barbell Single Leg Deadlift Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Hamstrings",
+                    "Glutes",
+                    "Lower back",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Barbell Single Leg Deadlift Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Single Leg Deadlift",
+                    "Kettlebell Single Leg Deadlift",
+                    "Bodyweight Single Leg Deadlift",
+                    "Barbell Romanian Deadlift",
+                    "Dumbbell Romanian Deadlift",
+                    "Kettlebell Romanian Deadlift",
+                    "Sumo Deadlift",
+                    "Conventional Deadlift"
+                ]
+            }
+        }
+    ]
+}

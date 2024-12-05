@@ -1,0 +1,73 @@
+{
+    "title": "Resistance Band Hammer Curl",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Resistance Band Hammer Curl Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and place the resistance band under the arches of your feet.",
+                    "Hold the handles of the resistance band with your palms facing each other and your elbows close to your sides.",
+                    "Curl the handles towards your shoulders, keeping your elbows stationary and squeezing your biceps at the top of the movement.",
+                    "Slowly lower the handles back down to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Resistance Band Hammer Curl Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Resistance Band Hammer Curl Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the biceps brachii muscle, helping to increase arm strength and size",
+                    "Engages the brachialis muscle, which can help to improve overall arm definition",
+                    "Allows for a greater range of motion compared to traditional dumbbell curls",
+                    "Provides constant tension throughout the movement, which can lead to greater muscle activation and growth",
+                    "Can be easily modified to increase or decrease resistance, making it suitable for individuals of all fitness levels",
+                    "Requires minimal equipment and can be done virtually anywhere"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Resistance Band Hammer Curl Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Biceps brachii",
+                    "Brachialis",
+                    "Brachioradialis"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Resistance Band Hammer Curl Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Resistance Band Bicep Curl",
+                    "Resistance Band Preacher Curl",
+                    "Resistance Band Concentration Curl",
+                    "Resistance Band Reverse Curl",
+                    "Resistance Band Zottman Curl"
+                ]
+            }
+        }
+    ]
+}

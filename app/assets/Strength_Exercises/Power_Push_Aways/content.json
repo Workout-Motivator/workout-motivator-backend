@@ -1,0 +1,73 @@
+{
+    "title": "Power Push Aways",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Power Push Aways Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start in a plank position with your hands shoulder-width apart and your feet hip-width apart.",
+                    "Bend your elbows and lower your body towards the ground, keeping your core engaged and your back straight.",
+                    "Push yourself back up to the starting position, but instead of fully extending your arms, push your upper body back and away from your hands.",
+                    "Lower yourself back down to the ground and repeat the push away motion for the desired number of reps.",
+                    "Make sure to keep your core engaged throughout the exercise and to breathe deeply."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Power Push Aways Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Power Push Aways Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens chest, triceps, and shoulders",
+                    "Improves upper body pushing power",
+                    "Increases core stability and balance",
+                    "Can be done with minimal equipment",
+                    "Can be modified for different fitness levels"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Power Push Aways Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Chest muscles (pectoralis major and minor)",
+                    "Shoulder muscles (anterior deltoids)",
+                    "Triceps muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Power Push Aways Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Close-grip power push aways",
+                    "Single-arm power push aways",
+                    "Reverse-grip power push aways",
+                    "Decline power push aways",
+                    "Standing power push aways",
+                    "Weighted power push aways"
+                ]
+            }
+        }
+    ]
+}

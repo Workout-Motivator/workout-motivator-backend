@@ -1,0 +1,79 @@
+{
+    "title": "Swing 360",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Swing 360 Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold the handle of the rope with both hands.",
+                    "Swing the rope to your left side and jump over it with your right foot.",
+                    "As you jump, twist your torso to the left and swing the rope over your head.",
+                    "Land on your right foot and continue to swing the rope to your right side.",
+                    "Jump over the rope with your left foot and twist your torso to the right as you swing the rope over your head.",
+                    "Land on your left foot and continue to swing the rope back to your left side.",
+                    "Repeat steps 2-6, swinging the rope and jumping with alternating feet until you complete a full 360-degree rotation."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Swing 360 Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Swing 360 Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves core strength and stability",
+                    "Increases upper body and shoulder strength",
+                    "Enhances coordination and balance",
+                    "Improves flexibility and range of motion in the spine",
+                    "Provides a cardiovascular workout",
+                    "Can be modified for different fitness levels and abilities"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Swing 360 Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Abdominal muscles",
+                    "Oblique muscles",
+                    "Lower back muscles",
+                    "Gluteal muscles",
+                    "Hamstring muscles",
+                    "Quadriceps muscles",
+                    "Calf muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Swing 360 Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Swing 180",
+                    "Swing 540",
+                    "Swing 720",
+                    "Swing 900",
+                    "Swing 1080"
+                ]
+            }
+        }
+    ]
+}

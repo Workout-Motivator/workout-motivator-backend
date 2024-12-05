@@ -1,0 +1,76 @@
+{
+    "title": "Camel Pose",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Camel Pose Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by kneeling on the floor with your knees hip-width apart and your hands on your hips.",
+                    "As you inhale, lift your chest and lengthen your spine.",
+                    "As you exhale, begin to lean back, keeping your hands on your hips for support.",
+                    "Continue to lean back until you feel a stretch in your thighs and hips.",
+                    "If you feel comfortable, you can reach back and place your hands on your heels.",
+                    "Hold the pose for 5-10 breaths, then release and come back to a kneeling position."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Camel Pose Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Camel Pose Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Stretches the front of the body, including the chest, abdomen, and quadriceps",
+                    "Strengthens the back muscles, including the lower back and glutes",
+                    "Improves posture and spinal flexibility",
+                    "Stimulates the digestive system and helps relieve constipation",
+                    "Opens up the throat and improves respiratory function",
+                    "Can help alleviate mild anxiety and fatigue"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Camel Pose Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Abdominal muscles",
+                    "Back muscles",
+                    "Neck muscles",
+                    "Hip flexors",
+                    "Quadriceps"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Camel Pose Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Half Camel Pose",
+                    "One-Legged Camel Pose",
+                    "Reverse Camel Pose",
+                    "Camel Plank Pose",
+                    "Camel Twist Pose"
+                ]
+            }
+        }
+    ]
+}

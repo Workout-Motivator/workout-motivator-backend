@@ -1,0 +1,77 @@
+{
+    "title": "Hero Pose Virasana",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Hero Pose Virasana Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by kneeling on the floor with your knees hip-width apart and your feet pointing straight back behind you.",
+                    "Place a folded blanket or cushion between your feet and sit back onto it.",
+                    "Slowly lower your buttocks down onto the floor, keeping your knees together and your feet pointing straight back.",
+                    "Place your hands on your thighs or on the floor beside your hips.",
+                    "Lengthen your spine and lift your chest, keeping your shoulders relaxed.",
+                    "Breathe deeply and hold the pose for 30 seconds to 1 minute.",
+                    "To release the pose, slowly lift your buttocks off the floor and come back onto your knees."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Hero Pose Virasana Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Hero Pose Virasana Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Stretches the thighs, knees, and ankles",
+                    "Improves digestion and relieves gas and bloating",
+                    "Helps to reduce swelling in the legs and feet",
+                    "Strengthens the arches of the feet",
+                    "Improves posture and alignment of the spine",
+                    "Calms the mind and reduces stress and anxiety"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Hero Pose Virasana Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Ankles",
+                    "Feet"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Hero Pose Virasana Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Low Lunge Virasana",
+                    "Extended Hero Pose Utthita Virasana",
+                    "Reclining Hero Pose Supta Virasana",
+                    "Half Hero Pose Ardha Virasana",
+                    "Revolved Hero Pose Parivrtta Virasana"
+                ]
+            }
+        }
+    ]
+}

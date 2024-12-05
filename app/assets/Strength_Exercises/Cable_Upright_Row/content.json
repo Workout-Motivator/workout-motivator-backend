@@ -1,0 +1,73 @@
+{
+    "title": "Cable Upright Row",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Cable Upright Row Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a cable with both hands, palms facing your body.",
+                    "Keep your elbows close to your body and slowly lift the cable towards your chin, leading with your elbows.",
+                    "Pause at the top of the movement and squeeze your shoulder blades together.",
+                    "Lower the cable back down to the starting position and repeat for desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Cable Upright Row Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Cable Upright Row Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the shoulders, specifically the deltoids and traps",
+                    "Improves posture and upper body strength",
+                    "Can be modified to target different areas of the shoulders by adjusting grip width and hand placement",
+                    "Allows for a greater range of motion compared to traditional upright rows with dumbbells",
+                    "Engages the core and stabilizer muscles for added balance and coordination"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cable Upright Row Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Trapezius",
+                    "Deltoids",
+                    "Rhomboids",
+                    "Biceps",
+                    "Forearms"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cable Upright Row Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Upright Row",
+                    "Barbell Upright Row",
+                    "Resistance Band Upright Row",
+                    "Smith Machine Upright Row",
+                    "Kettlebell Upright Row"
+                ]
+            }
+        }
+    ]
+}

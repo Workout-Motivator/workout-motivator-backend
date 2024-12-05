@@ -1,0 +1,80 @@
+{
+    "title": "Straddle Planche",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Straddle Planche Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start in a squatting position with your feet shoulder-width apart.",
+                    "Place your hands on the ground in front of you, shoulder-width apart.",
+                    "Slowly lift your feet off the ground and straighten your legs, keeping your hands on the ground.",
+                    "As you straighten your legs, lean forward and lift your hips up, keeping your back straight.",
+                    "Continue to lean forward until your body is parallel to the ground.",
+                    "Hold this position for as long as you can, aiming for at least 10 seconds.",
+                    "To come out of the position, slowly lower your feet back to the ground and stand up."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Straddle Planche Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Straddle Planche Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the core muscles",
+                    "Improves upper body strength and stability",
+                    "Increases shoulder and wrist flexibility",
+                    "Enhances overall body control and balance",
+                    "Challenges the mind-body connection"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Straddle Planche Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Pectoralis major",
+                    "Deltoids",
+                    "Triceps",
+                    "Abdominals",
+                    "Obliques",
+                    "Quadriceps",
+                    "Glutes"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Straddle Planche Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Full planche",
+                    "Half planche",
+                    "Tuck planche",
+                    "Advanced tuck planche",
+                    "Straddle planche push-ups",
+                    "Planche leans",
+                    "Planche press"
+                ]
+            }
+        }
+    ]
+}

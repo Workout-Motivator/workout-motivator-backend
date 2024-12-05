@@ -1,0 +1,73 @@
+{
+    "title": "Dumbbell Lying One Arm Rear Lateral Raise",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Lying One Arm Rear Lateral Raise Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying face down on a flat bench with a dumbbell in one hand.",
+                    "Extend your arm straight out in front of you, with your palm facing down.",
+                    "Slowly lift your arm up and out to the side, keeping your elbow slightly bent.",
+                    "Continue lifting until your arm is parallel to the ground.",
+                    "Hold for a moment, then slowly lower your arm back down to the starting position.",
+                    "Repeat for the desired number of reps, then switch arms and repeat the exercise on the other side."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Lying One Arm Rear Lateral Raise Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Lying One Arm Rear Lateral Raise Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the rear deltoid muscle, which helps improve posture and shoulder stability",
+                    "Helps to prevent shoulder injuries by strengthening the rotator cuff muscles",
+                    "Improves overall shoulder strength and mobility",
+                    "Can be done with light weights and minimal equipment, making it accessible for most people",
+                    "Can be easily modified for different fitness levels by adjusting the weight or number of repetitions"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Lying One Arm Rear Lateral Raise Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rear Deltoids",
+                    "Trapezius",
+                    "Rhomboids"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Lying One Arm Rear Lateral Raise Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Lying One Arm Rear Lateral Raise",
+                    "Dumbbell Standing One Arm Rear Lateral Raise",
+                    "Cable One Arm Rear Lateral Raise",
+                    "Resistance Band One Arm Rear Lateral Raise",
+                    "Seated One Arm Rear Lateral Raise"
+                ]
+            }
+        }
+    ]
+}

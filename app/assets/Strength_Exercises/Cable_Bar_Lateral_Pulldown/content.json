@@ -1,0 +1,76 @@
+{
+    "title": "Cable Bar Lateral Pulldown",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Cable Bar Lateral Pulldown Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Adjust the weight on the cable machine to a comfortable level.",
+                    "Attach the cable bar to the pulley at the top of the machine.",
+                    "Stand facing the machine with your feet shoulder-width apart and your knees slightly bent.",
+                    "Grasp the cable bar with an overhand grip, with your hands slightly wider than shoulder-width apart.",
+                    "Engage your core and pull the cable bar down towards your chest, keeping your elbows close to your body.",
+                    "Pause for a moment at the bottom of the movement, then slowly release the bar back up to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Cable Bar Lateral Pulldown Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Cable Bar Lateral Pulldown Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the latissimus dorsi muscles, which are responsible for pulling the arms down and back.",
+                    "Improves upper body strength and posture.",
+                    "Can be adjusted to target different areas of the back and arms.",
+                    "Allows for a full range of motion, which can increase flexibility and mobility.",
+                    "Can be done with different variations and grips to add variety to a workout routine."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cable Bar Lateral Pulldown Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Latissimus dorsi",
+                    "Trapezius",
+                    "Rhomboids",
+                    "Biceps brachii",
+                    "Forearm flexors"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cable Bar Lateral Pulldown Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Wide grip cable bar lateral pulldown",
+                    "Narrow grip cable bar lateral pulldown",
+                    "Reverse grip cable bar lateral pulldown",
+                    "Single arm cable bar lateral pulldown",
+                    "Behind the neck cable bar lateral pulldown"
+                ]
+            }
+        }
+    ]
+}

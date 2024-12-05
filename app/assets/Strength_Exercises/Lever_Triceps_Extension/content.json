@@ -1,0 +1,73 @@
+{
+    "title": "Lever Triceps Extension",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Lever Triceps Extension Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Adjust the weight on the lever triceps extension machine to a comfortable level.",
+                    "Sit on the machine with your back against the pad and your feet flat on the ground.",
+                    "Grasp the handles with an overhand grip and extend your arms fully.",
+                    "Slowly lower the handles towards your head, keeping your elbows stationary and close to your head.",
+                    "Pause briefly at the bottom of the movement, then slowly raise the handles back to the starting position.",
+                    "Repeat for the desired number of repetitions.",
+                    "When finished, release the handles and carefully stand up from the machine."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Lever Triceps Extension Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Lever Triceps Extension Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the triceps muscles, helping to build strength and definition in the arms",
+                    "Can be performed with a variety of equipment, including dumbbells, cables, and machines",
+                    "Allows for isolation of the triceps, reducing the involvement of other muscle groups",
+                    "Can be modified to target different areas of the triceps, such as the long head or lateral head",
+                    "Helps to improve overall upper body strength and stability"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Lever Triceps Extension Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Triceps brachii",
+                    "Anconeus"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Lever Triceps Extension Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single Arm Lever Triceps Extension",
+                    "Reverse Grip Lever Triceps Extension",
+                    "Standing Lever Triceps Extension",
+                    "Seated Lever Triceps Extension",
+                    "Close Grip Lever Triceps Extension"
+                ]
+            }
+        }
+    ]
+}

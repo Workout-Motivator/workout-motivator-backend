@@ -1,0 +1,73 @@
+{
+    "title": "Side Bridge",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Side Bridge Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on your side with your elbow directly under your shoulder and your legs straight.",
+                    "Lift your hips off the ground, creating a straight line from your head to your feet.",
+                    "Hold this position for 30-60 seconds, or as long as you can maintain proper form.",
+                    "Lower your hips back down to the ground and repeat on the other side.",
+                    "Complete 2-3 sets on each side."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Side Bridge Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Side Bridge Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the oblique muscles",
+                    "Improves core stability and balance",
+                    "Helps prevent lower back pain",
+                    "Increases hip and glute strength",
+                    "Improves posture and alignment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Side Bridge Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Obliques",
+                    "Transverse Abdominis",
+                    "Gluteus Medius",
+                    "Quadratus Lumborum"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Side Bridge Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Side plank",
+                    "Side plank with leg lift",
+                    "Side plank with hip dip",
+                    "Side plank with reach under",
+                    "Side plank with knee tuck"
+                ]
+            }
+        }
+    ]
+}

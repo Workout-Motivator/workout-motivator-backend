@@ -1,0 +1,74 @@
+{
+    "title": "Lever Incline Fly",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Lever Incline Fly Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Adjust the incline bench to a 45-degree angle.",
+                    "Grab the dumbbells and lie face down on the bench with your chest against the incline.",
+                    "Extend your arms out to the sides with a slight bend at the elbows and your palms facing up.",
+                    "Engage your chest muscles and lift the dumbbells up towards the ceiling, keeping a slight bend in your elbows.",
+                    "Pause at the top of the movement and squeeze your chest muscles.",
+                    "Slowly lower the dumbbells back down to the starting position.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Lever Incline Fly Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Lever Incline Fly Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets and strengthens the calf muscles",
+                    "Improves ankle stability and balance",
+                    "Can be done with heavy weights for muscle growth or lighter weights for endurance",
+                    "Less strain on the lower back compared to standing calf raises",
+                    "Can be easily adjusted for different heights and body types"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Lever Incline Fly Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Chest muscles (pectoralis major and minor)",
+                    "Shoulder muscles (anterior deltoids)",
+                    "Triceps brachii"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Lever Incline Fly Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "lever decline fly",
+                    "incline dumbbell fly",
+                    "cable fly",
+                    "machine fly",
+                    "weighted push-up"
+                ]
+            }
+        }
+    ]
+}

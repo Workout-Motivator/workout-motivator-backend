@@ -1,0 +1,80 @@
+{
+    "title": "Step Up",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Step Up Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand in front of a sturdy bench or step.",
+                    "Place one foot on the bench, making sure your entire foot is on the surface.",
+                    "Step up onto the bench, lifting your other foot off the ground and bringing it up to the bench.",
+                    "Step back down with the same foot you stepped up with, returning to the starting position.",
+                    "Repeat the exercise with the opposite foot.",
+                    "Continue alternating between feet for the desired number of repetitions or time."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Step Up Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Step Up Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens lower body muscles, including quadriceps, hamstrings, and glutes",
+                    "Improves balance and stability",
+                    "Increases cardiovascular endurance",
+                    "Can be modified to increase or decrease intensity",
+                    "Requires minimal equipment and can be done at home or in a gym"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Step Up Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calf muscles",
+                    "Core muscles (to stabilize the body)"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Step Up Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Step up with knee raise",
+                    "Step up with bicep curl",
+                    "Step up with overhead press",
+                    "Step up with lateral raise",
+                    "Step up with tricep extension",
+                    "Step up with front raise",
+                    "Step up with twist",
+                    "Step up with kickback",
+                    "Step up with chest press",
+                    "Step up with row"
+                ]
+            }
+        }
+    ]
+}

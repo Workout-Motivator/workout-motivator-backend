@@ -1,0 +1,79 @@
+{
+    "title": "Cat Pose",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Cat Pose Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start on your hands and knees with your wrists directly under your shoulders and your knees directly under your hips.",
+                    "As you exhale, round your spine toward the ceiling, tucking your chin to your chest and bringing your tailbone toward your knees.",
+                    "Hold for a few breaths, feeling the stretch in your back.",
+                    "As you inhale, release the pose and return to a neutral tabletop position.",
+                    "Repeat the pose for several rounds of breath, focusing on the movement of your spine."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Cat Pose Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Cat Pose Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Stretches the spine and neck",
+                    "Relieves stress and tension in the back and shoulders",
+                    "Improves flexibility in the spine",
+                    "Massages the digestive organs, aiding in digestion",
+                    "Can help alleviate menstrual cramps",
+                    "Calms the mind and promotes relaxation"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cat Pose Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Abdominal muscles",
+                    "Back muscles",
+                    "Neck muscles",
+                    "Shoulder muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cat Pose Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Tiger pose",
+                    "Lion pose",
+                    "Leopard pose",
+                    "Jaguar pose",
+                    "Cow pose",
+                    "Downward facing dog pose",
+                    "Child’s pose",
+                    "Upward facing dog pose",
+                    "Cobra pose",
+                    "Snake pose"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "title": "Resistance Band Seated Shoulder Press",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Resistance Band Seated Shoulder Press Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Begin by sitting on a chair or bench with your feet flat on the ground and your back straight.",
+                    "Place the resistance band under your feet and hold the handles with your palms facing forward.",
+                    "Bring your hands up to shoulder level, keeping your elbows bent and in line with your shoulders.",
+                    "Press the handles up towards the ceiling, straightening your arms fully.",
+                    "Pause at the top of the movement, then slowly lower the handles back down to shoulder level.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Resistance Band Seated Shoulder Press Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Resistance Band Seated Shoulder Press Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the shoulder muscles, specifically the anterior and medial deltoids",
+                    "Improves shoulder strength and stability",
+                    "Engages the core muscles for added stability and balance",
+                    "Can be done with a resistance band, making it a convenient and portable exercise",
+                    "Allows for a full range of motion, helping to improve flexibility and mobility in the shoulders"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Resistance Band Seated Shoulder Press Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Deltoids",
+                    "Triceps",
+                    "Trapezius",
+                    "Rhomboids",
+                    "Rotator Cuff"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Resistance Band Seated Shoulder Press Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Resistance Band Standing Shoulder Press",
+                    "Resistance Band Front Raise",
+                    "Resistance Band Lateral Raise",
+                    "Resistance Band Rear Delt Fly",
+                    "Resistance Band Upright Row"
+                ]
+            }
+        }
+    ]
+}

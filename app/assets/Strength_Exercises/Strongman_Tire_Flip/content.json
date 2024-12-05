@@ -1,0 +1,78 @@
+{
+    "title": "Strongman Tire Flip",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Strongman Tire Flip Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Approach the tire with your feet shoulder-width apart and your toes pointing forward.",
+                    "Bend your knees and grab the bottom of the tire with both hands.",
+                    "Engage your core and lift the tire off the ground, keeping your back straight.",
+                    "Push the tire forward with your legs and hips, using your upper body to guide it.",
+                    "As the tire flips over, step back and reset your stance.",
+                    "Repeat for the desired number of reps or time."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Strongman Tire Flip Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Strongman Tire Flip Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Increases overall strength and power",
+                    "Targets multiple muscle groups including legs, back, shoulders, and arms",
+                    "Improves cardiovascular endurance",
+                    "Enhances functional fitness and ability to perform everyday tasks",
+                    "Provides a unique and challenging workout experience"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Strongman Tire Flip Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Glutes",
+                    "Calves",
+                    "Core muscles (abdominals, obliques, lower back)",
+                    "Shoulders",
+                    "Triceps",
+                    "Biceps"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Strongman Tire Flip Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single Arm Tire Flip",
+                    "Partner Tire Flip",
+                    "Backward Tire Flip",
+                    "Medicine Ball Tire Flip",
+                    "Jumping Tire Flip"
+                ]
+            }
+        }
+    ]
+}

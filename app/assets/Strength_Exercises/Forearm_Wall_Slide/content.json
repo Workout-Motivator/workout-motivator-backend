@@ -1,0 +1,75 @@
+{
+    "title": "Forearm Wall Slide",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Forearm Wall Slide Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your back against a wall and your feet about 6 inches away from the wall.",
+                    "Place your forearms against the wall with your elbows at a 90-degree angle.",
+                    "Slowly slide your forearms up the wall, keeping your elbows and wrists in contact with the wall.",
+                    "Stop when your arms are fully extended overhead.",
+                    "Hold for a few seconds, then slowly lower your arms back down to the starting position.",
+                    "Repeat for 10-15 repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Forearm Wall Slide Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Forearm Wall Slide Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves shoulder mobility and stability",
+                    "Strengthens the muscles of the upper back and shoulders",
+                    "Helps correct poor posture by opening up the chest and shoulders",
+                    "Can be done anywhere with a wall, making it a convenient exercise",
+                    "Low impact and low risk of injury"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Forearm Wall Slide Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Trapezius",
+                    "Rhomboids",
+                    "Rotator cuff muscles",
+                    "Deltoids",
+                    "Triceps"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Forearm Wall Slide Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Forearm Wall Slide with Resistance Band",
+                    "Forearm Wall Slide with Dumbbells",
+                    "Forearm Wall Slide with Foam Roller",
+                    "Forearm Wall Slide with Swiss Ball",
+                    "Forearm Wall Slide with TRX Suspension Trainer"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "title": "Smith Decline Bench Press",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Smith Decline Bench Press Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Set up the decline bench at a 30-45 degree angle.",
+                    "Lie down on the bench with your feet securely placed under the foot pads.",
+                    "Grasp the bar with a shoulder-width grip and lift it off the rack.",
+                    "Lower the bar slowly towards your chest, keeping your elbows tucked in.",
+                    "Pause briefly at the bottom of the movement, then press the bar back up to the starting position.",
+                    "Repeat for desired number of reps.",
+                    "When finished, carefully rack the bar back onto the rack."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Smith Decline Bench Press Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Smith Decline Bench Press Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the lower portion of the chest muscles",
+                    "Increases overall chest strength and size",
+                    "Improves upper body pushing strength",
+                    "Provides support for the shoulders and triceps",
+                    "Allows for a greater range of motion compared to traditional decline bench press"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Smith Decline Bench Press Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Pectoralis major (lower fibers)",
+                    "Triceps brachii",
+                    "Anterior deltoids"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Smith Decline Bench Press Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Smith Incline Bench Press",
+                    "Smith Flat Bench Press",
+                    "Smith Close-Grip Bench Press",
+                    "Smith Wide-Grip Bench Press",
+                    "Smith Reverse-Grip Bench Press"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "title": "Weighted Crunch",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Weighted Crunch Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on your back with your knees bent and feet flat on the ground.",
+                    "Hold a weight plate or dumbbell with both hands and extend your arms straight up towards the ceiling.",
+                    "Engage your core and lift your shoulders off the ground, bringing your chest towards your knees.",
+                    "Hold the contraction for a few seconds before slowly lowering back down to the starting position.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Weighted Crunch Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Weighted Crunch Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens abdominal muscles",
+                    "Improves core stability",
+                    "Increases overall body strength",
+                    "Helps with posture and balance",
+                    "Can be modified for different fitness levels"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Weighted Crunch Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus abdominis",
+                    "Obliques",
+                    "Transverse abdominis"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Weighted Crunch Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Reverse Crunch",
+                    "Oblique Crunch",
+                    "Decline Crunch",
+                    "Side Plank Crunch",
+                    "Medicine Ball Crunch"
+                ]
+            }
+        }
+    ]
+}

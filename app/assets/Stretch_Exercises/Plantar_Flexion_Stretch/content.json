@@ -1,0 +1,72 @@
+{
+    "title": "Plantar Flexion Stretch",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Plantar Flexion Stretch Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand facing a wall with your hands on the wall at shoulder height.",
+                    "Step back with one foot, keeping your heel on the ground.",
+                    "Bend your front knee and lean forward, keeping your back leg straight.",
+                    "You should feel a stretch in your calf muscle.",
+                    "Hold the stretch for 15-30 seconds.",
+                    "Repeat on the other side."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Plantar Flexion Stretch Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Plantar Flexion Stretch Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves ankle flexibility and range of motion",
+                    "Reduces risk of ankle sprains and other injuries",
+                    "Helps alleviate plantar fasciitis and other foot pain",
+                    "Can improve balance and stability",
+                    "May improve athletic performance in activities such as running and jumping"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Plantar Flexion Stretch Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Gastrocnemius",
+                    "Soleus"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Plantar Flexion Stretch Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Seated Plantar Flexion Stretch",
+                    "Standing Plantar Flexion Stretch",
+                    "Wall Plantar Flexion Stretch",
+                    "Towel Plantar Flexion Stretch",
+                    "Stair Plantar Flexion Stretch"
+                ]
+            }
+        }
+    ]
+}

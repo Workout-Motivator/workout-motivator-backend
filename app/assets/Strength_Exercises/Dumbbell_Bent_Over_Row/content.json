@@ -1,0 +1,81 @@
+{
+    "title": "Dumbbell Bent Over Row",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Bent Over Row Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a dumbbell in each hand with your palms facing your body.",
+                    "Bend your knees slightly and hinge forward at the hips, keeping your back straight and your core engaged.",
+                    "Bring the dumbbells up towards your chest, keeping your elbows close to your body and squeezing your shoulder blades together.",
+                    "Lower the dumbbells back down to the starting position, keeping your back straight and your core engaged.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Bent Over Row Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Bent Over Row Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the back muscles, including the latissimus dorsi, rhomboids, and trapezius",
+                    "Improves posture and reduces the risk of back pain",
+                    "Targets the biceps and forearms as secondary muscles",
+                    "Increases overall upper body strength and muscle mass",
+                    "Can be modified for different fitness levels and goals by adjusting weight and reps"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Bent Over Row Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Latissimus dorsi",
+                    "Trapezius",
+                    "Rhomboids",
+                    "Erector spinae",
+                    "Biceps brachii",
+                    "Brachialis",
+                    "Brachioradialis"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Bent Over Row Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single Arm Dumbbell Bent over Row",
+                    "Wide Grip Dumbbell Bent over Row",
+                    "Close Grip Dumbbell Bent over Row",
+                    "Reverse Grip Dumbbell Bent over Row",
+                    "Underhand Grip Dumbbell Bent over Row",
+                    "One Arm Alternating Dumbbell Bent over Row",
+                    "Barbell Bent over Row",
+                    "T-Bar Row",
+                    "Seated Cable Row",
+                    "Standing Cable Row"
+                ]
+            }
+        }
+    ]
+}

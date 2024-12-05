@@ -1,0 +1,74 @@
+{
+    "title": "Cross Jacks",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Cross Jacks Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your arms extended out to the sides at shoulder height.",
+                    "Jump and cross your right foot in front of your left foot while crossing your arms in front of your chest.",
+                    "Jump back to the starting position.",
+                    "Jump and cross your left foot in front of your right foot while crossing your arms in front of your chest.",
+                    "Jump back to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Cross Jacks Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Cross Jacks Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Increases heart rate and improves cardiovascular health",
+                    "Works multiple muscle groups, including the legs, arms, and core",
+                    "Improves coordination and balance",
+                    "Burns calories and aids in weight loss",
+                    "Can be modified for different fitness levels and abilities"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cross Jacks Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Chest muscles",
+                    "Shoulder muscles",
+                    "Abdominal muscles",
+                    "Leg muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cross Jacks Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Jumping Jacks",
+                    "Star Jumps",
+                    "Plank Jacks",
+                    "Seal Jacks",
+                    "Scissor Jacks"
+                ]
+            }
+        }
+    ]
+}

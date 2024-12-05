@@ -1,0 +1,75 @@
+{
+    "title": "Kettlebell Split Squat",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Split Squat Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet hip-width apart and hold a kettlebell in your right hand.",
+                    "Step your left foot back about two feet and place the ball of your foot on the ground.",
+                    "Bend your right knee and lower your body down into a lunge position, keeping your back straight and your chest lifted.",
+                    "As you lower your body, raise your right arm up and overhead, holding the kettlebell above your head.",
+                    "Push through your right foot to stand back up, lowering the kettlebell back down to your side.",
+                    "Repeat for 10-12 reps on one side before switching to the other side."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Split Squat Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Split Squat Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets multiple muscle groups including quads, glutes, hamstrings, and core",
+                    "Improves balance and stability",
+                    "Increases lower body strength and power",
+                    "Can be modified for different fitness levels and goals",
+                    "Requires minimal equipment and can be done at home or in the gym"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Split Squat Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Split Squat Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Kettlebell Bulgarian Split Squat",
+                    "Kettlebell Front Foot Elevated Split Squat",
+                    "Kettlebell Rear Foot Elevated Split Squat",
+                    "Kettlebell Goblet Split Squat",
+                    "Kettlebell Offset Split Squat"
+                ]
+            }
+        }
+    ]
+}

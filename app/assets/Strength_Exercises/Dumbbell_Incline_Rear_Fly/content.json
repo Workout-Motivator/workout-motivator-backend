@@ -1,0 +1,74 @@
+{
+    "title": "Dumbbell Incline Rear Fly",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Incline Rear Fly Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying face down on an incline bench with a dumbbell in each hand.",
+                    "Extend your arms straight down towards the floor with your palms facing each other.",
+                    "Slowly lift the dumbbells up and out to the sides, keeping your arms straight and your elbows slightly bent.",
+                    "Pause at the top of the movement and squeeze your shoulder blades together.",
+                    "Lower the dumbbells back down to the starting position with control.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Incline Rear Fly Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Incline Rear Fly Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the upper back muscles, specifically the trapezius and rhomboids",
+                    "Improves posture and shoulder stability",
+                    "Helps prevent shoulder injuries",
+                    "Increases shoulder mobility and range of motion",
+                    "Can be done with light weights and minimal equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Incline Rear Fly Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rhomboids",
+                    "Trapezius",
+                    "Posterior deltoids",
+                    "Rotator cuff muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Incline Rear Fly Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "dumbbell-incline-front-fly",
+                    "dumbbell-reverse-fly",
+                    "dumbbell-bent-over-rear-delt-fly",
+                    "cable-rear-delt-fly",
+                    "seated-rear-delt-fly"
+                ]
+            }
+        }
+    ]
+}

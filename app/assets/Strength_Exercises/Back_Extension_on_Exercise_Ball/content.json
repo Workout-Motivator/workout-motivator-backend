@@ -1,0 +1,72 @@
+{
+    "title": "Back Extension on Exercise Ball",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Back Extension on Exercise Ball Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying face down on the exercise ball with your hands behind your head and your feet flat on the ground.",
+                    "Engage your core and lift your chest off the ball, keeping your neck in a neutral position.",
+                    "Hold for a few seconds, then slowly lower back down to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Back Extension on Exercise Ball Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Back Extension on Exercise Ball Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the lower back muscles",
+                    "Improves posture and spinal alignment",
+                    "Increases core stability and balance",
+                    "Can help alleviate lower back pain",
+                    "Engages the glutes and hamstrings for added strength and toning"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Back Extension on Exercise Ball Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Erector Spinae",
+                    "Glutes",
+                    "Hamstrings",
+                    "Abdominals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Back Extension on Exercise Ball Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Back Extension on Stability Ball",
+                    "Reverse Hyperextension on Exercise Ball",
+                    "Superman on Exercise Ball",
+                    "Plank with Leg Lift on Exercise Ball",
+                    "Side Plank with Leg Lift on Exercise Ball"
+                ]
+            }
+        }
+    ]
+}

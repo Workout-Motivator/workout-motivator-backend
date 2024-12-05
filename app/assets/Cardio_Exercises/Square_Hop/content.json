@@ -1,0 +1,85 @@
+{
+    "title": "Square Hop",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Square Hop Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your arms at your sides.",
+                    "Jump forward with both feet, landing on the balls of your feet.",
+                    "Jump back to your starting position.",
+                    "Jump to the right with both feet, landing on the balls of your feet.",
+                    "Jump back to your starting position.",
+                    "Jump to the left with both feet, landing on the balls of your feet.",
+                    "Jump back to your starting position.",
+                    "Jump diagonally forward and to the right with both feet, landing on the balls of your feet.",
+                    "Jump back to your starting position.",
+                    "Jump diagonally forward and to the left with both feet, landing on the balls of your feet.",
+                    "Jump back to your starting position.",
+                    "Jump diagonally backward and to the right with both feet, landing on the balls of your feet.",
+                    "Jump back to your starting position.",
+                    "Jump diagonally backward and to the left with both feet, landing on the balls of your feet.",
+                    "Jump back to your starting position.",
+                    "Repeat the sequence for the desired number of repetitions or time."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Square Hop Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Square Hop Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves cardiovascular endurance",
+                    "Increases lower body strength and power",
+                    "Improves balance and coordination",
+                    "Can be done anywhere with minimal equipment",
+                    "Can be modified to increase or decrease intensity"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Square Hop Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Calves",
+                    "Hamstrings",
+                    "Core muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Square Hop Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Diagonal Square Hop",
+                    "Single Leg Square Hop",
+                    "Backward Square Hop",
+                    "Lateral Square Hop",
+                    "Double Square Hop"
+                ]
+            }
+        }
+    ]
+}

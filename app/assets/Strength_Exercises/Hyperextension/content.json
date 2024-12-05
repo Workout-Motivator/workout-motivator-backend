@@ -1,0 +1,72 @@
+{
+    "title": "Hyperextension",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Hyperextension Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying face down on a hyperextension bench with your feet securely anchored and your upper thighs resting on the padded support.",
+                    "Place your hands behind your head or across your chest, whichever is more comfortable for you.",
+                    "Slowly lift your upper body up until it is in line with your legs, making sure to keep your back straight and your neck in a neutral position.",
+                    "Hold this position for a few seconds, then slowly lower your upper body back down to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Hyperextension Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Hyperextension Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens lower back muscles",
+                    "Improves posture",
+                    "Reduces risk of lower back injury",
+                    "Increases flexibility in the spine",
+                    "Improves overall core stability"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Hyperextension Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Erector spinae",
+                    "Gluteus maximus",
+                    "Hamstrings"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Hyperextension Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Reverse hyperextension",
+                    "Weighted hyperextension",
+                    "Single-leg hyperextension",
+                    "Swiss ball hyperextension",
+                    "Band hyperextension"
+                ]
+            }
+        }
+    ]
+}

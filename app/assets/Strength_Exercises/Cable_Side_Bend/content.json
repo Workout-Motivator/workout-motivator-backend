@@ -1,0 +1,71 @@
+{
+    "title": "Cable Side Bend",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Cable Side Bend Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a cable in your right hand with your palm facing inwards.",
+                    "Place your left hand on your left hip and keep your back straight.",
+                    "Slowly bend your torso to the right side, keeping your arm straight and the cable close to your body.",
+                    "Hold the stretch for a few seconds and then slowly return to the starting position.",
+                    "Repeat the exercise for the desired number of repetitions and then switch sides."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Cable Side Bend Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Cable Side Bend Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the oblique muscles, which are responsible for side-to-side movements and rotational movements of the torso.",
+                    "Improves core stability and balance.",
+                    "Helps to reduce the risk of lower back pain by strengthening the muscles that support the spine.",
+                    "Can be performed with different levels of resistance to challenge the muscles and promote muscle growth.",
+                    "Can be easily modified to target different areas of the oblique muscles."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cable Side Bend Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Obliques",
+                    "Quadratus Lumborum"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cable Side Bend Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Weighted Cable Side Bend",
+                    "Single Arm Cable Side Bend",
+                    "Standing Cable Side Bend",
+                    "Seated Cable Side Bend",
+                    "Reverse Cable Side Bend"
+                ]
+            }
+        }
+    ]
+}

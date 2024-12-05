@@ -1,0 +1,73 @@
+{
+    "title": "Cable Lateral Raise",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Cable Lateral Raise Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a dumbbell in each hand.",
+                    "Extend your arms out to the sides, parallel to the floor, with your palms facing down.",
+                    "Keeping your arms straight, lift the weights up and out to the sides until they reach shoulder height.",
+                    "Pause for a moment at the top of the movement, then slowly lower the weights back down to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Cable Lateral Raise Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Cable Lateral Raise Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the lateral deltoid muscle, which is responsible for shoulder abduction and helps create a wider shoulder appearance",
+                    "Allows for a greater range of motion compared to dumbbell lateral raises",
+                    "Provides constant tension on the muscle throughout the movement, leading to greater muscle activation and potential growth",
+                    "Can be easily adjusted to target different areas of the lateral deltoid by changing the angle of the cable or the height of the pulley",
+                    "Engages the core muscles for stability and balance during the exercise"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cable Lateral Raise Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Deltoid (middle and anterior heads)",
+                    "Trapezius (upper fibers)",
+                    "Supraspinatus"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cable Lateral Raise Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single Arm Cable Lateral Raise",
+                    "Low Cable Lateral Raise",
+                    "High Cable Lateral Raise",
+                    "Reverse Cable Lateral Raise",
+                    "Standing Cable Lateral Raise",
+                    "Seated Cable Lateral Raise"
+                ]
+            }
+        }
+    ]
+}

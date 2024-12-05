@@ -1,0 +1,73 @@
+{
+    "title": "One Arm Dip",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "One Arm Dip Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Find a sturdy surface to perform the exercise on, such as parallel bars or the edge of a bench.",
+                    "Place one hand on the surface and extend your legs out in front of you.",
+                    "Lower your body by bending your elbow, keeping your body close to the surface.",
+                    "Push yourself back up to the starting position by straightening your elbow.",
+                    "Repeat for desired number of reps, then switch to the other arm."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "One Arm Dip Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "One Arm Dip Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets triceps, chest, and shoulders",
+                    "Improves upper body strength and stability",
+                    "Can be done with minimal equipment (dip bar or parallel bars)",
+                    "Allows for unilateral training, which can help correct muscle imbalances",
+                    "Engages core muscles for added stability and balance"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "One Arm Dip Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Triceps",
+                    "Chest",
+                    "Shoulders",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "One Arm Dip Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Weighted One Arm Dip",
+                    "Assisted One Arm Dip",
+                    "One Arm Dip with Resistance Band",
+                    "One Arm Dip on Rings",
+                    "One Arm Dip on Parallel Bars"
+                ]
+            }
+        }
+    ]
+}

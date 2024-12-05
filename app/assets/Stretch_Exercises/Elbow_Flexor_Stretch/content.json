@@ -1,0 +1,72 @@
+{
+    "title": "Elbow Flexor Stretch",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Elbow Flexor Stretch Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your arms at your sides.",
+                    "Extend your right arm in front of you, with your palm facing up.",
+                    "Bend your right elbow and bring your right hand towards your left shoulder.",
+                    "Use your left hand to gently push your right elbow towards your left shoulder, feeling a stretch in your right bicep and forearm.",
+                    "Hold the stretch for 15-30 seconds, then release and repeat on the other side."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Elbow Flexor Stretch Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Elbow Flexor Stretch Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Increases flexibility and range of motion in the elbow joint",
+                    "Reduces the risk of injury in the elbow and surrounding muscles",
+                    "Relieves tension and tightness in the forearm muscles",
+                    "Improves grip strength and forearm endurance",
+                    "Can help alleviate symptoms of conditions such as tennis elbow and golfer’s elbow"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Elbow Flexor Stretch Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Biceps brachii",
+                    "Brachialis",
+                    "Brachioradialis"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Elbow Flexor Stretch Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Standing Elbow Flexor Stretch",
+                    "Seated Elbow Flexor Stretch",
+                    "Kneeling Elbow Flexor Stretch",
+                    "Assisted Elbow Flexor Stretch",
+                    "Dynamic Elbow Flexor Stretch"
+                ]
+            }
+        }
+    ]
+}

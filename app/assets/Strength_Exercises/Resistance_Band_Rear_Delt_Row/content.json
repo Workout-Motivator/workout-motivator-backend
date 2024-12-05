@@ -1,0 +1,76 @@
+{
+    "title": "Resistance Band Rear Delt Row",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Resistance Band Rear Delt Row Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Attach the resistance band to a sturdy anchor point, such as a door handle or pole.",
+                    "Stand facing the anchor point with your feet shoulder-width apart and knees slightly bent.",
+                    "Hold the resistance band with both hands, palms facing each other, and arms extended in front of you.",
+                    "Engage your shoulder blades and pull the resistance band towards your chest, keeping your elbows close to your body.",
+                    "Pause for a moment at the top of the movement, then slowly release back to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Resistance Band Rear Delt Row Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Resistance Band Rear Delt Row Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the lower abs",
+                    "Increases core strength and stability",
+                    "Improves posture",
+                    "Can be done anywhere with a resistance band",
+                    "Low impact exercise, reducing risk of injury",
+                    "Can be modified for different fitness levels"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Resistance Band Rear Delt Row Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rhomboids",
+                    "Trapezius",
+                    "Posterior deltoids",
+                    "Erector spinae",
+                    "Latissimus dorsi"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Resistance Band Rear Delt Row Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Resistance band reverse fly",
+                    "Resistance band face pull",
+                    "Resistance band pull apart",
+                    "Resistance band seated row",
+                    "Resistance band bent over row"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "title": "Dumbbell Rear Lateral Raise",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Rear Lateral Raise Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a dumbbell in each hand.",
+                    "Bend your knees slightly and hinge forward at the hips, keeping your back straight.",
+                    "Extend your arms straight down towards the floor, with your palms facing each other.",
+                    "Engage your shoulder blades and lift your arms out to the sides, keeping them straight, until they are parallel to the floor.",
+                    "Pause for a moment, then slowly lower the dumbbells back down to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Rear Lateral Raise Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Rear Lateral Raise Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the rear deltoids, which are often neglected in traditional shoulder exercises",
+                    "Improves posture by strengthening the muscles responsible for pulling the shoulders back",
+                    "Helps prevent shoulder injuries by strengthening the rotator cuff muscles",
+                    "Can be done with light weights and minimal equipment, making it accessible for beginners",
+                    "Allows for a wide range of motion, which can help improve shoulder mobility"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Rear Lateral Raise Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rear Deltoids",
+                    "Trapezius",
+                    "Rhomboids",
+                    "Infraspinatus",
+                    "Terres Minor"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Rear Lateral Raise Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Front Lateral Raise",
+                    "Dumbbell Side Lateral Raise",
+                    "Cable Rear Lateral Raise",
+                    "Cable Front Lateral Raise",
+                    "Cable Side Lateral Raise",
+                    "Resistance Band Rear Lateral Raise",
+                    "Resistance Band Front Lateral Raise",
+                    "Resistance Band Side Lateral Raise"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "title": "Dumbbell Overhead Squat",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Overhead Squat Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a dumbbell in each hand.",
+                    "Extend your arms straight up above your head, keeping your palms facing forward.",
+                    "Lower your body down into a squat position, keeping your back straight and your knees behind your toes.",
+                    "As you squat down, keep your arms extended above your head and your palms facing forward.",
+                    "Pause for a moment at the bottom of the squat, then slowly stand back up to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Overhead Squat Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Overhead Squat Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves overall strength and stability in the lower body",
+                    "Targets the quadriceps, glutes, hamstrings, and core muscles",
+                    "Increases shoulder mobility and stability",
+                    "Improves balance and coordination",
+                    "Can be modified for different fitness levels and goals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Overhead Squat Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Core",
+                    "Shoulders",
+                    "Triceps"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Overhead Squat Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Front Squat",
+                    "Dumbbell Goblet Squat",
+                    "Dumbbell Sumo Squat",
+                    "Dumbbell Bulgarian Split Squat",
+                    "Dumbbell Step-Up"
+                ]
+            }
+        }
+    ]
+}

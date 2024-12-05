@@ -1,0 +1,78 @@
+{
+    "title": "Dumbbell Overhead Lunge",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Overhead Lunge Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a dumbbell in each hand.",
+                    "Extend your arms straight up above your head, keeping your elbows close to your ears.",
+                    "Take a large step forward with your right foot, lowering your body until your right thigh is parallel to the ground.",
+                    "As you lunge forward, lower the dumbbells down to either side of your right foot.",
+                    "Push off your right foot and return to the starting position, raising the dumbbells back up above your head.",
+                    "Repeat the lunge with your left foot, lowering the dumbbells down to either side of your left foot.",
+                    "Continue alternating lunges for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Overhead Lunge Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Overhead Lunge Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the legs, glutes, shoulders, and core muscles",
+                    "Improves balance and stability",
+                    "Increases range of motion in the hips and shoulders",
+                    "Engages multiple muscle groups for a full-body workout",
+                    "Can be modified for different fitness levels by adjusting the weight of the dumbbells"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Overhead Lunge Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Core",
+                    "Shoulders",
+                    "Triceps"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Overhead Lunge Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Front Lunge",
+                    "Dumbbell Reverse Lunge",
+                    "Dumbbell Walking Lunge",
+                    "Dumbbell Side Lunge",
+                    "Dumbbell Curtsy Lunge"
+                ]
+            }
+        }
+    ]
+}

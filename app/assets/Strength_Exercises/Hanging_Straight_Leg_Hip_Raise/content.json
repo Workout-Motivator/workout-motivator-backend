@@ -1,0 +1,73 @@
+{
+    "title": "Hanging Straight Leg Hip Raise",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Hanging Straight Leg Hip Raise Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Find a sturdy pull-up bar and hang from it with your arms straight and your feet off the ground.",
+                    "Engage your core and lift your legs up until they are parallel to the ground.",
+                    "Slowly lower your legs back down to the starting position, keeping them straight and your core engaged.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Hanging Straight Leg Hip Raise Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Hanging Straight Leg Hip Raise Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Stretches the hips, thighs, and groin",
+                    "Relieves lower back pain",
+                    "Calms the mind and reduces stress",
+                    "Improves digestion and relieves constipation",
+                    "Helps to release tension in the body",
+                    "Can be modified for different levels of flexibility"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Hanging Straight Leg Hip Raise Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus abdominis",
+                    "Obliques",
+                    "Hip flexors",
+                    "Erector spinae"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Hanging Straight Leg Hip Raise Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Hanging bent-knee leg raise",
+                    "Hanging straight leg raise",
+                    "Hanging knee raise twist",
+                    "Hanging windshield wiper",
+                    "Dragon flag"
+                ]
+            }
+        }
+    ]
+}

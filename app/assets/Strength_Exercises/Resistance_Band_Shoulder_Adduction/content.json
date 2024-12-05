@@ -1,0 +1,78 @@
+{
+    "title": "Resistance Band Shoulder Adduction",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Resistance Band Shoulder Adduction Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Attach the resistance band to a sturdy anchor point at shoulder height.",
+                    "Stand facing away from the anchor point with your feet shoulder-width apart.",
+                    "Hold the resistance band with both hands, palms facing inwards and arms extended in front of you.",
+                    "Slowly pull the resistance band towards your chest, keeping your arms straight and shoulder blades squeezed together.",
+                    "Hold the position for a few seconds, then slowly release back to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Resistance Band Shoulder Adduction Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Resistance Band Shoulder Adduction Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the core muscles, including the rectus abdominis, obliques, and transverse abdominis",
+                    "Improves stability and balance",
+                    "Targets the lower abs, which can be difficult to isolate with other exercises",
+                    "Can help alleviate lower back pain by strengthening the muscles that support the spine",
+                    "Can be modified to increase or decrease difficulty based on fitness level"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Resistance Band Shoulder Adduction Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Deltoids",
+                    "Trapezius",
+                    "Rhomboids",
+                    "Rotator cuff muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Resistance Band Shoulder Adduction Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Resistance band shoulder abduction",
+                    "Resistance band shoulder external rotation",
+                    "Resistance band shoulder flexion",
+                    "Resistance band shoulder horizontal abduction",
+                    "Resistance band shoulder internal rotation",
+                    "Resistance band shoulder press",
+                    "Resistance band shoulder shrug",
+                    "Resistance band shoulder stabilization",
+                    "Resistance band shoulder transverse abduction"
+                ]
+            }
+        }
+    ]
+}

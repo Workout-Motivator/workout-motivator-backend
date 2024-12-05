@@ -1,0 +1,72 @@
+{
+    "title": "Plate Hyperextension",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Plate Hyperextension Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying face down on a flat bench with your hips at the edge of the bench and your feet firmly planted on the ground.",
+                    "Place a weight plate on the back of your head, holding it in place with your hands.",
+                    "Slowly raise your upper body off the bench, keeping your back straight and your head in line with your spine.",
+                    "Hold the contraction for a few seconds, then slowly lower your body back down to the starting position.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Plate Hyperextension Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Plate Hyperextension Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the lower back muscles",
+                    "Improves posture and spinal alignment",
+                    "Increases flexibility in the hip and glute muscles",
+                    "Can help alleviate lower back pain",
+                    "Targets the erector spinae muscles, which are important for spinal stability"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Plate Hyperextension Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Erector spinae",
+                    "Gluteus maximus",
+                    "Hamstrings"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Plate Hyperextension Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Weighted Hyperextension",
+                    "Reverse Hyperextension",
+                    "Single Leg Hyperextension",
+                    "Swiss Ball Hyperextension",
+                    "Band Resisted Hyperextension"
+                ]
+            }
+        }
+    ]
+}

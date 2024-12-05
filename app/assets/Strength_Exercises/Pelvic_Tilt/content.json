@@ -1,0 +1,72 @@
+{
+    "title": "Pelvic Tilt",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Pelvic Tilt Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on your back with your knees bent and feet flat on the ground.",
+                    "Place your hands on your hip bones and make sure they are level.",
+                    "Take a deep breath in and as you exhale, gently tilt your pelvis towards your belly button.",
+                    "Hold this position for a few seconds and then release.",
+                    "Repeat this exercise for 10-15 repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Pelvic Tilt Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Pelvic Tilt Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the lower back muscles",
+                    "Improves posture and alignment of the spine",
+                    "Reduces lower back pain",
+                    "Increases flexibility in the hip flexors and lower back",
+                    "Improves core stability and balance"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Pelvic Tilt Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Abdominal muscles",
+                    "Lower back muscles",
+                    "Gluteal muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Pelvic Tilt Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single Leg Pelvic Tilt",
+                    "Double Leg Pelvic Tilt",
+                    "Bridge with Pelvic Tilt",
+                    "Side-Lying Pelvic Tilt",
+                    "Standing Pelvic Tilt"
+                ]
+            }
+        }
+    ]
+}

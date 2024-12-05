@@ -1,0 +1,73 @@
+{
+    "title": "Behind Head Chest Stretch",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Behind Head Chest Stretch Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your arms at your sides.",
+                    "Reach behind your head with your right hand and grasp your left elbow.",
+                    "Gently pull your left elbow towards your right shoulder until you feel a stretch in your chest and shoulder.",
+                    "Hold the stretch for 15-30 seconds.",
+                    "Release the stretch and repeat on the other side."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Behind Head Chest Stretch Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Behind Head Chest Stretch Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Relieves tension and tightness in the chest muscles",
+                    "Improves posture by opening up the chest and shoulders",
+                    "Increases flexibility in the shoulders and upper back",
+                    "May help alleviate upper back pain",
+                    "Can be done anywhere without any equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Behind Head Chest Stretch Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Pectoralis Major",
+                    "Pectoralis Minor",
+                    "Deltoids",
+                    "Triceps"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Behind Head Chest Stretch Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Standing Chest Stretch",
+                    "Wall Chest Stretch",
+                    "Doorway Chest Stretch",
+                    "Chest Opener Stretch",
+                    "Seated Chest Stretch"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "title": "Barbell Rack Pull",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Barbell Rack Pull Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by standing in front of a barbell with your feet shoulder-width apart.",
+                    "Bend down and grip the barbell with an overhand grip, with your hands slightly wider than shoulder-width apart.",
+                    "Stand up straight, lifting the barbell off the rack and holding it at arm’s length in front of you.",
+                    "Take a step back from the rack and position your feet hip-width apart.",
+                    "Lower the barbell down towards your shins, keeping your back straight and your core engaged.",
+                    "Pause for a moment at the bottom of the movement, then slowly lift the barbell back up to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Barbell Rack Pull Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Barbell Rack Pull Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the upper back muscles, including the traps and rhomboids",
+                    "Improves posture and spinal erector strength",
+                    "Increases grip strength and forearm development",
+                    "Can be used as a variation to traditional deadlifts",
+                    "Allows for heavier weight to be lifted compared to traditional deadlifts due to the shortened range of motion"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Barbell Rack Pull Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Trapezius",
+                    "Rhomboids",
+                    "Erector Spinae",
+                    "Glutes",
+                    "Hamstrings",
+                    "Quadriceps",
+                    "Forearms"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Barbell Rack Pull Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Sumo Barbell Rack Pull",
+                    "Conventional Barbell Rack Pull",
+                    "Deficit Barbell Rack Pull",
+                    "Block Barbell Rack Pull",
+                    "Paused Barbell Rack Pull",
+                    "Snatch Grip Barbell Rack Pull",
+                    "Close Grip Barbell Rack Pull",
+                    "Wide Grip Barbell Rack Pull",
+                    "One Arm Barbell Rack Pull",
+                    "Barbell Rack Pull with Chains",
+                    "Barbell Rack Pull with Bands"
+                ]
+            }
+        }
+    ]
+}

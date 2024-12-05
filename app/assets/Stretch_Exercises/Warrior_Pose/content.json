@@ -1,0 +1,79 @@
+{
+    "title": "Warrior Pose",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Warrior Pose Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand at the top of your mat with your feet hip-width apart and your arms at your sides.",
+                    "Step your left foot back about 3-4 feet, turning your left foot out at a 45-degree angle.",
+                    "Bend your right knee, keeping it directly over your ankle, and sink your hips down towards the floor.",
+                    "Extend your arms out to the sides, parallel to the floor, with your palms facing down.",
+                    "Gaze over your right fingertips and hold for several breaths.",
+                    "To come out of the pose, straighten your right leg and step your left foot forward to meet your right foot.",
+                    "Repeat on the other side, stepping your right foot back and bending your left knee."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Warrior Pose Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Warrior Pose Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the upper body, particularly the back, biceps, and shoulders",
+                    "Improves grip strength",
+                    "Increases overall body control and stability",
+                    "Can help improve posture",
+                    "Can be modified to increase or decrease difficulty",
+                    "Can be done with minimal equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Warrior Pose Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Abdominals",
+                    "Back muscles",
+                    "Shoulders"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Warrior Pose Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Warrior II Pose",
+                    "Reverse Warrior Pose",
+                    "Extended Side Angle Pose",
+                    "Warrior III Pose",
+                    "Half Moon Pose"
+                ]
+            }
+        }
+    ]
+}

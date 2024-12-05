@@ -1,0 +1,75 @@
+{
+    "title": "Grasshopper Push Up",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Grasshopper Push Up Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start in a plank position with your hands shoulder-width apart and your feet hip-width apart.",
+                    "Bend your elbows and lower your body towards the ground, keeping your core engaged and your back straight.",
+                    "As you push back up, jump your feet towards your hands and land in a squat position.",
+                    "Jump back to the starting plank position and repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Grasshopper Push Up Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Grasshopper Push Up Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the chest, shoulders, triceps, and core muscles",
+                    "Improves upper body and core stability",
+                    "Increases overall body control and coordination",
+                    "Engages the glutes and legs for added lower body activation",
+                    "Can be modified for different fitness levels and goals",
+                    "Provides a challenging and dynamic full body workout"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Grasshopper Push Up Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Chest muscles (pectoralis major and minor)",
+                    "Shoulder muscles (deltoids)",
+                    "Triceps",
+                    "Core muscles (abdominals and obliques)",
+                    "Quadriceps",
+                    "Glutes"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Grasshopper Push Up Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Grasshopper plank",
+                    "Grasshopper push up with knee tuck",
+                    "Grasshopper push up with leg lift",
+                    "Grasshopper push up with mountain climber",
+                    "Grasshopper push up with spider crawl"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "title": "Double Leg Stretch",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Double Leg Stretch Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on your back with your knees bent and feet flat on the floor.",
+                    "Bring your knees towards your chest and lift your head and shoulders off the ground.",
+                    "Extend your arms straight above your head and straighten your legs out in front of you at a 45-degree angle.",
+                    "Inhale and simultaneously bring your arms and legs back towards your chest, hugging your knees in towards your body.",
+                    "Exhale and extend your arms and legs out again, keeping them lifted off the ground.",
+                    "Repeat this movement for 8-10 repetitions, focusing on keeping your core engaged and your movements controlled."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Double Leg Stretch Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Double Leg Stretch Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Stretches the hips, glutes, and lower back",
+                    "Improves posture and alignment",
+                    "Increases flexibility and range of motion in the hips",
+                    "Relieves tension and stress in the body",
+                    "Can help alleviate symptoms of sciatica",
+                    "May improve digestion and circulation"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Double Leg Stretch Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus abdominis",
+                    "Transverse abdominis",
+                    "Obliques",
+                    "Hip flexors",
+                    "Quadriceps"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Double Leg Stretch Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "single-leg-stretch",
+                    "criss-cross",
+                    "scissors",
+                    "bicycle",
+                    "double-straight-leg-stretch"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "title": "Hanging Leg Hip Raise",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Hanging Leg Hip Raise Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Hang from a pull-up bar with your arms straight and your feet off the ground.",
+                    "Engage your core and lift your legs up towards your hips, keeping them straight.",
+                    "Pause at the top of the movement and squeeze your abs.",
+                    "Slowly lower your legs back down to the starting position.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Hanging Leg Hip Raise Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Hanging Leg Hip Raise Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the core muscles, including the rectus abdominis, obliques, and hip flexors",
+                    "Improves overall stability and balance",
+                    "Increases flexibility in the hips and lower back",
+                    "Helps to prevent lower back pain and injury",
+                    "Can be modified to increase or decrease difficulty, making it suitable for all fitness levels"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Hanging Leg Hip Raise Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus Abdominis",
+                    "Obliques",
+                    "Iliopsoas",
+                    "Tensor Fasciae Latae",
+                    "Sartorius"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Hanging Leg Hip Raise Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Weighted Hanging Leg Hip Raise",
+                    "Side-to-Side Hanging Leg Hip Raise",
+                    "Single Leg Hanging Leg Hip Raise",
+                    "Windshield Wiper Hanging Leg Hip Raise",
+                    "Oblique Hanging Leg Hip Raise"
+                ]
+            }
+        }
+    ]
+}

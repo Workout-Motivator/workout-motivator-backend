@@ -1,0 +1,79 @@
+{
+    "title": "Dumbbell Standing Single Spider Curl",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Standing Single Spider Curl Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a dumbbell in one hand.",
+                    "Place the back of your upper arm against your side and bend your elbow to bring the dumbbell up towards your shoulder.",
+                    "As you curl the weight up, rotate your wrist so that your palm faces your shoulder.",
+                    "Pause at the top of the movement and squeeze your bicep.",
+                    "Slowly lower the weight back down to the starting position.",
+                    "Repeat for the desired number of reps and then switch arms."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Standing Single Spider Curl Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Standing Single Spider Curl Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the biceps muscles, helping to increase strength and size",
+                    "Improves grip strength and forearm muscles",
+                    "Engages the core muscles for stability and balance",
+                    "Can be done with a variety of weights to increase or decrease intensity",
+                    "Can be easily modified for individuals with wrist or elbow pain"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Standing Single Spider Curl Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Biceps brachii",
+                    "Brachialis",
+                    "Brachioradialis"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Standing Single Spider Curl Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Standing Double Spider Curl",
+                    "Dumbbell Seated Single Spider Curl",
+                    "Dumbbell Seated Double Spider Curl",
+                    "Barbell Standing Single Spider Curl",
+                    "Barbell Standing Double Spider Curl",
+                    "Barbell Seated Single Spider Curl",
+                    "Barbell Seated Double Spider Curl",
+                    "Cable Standing Single Spider Curl",
+                    "Cable Standing Double Spider Curl",
+                    "Cable Seated Single Spider Curl",
+                    "Cable Seated Double Spider Curl"
+                ]
+            }
+        }
+    ]
+}

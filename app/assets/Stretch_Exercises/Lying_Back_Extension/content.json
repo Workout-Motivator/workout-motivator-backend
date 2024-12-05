@@ -1,0 +1,72 @@
+{
+    "title": "Lying Back Extension",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Lying Back Extension Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying flat on your stomach on a mat or comfortable surface.",
+                    "Place your hands behind your head, with your elbows pointing out to the sides.",
+                    "Engage your core muscles and lift your chest and upper body off the ground, keeping your neck in a neutral position.",
+                    "Hold this position for a few seconds, then slowly lower your upper body back down to the starting position.",
+                    "Repeat for several repetitions, focusing on using your back muscles to lift your upper body rather than relying on momentum or your arms."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Lying Back Extension Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Lying Back Extension Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Stretches the calf muscles",
+                    "Improves ankle flexibility",
+                    "Reduces the risk of injury in the lower leg",
+                    "Relieves tightness and soreness in the calves",
+                    "Can be done anywhere without any equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Lying Back Extension Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Erector spinae",
+                    "Gluteus maximus",
+                    "Hamstrings"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Lying Back Extension Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "standing-back-extension",
+                    "swiss-ball-back-extension",
+                    "hyperextension",
+                    "good-mornings",
+                    "deadlifts"
+                ]
+            }
+        }
+    ]
+}

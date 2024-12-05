@@ -1,0 +1,75 @@
+{
+    "title": "Lever Seated Fly",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Lever Seated Fly Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Adjust the seat height so that the handles are at chest level.",
+                    "Sit on the machine with your back against the pad and grasp the handles with an overhand grip.",
+                    "Keep your elbows slightly bent and your arms parallel to the floor.",
+                    "Exhale and squeeze your chest muscles to bring the handles together in front of your chest.",
+                    "Pause for a moment and then slowly release back to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Lever Seated Fly Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Lever Seated Fly Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the muscles of the upper back, specifically the rhomboids and rear deltoids",
+                    "Improves posture by strengthening the muscles responsible for pulling the shoulders back and down",
+                    "Helps to prevent and alleviate shoulder pain by strengthening the muscles that support the shoulder joint",
+                    "Can be performed with a variety of equipment, including a lever machine, dumbbells, or resistance bands",
+                    "Allows for a controlled and isolated movement, reducing the risk of injury and ensuring proper form"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Lever Seated Fly Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Pectoralis Major",
+                    "Anterior Deltoids",
+                    "Medial Deltoids",
+                    "Rhomboids",
+                    "Trapezius"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Lever Seated Fly Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Lever Seated Reverse Fly",
+                    "Lever Seated Chest Fly",
+                    "Lever Seated Incline Fly",
+                    "Lever Seated Decline Fly",
+                    "Lever Standing Fly"
+                ]
+            }
+        }
+    ]
+}

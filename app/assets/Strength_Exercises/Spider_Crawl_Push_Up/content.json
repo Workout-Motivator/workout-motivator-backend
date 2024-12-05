@@ -1,0 +1,75 @@
+{
+    "title": "Spider Crawl Push Up",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Spider Crawl Push Up Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start in a push up position with your hands shoulder-width apart and your feet hip-width apart.",
+                    "Lower your body down towards the ground, keeping your elbows close to your body.",
+                    "As you push back up, bring your right knee up towards your right elbow.",
+                    "Return your right foot to the starting position and repeat the push up, this time bringing your left knee up towards your left elbow.",
+                    "Continue alternating between the spider crawl and push up for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Spider Crawl Push Up Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Spider Crawl Push Up Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets multiple muscle groups including chest, shoulders, triceps, and core",
+                    "Improves upper body strength and endurance",
+                    "Increases stability and balance",
+                    "Engages the entire body for a full-body workout",
+                    "Can be modified for different fitness levels",
+                    "Provides a cardiovascular challenge for added calorie burn"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Spider Crawl Push Up Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Chest muscles (pectoralis major and minor)",
+                    "Shoulder muscles (deltoids)",
+                    "Triceps",
+                    "Core muscles (abdominals and obliques)",
+                    "Back muscles (latissimus dorsi and erector spinae)"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Spider Crawl Push Up Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Spiderman Push up",
+                    "Spider Crawl Plank",
+                    "Spider Crawl Mountain Climber",
+                    "Spider Crawl Lunge",
+                    "Spider Crawl Burpee"
+                ]
+            }
+        }
+    ]
+}

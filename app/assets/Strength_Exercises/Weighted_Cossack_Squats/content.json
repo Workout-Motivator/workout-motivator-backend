@@ -1,0 +1,77 @@
+{
+    "title": "Weighted Cossack Squats",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Weighted Cossack Squats Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a dumbbell in each hand.",
+                    "Step your right foot back and to the left, crossing behind your left leg.",
+                    "Bend your left knee and lower your body until your left thigh is parallel to the ground.",
+                    "Push through your left heel to stand back up, keeping your right foot off the ground.",
+                    "Repeat for the desired number of reps, then switch sides."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Weighted Cossack Squats Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Weighted Cossack Squats Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the core muscles",
+                    "Improves stability and balance",
+                    "Targets the lower back muscles",
+                    "Increases overall body strength",
+                    "Can be modified for different fitness levels",
+                    "Helps prevent lower back pain and injury"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Weighted Cossack Squats Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Adductors",
+                    "Abductors",
+                    "Calves",
+                    "Core muscles for stability"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Weighted Cossack Squats Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Weighted Bulgarian split squats",
+                    "Weighted lunges",
+                    "Weighted step-ups",
+                    "Weighted pistol squats",
+                    "Weighted single-leg deadlifts"
+                ]
+            }
+        }
+    ]
+}

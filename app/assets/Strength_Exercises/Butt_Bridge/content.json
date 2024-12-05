@@ -1,0 +1,79 @@
+{
+    "title": "Butt Bridge",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Butt Bridge Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on your back with your knees bent and feet flat on the ground.",
+                    "Place your arms at your sides with your palms facing down.",
+                    "Engage your glutes and lift your hips up towards the ceiling, keeping your feet and shoulders on the ground.",
+                    "Hold the position for a few seconds, squeezing your glutes at the top of the movement.",
+                    "Slowly lower your hips back down to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Butt Bridge Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Butt Bridge Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens glutes and hamstrings",
+                    "Improves posture and stability",
+                    "Reduces lower back pain",
+                    "Increases hip mobility",
+                    "Can be done with no equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Butt Bridge Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Glutes",
+                    "Hamstrings",
+                    "Lower back",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Butt Bridge Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single-leg butt bridge",
+                    "Weighted butt bridge",
+                    "Butt bridge with leg abduction",
+                    "Butt bridge with leg adduction",
+                    "Butt bridge with hip thrust",
+                    "Butt bridge with resistance band",
+                    "Butt bridge with stability ball",
+                    "Butt bridge with dumbbell",
+                    "Butt bridge with barbell",
+                    "Butt bridge with kettlebell"
+                ]
+            }
+        }
+    ]
+}

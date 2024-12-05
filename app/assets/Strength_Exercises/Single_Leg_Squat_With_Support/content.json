@@ -1,0 +1,76 @@
+{
+    "title": "Single Leg Squat With Support",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Single Leg Squat With Support Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet hip-width apart and place a chair or bench behind you for support.",
+                    "Lift your left foot off the ground and extend it forward.",
+                    "Slowly lower your body down into a squat position, keeping your right foot firmly planted on the ground.",
+                    "Pause for a moment at the bottom of the squat, then push through your right foot to return to the starting position.",
+                    "Repeat for the desired number of repetitions, then switch legs and repeat on the other side."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Single Leg Squat With Support Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Single Leg Squat With Support Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens abdominal muscles",
+                    "Improves flexibility in hamstrings and hip flexors",
+                    "Increases core stability and balance",
+                    "Improves posture and alignment",
+                    "Can help alleviate lower back pain"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Single Leg Squat With Support Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Single Leg Squat With Support Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single-leg squat with no support",
+                    "Single-leg squat with dumbbells",
+                    "Single-leg squat with resistance band",
+                    "Single-leg squat with medicine ball",
+                    "Single-leg squat with kettlebell",
+                    "Single-leg squat with TRX suspension trainer",
+                    "Single-leg squat with stability ball"
+                ]
+            }
+        }
+    ]
+}

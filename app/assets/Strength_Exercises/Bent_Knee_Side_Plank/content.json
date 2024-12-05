@@ -1,0 +1,72 @@
+{
+    "title": "Bent Knee Side Plank",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Bent Knee Side Plank Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on your side with your legs bent at a 90-degree angle and your elbow directly under your shoulder.",
+                    "Engage your core and lift your hips off the ground, creating a straight line from your head to your knees.",
+                    "Hold this position for 30 seconds to 1 minute, or as long as you can maintain proper form.",
+                    "Lower your hips back down to the ground and repeat on the other side."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Bent Knee Side Plank Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Bent Knee Side Plank Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the oblique muscles",
+                    "Improves core stability",
+                    "Increases balance and coordination",
+                    "Helps prevent lower back pain",
+                    "Can be modified for different fitness levels"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Bent Knee Side Plank Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Obliques",
+                    "Glutes",
+                    "Quadratus Lumborum",
+                    "Transverse Abdominis"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Bent Knee Side Plank Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Straight Leg Side Plank",
+                    "Side Plank with Hip Dip",
+                    "Side Plank with Leg Lift",
+                    "Side Plank with Arm Reach",
+                    "Side Plank with Knee Tuck"
+                ]
+            }
+        }
+    ]
+}

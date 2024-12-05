@@ -1,0 +1,81 @@
+{
+    "title": "Cable One Arm Lat Pulldown",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Cable One Arm Lat Pulldown Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Attach a single handle to the cable machine at a high position.",
+                    "Stand facing the machine and grab the handle with one hand.",
+                    "Step back a few feet to create tension in the cable.",
+                    "Keep your feet shoulder-width apart and your knees slightly bent.",
+                    "Engage your core and keep your back straight.",
+                    "Exhale and pull the handle down towards your side, keeping your elbow close to your body.",
+                    "Pause for a moment at the bottom of the movement, squeezing your lat muscle.",
+                    "Inhale and slowly release the handle back to the starting position.",
+                    "Repeat for desired number of reps, then switch sides and repeat."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Cable One Arm Lat Pulldown Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Cable One Arm Lat Pulldown Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the latissimus dorsi muscle, which is the largest muscle in the back and helps with overall upper body strength and posture",
+                    "Allows for unilateral training, meaning each arm can be worked independently to address any muscle imbalances",
+                    "Provides a full range of motion, allowing for a deeper stretch and contraction of the muscle",
+                    "Engages the core muscles for stability and balance during the exercise",
+                    "Can be easily adjusted for different resistance levels to accommodate different fitness levels and goals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cable One Arm Lat Pulldown Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Latissimus dorsi",
+                    "Teres major",
+                    "Rhomboids",
+                    "Trapezius",
+                    "Biceps brachii"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cable One Arm Lat Pulldown Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Cable two arm lat pulldown",
+                    "Cable reverse grip lat pulldown",
+                    "Cable wide grip lat pulldown",
+                    "Cable close grip lat pulldown",
+                    "Cable kneeling lat pulldown",
+                    "Cable straight arm pulldown",
+                    "Cable high pulley lat pulldown",
+                    "Cable low pulley lat pulldown"
+                ]
+            }
+        }
+    ]
+}

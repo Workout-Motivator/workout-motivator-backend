@@ -1,0 +1,81 @@
+{
+    "title": "Ladder Drill",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Ladder Drill Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by standing at the bottom of the ladder with your feet shoulder-width apart.",
+                    "Step into the first square with your left foot, then bring your right foot in.",
+                    "Step out of the first square with your left foot, then bring your right foot out.",
+                    "Step into the second square with your left foot, then bring your right foot in.",
+                    "Step out of the second square with your left foot, then bring your right foot out.",
+                    "Continue this pattern, alternating which foot you start with, until you reach the end of the ladder.",
+                    "Once you reach the end, turn around and repeat the exercise, this time starting with your right foot."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Ladder Drill Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Ladder Drill Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the hamstrings, glutes, and lower back muscles",
+                    "Improves hip mobility and stability",
+                    "Increases strength and power in the posterior chain",
+                    "Can be modified for different fitness levels and goals",
+                    "Helps prevent injury by strengthening the muscles that support the spine"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Ladder Drill Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Calves",
+                    "Glutes",
+                    "Abdominals",
+                    "Obliques",
+                    "Hip flexors",
+                    "Shoulders",
+                    "Chest",
+                    "Back"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Ladder Drill Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Lateral ladder drill",
+                    "Single-leg ladder drill",
+                    "Forward-backward ladder drill",
+                    "Double-leg hop ladder drill",
+                    "Quick-feet ladder drill"
+                ]
+            }
+        }
+    ]
+}

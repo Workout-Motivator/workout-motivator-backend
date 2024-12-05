@@ -1,0 +1,75 @@
+{
+    "title": "Cable Seated Pullover",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Cable Seated Pullover Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Adjust the cable machine so that the pulley is at the highest setting.",
+                    "Sit on the bench facing the machine and grasp the rope attachment with both hands, palms facing down.",
+                    "Extend your arms straight up and slightly forward, keeping a slight bend in your elbows.",
+                    "Inhale and slowly lower the rope behind your head, keeping your arms straight and elbows in line with your shoulders.",
+                    "Pause briefly at the bottom of the movement, then exhale and slowly raise the rope back to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Cable Seated Pullover Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Cable Seated Pullover Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the latissimus dorsi, teres major, and triceps muscles",
+                    "Improves upper body strength and stability",
+                    "Increases range of motion in the shoulders and upper back",
+                    "Can be modified for different fitness levels by adjusting the weight and resistance",
+                    "Engages the core muscles for added stability and balance"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cable Seated Pullover Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Latissimus dorsi",
+                    "Pectoralis major",
+                    "Trapezius",
+                    "Rhomboids",
+                    "Serratus anterior"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cable Seated Pullover Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single-arm Cable Seated Pullover",
+                    "Wide-grip Cable Seated Pullover",
+                    "Narrow-grip Cable Seated Pullover",
+                    "Standing Cable Pullover",
+                    "Reverse-grip Cable Seated Pullover"
+                ]
+            }
+        }
+    ]
+}

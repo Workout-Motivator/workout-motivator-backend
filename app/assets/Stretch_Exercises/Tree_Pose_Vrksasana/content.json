@@ -1,0 +1,81 @@
+{
+    "title": "Tree Pose Vrksasana",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Tree Pose Vrksasana Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet hip-width apart and your arms at your sides.",
+                    "Shift your weight onto your left foot and lift your right foot off the ground.",
+                    "Place the sole of your right foot on your left inner thigh, with your toes pointing down.",
+                    "Press your foot into your thigh and your thigh into your foot to create a stable base.",
+                    "Bring your hands together in front of your heart in prayer position.",
+                    "Focus your gaze on a fixed point in front of you to help with balance.",
+                    "Hold the pose for several breaths, then release and repeat on the other side."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Tree Pose Vrksasana Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Tree Pose Vrksasana Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves balance and stability",
+                    "Strengthens the legs, ankles, and feet",
+                    "Stretches the thighs, groin, torso, and shoulders",
+                    "Improves focus and concentration",
+                    "Relieves stress and anxiety",
+                    "Improves posture and alignment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Tree Pose Vrksasana Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Abductor muscles",
+                    "Adductor muscles",
+                    "Gluteus medius muscle",
+                    "Quadriceps muscles",
+                    "Gastrocnemius muscle",
+                    "Soleus muscle",
+                    "Tensor fasciae latae muscle",
+                    "Erector spinae muscles",
+                    "Rectus abdominis muscle"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Tree Pose Vrksasana Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Half Tree Pose Ardha Vrksasana",
+                    "Flying Tree Pose",
+                    "Revolved Tree Pose Parivrtta Vrksasana",
+                    "Warrior III with Tree Pose Variation",
+                    "Tree Pose with Eagle Arms"
+                ]
+            }
+        }
+    ]
+}

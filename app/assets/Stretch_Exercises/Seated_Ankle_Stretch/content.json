@@ -1,0 +1,72 @@
+{
+    "title": "Seated Ankle Stretch",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Seated Ankle Stretch Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Sit on the floor with your legs straight out in front of you.",
+                    "Bend your right knee and place your right ankle on top of your left knee.",
+                    "Use your hands to gently press down on your right knee, feeling a stretch in your right ankle and calf.",
+                    "Hold for 15-30 seconds, then switch sides and repeat.",
+                    "Repeat the stretch 2-3 times on each side."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Seated Ankle Stretch Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Seated Ankle Stretch Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves ankle flexibility and range of motion",
+                    "Reduces the risk of ankle injuries",
+                    "Relieves tension and tightness in the ankles",
+                    "Can help alleviate foot and ankle pain",
+                    "May improve balance and stability"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Seated Ankle Stretch Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Gastrocnemius",
+                    "Soleus",
+                    "Tibialis anterior"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Seated Ankle Stretch Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Standing Ankle Stretch",
+                    "Wall Ankle Mobilization",
+                    "Seated Toe Stretch",
+                    "Standing Calf Stretch",
+                    "Downward Dog"
+                ]
+            }
+        }
+    ]
+}

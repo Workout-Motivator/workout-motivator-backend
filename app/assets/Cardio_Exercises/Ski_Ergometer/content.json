@@ -1,0 +1,87 @@
+{
+    "title": "Ski Ergometer",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Ski Ergometer Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Adjust the foot straps to fit your feet securely.",
+                    "Grab the handles with an overhand grip and sit on the seat.",
+                    "Push off with your feet to start the machine.",
+                    "Begin by pulling the handles towards your body, keeping your arms straight.",
+                    "As you pull the handles towards your body, lean back slightly and engage your core.",
+                    "Once the handles reach your chest, reverse the motion and push them back out in front of you.",
+                    "Continue this motion, pulling and pushing the handles while maintaining good posture and engaging your core.",
+                    "Adjust the resistance level as needed to increase or decrease the intensity of the workout.",
+                    "When finished, slow down the machine and come to a complete stop before getting off.",
+                    "Stretch your arms, back, and legs to cool down and prevent injury."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Ski Ergometer Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Ski Ergometer Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Provides a full-body workout, engaging the arms, legs, and core muscles",
+                    "Improves cardiovascular endurance and stamina",
+                    "Low-impact exercise, reducing the risk of injury to joints and muscles",
+                    "Can be used for both aerobic and anaerobic training",
+                    "Allows for adjustable resistance levels to accommodate different fitness levels and goals",
+                    "Can be used for cross-training and to supplement other sports or activities"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Ski Ergometer Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Glutes",
+                    "Calves",
+                    "Core muscles",
+                    "Upper back muscles",
+                    "Shoulder muscles",
+                    "Arm muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Ski Ergometer Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single arm Ski Ergometer",
+                    "Double arm Ski Ergometer",
+                    "Reverse Ski Ergometer",
+                    "Interval Ski Ergometer",
+                    "Endurance Ski Ergometer",
+                    "Sprint Ski Ergometer",
+                    "Tabata Ski Ergometer",
+                    "Pyramid Ski Ergometer",
+                    "Partner Ski Ergometer"
+                ]
+            }
+        }
+    ]
+}

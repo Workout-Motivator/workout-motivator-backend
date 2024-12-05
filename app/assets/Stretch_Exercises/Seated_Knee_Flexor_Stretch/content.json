@@ -1,0 +1,73 @@
+{
+    "title": "Seated Knee Flexor Stretch",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Seated Knee Flexor Stretch Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Sit on the floor with your legs straight out in front of you.",
+                    "Bend your right knee and bring your heel towards your buttocks.",
+                    "Place your right hand on your right ankle and your left hand on your right knee.",
+                    "Gently pull your right heel towards your buttocks while pushing your right knee towards the floor.",
+                    "Hold the stretch for 15-30 seconds.",
+                    "Release the stretch and repeat on the other side."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Seated Knee Flexor Stretch Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Seated Knee Flexor Stretch Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves flexibility and range of motion in the hamstrings and lower back",
+                    "Reduces the risk of injury in the lower body",
+                    "Helps alleviate lower back pain and discomfort",
+                    "Can be done anywhere, without any equipment",
+                    "Relieves tension and tightness in the muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Seated Knee Flexor Stretch Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Hamstrings",
+                    "Gastrocnemius",
+                    "Soleus"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Seated Knee Flexor Stretch Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Standing Knee Flexor Stretch",
+                    "Lying Knee Flexor Stretch",
+                    "Seated Hamstring Stretch",
+                    "Standing Hamstring Stretch",
+                    "Lying Hamstring Stretch"
+                ]
+            }
+        }
+    ]
+}

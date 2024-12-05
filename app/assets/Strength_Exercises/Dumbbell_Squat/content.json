@@ -1,0 +1,78 @@
+{
+    "title": "Dumbbell Squat",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Squat Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a dumbbell in each hand at your sides.",
+                    "Engage your core and keep your chest lifted as you lower your body into a squat position, bending at the knees and hips.",
+                    "Make sure your knees are in line with your toes and your thighs are parallel to the ground.",
+                    "Pause for a moment at the bottom of the squat, then push through your heels to return to a standing position.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Squat Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Squat Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the lower body muscles, including the quadriceps, hamstrings, and glutes",
+                    "Improves overall balance and stability",
+                    "Increases core strength and stability",
+                    "Can be modified to target different muscle groups by adjusting foot placement or adding weights",
+                    "Can be done with minimal equipment and in a variety of settings, making it a convenient exercise option"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Squat Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Squat Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Barbell Squat",
+                    "Front Squat",
+                    "Sumo Squat",
+                    "Goblet Squat",
+                    "Bulgarian Split Squat",
+                    "Box Squat",
+                    "Jump Squat",
+                    "Single Leg Squat",
+                    "Overhead Squat"
+                ]
+            }
+        }
+    ]
+}

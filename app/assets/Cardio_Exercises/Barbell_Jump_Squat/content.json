@@ -1,0 +1,75 @@
+{
+    "title": "Barbell Jump Squat",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Barbell Jump Squat Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by standing with your feet shoulder-width apart and your toes pointing slightly outward.",
+                    "Hold the barbell with both hands, resting it on your shoulders behind your neck.",
+                    "Bend your knees and lower your hips down into a squat position, keeping your back straight and your chest up.",
+                    "As you reach the bottom of the squat, explode upward and jump as high as you can.",
+                    "Land softly back in the squat position and repeat for the desired number of reps.",
+                    "Remember to keep your core engaged and your weight in your heels throughout the exercise."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Barbell Jump Squat Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Barbell Jump Squat Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Increases explosive power and speed",
+                    "Improves lower body strength and muscle endurance",
+                    "Engages multiple muscle groups including quadriceps, hamstrings, glutes, and calves",
+                    "Can be used as a plyometric exercise to improve athletic performance",
+                    "Can be modified for different fitness levels by adjusting weight and reps"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Barbell Jump Squat Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Barbell Jump Squat Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Jump Squat",
+                    "Kettlebell Jump Squat",
+                    "Bodyweight Jump Squat",
+                    "Box Jump Squat",
+                    "Single Leg Jump Squat"
+                ]
+            }
+        }
+    ]
+}

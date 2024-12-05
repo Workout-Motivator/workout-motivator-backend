@@ -1,0 +1,74 @@
+{
+    "title": "Standing Ab Twist",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Standing Ab Twist Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your knees slightly bent.",
+                    "Extend your arms straight out in front of you, clasping your hands together.",
+                    "Engage your core muscles and twist your torso to the right, keeping your hips facing forward.",
+                    "Return to the starting position and then twist your torso to the left.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Standing Ab Twist Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Standing Ab Twist Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the transverse abdominis muscle",
+                    "Improves posture and balance",
+                    "Reduces lower back pain",
+                    "Increases core stability",
+                    "Improves breathing and lung capacity",
+                    "Can be done anywhere without equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Standing Ab Twist Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Obliques",
+                    "Rectus abdominis",
+                    "Erector spinae",
+                    "Quadratus lumborum"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Standing Ab Twist Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "standing oblique crunch",
+                    "standing Russian twist",
+                    "standing bicycle crunch",
+                    "standing side bend",
+                    "standing wood chop"
+                ]
+            }
+        }
+    ]
+}

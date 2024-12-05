@@ -1,0 +1,73 @@
+{
+    "title": "Smith Machine Incline Tricep Extension",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Smith Machine Incline Tricep Extension Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Adjust the smith machine to an incline position.",
+                    "Attach a rope or straight bar to the cable machine.",
+                    "Stand facing away from the machine and grasp the rope or bar with an overhand grip.",
+                    "Extend your arms straight up above your head.",
+                    "Lower the weight by bending your elbows and bringing the rope or bar behind your head.",
+                    "Pause briefly at the bottom of the movement, then extend your arms back up to the starting position.",
+                    "Repeat for desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Smith Machine Incline Tricep Extension Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Smith Machine Incline Tricep Extension Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens quadriceps, hamstrings, and glutes",
+                    "Improves balance and stability",
+                    "Increases lower body endurance",
+                    "Can be modified for different fitness levels",
+                    "Targets muscles in a unilateral (one-sided) manner, helping to correct muscle imbalances"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Smith Machine Incline Tricep Extension Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Triceps brachii",
+                    "Anconeus"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Smith Machine Incline Tricep Extension Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Smith machine decline tricep extension",
+                    "Smith machine close-grip bench press",
+                    "Smith machine overhead tricep extension",
+                    "Smith machine reverse-grip bench press",
+                    "Smith machine seated tricep press"
+                ]
+            }
+        }
+    ]
+}

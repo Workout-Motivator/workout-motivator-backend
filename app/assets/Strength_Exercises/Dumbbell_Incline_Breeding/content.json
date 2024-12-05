@@ -1,0 +1,76 @@
+{
+    "title": "Dumbbell Incline Breeding",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Incline Breeding Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on an incline bench with your feet firmly planted on the ground and your back flat against the bench.",
+                    "Hold a dumbbell in each hand with your palms facing forward and your arms extended above your chest.",
+                    "Slowly lower the dumbbells towards your chest, keeping your elbows close to your body.",
+                    "Pause for a moment when the dumbbells are just above your chest.",
+                    "Slowly raise the dumbbells back to the starting position, keeping your arms extended.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Incline Breeding Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Incline Breeding Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the upper chest muscles for a more defined and sculpted chest",
+                    "Improves overall chest strength and endurance",
+                    "Engages the triceps and shoulders as secondary muscles for a full upper body workout",
+                    "Allows for a greater range of motion compared to traditional bench press exercises",
+                    "Can be easily modified for beginners or advanced lifters by adjusting the weight and angle of the bench"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Incline Breeding Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Chest muscles (pectoralis major and minor)",
+                    "Shoulder muscles (anterior deltoids)",
+                    "Triceps brachii"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Incline Breeding Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Decline Breeding",
+                    "Dumbbell Flat Breeding",
+                    "Barbell Incline Breeding",
+                    "Barbell Decline Breeding",
+                    "Barbell Flat Breeding",
+                    "Machine Incline Breeding",
+                    "Machine Decline Breeding",
+                    "Machine Flat Breeding"
+                ]
+            }
+        }
+    ]
+}

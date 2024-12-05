@@ -1,0 +1,77 @@
+{
+    "title": "Incline Reverse Grip Push Up",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Incline Reverse Grip Push Up Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start in a plank position with your hands shoulder-width apart and your feet together.",
+                    "Place your hands in a reverse grip, with your fingers pointing towards your feet.",
+                    "Walk your feet towards your hands, lifting your hips up into a pike position.",
+                    "Bend your elbows and lower your chest towards the ground, keeping your elbows close to your body.",
+                    "Push back up to the starting position, keeping your core engaged and your body in a straight line.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Incline Reverse Grip Push Up Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Incline Reverse Grip Push Up Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves flexibility and range of motion in the hip flexors and quadriceps",
+                    "Reduces tightness and discomfort in the hip and thigh area",
+                    "Helps alleviate lower back pain by releasing tension in the hip flexors",
+                    "Improves posture and balance by lengthening the hip flexors",
+                    "May improve athletic performance by increasing mobility in the hip and thigh area"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Incline Reverse Grip Push Up Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Chest muscles (pectoralis major and minor)",
+                    "Shoulder muscles (anterior deltoids)",
+                    "Triceps brachii",
+                    "Core muscles (rectus abdominis, obliques, and transverse abdominis)"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Incline Reverse Grip Push Up Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "incline push-up",
+                    "reverse grip push-up",
+                    "incline reverse grip push-up",
+                    "decline reverse grip push-up",
+                    "close grip push-up",
+                    "wide grip push-up",
+                    "spiderman push-up",
+                    "plyometric push-up"
+                ]
+            }
+        }
+    ]
+}

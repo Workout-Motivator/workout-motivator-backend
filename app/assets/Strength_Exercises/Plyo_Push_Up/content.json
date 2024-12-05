@@ -1,0 +1,72 @@
+{
+    "title": "Plyo Push Up",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Plyo Push Up Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start in a high plank position with your hands shoulder-width apart and your feet hip-width apart.",
+                    "Lower your body towards the ground by bending your elbows, keeping them close to your body.",
+                    "As you push back up, explosively push your hands off the ground so that your upper body lifts off the ground.",
+                    "Land softly back in the starting position and repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Plyo Push Up Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Plyo Push Up Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Increases upper body strength",
+                    "Improves explosive power",
+                    "Engages core muscles for stability",
+                    "Can be modified for different fitness levels",
+                    "Helps to burn calories and improve cardiovascular health"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Plyo Push Up Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Chest muscles (pectoralis major and minor)",
+                    "Shoulder muscles (deltoids)",
+                    "Triceps",
+                    "Core muscles (abdominals and obliques)"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Plyo Push Up Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single Leg Plyo Push Up",
+                    "Decline Plyo Push Up",
+                    "Clap Plyo Push Up",
+                    "Spiderman Plyo Push Up",
+                    "Explosive Plyo Push Up"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "title": "Weighted Tricep Dips",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Weighted Tricep Dips Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Find a sturdy surface to perform the exercise on, such as parallel bars or the edge of a bench.",
+                    "Place a weight plate on your lap or attach a weight belt to add resistance.",
+                    "Position yourself with your hands on the surface behind you, fingers facing forward.",
+                    "Extend your legs out in front of you, keeping your heels on the ground.",
+                    "Lower your body by bending your elbows, keeping them close to your sides.",
+                    "Stop when your upper arms are parallel to the ground.",
+                    "Push yourself back up to the starting position by straightening your arms.",
+                    "Repeat for desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Weighted Tricep Dips Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Weighted Tricep Dips Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the triceps, which are the muscles on the back of the upper arm",
+                    "Strengthens the triceps, allowing for better arm extension and pushing movements",
+                    "Improves overall upper body strength and stability",
+                    "Can be done with added weight for increased resistance and muscle growth",
+                    "Requires minimal equipment and can be done at home or in the gym"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Weighted Tricep Dips Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Triceps brachii",
+                    "Pectoralis major",
+                    "Deltoids",
+                    "Rhomboids",
+                    "Trapezius",
+                    "Erector spinae"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Weighted Tricep Dips Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Unweighted Tricep Dips",
+                    "Bench Dips",
+                    "Close-Grip Bench Press",
+                    "Tricep Pushdowns",
+                    "Overhead Tricep Extensions"
+                ]
+            }
+        }
+    ]
+}

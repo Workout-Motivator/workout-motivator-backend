@@ -1,0 +1,78 @@
+{
+    "title": "Decline Twisting Sit Up",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Decline Twisting Sit Up Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on your back with your knees bent and feet flat on the ground.",
+                    "Place your hands behind your head, with your elbows pointing out to the sides.",
+                    "Engage your core muscles and lift your upper body off the ground, twisting to one side as you do so.",
+                    "Lower your upper body back down to the ground, then repeat the movement on the other side.",
+                    "Continue alternating sides for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Decline Twisting Sit Up Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Decline Twisting Sit Up Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves posture",
+                    "Strengthens core muscles",
+                    "Reduces back pain",
+                    "Improves balance and stability",
+                    "Increases flexibility",
+                    "Improves breathing and lung capacity",
+                    "Reduces stress and anxiety",
+                    "Improves digestion",
+                    "Increases energy levels",
+                    "Improves overall body awareness"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Decline Twisting Sit Up Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus abdominis",
+                    "Obliques",
+                    "Transverse abdominis",
+                    "Hip flexors"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Decline Twisting Sit Up Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Decline twisting sit-up with weight",
+                    "Decline twisting sit-up with medicine ball",
+                    "Decline twisting sit-up with resistance band",
+                    "Decline twisting sit-up with stability ball",
+                    "Decline twisting sit-up with dumbbells"
+                ]
+            }
+        }
+    ]
+}

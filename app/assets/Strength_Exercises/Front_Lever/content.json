@@ -1,0 +1,77 @@
+{
+    "title": "Front Lever",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Front Lever Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by hanging from a pull-up bar with an overhand grip, hands shoulder-width apart.",
+                    "Engage your core and lift your legs up until they are parallel to the ground.",
+                    "Slowly lower your legs while keeping your body straight and parallel to the ground.",
+                    "As you lower your legs, focus on keeping your shoulder blades down and back to maintain proper form.",
+                    "Continue lowering until your body is completely parallel to the ground, with your arms straight and your feet pointed towards the ceiling.",
+                    "Hold this position for as long as you can, aiming for at least 10 seconds.",
+                    "To release, slowly lower your legs back down to the starting position.",
+                    "Repeat for desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Front Lever Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Front Lever Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the core, back, and shoulder muscles",
+                    "Improves body control and stability",
+                    "Increases grip strength",
+                    "Improves overall body awareness and coordination",
+                    "Challenges the body in a unique way, leading to greater physical adaptation and progress"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Front Lever Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Latissimus dorsi",
+                    "Trapezius",
+                    "Rhomboids",
+                    "Abdominals",
+                    "Forearms"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Front Lever Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Straddle Front Lever",
+                    "Advanced Tuck Front Lever",
+                    "Full Front Lever",
+                    "One Arm Front Lever",
+                    "Front Lever Pull-ups"
+                ]
+            }
+        }
+    ]
+}

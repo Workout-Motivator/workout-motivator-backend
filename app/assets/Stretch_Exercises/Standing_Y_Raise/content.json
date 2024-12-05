@@ -1,0 +1,76 @@
+{
+    "title": "Standing Y Raise",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Standing Y Raise Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your arms at your sides.",
+                    "Slowly raise your arms out to the sides, keeping them straight and parallel to the floor.",
+                    "Once your arms are at shoulder height, pause for a moment.",
+                    "Slowly lower your arms back down to your sides.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Standing Y Raise Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Standing Y Raise Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Increases grip strength",
+                    "Improves core stability",
+                    "Develops overall body strength",
+                    "Enhances cardiovascular endurance",
+                    "Improves balance and coordination",
+                    "Challenges mental toughness and resilience"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Standing Y Raise Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Shoulder muscles (deltoids)",
+                    "Upper back muscles (trapezius)",
+                    "Neck muscles (levator scapulae)"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Standing Y Raise Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Standing T-raise",
+                    "Standing W-raise",
+                    "Standing V-raise",
+                    "Standing I-raise",
+                    "Standing Y-raise with dumbbells",
+                    "Standing Y-raise with resistance bands",
+                    "Standing Y-raise with cable machine",
+                    "Standing Y-raise with medicine ball"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "title": "Standing Side Stretch",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Standing Side Stretch Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet hip-width apart and your arms at your sides.",
+                    "Take a deep breath in and raise your left arm straight up overhead.",
+                    "As you exhale, bend your torso to the right, keeping your left arm extended and your right arm at your side.",
+                    "Hold the stretch for 10-15 seconds, feeling the stretch along the left side of your body.",
+                    "Inhale and return to the starting position with your arms at your sides.",
+                    "Repeat on the other side by raising your right arm overhead and bending your torso to the left.",
+                    "Continue alternating sides for 5-10 repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Standing Side Stretch Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Standing Side Stretch Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Stretches the sides of the body, including the obliques and intercostal muscles",
+                    "Improves flexibility and range of motion in the torso",
+                    "Relieves tension in the shoulders and neck",
+                    "Can help alleviate lower back pain",
+                    "Increases circulation and oxygen flow to the muscles",
+                    "Can be done anywhere without any equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Standing Side Stretch Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Obliques",
+                    "Latissimus dorsi",
+                    "Erector spinae",
+                    "Quadratus lumborum"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Standing Side Stretch Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Standing Side Bend",
+                    "Seated Side Stretch",
+                    "Side Plank",
+                    "Triangle Pose",
+                    "Extended Side Angle Pose"
+                ]
+            }
+        }
+    ]
+}

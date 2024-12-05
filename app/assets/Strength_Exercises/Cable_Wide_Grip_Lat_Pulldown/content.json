@@ -1,0 +1,81 @@
+{
+    "title": "Cable Wide Grip Lat Pulldown",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Cable Wide Grip Lat Pulldown Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Adjust the cable machine to the appropriate weight and attach a wide grip bar to the pulley.",
+                    "Stand facing the machine and grab the bar with both hands, palms facing away from you and hands wider than shoulder-width apart.",
+                    "Sit down on the bench and adjust the knee pad so that it fits snugly against your thighs.",
+                    "Lean back slightly and extend your arms fully, keeping your elbows slightly bent.",
+                    "Inhale and pull the bar down towards your chest, keeping your elbows close to your body and squeezing your shoulder blades together.",
+                    "Exhale and slowly release the bar back to the starting position, keeping your arms extended.",
+                    "Repeat for desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Cable Wide Grip Lat Pulldown Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Cable Wide Grip Lat Pulldown Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Stretches the entire front of the body, including the chest, abdomen, and quadriceps",
+                    "Improves posture and spinal flexibility",
+                    "Strengthens the back muscles and glutes",
+                    "Stimulates the organs of the abdomen and neck",
+                    "Can help relieve stress and anxiety",
+                    "Improves digestion and can help alleviate constipation"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cable Wide Grip Lat Pulldown Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Latissimus dorsi",
+                    "Trapezius",
+                    "Rhomboids",
+                    "Biceps brachii",
+                    "Forearm muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cable Wide Grip Lat Pulldown Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "cable-narrow-grip-lat-pulldown",
+                    "cable-reverse-grip-lat-pulldown",
+                    "cable-neutral-grip-lat-pulldown",
+                    "machine-wide-grip-lat-pulldown",
+                    "machine-narrow-grip-lat-pulldown",
+                    "machine-reverse-grip-lat-pulldown",
+                    "machine-neutral-grip-lat-pulldown",
+                    "chin-ups",
+                    "pull-ups"
+                ]
+            }
+        }
+    ]
+}

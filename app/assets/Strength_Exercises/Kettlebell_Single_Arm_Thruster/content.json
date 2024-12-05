@@ -1,0 +1,75 @@
+{
+    "title": "Kettlebell Single Arm Thruster",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Single Arm Thruster Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by standing with your feet shoulder-width apart and holding a kettlebell in one hand at shoulder height.",
+                    "Squat down until your thighs are parallel to the ground, keeping your back straight and your core engaged.",
+                    "As you stand back up, press the kettlebell overhead with your arm fully extended.",
+                    "Lower the kettlebell back to your shoulder as you squat down again.",
+                    "Repeat for the desired number of reps on one side before switching to the other arm."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Single Arm Thruster Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Single Arm Thruster Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves balance and stability",
+                    "Strengthens the glutes, hamstrings, and lower back",
+                    "Increases core strength and stability",
+                    "Improves hip mobility and flexibility",
+                    "Helps prevent injury by improving overall body awareness and control"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Single Arm Thruster Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Shoulders",
+                    "Triceps",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Single Arm Thruster Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "kettlebell single arm press",
+                    "kettlebell single arm push press",
+                    "kettlebell single arm jerk",
+                    "kettlebell single arm clean and press",
+                    "kettlebell single arm squat and press"
+                ]
+            }
+        }
+    ]
+}

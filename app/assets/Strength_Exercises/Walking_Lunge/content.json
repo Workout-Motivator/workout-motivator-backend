@@ -1,0 +1,76 @@
+{
+    "title": "Walking Lunge",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Walking Lunge Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand up straight with your feet hip-width apart.",
+                    "Take a big step forward with your right foot, bending your right knee and lowering your body until your right thigh is parallel to the ground.",
+                    "Keep your left foot in place and your left knee hovering just above the ground.",
+                    "Push off your right foot and step forward with your left foot, bending your left knee and lowering your body until your left thigh is parallel to the ground.",
+                    "Repeat this movement, alternating legs with each step.",
+                    "Make sure to keep your torso upright and engage your core muscles for stability.",
+                    "Complete 10-12 reps on each leg for a full set."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Walking Lunge Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Walking Lunge Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the legs, core, and back muscles",
+                    "Improves balance and stability",
+                    "Stretches the hamstrings, calves, and shoulders",
+                    "Increases focus and concentration",
+                    "Improves circulation and digestion"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Walking Lunge Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Walking Lunge Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Reverse lunge",
+                    "Side lunge",
+                    "Curtsy lunge",
+                    "Jumping lunge",
+                    "Weighted lunge"
+                ]
+            }
+        }
+    ]
+}

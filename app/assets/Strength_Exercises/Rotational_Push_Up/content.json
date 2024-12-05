@@ -1,0 +1,74 @@
+{
+    "title": "Rotational Push Up",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Rotational Push Up Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start in a push up position with your hands shoulder-width apart and your feet hip-width apart.",
+                    "Lower your body down towards the ground, keeping your elbows close to your body.",
+                    "As you push back up, rotate your body to the left and extend your left arm towards the ceiling.",
+                    "Return to the starting position and repeat on the right side.",
+                    "Continue alternating sides for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Rotational Push Up Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Rotational Push Up Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets multiple muscle groups including chest, shoulders, triceps, and core",
+                    "Improves upper body strength and stability",
+                    "Increases range of motion in shoulders and spine",
+                    "Engages the obliques and improves rotational strength",
+                    "Can be modified for different fitness levels by adjusting the height of the push up or using a modified plank position"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Rotational Push Up Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Pectoralis major",
+                    "Triceps brachii",
+                    "Anterior deltoids",
+                    "Rectus abdominis",
+                    "Obliques"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Rotational Push Up Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single Arm Rotational Push Up",
+                    "Decline Rotational Push Up",
+                    "Spiderman Rotational Push Up",
+                    "Medicine Ball Rotational Push Up",
+                    "Plank Rotational Push Up"
+                ]
+            }
+        }
+    ]
+}

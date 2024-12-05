@@ -1,0 +1,72 @@
+{
+    "title": "Chin Tuck",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Chin Tuck Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by sitting or standing with good posture, keeping your shoulders relaxed and your chin parallel to the ground.",
+                    "Gently draw your chin straight back, as if you are trying to make a double chin.",
+                    "Hold this position for 5-10 seconds, feeling a stretch in the back of your neck.",
+                    "Release and repeat for 10-15 repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Chin Tuck Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Chin Tuck Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves posture by strengthening neck muscles",
+                    "Reduces neck and upper back pain",
+                    "Helps alleviate tension headaches",
+                    "Improves breathing and vocal quality",
+                    "Can be done anywhere, anytime"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Chin Tuck Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Cervical flexors",
+                    "Sternocleidomastoid",
+                    "Trapezius",
+                    "Levator scapulae"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Chin Tuck Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Chin Tuck with Resistance Band",
+                    "Chin Tuck with Towel",
+                    "Chin Tuck with Head Rotation",
+                    "Chin Tuck with Shoulder Blade Squeeze",
+                    "Chin Tuck with Wall Angels"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "title": "Skater",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Skater Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your arms at your sides.",
+                    "Bend your knees and lower your body into a squat position.",
+                    "Jump to the right, landing on your right foot with your left foot behind your right ankle.",
+                    "Swing your left arm across your body and your right arm behind your back.",
+                    "Jump to the left, landing on your left foot with your right foot behind your left ankle.",
+                    "Swing your right arm across your body and your left arm behind your back.",
+                    "Repeat the movement, jumping back and forth between your right and left foot.",
+                    "Continue for the desired number of repetitions or time."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Skater Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Skater Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves balance and coordination",
+                    "Strengthens leg muscles, particularly the glutes, quads, and hamstrings",
+                    "Increases cardiovascular endurance",
+                    "Helps with agility and quickness",
+                    "Can be done anywhere with a flat surface",
+                    "Low impact exercise, reducing risk of injury"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Skater Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Glutes",
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Calves",
+                    "Abdominals",
+                    "Obliques"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Skater Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Skater jumps",
+                    "Skater lunges",
+                    "Skater squats",
+                    "Skater side steps",
+                    "Skater plyometric jumps"
+                ]
+            }
+        }
+    ]
+}

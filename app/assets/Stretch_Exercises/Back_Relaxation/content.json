@@ -1,0 +1,77 @@
+{
+    "title": "Back Relaxation",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Back Relaxation Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Find a comfortable and quiet place to lie down on your back.",
+                    "Place a small pillow or rolled-up towel under your neck for support.",
+                    "Close your eyes and take a few deep breaths, inhaling through your nose and exhaling through your mouth.",
+                    "Focus on relaxing each part of your body, starting with your toes and working your way up to your head.",
+                    "As you focus on each body part, tense the muscles for a few seconds and then release the tension, allowing the muscles to relax completely.",
+                    "Visualize a peaceful scene or repeat a calming phrase to yourself to help you relax even further.",
+                    "Stay in this relaxed state for as long as you like, enjoying the feeling of calmness and tranquility.",
+                    "When you are ready to end the exercise, take a few deep breaths and slowly open your eyes."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Back Relaxation Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Back Relaxation Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Reduces tension and stress in the back muscles",
+                    "Improves posture and spinal alignment",
+                    "Increases flexibility and range of motion in the back",
+                    "Relieves back pain and discomfort",
+                    "Promotes relaxation and reduces anxiety"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Back Relaxation Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Latissimus dorsi",
+                    "Trapezius",
+                    "Rhomboids",
+                    "Erector spinae",
+                    "Levator scapulae"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Back Relaxation Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Back Stretch",
+                    "Child’s Pose",
+                    "Cobra Pose",
+                    "Downward Facing Dog",
+                    "Seated Forward Bend"
+                ]
+            }
+        }
+    ]
+}

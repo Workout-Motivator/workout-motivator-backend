@@ -1,0 +1,73 @@
+{
+    "title": "Ring Leg Curl",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Ring Leg Curl Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying face down on a leg curl machine with your ankles secured under the padded bar.",
+                    "Place your hands on the handles and lift your hips off the bench so that your body is in a straight line.",
+                    "Slowly curl your legs towards your buttocks, keeping your knees together and your feet pointed.",
+                    "Pause at the top of the movement and squeeze your hamstrings.",
+                    "Lower your legs back down to the starting position in a controlled manner.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Ring Leg Curl Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Ring Leg Curl Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the hamstrings",
+                    "Improves balance and stability",
+                    "Targets the glutes and calves as secondary muscles",
+                    "Can be done with minimal equipment",
+                    "Allows for a greater range of motion compared to traditional leg curls"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Ring Leg Curl Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Hamstrings",
+                    "Glutes",
+                    "Core (stabilizing muscles)"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Ring Leg Curl Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single Leg Ring Curl",
+                    "Weighted Ring Leg Curl",
+                    "Ring Leg Curl with Resistance Band",
+                    "Ring Leg Curl with Stability Ball",
+                    "Ring Leg Curl with Dumbbells"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "title": "Knee Tuck Jump",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Knee Tuck Jump Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your arms at your sides.",
+                    "Bend your knees and jump up explosively.",
+                    "As you jump, bring your knees up towards your chest.",
+                    "Land softly on the balls of your feet and immediately jump again.",
+                    "Repeat for the desired number of reps or time."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Knee Tuck Jump Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Knee Tuck Jump Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves explosive power in lower body",
+                    "Increases cardiovascular endurance",
+                    "Strengthens quadriceps, hamstrings, and glutes",
+                    "Improves balance and coordination",
+                    "Engages core muscles for stability",
+                    "Can be modified for different fitness levels"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Knee Tuck Jump Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Glutes",
+                    "Calves",
+                    "Abdominals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Knee Tuck Jump Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single Leg Knee Tuck Jump",
+                    "Weighted Knee Tuck Jump",
+                    "180 Degree Knee Tuck Jump",
+                    "Box Jump Knee Tuck",
+                    "Split Squat Jump Knee Tuck"
+                ]
+            }
+        }
+    ]
+}

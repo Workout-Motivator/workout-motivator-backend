@@ -1,0 +1,73 @@
+{
+    "title": "Reaching Upper Back Stretch",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Reaching Upper Back Stretch Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your arms at your sides.",
+                    "Bring your right arm across your chest and place your left hand on your right elbow.",
+                    "Gently pull your right arm towards your left shoulder until you feel a stretch in your upper back and shoulder.",
+                    "Hold the stretch for 15-30 seconds.",
+                    "Release and repeat on the other side."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Reaching Upper Back Stretch Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Reaching Upper Back Stretch Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Relieves tension and stiffness in the upper back muscles",
+                    "Improves posture by opening up the chest and shoulders",
+                    "Increases flexibility and range of motion in the upper back and shoulders",
+                    "Can help alleviate headaches and neck pain caused by tension in the upper back",
+                    "Can be done anywhere without any equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Reaching Upper Back Stretch Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Trapezius",
+                    "Rhomboids",
+                    "Deltoids",
+                    "Latissimus dorsi"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Reaching Upper Back Stretch Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Standing upper back stretch",
+                    "Seated upper back stretch",
+                    "Wall angel stretch",
+                    "Doorway stretch",
+                    "Child’s pose"
+                ]
+            }
+        }
+    ]
+}

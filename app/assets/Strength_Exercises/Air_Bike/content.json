@@ -1,0 +1,80 @@
+{
+    "title": "Air Bike",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Air Bike Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by sitting on the air bike with your feet on the pedals and your hands on the handles.",
+                    "Adjust the seat height and handlebar height to ensure proper form and comfort.",
+                    "Begin pedaling with your feet, keeping your core engaged and your back straight.",
+                    "Gradually increase the resistance level to challenge yourself.",
+                    "Continue pedaling for a desired amount of time or until you reach your fitness goal.",
+                    "Cool down by gradually decreasing the resistance level and slowing down your pedaling.",
+                    "Stretch your legs and arms to prevent muscle soreness and injury."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Air Bike Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Air Bike Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Provides a low-impact cardiovascular workout",
+                    "Engages both upper and lower body muscles",
+                    "Can be adjusted to accommodate different fitness levels",
+                    "Burns a high number of calories in a short amount of time",
+                    "Improves overall endurance and stamina",
+                    "Can be used for interval training to increase intensity",
+                    "Helps to strengthen core muscles",
+                    "Can be used for rehabilitation purposes due to its low-impact nature"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Air Bike Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Abdominal muscles",
+                    "Oblique muscles",
+                    "Hip flexors",
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Glutes",
+                    "Calves"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Air Bike Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Assault bike",
+                    "Airdyne bike",
+                    "Fan bike",
+                    "Stationary bike with air resistance"
+                ]
+            }
+        }
+    ]
+}

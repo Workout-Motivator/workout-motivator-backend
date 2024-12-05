@@ -1,0 +1,76 @@
+{
+    "title": "Jump Step Up",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Jump Step Up Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand in front of a sturdy box or step that is about knee height.",
+                    "Place your right foot on the box and push through your heel to lift your body up onto the box.",
+                    "Bring your left foot up to meet your right foot on the box.",
+                    "Step back down with your left foot, followed by your right foot.",
+                    "Repeat for the desired number of repetitions, then switch to leading with your left foot."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Jump Step Up Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Jump Step Up Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves lower body strength and power",
+                    "Increases cardiovascular endurance",
+                    "Enhances balance and coordination",
+                    "Targets multiple muscle groups including quadriceps, hamstrings, glutes, and calves",
+                    "Can be modified for different fitness levels and goals",
+                    "Can be done with or without equipment",
+                    "Can be incorporated into a variety of workouts and training programs"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Jump Step Up Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calf muscles",
+                    "Core muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Jump Step Up Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Jump Step Up with Dumbbells",
+                    "Single Leg Jump Step Up",
+                    "Box Jump Step Up",
+                    "Reverse Lunge Jump Step Up",
+                    "Side Step Up"
+                ]
+            }
+        }
+    ]
+}

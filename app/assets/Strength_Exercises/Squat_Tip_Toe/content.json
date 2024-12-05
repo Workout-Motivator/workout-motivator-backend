@@ -1,0 +1,77 @@
+{
+    "title": "Squat Tip Toe",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Squat Tip Toe Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your toes pointing forward.",
+                    "Slowly lower your body by bending your knees and pushing your hips back as if you are sitting on a chair.",
+                    "As you lower your body, lift your heels off the ground and balance on the balls of your feet.",
+                    "Keep your back straight and your chest lifted throughout the movement.",
+                    "Pause at the bottom of the squat and then slowly rise back up to the starting position.",
+                    "Lower your heels back down to the ground as you stand up.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Squat Tip Toe Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Squat Tip Toe Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the lower body muscles, including the quadriceps, hamstrings, glutes, and calves",
+                    "Improves balance and stability",
+                    "Increases ankle mobility and flexibility",
+                    "Engages the core muscles for added stability and support",
+                    "Can be modified to increase or decrease difficulty based on fitness level"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Squat Tip Toe Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Gastrocnemius",
+                    "Soleus",
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Glutes",
+                    "Core muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Squat Tip Toe Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Squat with Tip Toe Raise",
+                    "Tip Toe Squat Jumps",
+                    "Single Leg Squat with Tip Toe Raise",
+                    "Tip Toe Goblet Squat",
+                    "Tip Toe Bulgarian Split Squat"
+                ]
+            }
+        }
+    ]
+}

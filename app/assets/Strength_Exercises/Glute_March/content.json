@@ -1,0 +1,73 @@
+{
+    "title": "Glute March",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Glute March Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on your back with your knees bent and feet flat on the ground.",
+                    "Engage your core and lift your hips up towards the ceiling, creating a bridge position.",
+                    "While maintaining the bridge position, lift one foot off the ground and bring your knee towards your chest.",
+                    "Lower your foot back down to the ground and repeat with the other leg.",
+                    "Continue alternating legs for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Glute March Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Glute March Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the glute muscles",
+                    "Improves hip stability",
+                    "Helps prevent lower back pain",
+                    "Can improve athletic performance in activities such as running and jumping",
+                    "Can be done with minimal equipment and in a small space"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Glute March Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Gluteus maximus",
+                    "Hamstrings",
+                    "Quadriceps",
+                    "Core muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Glute March Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Glute Bridge March",
+                    "Single Leg Glute Bridge March",
+                    "Weighted Glute Bridge March",
+                    "Resistance Band Glute Bridge March",
+                    "Reverse Glute Bridge March"
+                ]
+            }
+        }
+    ]
+}

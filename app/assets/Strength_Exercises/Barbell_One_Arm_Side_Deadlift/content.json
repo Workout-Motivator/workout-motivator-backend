@@ -1,0 +1,80 @@
+{
+    "title": "Barbell One Arm Side Deadlift",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Barbell One Arm Side Deadlift Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and place a barbell on the ground to your side.",
+                    "With one hand, grip the barbell and lift it up to your hip level.",
+                    "Keeping your back straight and your core engaged, hinge at your hips and lower the barbell towards the ground.",
+                    "Lower the barbell as far as you can while maintaining proper form.",
+                    "Slowly lift the barbell back up to your hip level.",
+                    "Repeat for the desired number of repetitions on one side before switching to the other side."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Barbell One Arm Side Deadlift Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Barbell One Arm Side Deadlift Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the biceps and forearms",
+                    "Increases arm strength and size",
+                    "Improves grip strength",
+                    "Engages the core muscles for stability",
+                    "Allows for a greater range of motion compared to traditional bicep curls",
+                    "Can be easily modified by adjusting the incline of the bench"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Barbell One Arm Side Deadlift Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Glutes",
+                    "Hamstrings",
+                    "Quadriceps",
+                    "Lower back",
+                    "Abdominals",
+                    "Obliques"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Barbell One Arm Side Deadlift Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Barbell one-arm side deadlift",
+                    "Dumbbell one-arm side deadlift",
+                    "Kettlebell one-arm side deadlift",
+                    "Trap bar one-arm side deadlift",
+                    "Single-leg Barbell one-arm side deadlift",
+                    "Single-leg dumbbell one-arm side deadlift",
+                    "Single-leg kettlebell one-arm side deadlift",
+                    "Single-leg trap bar one-arm side deadlift"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "title": "Dumbbell One Arm Lateral Raise",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell One Arm Lateral Raise Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a dumbbell in one hand.",
+                    "Keep your arm straight and lift it out to the side until it is parallel to the ground.",
+                    "Pause for a moment at the top of the movement.",
+                    "Slowly lower the dumbbell back down to your side.",
+                    "Repeat for the desired number of repetitions.",
+                    "Switch arms and repeat the exercise on the other side."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell One Arm Lateral Raise Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell One Arm Lateral Raise Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the lateral deltoid muscle, which helps to create a wider and more defined shoulder appearance",
+                    "Improves shoulder stability and mobility",
+                    "Can help to prevent shoulder injuries by strengthening the muscles around the joint",
+                    "Can be done with a relatively light weight, making it accessible for beginners",
+                    "Can be easily modified by changing the weight or the angle of the arm to increase or decrease the difficulty"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell One Arm Lateral Raise Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Deltoid (middle)",
+                    "Deltoid (anterior)",
+                    "Deltoid (posterior)",
+                    "Trapezius (middle)",
+                    "Trapezius (lower)",
+                    "Serratus anterior"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell One Arm Lateral Raise Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Front Raise",
+                    "Dumbbell Bent Over Lateral Raise",
+                    "Cable One Arm Lateral Raise",
+                    "Resistance Band One Arm Lateral Raise",
+                    "Plate One Arm Lateral Raise"
+                ]
+            }
+        }
+    ]
+}

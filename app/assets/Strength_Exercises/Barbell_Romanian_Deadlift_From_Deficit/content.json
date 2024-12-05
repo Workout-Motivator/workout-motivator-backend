@@ -1,0 +1,78 @@
+{
+    "title": "Barbell Romanian Deadlift From Deficit",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Barbell Romanian Deadlift From Deficit Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Begin by standing on a raised platform or weight plates with your feet hip-width apart and your toes pointing forward.",
+                    "Place a barbell in front of you on the ground and stand with your shins touching the bar.",
+                    "With a slight bend in your knees, hinge at your hips and reach down to grab the bar with an overhand grip, hands shoulder-width apart.",
+                    "Engage your core and lift the bar off the ground, keeping your back straight and your shoulders pulled back.",
+                    "As you stand up, push your hips forward and straighten your legs, keeping the bar close to your body.",
+                    "Once you reach a standing position, pause for a moment before slowly lowering the bar back down to the ground, keeping your back straight and your core engaged.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Barbell Romanian Deadlift From Deficit Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Barbell Romanian Deadlift From Deficit Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the hamstrings, glutes, and lower back muscles",
+                    "Improves hip mobility and flexibility",
+                    "Increases strength and power in the posterior chain",
+                    "Helps to prevent injury by strengthening the muscles that support the spine",
+                    "Can be modified to suit different fitness levels and goals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Barbell Romanian Deadlift From Deficit Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Erector Spinae",
+                    "Glutes",
+                    "Hamstrings",
+                    "Quadriceps",
+                    "Adductors",
+                    "Soleus",
+                    "Gastrocnemius"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Barbell Romanian Deadlift From Deficit Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single-leg Romanian Deadlift",
+                    "Dumbbell Romanian Deadlift",
+                    "Kettlebell Romanian Deadlift",
+                    "Sumo Romanian Deadlift",
+                    "Trap Bar Romanian Deadlift"
+                ]
+            }
+        }
+    ]
+}

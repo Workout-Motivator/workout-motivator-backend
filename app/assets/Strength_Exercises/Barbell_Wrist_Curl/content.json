@@ -1,0 +1,70 @@
+{
+    "title": "Barbell Wrist Curl",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Barbell Wrist Curl Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by sitting on a bench with your forearms resting on the bench and your palms facing up.",
+                    "Grasp the barbell with an underhand grip, with your hands shoulder-width apart.",
+                    "Slowly curl the barbell up towards your forearms, keeping your wrists straight.",
+                    "Pause for a moment at the top of the movement, then slowly lower the barbell back down to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Barbell Wrist Curl Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Barbell Wrist Curl Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the wrist flexor muscles",
+                    "Improves grip strength",
+                    "Helps prevent wrist injuries",
+                    "Can improve performance in sports that require wrist strength, such as tennis or golf",
+                    "Can be done with relatively light weights, making it accessible for beginners"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Barbell Wrist Curl Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Forearm Flexors"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Barbell Wrist Curl Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Wrist Curl",
+                    "Reverse Barbell Wrist Curl",
+                    "Reverse Dumbbell Wrist Curl",
+                    "Plate Pinch Curl",
+                    "Wrist Roller"
+                ]
+            }
+        }
+    ]
+}

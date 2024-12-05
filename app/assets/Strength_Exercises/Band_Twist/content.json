@@ -1,0 +1,82 @@
+{
+    "title": "Band Twist",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Band Twist Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a resistance band with both hands, palms facing down.",
+                    "Extend your arms straight out in front of you, keeping them shoulder-height.",
+                    "Twist your torso to the right, keeping your arms straight and parallel to the floor.",
+                    "Return to the starting position and then twist to the left.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Band Twist Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Band Twist Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the core muscles",
+                    "Improves balance and stability",
+                    "Targets the oblique muscles",
+                    "Increases flexibility in the spine",
+                    "Can be modified for different fitness levels"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Band Twist Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Obliques",
+                    "Transverse abdominis",
+                    "Erector spinae",
+                    "Quadratus lumborum",
+                    "Glutes",
+                    "Hip flexors"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Band Twist Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Band pull apart",
+                    "Band face pull",
+                    "Band shoulder press",
+                    "Band bicep curl",
+                    "Band tricep extension",
+                    "Band lateral raise",
+                    "Band front raise",
+                    "Band chest press",
+                    "Band row",
+                    "Band squat",
+                    "Band deadlift",
+                    "Band glute bridge"
+                ]
+            }
+        }
+    ]
+}

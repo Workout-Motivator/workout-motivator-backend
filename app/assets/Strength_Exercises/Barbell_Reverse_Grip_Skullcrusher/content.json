@@ -1,0 +1,72 @@
+{
+    "title": "Barbell Reverse Grip Skullcrusher",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Barbell Reverse Grip Skullcrusher Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying flat on a bench with your feet firmly planted on the ground and your head at the end of the bench.",
+                    "Grasp the barbell with an overhand grip, with your hands shoulder-width apart.",
+                    "Extend your arms straight up towards the ceiling, holding the barbell directly above your forehead.",
+                    "Slowly lower the barbell towards your forehead, keeping your elbows tucked in and your upper arms stationary.",
+                    "Pause when the barbell is just above your forehead, then slowly lift it back up to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Barbell Reverse Grip Skullcrusher Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Barbell Reverse Grip Skullcrusher Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the triceps muscles, helping to build strength and size in the arms",
+                    "Engages the stabilizer muscles in the shoulders and upper back, improving overall upper body stability",
+                    "Allows for a greater range of motion compared to traditional skullcrushers, leading to increased muscle activation",
+                    "Can be easily modified by adjusting the weight or grip width to accommodate different fitness levels and goals",
+                    "Can be performed with a barbell, making it a convenient exercise to incorporate into a full-body workout routine"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Barbell Reverse Grip Skullcrusher Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Triceps brachii",
+                    "Anconeus"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Barbell Reverse Grip Skullcrusher Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Reverse Grip Skullcrusher",
+                    "Close Grip Bench Press",
+                    "Tricep Pushdown with V-Bar",
+                    "Overhead Tricep Extension with Dumbbell",
+                    "Tricep Kickback with Dumbbell"
+                ]
+            }
+        }
+    ]
+}

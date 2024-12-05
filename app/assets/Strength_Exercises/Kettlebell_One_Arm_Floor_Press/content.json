@@ -1,0 +1,74 @@
+{
+    "title": "Kettlebell One Arm Floor Press",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell One Arm Floor Press Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on your back with your knees bent and your feet flat on the floor.",
+                    "Hold the kettlebell in one hand with your arm extended straight up towards the ceiling.",
+                    "Slowly lower the kettlebell down towards your chest, keeping your elbow close to your body.",
+                    "Pause for a moment when the kettlebell touches your chest.",
+                    "Press the kettlebell back up towards the ceiling, extending your arm fully.",
+                    "Repeat for the desired number of repetitions on one side before switching to the other arm."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell One Arm Floor Press Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell One Arm Floor Press Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets chest, triceps, and shoulders",
+                    "Improves upper body strength and stability",
+                    "Engages core muscles for added stability",
+                    "Can be done with one kettlebell, making it a convenient exercise for home workouts",
+                    "Allows for unilateral training, helping to correct muscle imbalances"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell One Arm Floor Press Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Chest muscles (pectoralis major and minor)",
+                    "Triceps brachii",
+                    "Anterior deltoids",
+                    "Core muscles (rectus abdominis, obliques, and transverse abdominis)"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell One Arm Floor Press Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Kettlebell One Arm Bench Press",
+                    "Kettlebell One Arm Incline Press",
+                    "Kettlebell One Arm Decline Press",
+                    "Kettlebell One Arm Push Press",
+                    "Kettlebell One Arm Overhead Press"
+                ]
+            }
+        }
+    ]
+}

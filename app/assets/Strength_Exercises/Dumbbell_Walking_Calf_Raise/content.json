@@ -1,0 +1,72 @@
+{
+    "title": "Dumbbell Walking Calf Raise",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Walking Calf Raise Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a dumbbell in each hand.",
+                    "Place the balls of your feet on a raised surface such as a step or block.",
+                    "Slowly raise your heels off the edge of the surface, keeping your legs straight.",
+                    "Pause at the top of the movement and squeeze your calf muscles.",
+                    "Lower your heels back down to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Walking Calf Raise Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Walking Calf Raise Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens and tones the calf muscles",
+                    "Improves ankle stability and balance",
+                    "Targets the gastrocnemius and soleus muscles",
+                    "Can be done with minimal equipment",
+                    "Can be easily modified for different fitness levels"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Walking Calf Raise Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Gastrocnemius",
+                    "Soleus"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Walking Calf Raise Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Seated Calf Raise",
+                    "Dumbbell Standing Calf Raise",
+                    "Dumbbell Donkey Calf Raise",
+                    "Dumbbell Single Leg Calf Raise",
+                    "Dumbbell Jumping Calf Raise"
+                ]
+            }
+        }
+    ]
+}

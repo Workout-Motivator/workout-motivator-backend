@@ -1,0 +1,80 @@
+{
+    "title": "Kettlebell Goblet Carry",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Goblet Carry Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by standing with your feet shoulder-width apart and holding a kettlebell by the horns (the sides of the handle) with both hands.",
+                    "Bring the kettlebell up to your chest and hold it close to your body.",
+                    "Engage your core and keep your back straight as you take a step forward with your left foot.",
+                    "As you step forward, lower your body into a squat position, keeping the kettlebell close to your chest.",
+                    "Push off your left foot and step forward with your right foot, repeating the squat position.",
+                    "Continue alternating steps and squats for a set distance or time.",
+                    "When finished, carefully lower the kettlebell back to the ground."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Goblet Carry Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Goblet Carry Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves grip strength",
+                    "Strengthens core muscles",
+                    "Improves posture and balance",
+                    "Increases cardiovascular endurance",
+                    "Targets multiple muscle groups including shoulders, arms, and legs",
+                    "Can be modified for different fitness levels",
+                    "Can be done with minimal equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Goblet Carry Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Abdominals",
+                    "Upper back",
+                    "Forearms"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Goblet Carry Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Kettlebell Goblet Walk",
+                    "Kettlebell Goblet Lunge",
+                    "Kettlebell Goblet Squat",
+                    "Kettlebell Goblet Step-up",
+                    "Kettlebell Goblet Reverse Lunge"
+                ]
+            }
+        }
+    ]
+}

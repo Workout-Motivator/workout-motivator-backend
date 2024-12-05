@@ -1,0 +1,77 @@
+{
+    "title": "Dolphin Pose",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Dolphin Pose Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start on your hands and knees with your wrists directly under your shoulders and your knees directly under your hips.",
+                    "Walk your hands forward a few inches and curl your toes under.",
+                    "As you exhale, lift your hips up and back, straightening your legs and coming into an inverted V-shape.",
+                    "Spread your fingers wide and press your hands firmly into the ground.",
+                    "Engage your core and lengthen through your spine.",
+                    "Press your heels down toward the ground and relax your head and neck.",
+                    "Hold the pose for several breaths, then release by lowering your knees to the ground."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Dolphin Pose Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Dolphin Pose Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves agility and coordination",
+                    "Increases cardiovascular endurance",
+                    "Enhances footwork and balance",
+                    "Develops reaction time and speed",
+                    "Can be done with minimal equipment and space",
+                    "Can be modified for different skill levels and fitness goals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dolphin Pose Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Shoulders",
+                    "Upper back",
+                    "Core",
+                    "Hamstrings",
+                    "Calves"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dolphin Pose Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Extended Dolphin Pose",
+                    "One-Legged Dolphin Pose",
+                    "Forearm Stand Dolphin Pose",
+                    "Side Plank Dolphin Pose",
+                    "Downward-Facing Dog Dolphin Pose"
+                ]
+            }
+        }
+    ]
+}

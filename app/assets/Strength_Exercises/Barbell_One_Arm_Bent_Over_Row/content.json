@@ -1,0 +1,77 @@
+{
+    "title": "Barbell One Arm Bent Over Row",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Barbell One Arm Bent Over Row Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your knees slightly bent.",
+                    "Place a barbell on the ground in front of you.",
+                    "Bend over at the waist and grasp the barbell with one hand.",
+                    "Keep your back straight and your abs tight as you lift the barbell up towards your chest.",
+                    "Lower the barbell back down to the ground and repeat for the desired number of reps.",
+                    "Switch hands and repeat the exercise with the other arm."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Barbell One Arm Bent Over Row Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Barbell One Arm Bent Over Row Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the glutes, hamstrings, and lower back",
+                    "Improves balance and stability",
+                    "Targets the obliques and core muscles",
+                    "Increases grip strength",
+                    "Can help correct muscle imbalances between the left and right sides of the body"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Barbell One Arm Bent Over Row Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Latissimus dorsi",
+                    "Trapezius",
+                    "Rhomboids",
+                    "Erector spinae",
+                    "Biceps brachii",
+                    "Brachialis",
+                    "Brachioradialis"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Barbell One Arm Bent Over Row Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "dumbbell-one-arm-bent-over-row",
+                    "kettlebell-one-arm-bent-over-row",
+                    "inverted-row",
+                    "seated-cable-row",
+                    "t-bar-row"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "title": "Dumbbell Hammer Preacher Curl",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Hammer Preacher Curl Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by sitting on a preacher bench with a dumbbell in each hand.",
+                    "Place your upper arms on the preacher bench pad, making sure your elbows are at a 90-degree angle and your palms are facing each other.",
+                    "Slowly curl the dumbbells up towards your shoulders, keeping your elbows stationary and your palms facing each other.",
+                    "Pause at the top of the movement and squeeze your biceps.",
+                    "Slowly lower the dumbbells back down to the starting position, making sure to keep your elbows stationary.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Hammer Preacher Curl Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Hammer Preacher Curl Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the biceps brachii muscle, which helps to increase arm strength and size",
+                    "Engages the brachialis muscle, which helps to add thickness to the upper arm",
+                    "Improves grip strength and forearm development",
+                    "Allows for a greater range of motion compared to traditional bicep curls",
+                    "Can be performed with a variety of weights and equipment, making it accessible for all fitness levels"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Hammer Preacher Curl Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Biceps brachii",
+                    "Brachialis",
+                    "Brachioradialis"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Hammer Preacher Curl Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Hammer Preacher Curl with alternating arms",
+                    "Dumbbell Hammer Preacher Curl with both arms at the same time",
+                    "Dumbbell Hammer Preacher Curl with a resistance band",
+                    "Dumbbell Hammer Preacher Curl with a barbell",
+                    "Dumbbell Hammer Preacher Curl with a cable machine"
+                ]
+            }
+        }
+    ]
+}

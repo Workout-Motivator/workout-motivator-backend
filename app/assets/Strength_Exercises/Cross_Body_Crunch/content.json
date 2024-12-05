@@ -1,0 +1,71 @@
+{
+    "title": "Cross Body Crunch",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Cross Body Crunch Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying flat on your back with your knees bent and your feet flat on the ground.",
+                    "Place your hands behind your head, with your elbows pointing out to the sides.",
+                    "Bring your right elbow and left knee towards each other, while lifting your shoulder blades off the ground.",
+                    "Return to the starting position and repeat on the other side, bringing your left elbow and right knee towards each other.",
+                    "Continue alternating sides for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Cross Body Crunch Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Cross Body Crunch Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the rectus abdominis and obliques for a stronger core",
+                    "Improves balance and stability",
+                    "Increases flexibility in the spine",
+                    "Can be modified for different fitness levels",
+                    "Engages multiple muscle groups for a more efficient workout"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cross Body Crunch Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus Abdominis",
+                    "Obliques"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cross Body Crunch Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Reverse Crunch",
+                    "Oblique Crunch",
+                    "Russian Twist",
+                    "Plank with Knee to Elbow",
+                    "Side Plank with Hip Dip"
+                ]
+            }
+        }
+    ]
+}

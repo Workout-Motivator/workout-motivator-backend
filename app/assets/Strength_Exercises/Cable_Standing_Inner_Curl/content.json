@@ -1,0 +1,74 @@
+{
+    "title": "Cable Standing Inner Curl",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Cable Standing Inner Curl Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your knees slightly bent.",
+                    "Attach a cable to a low pulley and hold the handle with an underhand grip.",
+                    "Keep your elbows close to your sides and your upper arms stationary.",
+                    "Curl the handle towards your chest by flexing your biceps.",
+                    "Pause for a second at the top of the movement and squeeze your biceps.",
+                    "Slowly lower the handle back to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Cable Standing Inner Curl Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Cable Standing Inner Curl Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the biceps brachii muscle",
+                    "Allows for a full range of motion",
+                    "Provides constant tension on the biceps throughout the movement",
+                    "Can be easily adjusted to accommodate different fitness levels",
+                    "Engages the core muscles for stability and balance"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cable Standing Inner Curl Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Biceps brachii",
+                    "Brachialis",
+                    "Brachioradialis"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cable Standing Inner Curl Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Cable Standing Outer Curl",
+                    "Cable Standing Hammer Curl",
+                    "Cable Standing Reverse Curl",
+                    "Cable Standing Concentration Curl",
+                    "Cable Standing Preacher Curl"
+                ]
+            }
+        }
+    ]
+}

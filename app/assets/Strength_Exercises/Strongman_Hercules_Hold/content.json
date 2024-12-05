@@ -1,0 +1,76 @@
+{
+    "title": "Strongman Hercules Hold",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Strongman Hercules Hold Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your arms at your sides.",
+                    "Hold a heavy weight in each hand, such as dumbbells or kettlebells.",
+                    "Lift the weights up to shoulder height, keeping your elbows close to your body.",
+                    "Slowly extend your arms out in front of you, keeping them parallel to the ground.",
+                    "Hold this position for as long as you can, aiming for at least 30 seconds.",
+                    "Slowly lower the weights back down to your sides.",
+                    "Repeat for 3-5 sets."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Strongman Hercules Hold Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Strongman Hercules Hold Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Increases grip strength",
+                    "Improves forearm and wrist strength",
+                    "Develops core stability and strength",
+                    "Enhances overall upper body strength",
+                    "Improves mental toughness and endurance"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Strongman Hercules Hold Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Forearm muscles",
+                    "Grip strength muscles",
+                    "Shoulder muscles",
+                    "Upper back muscles",
+                    "Core muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Strongman Hercules Hold Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "StrongMan Hercules Hold with dumbbells",
+                    "StrongMan Hercules Hold with kettlebells",
+                    "Single-arm StrongMan Hercules Hold",
+                    "Partner StrongMan Hercules Hold",
+                    "StrongMan Hercules Hold with a sandbag"
+                ]
+            }
+        }
+    ]
+}

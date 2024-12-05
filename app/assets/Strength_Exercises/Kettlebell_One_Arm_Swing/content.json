@@ -1,0 +1,78 @@
+{
+    "title": "Kettlebell One Arm Swing",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell One Arm Swing Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and place the kettlebell on the ground in front of you.",
+                    "With your knees slightly bent, hinge at the hips and grab the kettlebell with one hand.",
+                    "Engage your core and swing the kettlebell back between your legs.",
+                    "Drive your hips forward and swing the kettlebell up to shoulder height, keeping your arm straight.",
+                    "Allow the kettlebell to swing back down between your legs and repeat for desired number of reps.",
+                    "Switch hands and repeat the exercise with the other arm."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell One Arm Swing Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell One Arm Swing Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Full body workout: The kettlebell one arm swing engages multiple muscle groups including the legs, glutes, core, back, and shoulders.",
+                    "Cardiovascular endurance: This exercise is a great way to get your heart rate up and improve your cardiovascular health.",
+                    "Improved grip strength: Holding onto the kettlebell during the swing requires a strong grip, which can improve overall grip strength.",
+                    "Increased power and explosiveness: The explosive movement of the swing can help improve power and explosiveness in other exercises and activities.",
+                    "Low impact: Unlike high-impact exercises like running, the kettlebell one arm swing is low impact and puts less stress on the joints.",
+                    "Versatile: The kettlebell one arm swing can be modified to suit different fitness levels and goals, making it a versatile exercise for anyone."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell One Arm Swing Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Glutes",
+                    "Hamstrings",
+                    "Quadriceps",
+                    "Core",
+                    "Shoulders",
+                    "Back",
+                    "Forearms"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell One Arm Swing Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Kettlebell Two Arm Swing",
+                    "Kettlebell Clean and Press",
+                    "Kettlebell Snatch",
+                    "Kettlebell Turkish Get-Up",
+                    "Kettlebell Goblet Squat"
+                ]
+            }
+        }
+    ]
+}

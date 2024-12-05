@@ -1,0 +1,71 @@
+{
+    "title": "Dumbbell Finger Curls",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Finger Curls Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by sitting on a bench or chair with your feet flat on the ground and your back straight.",
+                    "Hold a dumbbell in one hand with your palm facing up and your fingers wrapped around the handle.",
+                    "Slowly curl your fingers towards your palm, squeezing the dumbbell tightly.",
+                    "Hold the contraction for a few seconds before slowly releasing your fingers back to the starting position.",
+                    "Repeat for 10-15 repetitions before switching to the other hand.",
+                    "Complete 2-3 sets on each hand, resting for 30-60 seconds between sets."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Finger Curls Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Finger Curls Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the muscles in the fingers, hands, and forearms",
+                    "Improves grip strength and dexterity",
+                    "Helps prevent injuries such as carpal tunnel syndrome and tennis elbow",
+                    "Can be done with minimal equipment and in a variety of settings",
+                    "Can be easily modified to increase or decrease resistance"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Finger Curls Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Forearm flexors"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Finger Curls Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell wrist curls",
+                    "Dumbbell reverse wrist curls",
+                    "Plate pinch grip holds",
+                    "Finger extension exercises with rubber bands",
+                    "Hand gripper exercises"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "title": "Finger Stretch",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Finger Stretch Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by sitting or standing with your back straight and shoulders relaxed.",
+                    "Extend your right arm in front of you, with your palm facing down.",
+                    "Use your left hand to gently pull your right fingers back towards your wrist, until you feel a stretch in your forearm and fingers.",
+                    "Hold the stretch for 10-15 seconds, then release.",
+                    "Repeat the stretch with your left arm.",
+                    "Next, extend both arms in front of you, with your palms facing down.",
+                    "Use your left hand to gently pull your right fingers back towards your wrist, while simultaneously using your right hand to push your fingers forward, until you feel a stretch in your forearm and fingers.",
+                    "Hold the stretch for 10-15 seconds, then release.",
+                    "Repeat the stretch with your left hand pushing and right hand pulling.",
+                    "Finally, shake out your hands and fingers to release any tension."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Finger Stretch Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Finger Stretch Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves flexibility and range of motion in fingers",
+                    "Reduces stiffness and pain in fingers",
+                    "Helps prevent hand and finger injuries",
+                    "Increases blood flow and circulation in hands",
+                    "Can be done anywhere, anytime, without equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Finger Stretch Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Flexor digitorum superficialis",
+                    "Flexor digitorum profundus",
+                    "Flexor pollicis longus",
+                    "Flexor carpi radialis",
+                    "Flexor carpi ulnaris"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Finger Stretch Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Finger Flexion and Extension",
+                    "Finger Abduction and Adduction",
+                    "Finger Tendon Gliding",
+                    "Finger Pinch and Grip Strength",
+                    "Finger Resistance Band Exercises"
+                ]
+            }
+        }
+    ]
+}

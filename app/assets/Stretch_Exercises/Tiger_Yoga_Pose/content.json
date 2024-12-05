@@ -1,0 +1,79 @@
+{
+    "title": "Tiger Yoga Pose",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Tiger Yoga Pose Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start in a tabletop position with your hands and knees on the ground.",
+                    "Bring your right knee forward and place it between your hands.",
+                    "Extend your left leg behind you, keeping your toes tucked under.",
+                    "Press your hips forward and down, feeling a stretch in your left hip flexor.",
+                    "Place your hands on your right knee and lift your chest up, lengthening your spine.",
+                    "Hold for 5-10 breaths, then release and switch sides."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Tiger Yoga Pose Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Tiger Yoga Pose Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves balance and stability",
+                    "Stretches the hips, thighs, and groin",
+                    "Strengthens the core, arms, and legs",
+                    "Increases flexibility in the spine",
+                    "Relieves stress and tension in the body",
+                    "Improves focus and concentration",
+                    "Stimulates digestion and metabolism",
+                    "Enhances overall body awareness"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Tiger Yoga Pose Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Abdominal muscles",
+                    "Back muscles",
+                    "Hip flexors",
+                    "Quadriceps",
+                    "Shoulder muscles",
+                    "Triceps"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Tiger Yoga Pose Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Modified Tiger Pose",
+                    "Twisted Tiger Pose",
+                    "Low Lunge Tiger Pose",
+                    "Side Plank Tiger Pose",
+                    "Reverse Tiger Pose"
+                ]
+            }
+        }
+    ]
+}

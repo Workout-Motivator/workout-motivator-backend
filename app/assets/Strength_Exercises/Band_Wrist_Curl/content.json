@@ -1,0 +1,71 @@
+{
+    "title": "Band Wrist Curl",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Band Wrist Curl Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by sitting on a bench or chair with your forearms resting on a flat surface, such as a table or bench.",
+                    "Wrap a resistance band around your wrists, making sure it is snug but not too tight.",
+                    "Hold onto the ends of the resistance band with your hands, keeping your palms facing up.",
+                    "Slowly curl your wrists upwards, bringing the resistance band towards your forearms.",
+                    "Hold the position for a few seconds, then slowly lower your wrists back down to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Band Wrist Curl Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Band Wrist Curl Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the wrist flexor muscles",
+                    "Improves grip strength",
+                    "Helps prevent wrist injuries",
+                    "Can be done anywhere with a resistance band",
+                    "Targets a specific muscle group for isolation training"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Band Wrist Curl Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Forearm flexors"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Band Wrist Curl Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Reverse band wrist curl",
+                    "One-arm band wrist curl",
+                    "Seated band wrist curl",
+                    "Standing band wrist curl",
+                    "Behind-the-back band wrist curl"
+                ]
+            }
+        }
+    ]
+}

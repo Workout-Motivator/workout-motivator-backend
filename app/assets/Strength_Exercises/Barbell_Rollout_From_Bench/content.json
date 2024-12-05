@@ -1,0 +1,80 @@
+{
+    "title": "Barbell Rollout From Bench",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Barbell Rollout From Bench Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by placing a bench perpendicular to a barbell.",
+                    "Load the barbell with an appropriate weight and place it on the floor in front of the bench.",
+                    "Kneel down on the bench and grasp the barbell with an overhand grip, hands shoulder-width apart.",
+                    "Roll the barbell forward by extending your arms and keeping your core tight.",
+                    "Lower your body towards the floor, keeping your arms extended and your core engaged.",
+                    "Pause briefly at the bottom of the movement, then use your core muscles to pull the barbell back towards your knees.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Barbell Rollout From Bench Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Barbell Rollout From Bench Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the core muscles, including the abs, obliques, and lower back",
+                    "Improves stability and balance",
+                    "Increases shoulder and arm strength",
+                    "Helps to prevent lower back pain and injury",
+                    "Can be modified to increase or decrease difficulty"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Barbell Rollout From Bench Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Abdominal muscles (rectus abdominis, transverse abdominis)",
+                    "Oblique muscles (internal and external)",
+                    "Erector spinae muscles",
+                    "Shoulder muscles (deltoids)",
+                    "Triceps brachii muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Barbell Rollout From Bench Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Barbell Rollout from Knees",
+                    "Barbell Rollout from Feet",
+                    "Barbell Rollout on Stability Ball",
+                    "Barbell Rollout on Ab Wheel",
+                    "Single Arm Barbell Rollout",
+                    "Barbell Rollout with Resistance Bands",
+                    "Barbell Rollout with Push-Up",
+                    "Barbell Rollout with Knee Tuck",
+                    "Barbell Rollout with Leg Lift"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "title": "Cable Close Grip Curl",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Cable Close Grip Curl Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a cable attachment with an underhand grip, palms facing up.",
+                    "Keep your elbows close to your sides and curl the cable attachment towards your shoulders, exhaling as you lift.",
+                    "Pause at the top of the movement and squeeze your biceps.",
+                    "Slowly lower the cable attachment back to the starting position, inhaling as you lower.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Cable Close Grip Curl Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Cable Close Grip Curl Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the biceps brachii muscle",
+                    "Allows for a greater range of motion compared to traditional dumbbell curls",
+                    "Engages the brachialis muscle, which can help increase overall arm size and strength",
+                    "Can be easily adjusted to target different areas of the biceps by changing the grip width or angle",
+                    "Provides constant tension on the biceps throughout the entire range of motion",
+                    "Can be performed with heavier weights than traditional curls, leading to greater muscle growth and strength gains"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cable Close Grip Curl Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Biceps brachii",
+                    "Brachialis",
+                    "Brachioradialis"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cable Close Grip Curl Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Barbell Close Grip Curl",
+                    "Dumbbell Close Grip Curl",
+                    "Reverse Cable Close Grip Curl",
+                    "Reverse Barbell Close Grip Curl",
+                    "Reverse Dumbbell Close Grip Curl"
+                ]
+            }
+        }
+    ]
+}

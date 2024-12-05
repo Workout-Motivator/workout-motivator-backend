@@ -1,0 +1,81 @@
+{
+    "title": "Dumbbell Burpee",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Burpee Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart, holding a dumbbell in each hand at your sides.",
+                    "Squat down and place the dumbbells on the ground in front of you.",
+                    "Jump your feet back into a plank position, keeping your hands on the dumbbells.",
+                    "Perform a push-up, lowering your chest to the ground.",
+                    "Jump your feet back up to your hands, standing up with the dumbbells in your hands.",
+                    "Perform a bicep curl with the dumbbells.",
+                    "Press the dumbbells overhead, extending your arms fully.",
+                    "Lower the dumbbells back down to your sides and repeat the exercise for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Burpee Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Burpee Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Full body workout",
+                    "Increases cardiovascular endurance",
+                    "Improves strength and power",
+                    "Targets multiple muscle groups including legs, core, chest, and arms",
+                    "Can be modified for different fitness levels",
+                    "Can be done with minimal equipment",
+                    "Can be incorporated into a high-intensity interval training (HIIT) routine"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Burpee Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Chest",
+                    "Shoulders",
+                    "Triceps",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Burpee Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell burpee with push-up",
+                    "Dumbbell burpee with bicep curl",
+                    "Dumbbell burpee with overhead press",
+                    "Dumbbell burpee with renegade row",
+                    "Dumbbell burpee with lateral raise"
+                ]
+            }
+        }
+    ]
+}

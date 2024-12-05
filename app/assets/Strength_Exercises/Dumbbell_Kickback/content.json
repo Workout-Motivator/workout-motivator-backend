@@ -1,0 +1,73 @@
+{
+    "title": "Dumbbell Kickback",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Kickback Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by standing with your feet shoulder-width apart and holding a dumbbell in your right hand.",
+                    "Bend your knees slightly and hinge forward at the hips, keeping your back straight and your left hand resting on your left thigh.",
+                    "Bring your right elbow up to your side, keeping your upper arm parallel to the ground and your forearm perpendicular to the ground.",
+                    "Extend your right arm back behind you, straightening your elbow and squeezing your tricep muscle.",
+                    "Pause for a moment at the top of the movement, then slowly lower the dumbbell back down to the starting position.",
+                    "Repeat for the desired number of repetitions, then switch sides and repeat with your left arm."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Kickback Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Kickback Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the triceps muscles, helping to tone and strengthen them",
+                    "Improves overall arm strength and definition",
+                    "Can be done with minimal equipment, making it a convenient exercise to do at home or while traveling",
+                    "Helps to improve posture and stability in the upper body",
+                    "Can be easily modified by adjusting the weight of the dumbbell or the angle of the arm"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Kickback Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Triceps brachii"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Kickback Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single-arm dumbbell kickback",
+                    "Double-arm dumbbell kickback",
+                    "Seated dumbbell kickback",
+                    "Standing dumbbell kickback",
+                    "Reverse-grip dumbbell kickback",
+                    "Cable kickback",
+                    "Resistance band kickback"
+                ]
+            }
+        }
+    ]
+}

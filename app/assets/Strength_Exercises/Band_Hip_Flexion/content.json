@@ -1,0 +1,73 @@
+{
+    "title": "Band Hip Flexion",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Band Hip Flexion Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on your back with your legs straight out in front of you.",
+                    "Bend your right knee and bring it towards your chest, keeping your left leg straight on the ground.",
+                    "Use your hands to hold onto your right knee and gently pull it towards your chest until you feel a stretch in your hip flexor.",
+                    "Hold the stretch for 15-30 seconds, then release and repeat on the other side.",
+                    "Repeat the exercise for 2-3 sets on each side."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Band Hip Flexion Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Band Hip Flexion Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens hip flexor muscles",
+                    "Improves hip mobility and flexibility",
+                    "Helps to prevent lower back pain",
+                    "Can improve posture and balance",
+                    "Can be done with minimal equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Band Hip Flexion Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus femoris",
+                    "Iliopsoas",
+                    "Sartorius",
+                    "Tensor fasciae latae"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Band Hip Flexion Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Band Hip Abduction",
+                    "Band Hip Extension",
+                    "Band Hip Adduction",
+                    "Band Hip Internal Rotation",
+                    "Band Hip External Rotation"
+                ]
+            }
+        }
+    ]
+}

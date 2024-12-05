@@ -1,0 +1,78 @@
+{
+    "title": "Push Up to Side Plank",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Push Up to Side Plank Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start in a push up position with your hands shoulder-width apart and your feet hip-width apart.",
+                    "Lower your body down towards the ground by bending your elbows, keeping your body in a straight line.",
+                    "Push yourself back up to the starting position.",
+                    "Shift your weight onto your left hand and rotate your body to the right, lifting your right arm up towards the ceiling to come into a side plank position.",
+                    "Hold the side plank for a few seconds, then return to the starting push up position.",
+                    "Repeat the push up and side plank on the other side by shifting your weight onto your right hand and rotating your body to the left.",
+                    "Continue alternating between push ups and side planks for your desired number of reps or time."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Push Up to Side Plank Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Push Up to Side Plank Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens chest, shoulders, triceps, and core muscles",
+                    "Improves upper body and core stability",
+                    "Increases overall body strength and endurance",
+                    "Engages multiple muscle groups at once for a more efficient workout",
+                    "Can be modified for different fitness levels and goals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Push Up to Side Plank Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Chest muscles (pectoralis major and minor)",
+                    "Shoulder muscles (deltoids)",
+                    "Triceps",
+                    "Abdominal muscles (rectus abdominis, obliques)",
+                    "Back muscles (erector spinae, latissimus dorsi)",
+                    "Glutes (maximus, medius, and minimus)",
+                    "Hip muscles (hip flexors and adductors)"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Push Up to Side Plank Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Push Up to Side Plank with Rotation",
+                    "Push Up to Side Plank with Leg Lift",
+                    "Push Up to Side Plank with Arm Reach",
+                    "Push Up to Side Plank with Knee Tuck",
+                    "Push Up to Side Plank with Hip Dip"
+                ]
+            }
+        }
+    ]
+}

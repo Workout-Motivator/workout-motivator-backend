@@ -1,0 +1,72 @@
+{
+    "title": "Tuck-up",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Tuck-up Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying flat on your back with your arms extended above your head.",
+                    "Simultaneously lift your arms and legs off the ground, keeping them straight.",
+                    "As you lift your arms and legs, tuck your knees towards your chest and reach your hands towards your feet.",
+                    "Hold this position for a few seconds, then slowly lower your arms and legs back down to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Tuck-up Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Tuck-up Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens core muscles",
+                    "Improves balance and stability",
+                    "Increases flexibility in hamstrings and hip flexors",
+                    "Can help alleviate lower back pain",
+                    "Improves posture",
+                    "Enhances athletic performance in activities such as running and jumping"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Tuck-up Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus abdominis",
+                    "Hip flexors"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Tuck-up Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "pike-up",
+                    "straddle-up",
+                    "V-up",
+                    "jackknife sit-up",
+                    "leg lift tuck-up"
+                ]
+            }
+        }
+    ]
+}

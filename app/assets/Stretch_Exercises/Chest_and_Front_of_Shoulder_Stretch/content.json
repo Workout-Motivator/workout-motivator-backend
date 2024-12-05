@@ -1,0 +1,75 @@
+{
+    "title": "Chest and Front of Shoulder Stretch",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Chest and Front of Shoulder Stretch Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand tall with your feet hip-width apart and your arms by your sides.",
+                    "Take your right arm and bring it across your chest, placing your hand on your left shoulder.",
+                    "Use your left hand to gently pull your right elbow towards your left shoulder, feeling a stretch in your chest and front of your right shoulder.",
+                    "Hold the stretch for 15-30 seconds, breathing deeply.",
+                    "Release the stretch and repeat on the other side."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Chest and Front of Shoulder Stretch Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Chest and Front of Shoulder Stretch Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the core muscles",
+                    "Improves posture",
+                    "Increases flexibility in the spine",
+                    "Targets the oblique muscles",
+                    "Improves balance and stability",
+                    "Can help alleviate lower back pain"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Chest and Front of Shoulder Stretch Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Pectoralis major",
+                    "Anterior deltoid"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Chest and Front of Shoulder Stretch Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Standing chest stretch",
+                    "Doorway chest stretch",
+                    "Wall chest stretch",
+                    "Chest fly stretch",
+                    "Shoulder extension stretch",
+                    "Shoulder circles",
+                    "Shoulder rolls",
+                    "Shoulder blade squeeze"
+                ]
+            }
+        }
+    ]
+}

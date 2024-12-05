@@ -1,0 +1,75 @@
+{
+    "title": "Lever Seated Hip Abduction",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Lever Seated Hip Abduction Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by sitting on the lever seated hip abduction machine with your back straight and your feet flat on the footrests.",
+                    "Adjust the machine so that the pads are resting just above your knees.",
+                    "Place your hands on the handles provided on either side of the seat.",
+                    "Slowly push your legs outwards, away from each other, until you feel a stretch in your hip muscles.",
+                    "Hold this position for a few seconds, then slowly bring your legs back together.",
+                    "Repeat this movement for the desired number of repetitions.",
+                    "Remember to keep your back straight and your core engaged throughout the exercise.",
+                    "Once you have completed your set, carefully stand up and step off the machine."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Lever Seated Hip Abduction Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Lever Seated Hip Abduction Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the hip abductor muscles, which are important for stabilizing the pelvis and maintaining balance",
+                    "Improves hip mobility and flexibility",
+                    "Can help alleviate hip pain and discomfort",
+                    "Targets the gluteus medius muscle, which can help improve the appearance of the buttocks",
+                    "Can be modified for different fitness levels and abilities"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Lever Seated Hip Abduction Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Gluteus medius",
+                    "Tensor fasciae latae"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Lever Seated Hip Abduction Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Lever Standing Hip Abduction",
+                    "Lever Seated Hip Adduction",
+                    "Lever Seated Hip Extension",
+                    "Lever Seated Hip Flexion",
+                    "Lever Seated Hip Internal Rotation",
+                    "Lever Seated Hip External Rotation"
+                ]
+            }
+        }
+    ]
+}

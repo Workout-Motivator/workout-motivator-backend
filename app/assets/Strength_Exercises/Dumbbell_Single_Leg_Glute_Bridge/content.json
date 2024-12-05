@@ -1,0 +1,72 @@
+{
+    "title": "Dumbbell Single Leg Glute Bridge",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Single Leg Glute Bridge Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on your back with your knees bent and feet flat on the ground. Hold a dumbbell in one hand and extend the other leg straight out in front of you.",
+                    "Engage your glutes and lift your hips off the ground, keeping your weight on your heel and the foot of the extended leg.",
+                    "Hold the position for a few seconds, then lower your hips back down to the ground.",
+                    "Repeat for the desired number of reps, then switch to the other leg and hand for the next set."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Single Leg Glute Bridge Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Single Leg Glute Bridge Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens glutes and hamstrings",
+                    "Improves balance and stability",
+                    "Targets one leg at a time, allowing for better muscle activation and development",
+                    "Can help alleviate lower back pain by strengthening the muscles that support the spine",
+                    "Can be modified to increase or decrease difficulty by adjusting weight or adding resistance bands"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Single Leg Glute Bridge Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Glutes",
+                    "Hamstrings",
+                    "Lower back",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Single Leg Glute Bridge Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Single Leg Glute Bridge with Hip Abduction",
+                    "Dumbbell Single Leg Glute Bridge with Hip Extension",
+                    "Dumbbell Single Leg Glute Bridge with Chest Press",
+                    "Dumbbell Single Leg Glute Bridge with Fly",
+                    "Dumbbell Single Leg Glute Bridge with Row"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "title": "Hollow Rock",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Hollow Rock Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on your back with your arms extended overhead and your legs straight out in front of you.",
+                    "Engage your core and lift your shoulders and legs off the ground, creating a “hollow” position with your body.",
+                    "Begin rocking back and forth, maintaining the hollow position throughout the movement.",
+                    "Continue for the desired number of repetitions or time."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Hollow Rock Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Hollow Rock Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Stretches the hips, groin, and thighs",
+                    "Strengthens the legs and core",
+                    "Improves balance and stability",
+                    "Opens the chest and shoulders",
+                    "Relieves stress and anxiety",
+                    "Can help alleviate lower back pain"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Hollow Rock Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus abdominis",
+                    "Obliques",
+                    "Transverse abdominis",
+                    "Erector spinae",
+                    "Hip flexors"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Hollow Rock Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "hollow-body hold",
+                    "hollow-body rock",
+                    "hollow-body roll",
+                    "hollow-body flutter kicks",
+                    "hollow-body bicycle crunches",
+                    "hollow-body leg lifts",
+                    "hollow-body Russian twists",
+                    "hollow-body plank",
+                    "hollow-body push-ups"
+                ]
+            }
+        }
+    ]
+}

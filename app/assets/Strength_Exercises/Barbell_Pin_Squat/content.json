@@ -1,0 +1,79 @@
+{
+    "title": "Barbell Pin Squat",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Barbell Pin Squat Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Set up a barbell in a squat rack at about chest height.",
+                    "Place the safety pins at the desired height for the squat.",
+                    "Load the barbell with an appropriate weight.",
+                    "Stand facing the barbell with your feet shoulder-width apart.",
+                    "Step forward and position yourself under the barbell.",
+                    "Place the barbell on your upper traps and shoulders, making sure it is secure.",
+                    "Step back from the rack and position your feet shoulder-width apart.",
+                    "Lower yourself down into a squat, making sure your knees do not go past your toes.",
+                    "Pause at the bottom of the squat and then push back up to the starting position.",
+                    "Repeat for desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Barbell Pin Squat Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Barbell Pin Squat Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the quadriceps, glutes, and hamstrings",
+                    "Allows for a greater range of motion compared to traditional squats",
+                    "Helps improve overall squat strength and technique",
+                    "Can be used as a variation for those with mobility issues or injuries",
+                    "Increases core stability and balance"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Barbell Pin Squat Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Barbell Pin Squat Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Barbell Box Squat",
+                    "Barbell Front Squat",
+                    "Barbell Back Squat",
+                    "Barbell Zercher Squat",
+                    "Barbell Hack Squat"
+                ]
+            }
+        }
+    ]
+}

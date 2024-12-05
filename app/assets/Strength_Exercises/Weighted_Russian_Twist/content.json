@@ -1,0 +1,80 @@
+{
+    "title": "Weighted Russian Twist",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Weighted Russian Twist Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by sitting on the floor with your knees bent and your feet flat on the ground.",
+                    "Hold a weight or medicine ball with both hands and extend your arms straight out in front of you.",
+                    "Lean back slightly and lift your feet off the ground, balancing on your sit bones.",
+                    "Twist your torso to the right, bringing the weight or medicine ball towards your right hip.",
+                    "Pause briefly, then twist your torso to the left, bringing the weight or medicine ball towards your left hip.",
+                    "Repeat this twisting motion for the desired number of repetitions.",
+                    "Remember to engage your core muscles throughout the exercise to maintain balance and stability."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Weighted Russian Twist Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Weighted Russian Twist Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the core muscles, including the obliques, rectus abdominis, and transverse abdominis",
+                    "Improves rotational power and stability, which can enhance athletic performance in sports such as golf, tennis, and baseball",
+                    "Helps to improve posture and reduce the risk of lower back pain by strengthening the muscles that support the spine",
+                    "Can be modified to increase or decrease the difficulty level, making it suitable for individuals of different fitness levels",
+                    "Can be done with minimal equipment, making it a convenient exercise to do at home or in the gym"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Weighted Russian Twist Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus Abdominis",
+                    "Obliques",
+                    "Erector Spinae",
+                    "Transverse Abdominis",
+                    "Quadratus Lumborum"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Weighted Russian Twist Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Unweighted Russian Twist",
+                    "Medicine Ball Russian Twist",
+                    "Plate Russian Twist",
+                    "Cable Russian Twist",
+                    "Resistance Band Russian Twist",
+                    "Single-Leg Russian Twist",
+                    "Reverse Russian Twist",
+                    "Side-to-Side Russian Twist",
+                    "Twisting Sit-Up"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "title": "Walking on Incline Treadmill",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Walking on Incline Treadmill Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by adjusting the incline on the treadmill to your desired level.",
+                    "Step onto the treadmill and begin walking at a slow pace.",
+                    "Keep your posture upright and engage your core muscles.",
+                    "As you walk, focus on taking long strides and landing on the balls of your feet.",
+                    "Continue walking for 20-30 minutes, gradually increasing the speed and incline as you feel comfortable.",
+                    "Once you have completed your workout, gradually decrease the speed and incline before stepping off the treadmill.",
+                    "Stretch your legs and lower back to cool down and prevent injury."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Walking on Incline Treadmill Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Walking on Incline Treadmill Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Increases cardiovascular endurance",
+                    "Burns calories and aids in weight loss",
+                    "Strengthens lower body muscles, including calves, quads, and glutes",
+                    "Improves balance and coordination",
+                    "Reduces stress and improves mood",
+                    "Low-impact exercise, making it easier on joints",
+                    "Can be adjusted to different incline levels for varying levels of intensity"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Walking on Incline Treadmill Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Glutes",
+                    "Calf muscles",
+                    "Abdominals",
+                    "Back muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Walking on Incline Treadmill Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Walking on Flat Treadmill",
+                    "Walking on Stair Climber",
+                    "Hiking on a Trail",
+                    "Walking on a Steep Hill",
+                    "Walking with a Weighted Vest"
+                ]
+            }
+        }
+    ]
+}

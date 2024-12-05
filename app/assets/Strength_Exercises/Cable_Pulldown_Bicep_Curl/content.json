@@ -1,0 +1,76 @@
+{
+    "title": "Cable Pulldown Bicep Curl",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Cable Pulldown Bicep Curl Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Attach a straight bar to the cable pulldown machine.",
+                    "Adjust the weight to a comfortable level.",
+                    "Stand facing the machine with your feet shoulder-width apart.",
+                    "Grasp the bar with an underhand grip, with your hands shoulder-width apart.",
+                    "Keep your elbows close to your sides and your shoulders down and back.",
+                    "Exhale and curl the bar towards your chest, keeping your elbows stationary.",
+                    "Pause for a moment at the top of the movement, squeezing your biceps.",
+                    "Inhale and slowly lower the bar back to the starting position.",
+                    "Repeat for desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Cable Pulldown Bicep Curl Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Cable Pulldown Bicep Curl Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets both the biceps and back muscles",
+                    "Helps to improve overall upper body strength",
+                    "Can be easily adjusted to accommodate different fitness levels",
+                    "Allows for a full range of motion, which can help to prevent injury",
+                    "Can be performed using a variety of equipment, including cables, bands, and dumbbells"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cable Pulldown Bicep Curl Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Biceps brachii",
+                    "Brachialis",
+                    "Brachioradialis"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cable Pulldown Bicep Curl Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Cable Pulldown Tricep Extension",
+                    "Cable Pulldown Reverse Fly",
+                    "Cable Bicep Curl",
+                    "Cable Hammer Curl",
+                    "Cable Tricep Pushdown"
+                ]
+            }
+        }
+    ]
+}

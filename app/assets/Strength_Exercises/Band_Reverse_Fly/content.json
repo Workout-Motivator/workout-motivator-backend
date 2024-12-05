@@ -1,0 +1,75 @@
+{
+    "title": "Band Reverse Fly",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Band Reverse Fly Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a resistance band in front of you with both hands.",
+                    "Extend your arms straight out in front of you, keeping a slight bend in your elbows.",
+                    "Slowly pull the band apart, bringing your arms out to the sides and squeezing your shoulder blades together.",
+                    "Pause for a moment at the top of the movement, then slowly release the band back to the starting position.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Band Reverse Fly Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Band Reverse Fly Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the upper back muscles, specifically the rear deltoids and rhomboids",
+                    "Improves posture by pulling the shoulders back and down",
+                    "Helps prevent shoulder injuries by balancing out the muscles in the shoulder girdle",
+                    "Targets the muscles that are often neglected in traditional upper body exercises",
+                    "Can be done with minimal equipment, making it a convenient exercise to do at home or while traveling"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Band Reverse Fly Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rhomboids",
+                    "Middle and lower trapezius",
+                    "Posterior deltoids",
+                    "Rotator cuff muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Band Reverse Fly Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single arm band reverse fly",
+                    "Standing band reverse fly",
+                    "Seated band reverse fly",
+                    "Incline bench band reverse fly",
+                    "Decline bench band reverse fly",
+                    "Resistance band pull apart",
+                    "Resistance band face pull"
+                ]
+            }
+        }
+    ]
+}

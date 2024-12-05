@@ -1,0 +1,74 @@
+{
+    "title": "Dumbbell Lying Leg Curl",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Lying Leg Curl Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying flat on your stomach on a bench or mat with a dumbbell in each hand.",
+                    "Place the dumbbells on the ground in front of you and flex your feet so that your toes are pointing towards your shins.",
+                    "Bend your knees and bring your heels towards your glutes, keeping your feet flexed.",
+                    "Hold the dumbbells securely and lift your legs off the ground, keeping your knees bent.",
+                    "Slowly lower your legs back down to the starting position, keeping your feet flexed the entire time.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Lying Leg Curl Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Lying Leg Curl Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the lower body muscles, including the quadriceps, hamstrings, and glutes",
+                    "Improves balance and stability",
+                    "Targets the inner thigh muscles",
+                    "Can be modified to increase or decrease difficulty",
+                    "Can be done with minimal equipment",
+                    "Can be incorporated into a full-body workout routine"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Lying Leg Curl Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Hamstrings",
+                    "Glutes",
+                    "Lower back"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Lying Leg Curl Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "dumbbell-lying-leg-curl",
+                    "barbell-lying-leg-curl",
+                    "machine-lying-leg-curl",
+                    "seated-leg-curl",
+                    "standing-leg-curl"
+                ]
+            }
+        }
+    ]
+}

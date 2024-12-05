@@ -1,0 +1,78 @@
+{
+    "title": "Inverted Shrug",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Inverted Shrug Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a dumbbell in each hand with your palms facing down.",
+                    "Slowly lift the dumbbells up towards your shoulders, keeping your elbows close to your body.",
+                    "Once the dumbbells reach shoulder height, rotate your palms so they are facing up.",
+                    "Continue lifting the dumbbells up towards the ceiling, keeping your elbows close to your body.",
+                    "Hold for a few seconds at the top of the movement, then slowly lower the dumbbells back down to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Inverted Shrug Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Inverted Shrug Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the upper back muscles, including the trapezius and rhomboids",
+                    "Improves posture by pulling the shoulders back and down",
+                    "Increases shoulder stability and mobility",
+                    "Can help alleviate neck and shoulder pain caused by poor posture or sitting at a desk for long periods of time",
+                    "Engages the core muscles for added stability and balance"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Inverted Shrug Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Trapezius",
+                    "Rhomboids",
+                    "Deltoids",
+                    "Latissimus dorsi",
+                    "Erector spinae"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Inverted Shrug Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single-arm inverted shrug",
+                    "Weighted inverted shrug",
+                    "Inverted shrug with resistance bands",
+                    "Inverted shrug with dumbbells",
+                    "Inverted shrug with barbell",
+                    "Inverted shrug with kettlebells",
+                    "Inverted shrug with cable machine",
+                    "Inverted shrug with suspension trainer"
+                ]
+            }
+        }
+    ]
+}

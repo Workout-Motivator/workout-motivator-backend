@@ -1,0 +1,77 @@
+{
+    "title": "Scissor Jumps",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Scissor Jumps Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start in a standing position with your feet shoulder-width apart.",
+                    "Bend your knees and jump up as high as you can.",
+                    "While in the air, cross your right foot in front of your left foot and land on the ball of your left foot.",
+                    "Immediately jump again and switch your feet so that your left foot is in front of your right foot and land on the ball of your right foot.",
+                    "Continue jumping and switching your feet in a scissor-like motion.",
+                    "Try to keep your jumps as high as possible and your movements as quick as possible.",
+                    "Repeat for the desired number of repetitions or time."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Scissor Jumps Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Scissor Jumps Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the muscles in the arms, shoulders, and chest",
+                    "Improves posture and balance",
+                    "Increases cardiovascular endurance",
+                    "Burns calories and aids in weight loss",
+                    "Can be done anywhere without equipment",
+                    "Can be modified for different fitness levels"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Scissor Jumps Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Glutes",
+                    "Calf muscles",
+                    "Core muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Scissor Jumps Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Jumping lunges",
+                    "Box jumps",
+                    "Jump squats",
+                    "Jumping jacks",
+                    "High knees"
+                ]
+            }
+        }
+    ]
+}

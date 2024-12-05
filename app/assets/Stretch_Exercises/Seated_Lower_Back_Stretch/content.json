@@ -1,0 +1,72 @@
+{
+    "title": "Seated Lower Back Stretch",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Seated Lower Back Stretch Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by sitting on a mat or a comfortable surface with your legs extended in front of you.",
+                    "Bend your right knee and place your right foot over your left knee, placing it on the floor.",
+                    "Place your left elbow on the outside of your right knee and gently twist your torso to the right.",
+                    "Hold the stretch for 15-30 seconds, feeling the stretch in your lower back and hips.",
+                    "Release the stretch and repeat on the other side, bending your left knee and placing your left foot over your right knee."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Seated Lower Back Stretch Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Seated Lower Back Stretch Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Relieves tension and tightness in the lower back muscles",
+                    "Improves flexibility and range of motion in the lower back",
+                    "Reduces the risk of lower back injuries",
+                    "Helps alleviate lower back pain and discomfort",
+                    "Can be done anywhere, anytime, without any equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Seated Lower Back Stretch Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Erector spinae",
+                    "Gluteus maximus",
+                    "Hamstrings"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Seated Lower Back Stretch Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Standing Lower Back Stretch",
+                    "Child’s Pose",
+                    "Cat-Cow Stretch",
+                    "Supine Hamstring Stretch",
+                    "Seated Forward Fold"
+                ]
+            }
+        }
+    ]
+}

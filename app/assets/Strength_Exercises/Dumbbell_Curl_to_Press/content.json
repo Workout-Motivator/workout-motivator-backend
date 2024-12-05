@@ -1,0 +1,76 @@
+{
+    "title": "Dumbbell Curl to Press",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Curl to Press Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a dumbbell in each hand.",
+                    "Curl the dumbbells up to your shoulders, keeping your elbows close to your body.",
+                    "Once the dumbbells are at shoulder height, rotate your palms so they are facing forward.",
+                    "Press the dumbbells up above your head, fully extending your arms.",
+                    "Lower the dumbbells back down to your shoulders.",
+                    "Rotate your palms back to facing your body.",
+                    "Lower the dumbbells back down to your sides.",
+                    "Repeat for desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Curl to Press Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Curl to Press Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the lower back muscles",
+                    "Improves posture and spinal alignment",
+                    "Targets the hamstrings and glutes",
+                    "Increases core stability and balance",
+                    "Can be modified for different fitness levels and goals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Curl to Press Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Biceps",
+                    "Forearms",
+                    "Shoulders",
+                    "Triceps"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Curl to Press Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Hammer curl to press",
+                    "Alternating curl to press",
+                    "Reverse curl to press",
+                    "Single-arm curl to press",
+                    "Seated curl to press"
+                ]
+            }
+        }
+    ]
+}

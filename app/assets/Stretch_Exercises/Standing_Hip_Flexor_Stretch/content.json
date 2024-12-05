@@ -1,0 +1,73 @@
+{
+    "title": "Standing Hip Flexor Stretch",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Standing Hip Flexor Stretch Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet hip-width apart and your hands on your hips.",
+                    "Step forward with your right foot, keeping your left foot in place.",
+                    "Bend your right knee and lower your left knee towards the ground.",
+                    "Keep your back straight and your hips facing forward.",
+                    "Hold the stretch for 20-30 seconds.",
+                    "Release the stretch and switch sides, stepping forward with your left foot."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Standing Hip Flexor Stretch Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Standing Hip Flexor Stretch Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves flexibility and range of motion in the hip flexors",
+                    "Reduces tightness and discomfort in the hip flexors",
+                    "Helps to alleviate lower back pain by releasing tension in the hip flexors",
+                    "Improves posture by lengthening the hip flexors and reducing the tendency to slouch",
+                    "Can be done anywhere without any equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Standing Hip Flexor Stretch Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus femoris",
+                    "Iliopsoas",
+                    "Sartorius"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Standing Hip Flexor Stretch Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Kneeling Hip Flexor Stretch",
+                    "Lunge Hip Flexor Stretch",
+                    "Seated Hip Flexor Stretch",
+                    "Supine Hip Flexor Stretch",
+                    "Wall Hip Flexor Stretch"
+                ]
+            }
+        }
+    ]
+}

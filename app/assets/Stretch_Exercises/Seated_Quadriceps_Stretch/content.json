@@ -1,0 +1,76 @@
+{
+    "title": "Seated Quadriceps Stretch",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Seated Quadriceps Stretch Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by sitting on the floor with your legs extended in front of you.",
+                    "Bend your right knee and bring your foot towards your buttocks.",
+                    "Grasp your right ankle with your right hand and hold it firmly.",
+                    "Place your left hand on your left knee for support.",
+                    "Inhale and lift your chest up towards the ceiling.",
+                    "Exhale and gently pull your right ankle towards your buttocks.",
+                    "Hold the stretch for 15-30 seconds.",
+                    "Release the stretch and repeat on the other side."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Seated Quadriceps Stretch Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Seated Quadriceps Stretch Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves flexibility and range of motion in the quadriceps muscles",
+                    "Reduces muscle tension and soreness in the quadriceps",
+                    "Helps prevent injury by preparing the quadriceps for physical activity",
+                    "Can be done anywhere without any equipment",
+                    "Can be modified for individuals with limited mobility or flexibility"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Seated Quadriceps Stretch Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Seated Quadriceps Stretch Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Standing Quadriceps Stretch",
+                    "Lying Quadriceps Stretch",
+                    "Wall Quadriceps Stretch",
+                    "Hamstring Stretch",
+                    "Butterfly Stretch",
+                    "Pigeon Pose",
+                    "Runner’s Lunge",
+                    "Downward Facing Dog"
+                ]
+            }
+        }
+    ]
+}

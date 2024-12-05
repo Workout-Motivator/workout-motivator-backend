@@ -1,0 +1,75 @@
+{
+    "title": "Kettlebell Single Leg Deadlift",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Single Leg Deadlift Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet hip-width apart and hold a kettlebell in your right hand.",
+                    "Lift your left foot off the ground and extend it behind you, keeping your leg straight.",
+                    "Slowly hinge forward at the hips, lowering the kettlebell towards the ground while keeping your back straight.",
+                    "Lower the kettlebell until it is just above the ground, then slowly return to the starting position.",
+                    "Repeat for the desired number of repetitions, then switch sides and repeat with the kettlebell in your left hand."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Single Leg Deadlift Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Single Leg Deadlift Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves cardiovascular endurance",
+                    "Increases strength and power in the shoulders, back, and legs",
+                    "Enhances grip strength and forearm endurance",
+                    "Improves coordination and balance",
+                    "Burns a high number of calories",
+                    "Can be done with minimal equipment and space",
+                    "Can be modified for different fitness levels"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Single Leg Deadlift Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Hamstrings",
+                    "Glutes",
+                    "Lower back",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Single Leg Deadlift Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "kettlebell-single-leg-deadlift with dumbbell",
+                    "kettlebell-single-leg-deadlift with barbell",
+                    "kettlebell-single-leg-deadlift with resistance band",
+                    "kettlebell-single-leg-deadlift with medicine ball",
+                    "kettlebell-single-leg-deadlift with sandbag"
+                ]
+            }
+        }
+    ]
+}

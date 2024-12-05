@@ -1,0 +1,79 @@
+{
+    "title": "Single Leg Push Off",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Single Leg Push Off Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet hip-width apart and your weight on your left foot.",
+                    "Place your right foot behind your left ankle, keeping your toes on the ground.",
+                    "Bend your left knee and lower your body down into a squat position.",
+                    "Push off your left foot and straighten your left leg, lifting your body up onto your toes.",
+                    "Lower your body back down into the squat position, keeping your right foot behind your left ankle.",
+                    "Repeat the exercise for the desired number of repetitions, then switch legs and repeat on the other side."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Single Leg Push Off Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Single Leg Push Off Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves balance and stability",
+                    "Strengthens the muscles in the legs, particularly the glutes, quads, and calves",
+                    "Increases power and explosiveness in the legs",
+                    "Helps to prevent injuries by improving proprioception and neuromuscular control",
+                    "Can be done anywhere with no equipment needed"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Single Leg Push Off Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calf muscles",
+                    "Core muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Single Leg Push Off Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single Leg Push Off with Resistance Band",
+                    "Single Leg Push Off with Dumbbell",
+                    "Single Leg Push Off with Medicine Ball",
+                    "Single Leg Push Off on Bosu Ball",
+                    "Single Leg Push Off on Stability Ball",
+                    "Single Leg Push Off with Plyometric Jump",
+                    "Single Leg Push Off with Lateral Hop",
+                    "Single Leg Push Off with Forward Hop",
+                    "Single Leg Push Off with Backward Hop"
+                ]
+            }
+        }
+    ]
+}

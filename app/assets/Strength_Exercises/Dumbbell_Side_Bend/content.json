@@ -1,0 +1,73 @@
+{
+    "title": "Dumbbell Side Bend",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Side Bend Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand up straight with your feet shoulder-width apart and hold a dumbbell in one hand.",
+                    "Place your other hand on your hip.",
+                    "Slowly bend to the side with the dumbbell, keeping your back straight and your core engaged.",
+                    "Lower the dumbbell as far as you can comfortably go, then slowly return to the starting position.",
+                    "Repeat for the desired number of reps, then switch sides and repeat."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Side Bend Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Side Bend Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the oblique muscles, which are responsible for side-to-side movements and rotational movements of the torso.",
+                    "Helps to strengthen the core and improve overall stability.",
+                    "Can improve posture and reduce the risk of lower back pain.",
+                    "Can be done with a variety of weights and equipment, making it accessible for people of different fitness levels.",
+                    "Can be easily incorporated into a full-body workout routine or done as a standalone exercise."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Side Bend Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "External obliques",
+                    "Internal obliques",
+                    "Rectus abdominis",
+                    "Erector spinae"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Side Bend Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Barbell Side Bend",
+                    "Cable Side Bend",
+                    "Weight Plate Side Bend",
+                    "Kettlebell Side Bend",
+                    "Medicine Ball Side Bend"
+                ]
+            }
+        }
+    ]
+}

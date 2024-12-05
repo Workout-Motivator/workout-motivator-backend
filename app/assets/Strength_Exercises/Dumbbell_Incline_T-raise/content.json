@@ -1,0 +1,72 @@
+{
+    "title": "Dumbbell Incline T-raise",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Incline T-raise Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying face down on an incline bench with a dumbbell in each hand.",
+                    "Extend your arms straight down towards the floor with your palms facing each other.",
+                    "Slowly raise the dumbbells up and out to the sides until your arms are parallel to the ground, forming a “T” shape.",
+                    "Hold for a brief pause at the top of the movement, then slowly lower the dumbbells back down to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Incline T-raise Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Incline T-raise Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the upper back muscles, specifically the trapezius and rhomboids",
+                    "Improves posture and shoulder stability",
+                    "Helps prevent shoulder injuries",
+                    "Increases shoulder mobility and range of motion",
+                    "Can be done with light weights and minimal equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Incline T-raise Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Shoulder (deltoid) muscles",
+                    "Upper back (trapezius) muscles",
+                    "Rear shoulder (posterior deltoid) muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Incline T-raise Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "dumbbell-incline-y-raise",
+                    "dumbbell-incline-w-raise",
+                    "dumbbell-incline-l-raise",
+                    "dumbbell-incline-i-raise",
+                    "dumbbell-incline-rear-delt-fly"
+                ]
+            }
+        }
+    ]
+}

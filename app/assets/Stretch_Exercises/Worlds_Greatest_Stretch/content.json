@@ -1,0 +1,84 @@
+{
+    "title": "Worlds Greatest Stretch",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Worlds Greatest Stretch Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Begin in a standing position with your feet shoulder-width apart and your arms relaxed by your sides.",
+                    "Step forward with your right foot into a lunge position, bending your right knee and keeping your left leg straight. Place both hands on the ground on either side of your right foot.",
+                    "Press your hips down and forward to feel a stretch in your left hip flexors and hold this position for a few seconds.",
+                    "Move your right hand off the ground and place it on your right thigh for support. Rotate your upper body to the right while extending your left arm upwards, opening up your chest and following your left hand with your eyes.",
+                    "Hold the twist for a few seconds, feeling a stretch through your chest, shoulders, and spine.",
+                    "Lower your left hand back to the ground and move your right hand from your thigh back to the ground as well. Straighten your right leg and shift your hips back, creating a hamstring stretch in your right leg.",
+                    "Hold this position for a few seconds, feeling the stretch in your right hamstring.",
+                    "Return to the lunge position with both hands on the ground, and then step back to the standing position.",
+                    "Repeat the sequence on the left side by stepping forward with your left foot and following the same steps.",
+                    "Continue alternating sides for the desired number of repetitions or sets, ensuring proper form and control throughout the movement.",
+                    "Rest and recover between sets as needed, and consider incorporating the World’s Greatest Stretch into your warm-up or cool-down routine for improved flexibility and mobility."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Worlds Greatest Stretch Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Worlds Greatest Stretch Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves flexibility and mobility in the hips, hamstrings, and groin",
+                    "Strengthens the core, glutes, and legs",
+                    "Stretches the chest, shoulders, and upper back",
+                    "Helps improve balance and stability",
+                    "Can be modified for different fitness levels and abilities"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Worlds Greatest Stretch Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Hamstrings",
+                    "Glutes",
+                    "Quadriceps",
+                    "Hip flexors",
+                    "Abdominals",
+                    "Obliques",
+                    "Chest",
+                    "Shoulders",
+                    "Back"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Worlds Greatest Stretch Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Reverse Worlds Greatest Stretch",
+                    "Side Lunge Worlds Greatest Stretch",
+                    "Curtsy Lunge Worlds Greatest Stretch",
+                    "Rotational Worlds Greatest Stretch",
+                    "Single Leg Worlds Greatest Stretch"
+                ]
+            }
+        }
+    ]
+}

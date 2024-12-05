@@ -1,0 +1,75 @@
+{
+    "title": "Kneeling Lat Stretch",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Kneeling Lat Stretch Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by kneeling on the ground with your knees hip-width apart and your toes pointed behind you.",
+                    "Extend your arms straight out in front of you, shoulder-width apart, and interlace your fingers.",
+                    "Slowly lower your chest towards the ground, keeping your arms extended and your hands interlaced.",
+                    "Hold the stretch for 15-30 seconds, feeling the stretch in your lats and upper back.",
+                    "Slowly release the stretch and return to the starting position.",
+                    "Repeat the stretch for 2-3 sets, taking a short break in between each set."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Kneeling Lat Stretch Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Kneeling Lat Stretch Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves flexibility and range of motion in the shoulders and upper back",
+                    "Reduces tension and tightness in the latissimus dorsi muscles",
+                    "Helps alleviate pain and discomfort in the upper body",
+                    "Can improve posture and alignment of the spine",
+                    "May enhance athletic performance in activities that require upper body strength and mobility"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Kneeling Lat Stretch Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Latissimus dorsi",
+                    "Teres major",
+                    "Rhomboids",
+                    "Trapezius",
+                    "Erector spinae"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Kneeling Lat Stretch Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Standing Lat Stretch",
+                    "Seated Lat Stretch",
+                    "Doorway Lat Stretch",
+                    "Wall Lat Stretch",
+                    "Lat Foam Rolling"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "title": "Barbell Clean and Press",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Barbell Clean and Press Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start with the barbell on the ground in front of you, with your feet shoulder-width apart.",
+                    "Bend down and grip the bar with your hands slightly wider than shoulder-width apart, palms facing towards you.",
+                    "Stand up, keeping your back straight and lifting the bar off the ground.",
+                    "As you lift the bar, use your legs to generate power and momentum, and pull the bar up towards your chest.",
+                    "Once the bar reaches your chest, quickly drop down into a squat position, catching the bar on your shoulders.",
+                    "Stand up from the squat position, using the momentum to press the bar overhead.",
+                    "Lower the bar back down to your shoulders, then drop back down into a squat position to catch the bar.",
+                    "Stand up from the squat position, lowering the bar back down to the ground.",
+                    "Repeat for desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Barbell Clean and Press Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Barbell Clean and Press Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Works multiple muscle groups including shoulders, back, legs, and core",
+                    "Improves overall strength and power",
+                    "Increases explosive power and speed",
+                    "Improves coordination and balance",
+                    "Can be modified for different fitness levels and goals",
+                    "Can be incorporated into a full body workout routine"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Barbell Clean and Press Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Glutes",
+                    "Calves",
+                    "Abdominals",
+                    "Lower back",
+                    "Shoulders",
+                    "Triceps",
+                    "Forearms"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Barbell Clean and Press Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Clean and Press",
+                    "Kettlebell Clean and Press",
+                    "Single Arm Clean and Press",
+                    "Push Press",
+                    "Split Jerk"
+                ]
+            }
+        }
+    ]
+}

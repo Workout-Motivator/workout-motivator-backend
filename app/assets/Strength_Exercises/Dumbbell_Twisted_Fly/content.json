@@ -1,0 +1,75 @@
+{
+    "title": "Dumbbell Twisted Fly",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Twisted Fly Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a dumbbell in each hand.",
+                    "Extend your arms out to the sides, parallel to the floor, with your palms facing forward.",
+                    "Twist your torso to the right, keeping your arms extended.",
+                    "As you twist, bring your left arm across your body and towards your right shoulder.",
+                    "Pause briefly, then return to the starting position.",
+                    "Repeat on the other side, twisting to the left and bringing your right arm across your body towards your left shoulder.",
+                    "Continue alternating sides for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Twisted Fly Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Twisted Fly Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the chest muscles, specifically the pectoralis major and minor",
+                    "Engages the shoulders and upper back muscles as stabilizers",
+                    "Improves overall chest strength and definition",
+                    "Increases range of motion in the chest and shoulders",
+                    "Can be modified for different fitness levels by adjusting weight and reps",
+                    "Can be done with minimal equipment, making it a convenient exercise to do at home or in a gym"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Twisted Fly Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Chest muscles (pectoralis major and minor)",
+                    "Shoulder muscles (anterior deltoids)",
+                    "Upper back muscles (rhomboids and trapezius)"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Twisted Fly Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Chest Fly",
+                    "Dumbbell Incline Fly",
+                    "Dumbbell Decline Fly",
+                    "Dumbbell Pullover",
+                    "Dumbbell Bench Press"
+                ]
+            }
+        }
+    ]
+}

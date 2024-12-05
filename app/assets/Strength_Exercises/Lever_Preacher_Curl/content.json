@@ -1,0 +1,73 @@
+{
+    "title": "Lever Preacher Curl",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Lever Preacher Curl Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Adjust the seat height so that your armpits are resting comfortably on the top of the pad.",
+                    "Select the appropriate weight and load it onto the machine.",
+                    "Grasp the handles with an underhand grip, keeping your elbows close to your sides.",
+                    "Slowly curl the handles towards your shoulders, keeping your upper arms stationary.",
+                    "Pause briefly at the top of the movement, then slowly lower the handles back down to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Lever Preacher Curl Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Lever Preacher Curl Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Isolates the biceps brachii muscle",
+                    "Allows for a full range of motion",
+                    "Reduces strain on the wrists and forearms",
+                    "Provides a constant tension throughout the movement",
+                    "Can be easily adjusted for different arm lengths and body types"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Lever Preacher Curl Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Biceps brachii",
+                    "Brachialis",
+                    "Brachioradialis"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Lever Preacher Curl Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Standing Preacher Curl",
+                    "Seated Preacher Curl",
+                    "One-Arm Preacher Curl",
+                    "Reverse Preacher Curl",
+                    "Close-Grip Preacher Curl"
+                ]
+            }
+        }
+    ]
+}

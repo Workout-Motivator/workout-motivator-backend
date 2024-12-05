@@ -1,0 +1,73 @@
+{
+    "title": "Elbow to Knee",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Elbow to Knee Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying flat on your back with your arms extended above your head.",
+                    "Bring your left knee up towards your chest while simultaneously bringing your right elbow towards your left knee.",
+                    "Hold this position for a few seconds, engaging your core muscles.",
+                    "Slowly lower your left leg and right arm back down to the starting position.",
+                    "Repeat on the other side, bringing your right knee up towards your chest while bringing your left elbow towards your right knee.",
+                    "Continue alternating sides for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Elbow to Knee Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Elbow to Knee Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the core muscles",
+                    "Improves balance and stability",
+                    "Increases flexibility in the hips and lower back",
+                    "Helps to tone the abdominal muscles",
+                    "Can be modified for different fitness levels"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Elbow to Knee Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus Abdominis",
+                    "Obliques",
+                    "Hip Flexors"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Elbow to Knee Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Elbow to opposite Knee",
+                    "Elbow to same side Knee",
+                    "Elbow to alternating Knee (bicycle crunches)",
+                    "Elbow to Knee with leg extension",
+                    "Elbow to Knee with twist"
+                ]
+            }
+        }
+    ]
+}

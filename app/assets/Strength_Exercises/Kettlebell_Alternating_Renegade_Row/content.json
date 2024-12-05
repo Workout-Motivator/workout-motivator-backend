@@ -1,0 +1,82 @@
+{
+    "title": "Kettlebell Alternating Renegade Row",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Alternating Renegade Row Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start in a plank position with your hands on the kettlebells and your feet shoulder-width apart.",
+                    "Engage your core and glutes to maintain a stable plank position.",
+                    "Row one kettlebell up towards your chest, keeping your elbow close to your body.",
+                    "Lower the kettlebell back down to the ground and repeat on the other side.",
+                    "Continue alternating sides for the desired number of reps.",
+                    "Make sure to keep your hips level and avoid twisting or rotating your body.",
+                    "Exhale as you row the kettlebell up and inhale as you lower it back down.",
+                    "To make the exercise more challenging, you can add a push-up between each row."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Alternating Renegade Row Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Alternating Renegade Row Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets multiple muscle groups including the back, shoulders, core, and arms",
+                    "Improves overall strength and stability",
+                    "Increases cardiovascular endurance",
+                    "Can be modified for different fitness levels",
+                    "Requires minimal equipment and can be done at home or in the gym"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Alternating Renegade Row Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Latissimus dorsi",
+                    "Rhomboids",
+                    "Trapezius",
+                    "Erector spinae",
+                    "Abdominals",
+                    "Glutes",
+                    "Hamstrings"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Alternating Renegade Row Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Kettlebell Single Arm Renegade Row",
+                    "Kettlebell Double Arm Renegade Row",
+                    "Dumbbell Alternating Renegade Row",
+                    "Dumbbell Single Arm Renegade Row",
+                    "Dumbbell Double Arm Renegade Row",
+                    "Barbell Alternating Renegade Row",
+                    "Barbell Single Arm Renegade Row",
+                    "Barbell Double Arm Renegade Row"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "title": "Scapular Pull Up",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Scapular Pull Up Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Hang from a pull-up bar with your arms fully extended and your palms facing away from your body.",
+                    "Retract your shoulder blades by pulling them down and back towards your spine.",
+                    "While keeping your shoulder blades retracted, pull your body up towards the bar by bending your elbows and bringing your chest towards the bar.",
+                    "Pause at the top of the movement, then slowly lower your body back down to the starting position with your arms fully extended.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Scapular Pull Up Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Scapular Pull Up Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the muscles in the upper back, shoulders, and arms",
+                    "Improves posture by promoting proper alignment of the shoulders and spine",
+                    "Increases shoulder stability and mobility",
+                    "Prevents and reduces the risk of shoulder injuries",
+                    "Can be used as a warm-up exercise for upper body workouts",
+                    "Can be modified for different fitness levels and goals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Scapular Pull Up Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rhomboids",
+                    "Trapezius",
+                    "Latissimus dorsi",
+                    "Biceps brachii"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Scapular Pull Up Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Assisted Scapular Pull Up",
+                    "Weighted Scapular Pull Up",
+                    "Slow Eccentric Scapular Pull Up",
+                    "Scapular Pull Up Hold",
+                    "Wide Grip Scapular Pull Up",
+                    "Close Grip Scapular Pull Up",
+                    "Neutral Grip Scapular Pull Up",
+                    "Alternating Scapular Pull Up",
+                    "One Arm Scapular Pull Up"
+                ]
+            }
+        }
+    ]
+}

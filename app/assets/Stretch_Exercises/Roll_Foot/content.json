@@ -1,0 +1,78 @@
+{
+    "title": "Roll Foot",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Roll Foot Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by sitting on a chair or bench with your feet flat on the ground.",
+                    "Place a small ball or foam roller under one foot.",
+                    "Slowly roll your foot back and forth over the ball or roller, applying gentle pressure.",
+                    "Focus on any areas of tension or discomfort and spend extra time on those spots.",
+                    "Continue rolling for 1-2 minutes before switching to the other foot.",
+                    "Repeat the exercise on both feet daily to improve foot mobility and reduce tension."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Roll Foot Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Roll Foot Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves ankle mobility and flexibility",
+                    "Strengthens the muscles in the feet and lower legs",
+                    "Helps to prevent and alleviate plantar fasciitis",
+                    "Can improve balance and stability",
+                    "May reduce the risk of foot and ankle injuries"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Roll Foot Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Tibialis Anterior",
+                    "Peroneus Longus",
+                    "Peroneus Brevis",
+                    "Extensor Digitorum Longus",
+                    "Extensor Hallucis Longus",
+                    "Gastrocnemius",
+                    "Soleus",
+                    "Plantar Fascia"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Roll Foot Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Roll Foot with Tennis Ball",
+                    "Roll Foot with Golf Ball",
+                    "Roll Foot with Foam Roller",
+                    "Roll Foot with Massage Stick",
+                    "Roll Foot with Lacrosse Ball"
+                ]
+            }
+        }
+    ]
+}

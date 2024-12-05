@@ -1,0 +1,81 @@
+{
+    "title": "Handstand Push Up",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Handstand Push Up Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start in a plank position with your hands shoulder-width apart and your feet against a wall.",
+                    "Walk your feet up the wall until your body is in an inverted V position.",
+                    "Bend your elbows and lower your head towards the ground, keeping your body in a straight line.",
+                    "Push back up to the starting position, keeping your core engaged and your elbows close to your body.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Handstand Push Up Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Handstand Push Up Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the shoulders, triceps, and upper back muscles",
+                    "Improves balance and stability",
+                    "Increases body awareness and control",
+                    "Challenges the core muscles for stabilization",
+                    "Can be done anywhere without equipment",
+                    "Provides a unique and challenging variation to traditional push ups"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Handstand Push Up Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Deltoids",
+                    "Triceps",
+                    "Pectoralis Major",
+                    "Trapezius",
+                    "Rhomboids",
+                    "Latissimus Dorsi",
+                    "Abdominals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Handstand Push Up Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Pike Push Up",
+                    "Wall Walks",
+                    "Handstand Hold",
+                    "Handstand Push Up with Bands",
+                    "Handstand Push Up with Dumbbells",
+                    "Handstand Push Up with Kettlebells",
+                    "Strict Handstand Push Up",
+                    "Kipping Handstand Push Up",
+                    "Deficit Handstand Push Up"
+                ]
+            }
+        }
+    ]
+}

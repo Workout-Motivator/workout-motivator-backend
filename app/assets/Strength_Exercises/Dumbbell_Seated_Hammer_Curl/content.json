@@ -1,0 +1,73 @@
+{
+    "title": "Dumbbell Seated Hammer Curl",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Seated Hammer Curl Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by sitting on a bench with your back straight and your feet flat on the ground.",
+                    "Hold a dumbbell in each hand with your palms facing each other and your elbows resting on your thighs.",
+                    "Slowly curl the dumbbells up towards your shoulders, keeping your elbows stationary and your palms facing each other.",
+                    "Pause for a moment at the top of the movement, squeezing your biceps.",
+                    "Slowly lower the dumbbells back down to the starting position, keeping your elbows on your thighs.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Seated Hammer Curl Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Seated Hammer Curl Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the brachialis muscle, which is located underneath the biceps and helps to give the arm a more defined look",
+                    "Helps to improve grip strength and forearm development",
+                    "Allows for a greater range of motion compared to traditional bicep curls",
+                    "Can be performed with lighter weights, making it a great exercise for beginners or those with wrist or elbow pain",
+                    "Can be easily modified by changing the grip or using different types of dumbbells"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Seated Hammer Curl Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Biceps brachii",
+                    "Brachialis",
+                    "Brachioradialis"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Seated Hammer Curl Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Standing Hammer Curl",
+                    "Dumbbell Incline Hammer Curl",
+                    "Dumbbell Preacher Hammer Curl",
+                    "Cable Hammer Curl",
+                    "Barbell Hammer Curl"
+                ]
+            }
+        }
+    ]
+}

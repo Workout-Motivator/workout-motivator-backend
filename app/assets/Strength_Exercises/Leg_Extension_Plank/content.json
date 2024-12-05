@@ -1,0 +1,74 @@
+{
+    "title": "Leg Extension Plank",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Leg Extension Plank Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start in a plank position with your forearms on the ground and your legs extended behind you.",
+                    "Lift your right leg off the ground and extend it straight out behind you.",
+                    "Hold this position for a few seconds, engaging your core and glutes.",
+                    "Lower your right leg back down to the ground and repeat with your left leg.",
+                    "Continue alternating legs for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Leg Extension Plank Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Leg Extension Plank Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the core muscles",
+                    "Improves balance and stability",
+                    "Tones the legs and glutes",
+                    "Increases endurance and stamina",
+                    "Can be modified for different fitness levels",
+                    "Requires no equipment and can be done anywhere"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Leg Extension Plank Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus abdominis",
+                    "Transverse abdominis",
+                    "Obliques",
+                    "Quadriceps"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Leg Extension Plank Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single Leg Extension Plank",
+                    "Side Leg Extension Plank",
+                    "Reverse Leg Extension Plank",
+                    "Alternating Leg Extension Plank",
+                    "Leg Extension Plank with Knee Tuck"
+                ]
+            }
+        }
+    ]
+}

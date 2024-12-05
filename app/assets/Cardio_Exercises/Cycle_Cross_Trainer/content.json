@@ -1,0 +1,81 @@
+{
+    "title": "Cycle Cross Trainer",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Cycle Cross Trainer Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Step onto the cycle cross trainer and place your feet on the pedals.",
+                    "Adjust the seat height so that your knees are slightly bent when your feet are on the pedals.",
+                    "Adjust the resistance level to your desired intensity.",
+                    "Begin pedaling, keeping your back straight and your core engaged.",
+                    "Continue pedaling for your desired amount of time, aiming for at least 20-30 minutes for a good cardiovascular workout.",
+                    "Cool down by gradually decreasing the resistance level and slowing down your pedaling until you come to a stop.",
+                    "Stretch your legs and lower back to prevent any stiffness or soreness."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Cycle Cross Trainer Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Cycle Cross Trainer Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Low impact exercise that is easy on the joints",
+                    "Provides a full body workout, targeting multiple muscle groups",
+                    "Improves cardiovascular health and endurance",
+                    "Burns calories and aids in weight loss",
+                    "Adjustable resistance levels allow for a customized workout",
+                    "Can be used for both high intensity interval training (HIIT) and steady state cardio",
+                    "Can be used indoors, making it a convenient option for all weather conditions"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cycle Cross Trainer Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Glutes",
+                    "Calf muscles",
+                    "Abdominals",
+                    "Back muscles",
+                    "Shoulder muscles",
+                    "Arm muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cycle Cross Trainer Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Upright Cycle Cross Trainer",
+                    "Recumbent Cycle Cross Trainer",
+                    "Dual Action Cycle Cross Trainer",
+                    "Elliptical Cycle Cross Trainer",
+                    "Mini Cycle Cross Trainer"
+                ]
+            }
+        }
+    ]
+}

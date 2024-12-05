@@ -1,0 +1,79 @@
+{
+    "title": "Single Leg Bench Squat",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Single Leg Bench Squat Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by standing in front of a bench or chair with your feet hip-width apart.",
+                    "Lift your left foot off the ground and extend it forward, keeping your toes pointed up.",
+                    "Slowly lower your body down towards the bench, bending your right knee and keeping your left foot off the ground.",
+                    "Lower your body until your right thigh is parallel to the ground, then push back up to the starting position.",
+                    "Repeat for the desired number of repetitions, then switch legs and repeat on the other side."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Single Leg Bench Squat Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Single Leg Bench Squat Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves balance and stability",
+                    "Strengthens the quadriceps, hamstrings, and glutes",
+                    "Targets the core muscles for improved posture and spinal alignment",
+                    "Increases ankle and hip mobility",
+                    "Can be modified for different fitness levels and goals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Single Leg Bench Squat Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Single Leg Bench Squat Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single Leg Bench Squat with Dumbbells",
+                    "Single Leg Bench Squat with Resistance Band",
+                    "Single Leg Bench Squat with Medicine Ball",
+                    "Single Leg Bench Squat with Kettlebell",
+                    "Single Leg Bench Squat with Barbell",
+                    "Single Leg Bench Squat with Smith Machine",
+                    "Single Leg Bench Squat with Cable Machine",
+                    "Single Leg Bench Squat with TRX Suspension Trainer",
+                    "Single Leg Bench Squat with Bosu Ball",
+                    "Single Leg Bench Squat with Stability Ball"
+                ]
+            }
+        }
+    ]
+}

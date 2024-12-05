@@ -1,0 +1,80 @@
+{
+    "title": "Bow Yoga Pose",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Bow Yoga Pose Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet hip-width apart and your arms at your sides.",
+                    "Take a deep breath in and lift your arms up overhead.",
+                    "Exhale and bend your knees, lowering your hips down into a squat position.",
+                    "Bring your hands together in front of your chest and press your elbows against your inner thighs.",
+                    "Inhale and lift your chest up, lengthening your spine.",
+                    "Exhale and lean forward, bringing your weight onto your toes.",
+                    "Extend your arms forward and lift your left leg up behind you, keeping your hips level.",
+                    "Reach back with your right hand and grasp your left ankle or foot.",
+                    "Hold the pose for several breaths, then release and repeat on the other side."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Bow Yoga Pose Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Bow Yoga Pose Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Stretches the hips, thighs, and ankles",
+                    "Strengthens the back muscles",
+                    "Improves posture and balance",
+                    "Stimulates the abdominal organs and improves digestion",
+                    "Relieves stress and fatigue"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Bow Yoga Pose Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Glutes",
+                    "Back muscles (erector spinae, rhomboids, trapezius)",
+                    "Chest muscles (pectoralis major, minor)",
+                    "Shoulder muscles (deltoids)"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Bow Yoga Pose Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Half Bow Pose",
+                    "Full Bow Pose",
+                    "Standing Bow Pose",
+                    "Revolved Half Bow Pose",
+                    "Revolved Full Bow Pose",
+                    "One-Legged King Pigeon Pose III (variation of Bow Pose)"
+                ]
+            }
+        }
+    ]
+}

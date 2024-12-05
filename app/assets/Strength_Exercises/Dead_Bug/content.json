@@ -1,0 +1,75 @@
+{
+    "title": "Dead Bug",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Dead Bug Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Lie on your back with your arms extended towards the ceiling and your knees bent at a 90-degree angle.",
+                    "Slowly lower your right arm and left leg towards the ground, keeping them hovering just above the floor.",
+                    "Return to the starting position and repeat with your left arm and right leg.",
+                    "Continue alternating sides for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Dead Bug Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Dead Bug Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the core muscles, including the rectus abdominis, transverse abdominis, and obliques",
+                    "Improves stability and balance",
+                    "Helps prevent lower back pain by strengthening the muscles that support the spine",
+                    "Can be modified for different fitness levels and abilities",
+                    "Can be done without any equipment, making it a convenient exercise to do at home or while traveling"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dead Bug Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus abdominis",
+                    "Obliques",
+                    "Transverse abdominis",
+                    "Erector spinae",
+                    "Glutes",
+                    "Quadriceps",
+                    "Hamstrings"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dead Bug Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dead Bug with Leg Extension",
+                    "Reverse Dead Bug",
+                    "Weighted Dead Bug",
+                    "Single Leg Dead Bug",
+                    "Dead Bug with Arm Extension"
+                ]
+            }
+        }
+    ]
+}

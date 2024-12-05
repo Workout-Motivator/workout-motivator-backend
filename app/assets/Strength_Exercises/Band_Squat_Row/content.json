@@ -1,0 +1,74 @@
+{
+    "title": "Band Squat Row",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Band Squat Row Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a resistance band with both hands, palms facing each other.",
+                    "Squat down, keeping your back straight and your knees behind your toes.",
+                    "As you stand up, pull the resistance band towards your chest, keeping your elbows close to your body.",
+                    "Lower the band back down as you squat down again.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Band Squat Row Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Band Squat Row Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets multiple muscle groups including the back, shoulders, biceps, glutes, and legs",
+                    "Improves overall strength and endurance",
+                    "Increases stability and balance",
+                    "Can be modified for different fitness levels by adjusting the resistance of the band",
+                    "Requires minimal equipment and can be done at home or in a gym"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Band Squat Row Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Back muscles (latissimus dorsi, rhomboids, trapezius)",
+                    "Biceps"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Band Squat Row Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single-arm band squat row",
+                    "Band squat to row",
+                    "Band squat with alternating rows",
+                    "Band squat with double rows",
+                    "Band squat with pulse rows"
+                ]
+            }
+        }
+    ]
+}

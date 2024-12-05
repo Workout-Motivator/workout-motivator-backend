@@ -1,0 +1,72 @@
+{
+    "title": "Weighted Hyperextension",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Weighted Hyperextension Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Adjust the hyperextension bench to your height and secure your feet under the footpads.",
+                    "Hold a weight plate or dumbbell behind your head with both hands.",
+                    "Slowly lower your upper body towards the floor while keeping your back straight.",
+                    "Pause briefly at the bottom of the movement, then raise your upper body back up to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Weighted Hyperextension Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Weighted Hyperextension Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens lower back muscles",
+                    "Improves posture",
+                    "Increases core stability",
+                    "Enhances overall athletic performance",
+                    "Reduces risk of lower back injury"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Weighted Hyperextension Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Erector Spinae",
+                    "Glutes",
+                    "Hamstrings"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Weighted Hyperextension Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Unweighted Hyperextension",
+                    "Reverse Hyperextension",
+                    "Superman",
+                    "Good Mornings",
+                    "Back Extension Machine"
+                ]
+            }
+        }
+    ]
+}

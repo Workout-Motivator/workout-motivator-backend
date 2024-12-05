@@ -1,0 +1,76 @@
+{
+    "title": "Standing Leg Cross Abductor Stretch",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Standing Leg Cross Abductor Stretch Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet hip-width apart and your arms at your sides.",
+                    "Cross your right leg over your left leg, keeping your feet flat on the ground.",
+                    "Shift your weight onto your left leg and bend your left knee slightly.",
+                    "Slowly lift your right leg out to the side, keeping it straight and your foot flexed.",
+                    "Hold the stretch for 10-15 seconds, feeling the stretch in your outer thigh and hip.",
+                    "Lower your right leg back down and uncross it from your left leg.",
+                    "Repeat the stretch on the other side by crossing your left leg over your right leg and lifting your left leg out to the side."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Standing Leg Cross Abductor Stretch Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Standing Leg Cross Abductor Stretch Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens and tones the oblique muscles",
+                    "Improves flexibility and range of motion in the spine",
+                    "Helps to improve posture and balance",
+                    "May alleviate lower back pain",
+                    "Can be done anywhere without equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Standing Leg Cross Abductor Stretch Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Gluteus medius",
+                    "Tensor fasciae latae",
+                    "Adductor magnus",
+                    "Adductor longus",
+                    "Adductor brevis"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Standing Leg Cross Abductor Stretch Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "standing-leg-cross-abductor-stretch",
+                    "standing-leg-cross-adductor-stretch",
+                    "standing-leg-cross-hamstring-stretch",
+                    "standing-leg-cross-quad-stretch",
+                    "standing-leg-cross-glute-stretch"
+                ]
+            }
+        }
+    ]
+}

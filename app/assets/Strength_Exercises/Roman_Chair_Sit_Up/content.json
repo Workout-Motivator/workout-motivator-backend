@@ -1,0 +1,72 @@
+{
+    "title": "Roman Chair Sit Up",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Roman Chair Sit Up Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by sitting on the Roman chair with your back against the pad and your feet secured under the footpads.",
+                    "Place your hands behind your head or across your chest.",
+                    "Slowly lower your upper body towards the floor, keeping your back straight and your core engaged.",
+                    "Pause briefly at the bottom of the movement, then slowly raise your upper body back up to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Roman Chair Sit Up Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Roman Chair Sit Up Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the abdominal muscles",
+                    "Improves core stability",
+                    "Helps to prevent lower back pain",
+                    "Increases flexibility in the hip flexors",
+                    "Improves posture"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Roman Chair Sit Up Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus Abdominis",
+                    "Obliques",
+                    "Erector Spinae"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Roman Chair Sit Up Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Weighted Roman Chair Sit Up",
+                    "Decline Roman Chair Sit Up",
+                    "Oblique Roman Chair Sit Up",
+                    "Reverse Roman Chair Sit Up",
+                    "Twisting Roman Chair Sit Up"
+                ]
+            }
+        }
+    ]
+}

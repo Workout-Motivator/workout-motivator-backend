@@ -1,0 +1,71 @@
+{
+    "title": "Crossover Kneeling Hip Flexor Stretch",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Crossover Kneeling Hip Flexor Stretch Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by kneeling on the ground with your right knee on the floor and your left foot in front of you, with your knee bent at a 90-degree angle.",
+                    "Place your hands on your left thigh for support.",
+                    "Slowly shift your weight forward, keeping your back straight, until you feel a stretch in your right hip flexor.",
+                    "Hold the stretch for 15-30 seconds, then release.",
+                    "Repeat on the other side by switching the position of your legs."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Crossover Kneeling Hip Flexor Stretch Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Crossover Kneeling Hip Flexor Stretch Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves flexibility and range of motion in the hip flexors",
+                    "Reduces tightness and discomfort in the hip flexors",
+                    "Helps to alleviate lower back pain by releasing tension in the hip flexors",
+                    "Improves posture and alignment by stretching the hip flexors and strengthening the core",
+                    "May improve athletic performance by increasing hip mobility and power"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Crossover Kneeling Hip Flexor Stretch Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus femoris",
+                    "Iliopsoas",
+                    "Sartorius"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Crossover Kneeling Hip Flexor Stretch Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Crossover Standing Hip Flexor Stretch",
+                    "Crossover Lunge Hip Flexor Stretch",
+                    "Crossover Seated Hip Flexor Stretch",
+                    "Crossover Supine Hip Flexor Stretch"
+                ]
+            }
+        }
+    ]
+}

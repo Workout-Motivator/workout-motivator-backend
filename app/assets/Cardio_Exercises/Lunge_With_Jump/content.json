@@ -1,0 +1,75 @@
+{
+    "title": "Lunge With Jump",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Lunge With Jump Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your hands on your hips.",
+                    "Step forward with your right foot and lower your body into a lunge position, keeping your left foot in place.",
+                    "Push off with your right foot and jump up, switching your feet in mid-air so that you land with your left foot forward and your right foot back.",
+                    "Lower your body into a lunge position with your left foot forward and your right foot back.",
+                    "Repeat the exercise, alternating legs with each jump."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Lunge With Jump Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Lunge With Jump Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Increases lower body strength and power",
+                    "Improves cardiovascular endurance",
+                    "Enhances balance and coordination",
+                    "Burns calories and aids in weight loss",
+                    "Engages multiple muscle groups including glutes, quads, hamstrings, and calves",
+                    "Can be modified for different fitness levels and goals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Lunge With Jump Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calf muscles",
+                    "Core muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Lunge With Jump Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Reverse Lunge with Jump",
+                    "Curtsy Lunge with Jump",
+                    "Side Lunge with Jump",
+                    "Split Lunge with Jump",
+                    "Jumping Lunge with Twist"
+                ]
+            }
+        }
+    ]
+}

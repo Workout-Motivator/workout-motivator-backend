@@ -1,0 +1,76 @@
+{
+    "title": "Side to Side Box Shuffle",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Side to Side Box Shuffle Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start in a standing position with your feet shoulder-width apart and your knees slightly bent.",
+                    "Step to the right with your right foot, crossing it in front of your left foot.",
+                    "Step to the left with your left foot, crossing it in front of your right foot.",
+                    "Step to the right with your right foot, returning to your starting position.",
+                    "Step to the left with your left foot, returning to your starting position.",
+                    "Repeat steps 2-5 for the desired number of repetitions or time."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_0.gif"
+        },
+        {
+            "type": "section",
+            "title": "Side to Side Box Shuffle Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Side to Side Box Shuffle Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves agility and coordination",
+                    "Increases cardiovascular endurance",
+                    "Targets the lower body muscles, including the quads, hamstrings, and glutes",
+                    "Can be modified to include upper body movements, such as punching or reaching",
+                    "Can be done with or without equipment, making it a versatile exercise option"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Side to Side Box Shuffle Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Glutes",
+                    "Calves",
+                    "Abdominals",
+                    "Obliques"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Side to Side Box Shuffle Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Side to Side Shuffle with Jump",
+                    "Side to Side Shuffle with Squat",
+                    "Side to Side Shuffle with High Knees",
+                    "Side to Side Shuffle with Lateral Lunges",
+                    "Side to Side Shuffle with Crossover Steps"
+                ]
+            }
+        }
+    ]
+}

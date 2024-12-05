@@ -1,0 +1,72 @@
+{
+    "title": "Forearm Pronator Stretch",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Forearm Pronator Stretch Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand or sit with good posture.",
+                    "Extend your arm in front of you with your palm facing down.",
+                    "Use your other hand to gently pull your fingers back towards your wrist until you feel a stretch in your forearm.",
+                    "Hold the stretch for 15-30 seconds.",
+                    "Release the stretch and repeat on the other arm.",
+                    "Repeat the stretch 2-3 times on each arm."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Forearm Pronator Stretch Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Forearm Pronator Stretch Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Helps to improve flexibility and range of motion in the forearm muscles",
+                    "Reduces the risk of injury in the forearm and wrist",
+                    "Relieves tension and tightness in the forearm muscles",
+                    "Can improve grip strength and dexterity",
+                    "May help to alleviate symptoms of conditions such as tennis elbow and carpal tunnel syndrome"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Forearm Pronator Stretch Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Forearm pronator muscle",
+                    "Wrist flexor muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Forearm Pronator Stretch Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Forearm Supinator Stretch",
+                    "Wrist Flexor Stretch",
+                    "Wrist Extensor Stretch",
+                    "Forearm Extensor Stretch",
+                    "Forearm Flexor Stretch"
+                ]
+            }
+        }
+    ]
+}

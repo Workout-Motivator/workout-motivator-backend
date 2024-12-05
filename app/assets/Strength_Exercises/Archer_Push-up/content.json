@@ -1,0 +1,82 @@
+{
+    "title": "Archer Push-up",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Archer Push-up Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start in a plank position with your hands shoulder-width apart and your feet hip-width apart.",
+                    "Place one hand on a medicine ball or other elevated surface.",
+                    "Lower your body towards the ground, bending your elbows and keeping your core engaged.",
+                    "As you push back up, rotate your body towards the hand on the elevated surface, extending your arm and reaching towards the ceiling.",
+                    "Return to the starting position and repeat on the other side.",
+                    "Continue alternating sides for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Archer Push-up Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Archer Push-up Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets multiple muscle groups including chest, shoulders, triceps, and core",
+                    "Increases upper body strength and stability",
+                    "Improves balance and coordination",
+                    "Engages the serratus anterior muscle, which is important for shoulder health and stability",
+                    "Can be modified for different fitness levels by adjusting the range of motion or using knee push-ups"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Archer Push-up Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Pectoralis major",
+                    "Triceps brachii",
+                    "Deltoids",
+                    "Rectus abdominis",
+                    "Obliques",
+                    "Quadriceps",
+                    "Glutes"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Archer Push-up Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Spiderman Push-up",
+                    "Clap Push-up",
+                    "One-Arm Push-up",
+                    "Diamond Push-up",
+                    "Staggered Push-up",
+                    "Explosive Push-up",
+                    "Plyometric Push-up",
+                    "Decline Push-up",
+                    "Incline Push-up",
+                    "Wide Grip Push-up"
+                ]
+            }
+        }
+    ]
+}

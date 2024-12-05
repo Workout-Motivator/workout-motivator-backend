@@ -1,0 +1,76 @@
+{
+    "title": "Vertical Sit-up",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Vertical Sit-up Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying flat on your back with your legs extended straight up towards the ceiling.",
+                    "Place your hands behind your head, with your elbows pointing out to the sides.",
+                    "Engage your core muscles and lift your upper body off the ground towards your legs.",
+                    "As you lift up, try to touch your toes with your hands.",
+                    "Slowly lower your upper body back down to the ground.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Vertical Sit-up Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Vertical Sit-up Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Increases flexibility and strength",
+                    "Improves cardiovascular health",
+                    "Reduces stress and anxiety",
+                    "Enhances focus and concentration",
+                    "Improves balance and coordination",
+                    "Boosts immune system function",
+                    "Helps with weight loss and management",
+                    "Promotes overall physical and mental well-being"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Vertical Sit-up Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus abdominis",
+                    "Obliques",
+                    "Hip flexors"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Vertical Sit-up Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Reverse crunches",
+                    "Leg raises",
+                    "Plank hip dips",
+                    "Russian twists",
+                    "Oblique crunches"
+                ]
+            }
+        }
+    ]
+}

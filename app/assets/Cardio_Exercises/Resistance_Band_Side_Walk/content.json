@@ -1,0 +1,75 @@
+{
+    "title": "Resistance Band Side Walk",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Resistance Band Side Walk Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Place a resistance band around your ankles and stand with your feet shoulder-width apart.",
+                    "Bend your knees slightly and engage your core.",
+                    "Take a step to the side with your right foot, keeping tension on the band.",
+                    "Follow with your left foot, bringing your feet back to shoulder-width apart.",
+                    "Repeat for 10-12 steps to the right, then switch directions and take 10-12 steps to the left.",
+                    "Complete 2-3 sets of the exercise."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Resistance Band Side Walk Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Resistance Band Side Walk Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the hip abductor muscles, which are important for stabilizing the pelvis and maintaining proper alignment during movement.",
+                    "Improves hip mobility and flexibility, which can help prevent injuries and improve overall athletic performance.",
+                    "Targets the gluteus medius muscle, which is often underutilized and can lead to hip and knee pain if weak.",
+                    "Can be done anywhere with a resistance band, making it a convenient exercise for travel or at-home workouts.",
+                    "Can be easily modified by adjusting the resistance band tension or adding variations such as a squat or lunge."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Resistance Band Side Walk Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Gluteus medius",
+                    "Gluteus minimus",
+                    "Tensor fasciae latae",
+                    "Quadratus lumborum",
+                    "Abdominal obliques"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Resistance Band Side Walk Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Resistance Band Lateral Walk",
+                    "Resistance Band Monster Walk",
+                    "Resistance Band Squat Walk",
+                    "Resistance Band Diagonal Walk",
+                    "Resistance Band Crossover Walk"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "title": "Human Flag",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Human Flag Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Find a sturdy vertical pole or bar that can support your body weight without any risk of falling or bending.",
+                    "Stand next to the pole, positioning it at your side, with your feet slightly wider than shoulder-width apart.",
+                    "Place your top hand on the pole above your head, using a pronated (overhand) grip. Your arm should be fully extended but without locking the elbow.",
+                    "Place your bottom hand on the pole below your chest, using a supinated (underhand) grip. Keep your bottom arm slightly bent.",
+                    "Engage your core, shoulders, and lats to lift your feet off the ground and begin extending your legs out to the side, maintaining a straight line from head to toe.",
+                    "As you lift your legs, push with your bottom arm and pull with your top arm to support your body weight and maintain the horizontal position.",
+                    "Hold the human flag position for as long as you can, keeping your body straight and parallel to the ground.",
+                    "When you are ready to come down, carefully lower your legs back to the ground and release your grip on the pole.",
+                    "Rest and recover before attempting another repetition or set.",
+                    "Remember to practice the human flag on both sides to ensure balanced strength development."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Human Flag Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Human Flag Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves upper body strength and endurance",
+                    "Increases cardiovascular fitness",
+                    "Enhances coordination and agility",
+                    "Develops teamwork and communication skills",
+                    "Provides a fun and engaging way to exercise"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Human Flag Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Abdominal muscles",
+                    "Oblique muscles",
+                    "Lower back muscles",
+                    "Gluteus maximus muscles",
+                    "Quadriceps muscles",
+                    "Hamstring muscles",
+                    "Hip flexor muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Human Flag Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Flag push-ups",
+                    "Flag pull-ups",
+                    "Flag dips",
+                    "Flag holds",
+                    "Flag negatives",
+                    "One-arm flag",
+                    "Straddle flag",
+                    "Human flag"
+                ]
+            }
+        }
+    ]
+}

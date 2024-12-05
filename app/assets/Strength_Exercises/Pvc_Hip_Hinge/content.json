@@ -1,0 +1,74 @@
+{
+    "title": "Pvc Hip Hinge",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Pvc Hip Hinge Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a PVC pipe with both hands, palms facing down.",
+                    "Place the PVC pipe against your back, with one end at the base of your spine and the other end at the back of your head.",
+                    "Keeping your back straight and your core engaged, hinge forward at your hips, pushing your butt back and lowering the PVC pipe towards the ground.",
+                    "Stop when you feel a stretch in your hamstrings, but be sure to keep your back straight and your core engaged throughout the movement.",
+                    "Hold the stretch for a few seconds, then slowly return to the starting position by pushing your hips forward and standing up straight.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Pvc Hip Hinge Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Pvc Hip Hinge Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the glutes, hamstrings, and lower back muscles",
+                    "Improves hip mobility and flexibility",
+                    "Helps prevent lower back pain and injury",
+                    "Can be done with minimal equipment and space",
+                    "Can be modified for different fitness levels and goals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Pvc Hip Hinge Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Hamstrings",
+                    "Glutes",
+                    "Erector Spinae",
+                    "Abdominals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Pvc Hip Hinge Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single-leg PVC hip hinge",
+                    "Weighted PVC hip hinge",
+                    "Sumo stance PVC hip hinge",
+                    "Resistance band PVC hip hinge",
+                    "Single-arm PVC hip hinge"
+                ]
+            }
+        }
+    ]
+}

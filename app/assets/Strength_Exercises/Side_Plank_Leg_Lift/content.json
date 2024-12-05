@@ -1,0 +1,72 @@
+{
+    "title": "Side Plank Leg Lift",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Side Plank Leg Lift Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on your side with your elbow directly under your shoulder and your legs extended out straight.",
+                    "Lift your hips off the ground, creating a straight line from your head to your feet.",
+                    "Engage your core and lift your top leg up towards the ceiling, keeping it straight.",
+                    "Lower your leg back down to the starting position.",
+                    "Repeat for the desired number of repetitions, then switch sides and repeat on the other side."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Side Plank Leg Lift Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Side Plank Leg Lift Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the oblique muscles",
+                    "Improves core stability and balance",
+                    "Tones the glutes and hips",
+                    "Increases flexibility in the hips and hamstrings",
+                    "Helps prevent lower back pain"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Side Plank Leg Lift Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Obliques",
+                    "Glutes",
+                    "Hip abductors"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Side Plank Leg Lift Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Side Plank with Arm Reach",
+                    "Side Plank with Hip Dip",
+                    "Side Plank with Knee Tuck",
+                    "Side Plank with Oblique Crunch",
+                    "Side Plank with Rotation"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "title": "Reverse Warrior Pose",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Reverse Warrior Pose Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Begin in Warrior II pose, with your right foot forward and left foot back.",
+                    "Turn your left foot in slightly and extend your arms out to the sides, parallel to the floor.",
+                    "Lean your torso forward and place your right hand on your right thigh.",
+                    "Reach your left arm up and overhead, creating a straight line from your left foot to your left fingertips.",
+                    "Keep your gaze up towards your left hand.",
+                    "Hold for several breaths, then release and repeat on the other side."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Reverse Warrior Pose Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Reverse Warrior Pose Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the legs, glutes, and core muscles",
+                    "Improves balance and stability",
+                    "Stretches the spine, shoulders, and chest",
+                    "Increases flexibility in the hips and hamstrings",
+                    "Stimulates digestion and detoxification",
+                    "Relieves tension in the lower back",
+                    "Calms the mind and reduces stress"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Reverse Warrior Pose Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Glutes",
+                    "Obliques",
+                    "Abdominals",
+                    "Back muscles",
+                    "Shoulders"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Reverse Warrior Pose Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Reverse Warrior Pose with a bind",
+                    "Reverse Warrior Pose with a side bend",
+                    "Reverse Warrior Pose with a half bind",
+                    "Reverse Warrior Pose with a twist",
+                    "Reverse Warrior Pose with a quad stretch"
+                ]
+            }
+        }
+    ]
+}

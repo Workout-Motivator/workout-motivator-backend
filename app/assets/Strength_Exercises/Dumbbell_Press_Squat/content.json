@@ -1,0 +1,82 @@
+{
+    "title": "Dumbbell Press Squat",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Press Squat Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by standing with your feet shoulder-width apart and holding a dumbbell in each hand at shoulder height.",
+                    "Squat down by bending your knees and pushing your hips back, keeping your chest up and your back straight.",
+                    "As you stand back up, press the dumbbells up above your head, fully extending your arms.",
+                    "Lower the dumbbells back down to shoulder height as you squat back down.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Press Squat Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Press Squat Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the chest, shoulders, and triceps",
+                    "Improves upper body pushing strength",
+                    "Increases muscle mass and definition in the chest and shoulders",
+                    "Improves overall upper body stability and balance",
+                    "Strengthens the legs, glutes, and core",
+                    "Improves lower body strength and power",
+                    "Increases muscle mass and definition in the legs and glutes",
+                    "Improves overall lower body stability and balance",
+                    "Can be modified for different fitness levels and goals",
+                    "Can be done with minimal equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Press Squat Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Chest",
+                    "Shoulders",
+                    "Triceps",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Press Squat Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Press",
+                    "Squat",
+                    "Push-up",
+                    "Lunge",
+                    "Deadlift",
+                    "Pull-up"
+                ]
+            }
+        }
+    ]
+}

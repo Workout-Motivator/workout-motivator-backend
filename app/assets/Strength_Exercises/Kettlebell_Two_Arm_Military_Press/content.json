@@ -1,0 +1,73 @@
+{
+    "title": "Kettlebell Two Arm Military Press",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Two Arm Military Press Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a kettlebell in each hand at shoulder height.",
+                    "Engage your core and press the kettlebells overhead, fully extending your arms.",
+                    "Lower the kettlebells back down to shoulder height.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Two Arm Military Press Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Two Arm Military Press Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets multiple muscle groups including shoulders, triceps, and core",
+                    "Improves upper body strength and stability",
+                    "Increases shoulder mobility and flexibility",
+                    "Can be modified for different fitness levels and goals",
+                    "Engages the entire body for a full-body workout",
+                    "Can be done with minimal equipment and space"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Two Arm Military Press Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Shoulders (deltoids)",
+                    "Triceps",
+                    "Upper back (trapezius)",
+                    "Core muscles (abdominals and lower back)"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Two Arm Military Press Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Kettlebell One Arm Military Press",
+                    "Kettlebell Clean and Press",
+                    "Kettlebell Push Press",
+                    "Kettlebell Jerk",
+                    "Kettlebell Bottoms Up Press"
+                ]
+            }
+        }
+    ]
+}

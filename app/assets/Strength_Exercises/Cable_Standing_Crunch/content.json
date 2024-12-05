@@ -1,0 +1,71 @@
+{
+    "title": "Cable Standing Crunch",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Cable Standing Crunch Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a cable handle with both hands at chest height.",
+                    "Engage your core and slowly crunch forward, bringing your elbows towards your knees.",
+                    "Hold the crunch for a few seconds, then slowly release back to the starting position.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Cable Standing Crunch Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Cable Standing Crunch Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the rectus abdominis, obliques, and hip flexors",
+                    "Allows for resistance to be added for increased difficulty",
+                    "Improves core stability and balance",
+                    "Can be modified for different fitness levels by adjusting the weight and cable height",
+                    "Engages multiple muscle groups for a more efficient workout"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cable Standing Crunch Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus abdominis",
+                    "Obliques",
+                    "Transverse abdominis"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cable Standing Crunch Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Cable Standing Oblique Crunch",
+                    "Cable Standing Twist",
+                    "Cable Standing Wood Chop",
+                    "Cable Standing Reverse Wood Chop",
+                    "Cable Standing Pallof Press"
+                ]
+            }
+        }
+    ]
+}

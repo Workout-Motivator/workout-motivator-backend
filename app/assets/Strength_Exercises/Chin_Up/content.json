@@ -1,0 +1,79 @@
+{
+    "title": "Chin Up",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Chin Up Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Find a chin-up bar that is sturdy and can support your weight.",
+                    "Stand underneath the bar and reach up to grab it with both hands, palms facing towards you.",
+                    "Hang from the bar with your arms fully extended and your feet off the ground.",
+                    "Engage your core and pull your shoulder blades down and back.",
+                    "Bend your elbows and pull your body up towards the bar until your chin is above the bar.",
+                    "Pause for a moment at the top of the movement, then slowly lower yourself back down to the starting position with control.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Chin Up Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Chin Up Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the upper body, particularly the back, biceps, and shoulders",
+                    "Improves grip strength",
+                    "Engages the core muscles for stability",
+                    "Can be done with minimal equipment (just a bar or sturdy surface to hang from)",
+                    "Can be modified for different fitness levels by using assistance bands or varying grip width"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Chin Up Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Biceps",
+                    "Latissimus dorsi",
+                    "Trapezius",
+                    "Rhomboids",
+                    "Forearms"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Chin Up Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Wide grip chin up",
+                    "Narrow grip chin up",
+                    "Assisted chin up",
+                    "Weighted chin up",
+                    "Commando chin up",
+                    "L-sit chin up",
+                    "Behind the neck chin up",
+                    "One arm chin up"
+                ]
+            }
+        }
+    ]
+}

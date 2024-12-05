@@ -1,0 +1,76 @@
+{
+    "title": "Cable Kickback",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Cable Kickback Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by attaching an ankle cuff to a low pulley cable machine.",
+                    "Stand facing the machine with your feet shoulder-width apart and your knees slightly bent.",
+                    "Attach the ankle cuff to your right ankle and step back a few feet to create tension in the cable.",
+                    "Place your hands on your hips or hold onto a stable object for balance.",
+                    "Keeping your knee slightly bent, lift your right leg back and up, squeezing your glutes at the top of the movement.",
+                    "Lower your leg back down to the starting position and repeat for the desired number of reps.",
+                    "Switch sides and repeat the exercise with your left leg."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Cable Kickback Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Cable Kickback Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the glutes (butt muscles)",
+                    "Helps to tone and shape the butt",
+                    "Improves hip stability and balance",
+                    "Can be done with minimal equipment",
+                    "Allows for a full range of motion",
+                    "Can be easily modified for different fitness levels"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cable Kickback Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Gluteus maximus",
+                    "Semimembranosus",
+                    "Semitendinosus",
+                    "Biceps femoris"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cable Kickback Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Standing cable kickback",
+                    "Seated cable kickback",
+                    "One-arm cable kickback",
+                    "Reverse cable kickback",
+                    "Low cable kickback"
+                ]
+            }
+        }
+    ]
+}

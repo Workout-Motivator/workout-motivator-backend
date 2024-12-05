@@ -1,0 +1,74 @@
+{
+    "title": "Standing Outer Hip Stretch",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Standing Outer Hip Stretch Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet hip-width apart and your hands on your hips.",
+                    "Take a big step to the side with your right foot, keeping your toes pointing forward.",
+                    "Bend your right knee and shift your weight to your right side, keeping your left leg straight.",
+                    "Place your right hand on your right thigh for support and reach your left arm up and over your head, stretching your left side body.",
+                    "Hold the stretch for 30 seconds to 1 minute, breathing deeply.",
+                    "Release the stretch and repeat on the other side."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Standing Outer Hip Stretch Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Standing Outer Hip Stretch Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves flexibility and range of motion in the hips",
+                    "Relieves tension and tightness in the hip muscles",
+                    "Reduces the risk of hip injuries",
+                    "Helps to alleviate lower back pain",
+                    "Can improve posture and balance"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Standing Outer Hip Stretch Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Gluteus medius",
+                    "Tensor fasciae latae",
+                    "External oblique",
+                    "Quadratus lumborum"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Standing Outer Hip Stretch Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Standing Inner Thigh Stretch",
+                    "Seated Outer Hip Stretch",
+                    "Lying Down Figure Four Stretch",
+                    "Butterfly Stretch",
+                    "Pigeon Pose"
+                ]
+            }
+        }
+    ]
+}

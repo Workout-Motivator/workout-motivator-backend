@@ -1,0 +1,76 @@
+{
+    "title": "Single Straight Leg Stretch",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Single Straight Leg Stretch Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Lie on your back with your legs extended straight up towards the ceiling.",
+                    "Place your hands behind your head and lift your head and shoulders off the ground.",
+                    "Lower your right leg towards the ground while keeping your left leg straight and your lower back pressed into the mat.",
+                    "As you exhale, lift your head and shoulders higher and bring your right leg back up to the starting position.",
+                    "Repeat on the other side, lowering your left leg towards the ground while keeping your right leg straight and your lower back pressed into the mat.",
+                    "Continue alternating legs for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Single Straight Leg Stretch Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Single Straight Leg Stretch Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves cardiovascular health",
+                    "Increases endurance and stamina",
+                    "Burns calories and aids in weight loss",
+                    "Strengthens leg muscles",
+                    "Improves coordination and balance",
+                    "Can be done anywhere with minimal equipment",
+                    "Can be a fun and social activity"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Single Straight Leg Stretch Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus abdominis",
+                    "Obliques",
+                    "Hip flexors",
+                    "Quadriceps"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Single Straight Leg Stretch Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "single-straight-leg-stretch",
+                    "double-straight-leg-stretch",
+                    "criss-cross",
+                    "scissors",
+                    "lower-lift-and-lower"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "title": "Dot Drill",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Dot Drill Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start in a standing position with your feet shoulder-width apart.",
+                    "Jump forward with both feet, landing on the balls of your feet.",
+                    "Jump back to your starting position, landing on the balls of your feet.",
+                    "Jump to the right with both feet, landing on the balls of your feet.",
+                    "Jump back to your starting position, landing on the balls of your feet.",
+                    "Jump to the left with both feet, landing on the balls of your feet.",
+                    "Jump back to your starting position, landing on the balls of your feet.",
+                    "Jump forward and to the right with both feet, landing on the balls of your feet.",
+                    "Jump back to your starting position, landing on the balls of your feet.",
+                    "Jump forward and to the left with both feet, landing on the balls of your feet.",
+                    "Jump back to your starting position, landing on the balls of your feet.",
+                    "Repeat steps 2-11 for the desired number of repetitions or time."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Dot Drill Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Dot Drill Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves cardiovascular health",
+                    "Increases endurance and stamina",
+                    "Burns calories and aids in weight loss",
+                    "Strengthens leg muscles",
+                    "Improves coordination and balance",
+                    "Can be done anywhere with minimal equipment",
+                    "Fun and enjoyable form of exercise"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dot Drill Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Calves",
+                    "Glutes",
+                    "Core muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dot Drill Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single leg dot drill",
+                    "Partner dot drill",
+                    "Box dot drill",
+                    "Figure eight dot drill",
+                    "Backwards dot drill",
+                    "Double leg dot drill",
+                    "Side-to-side dot drill",
+                    "One-handed dot drill",
+                    "High-knee dot drill",
+                    "Quick feet dot drill"
+                ]
+            }
+        }
+    ]
+}

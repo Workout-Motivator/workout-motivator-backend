@@ -1,0 +1,79 @@
+{
+    "title": "Dumbbell Hang Clean",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Hang Clean Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart, holding a dumbbell in each hand with your palms facing your thighs.",
+                    "Bend your knees slightly and hinge forward at the hips, keeping your back straight and your core engaged.",
+                    "As you exhale, pull the dumbbells up towards your shoulders, keeping them close to your body and your elbows pointed out to the sides.",
+                    "As the dumbbells reach your shoulders, rotate your wrists so that your palms are facing upwards.",
+                    "Pause for a moment at the top of the movement, then slowly lower the dumbbells back down to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Hang Clean Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Hang Clean Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves explosive power and strength in the lower body, upper body, and core",
+                    "Increases coordination and balance",
+                    "Targets multiple muscle groups including the quadriceps, hamstrings, glutes, shoulders, and traps",
+                    "Can be modified for different fitness levels and goals",
+                    "Can be incorporated into a full body workout or used as a standalone exercise"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Hang Clean Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Trapezius",
+                    "Rhomboids",
+                    "Deltoids",
+                    "Biceps",
+                    "Forearms",
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Hang Clean Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Hang Clean and Press",
+                    "Dumbbell Hang Power Clean",
+                    "Dumbbell Hang Muscle Clean",
+                    "Dumbbell Hang High Pull",
+                    "Dumbbell Hang Snatch"
+                ]
+            }
+        }
+    ]
+}

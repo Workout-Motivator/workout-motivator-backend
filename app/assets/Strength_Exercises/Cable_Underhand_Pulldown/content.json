@@ -1,0 +1,75 @@
+{
+    "title": "Cable Underhand Pulldown",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Cable Underhand Pulldown Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Adjust the cable pulley to a high position and attach a straight bar to the cable.",
+                    "Stand facing the cable machine with your feet shoulder-width apart and your knees slightly bent.",
+                    "Grasp the bar with an underhand grip (palms facing up) and your hands shoulder-width apart.",
+                    "Engage your core and pull the bar down towards your chest, keeping your elbows close to your sides.",
+                    "Pause for a moment at the bottom of the movement, then slowly release the bar back to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Cable Underhand Pulldown Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Cable Underhand Pulldown Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the latissimus dorsi, which is the largest muscle in the back and helps with overall upper body strength and posture",
+                    "Also works the biceps and forearms as secondary muscles",
+                    "Can be done with different grip variations to target different areas of the back",
+                    "Allows for a full range of motion and can be adjusted to accommodate different fitness levels",
+                    "Helps improve grip strength and overall upper body stability"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cable Underhand Pulldown Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Biceps",
+                    "Latissimus dorsi",
+                    "Trapezius",
+                    "Rhomboids",
+                    "Forearms"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cable Underhand Pulldown Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Wide Grip Cable Underhand Pulldown",
+                    "Narrow Grip Cable Underhand Pulldown",
+                    "Reverse Grip Cable Underhand Pulldown",
+                    "Single Arm Cable Underhand Pulldown",
+                    "Seated Cable Underhand Pulldown"
+                ]
+            }
+        }
+    ]
+}

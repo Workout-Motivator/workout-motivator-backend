@@ -1,0 +1,72 @@
+{
+    "title": "Band Back Extension",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Band Back Extension Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying face down on a mat or flat surface with your legs straight and your arms at your sides.",
+                    "Place a resistance band around your lower back, just above your hips, and hold onto the ends of the band with your hands.",
+                    "Engage your core and glutes to lift your chest and legs off the ground, keeping your neck in a neutral position.",
+                    "Hold the contraction for a few seconds, then slowly lower back down to the starting position.",
+                    "Repeat for 10-15 repetitions, or as many as you can do with proper form."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Band Back Extension Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Band Back Extension Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens lower back muscles",
+                    "Improves posture",
+                    "Increases flexibility in the spine",
+                    "Helps prevent lower back pain",
+                    "Engages core muscles for added stability"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Band Back Extension Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Erector spinae",
+                    "Gluteus maximus",
+                    "Hamstrings"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Band Back Extension Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single leg band back extension",
+                    "Weighted band back extension",
+                    "Band back extension with rotation",
+                    "Band back extension with row",
+                    "Band back extension with bicep curl"
+                ]
+            }
+        }
+    ]
+}

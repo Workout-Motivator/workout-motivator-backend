@@ -1,0 +1,73 @@
+{
+    "title": "Dumbbell Hip Thrust",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Hip Thrust Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by sitting on the ground with your back against a bench or step, and a dumbbell resting on your lap.",
+                    "Place your feet flat on the ground, hip-width apart, and your knees bent.",
+                    "Engage your core and glutes, and lift your hips off the ground until your body forms a straight line from your shoulders to your knees.",
+                    "Hold this position for a few seconds, then lower your hips back down to the ground.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Hip Thrust Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Hip Thrust Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the glutes, hamstrings, and lower back muscles",
+                    "Improves hip mobility and stability",
+                    "Helps to prevent lower back pain and injury",
+                    "Can be done with minimal equipment and space",
+                    "Can be easily modified for different fitness levels and goals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Hip Thrust Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Glutes",
+                    "Hamstrings",
+                    "Lower back",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Hip Thrust Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Barbell Hip Thrust",
+                    "Single Leg Hip Thrust",
+                    "Weighted Glute Bridge",
+                    "Resistance Band Hip Thrust",
+                    "Sumo Stance Hip Thrust"
+                ]
+            }
+        }
+    ]
+}

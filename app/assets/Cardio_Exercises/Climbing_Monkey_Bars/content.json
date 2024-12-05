@@ -1,0 +1,79 @@
+{
+    "title": "Climbing Monkey Bars",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Climbing Monkey Bars Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand in front of the monkey bars with your arms extended above your head.",
+                    "Jump up and grab onto the first bar with both hands.",
+                    "Swing your body forward and lift your legs up to hook them onto the bar.",
+                    "Release one hand and reach forward to grab onto the next bar.",
+                    "Release the other hand and reach forward to grab onto the next bar.",
+                    "Continue this pattern until you have reached the end of the monkey bars.",
+                    "Once you have reached the end, carefully lower yourself down to the ground."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Climbing Monkey Bars Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Climbing Monkey Bars Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves grip strength and forearm endurance",
+                    "Increases upper body strength, particularly in the arms, shoulders, and back",
+                    "Enhances core stability and balance",
+                    "Improves coordination and agility",
+                    "Provides a cardiovascular workout",
+                    "Boosts confidence and self-esteem",
+                    "Offers a fun and challenging way to exercise"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Climbing Monkey Bars Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Forearms",
+                    "Biceps",
+                    "Triceps",
+                    "Shoulders",
+                    "Back",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Climbing Monkey Bars Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Climbing Rope",
+                    "Climbing Wall",
+                    "Climbing Ladder",
+                    "Climbing Pegboard",
+                    "Climbing Holds"
+                ]
+            }
+        }
+    ]
+}

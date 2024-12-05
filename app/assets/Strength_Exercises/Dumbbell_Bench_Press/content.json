@@ -1,0 +1,73 @@
+{
+    "title": "Dumbbell Bench Press",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Bench Press Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying flat on a bench with your feet firmly planted on the ground.",
+                    "Hold a dumbbell in each hand, with your palms facing forward and your arms extended above your chest.",
+                    "Slowly lower the dumbbells towards your chest, keeping your elbows close to your body.",
+                    "Pause for a moment when the dumbbells are just above your chest.",
+                    "Push the dumbbells back up to the starting position, fully extending your arms.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Bench Press Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Bench Press Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets multiple muscle groups including chest, shoulders, and triceps",
+                    "Improves upper body strength and muscle definition",
+                    "Allows for a greater range of motion compared to traditional barbell bench press",
+                    "Can be easily modified for different fitness levels by adjusting weight and reps",
+                    "Engages stabilizer muscles in the core and upper back for improved posture and balance"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Bench Press Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Chest muscles (pectoralis major and minor)",
+                    "Shoulder muscles (anterior deltoids)",
+                    "Triceps brachii"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Bench Press Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Incline Dumbbell Bench Press",
+                    "Decline Dumbbell Bench Press",
+                    "Single Arm Dumbbell Bench Press",
+                    "Dumbbell Flyes",
+                    "Close Grip Dumbbell Bench Press"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "title": "Dumbbell Standing Calf Raise",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Standing Calf Raise Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a dumbbell in one hand.",
+                    "Place the ball of your foot on an elevated surface such as a step or weight plate.",
+                    "Slowly raise your heel as high as possible, squeezing your calf muscle at the top of the movement.",
+                    "Lower your heel back down to the starting position.",
+                    "Repeat for the desired number of repetitions on one side before switching to the other side."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Standing Calf Raise Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Standing Calf Raise Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens and tones the calf muscles",
+                    "Improves ankle stability and balance",
+                    "Can be done with minimal equipment",
+                    "Allows for progressive overload by increasing weight or reps",
+                    "Can be modified for different fitness levels by adjusting weight or using a step or platform"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Standing Calf Raise Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Gastrocnemius",
+                    "Soleus"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Standing Calf Raise Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Barbell Standing Calf Raise",
+                    "Seated Calf Raise",
+                    "Donkey Calf Raise",
+                    "Smith Machine Calf Raise",
+                    "Single Leg Calf Raise"
+                ]
+            }
+        }
+    ]
+}

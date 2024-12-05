@@ -1,0 +1,76 @@
+{
+    "title": "Lever Incline Chest Press",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Lever Incline Chest Press Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Adjust the seat height and backrest angle to your preference.",
+                    "Choose the appropriate weight and load it onto the machine.",
+                    "Sit on the machine with your back against the backrest and your feet flat on the floor.",
+                    "Grasp the handles with an overhand grip and push them forward until your arms are fully extended.",
+                    "Slowly lower the handles towards your chest while keeping your elbows close to your body.",
+                    "Pause briefly at the bottom of the movement, then push the handles back up to the starting position.",
+                    "Repeat for the desired number of repetitions.",
+                    "When finished, release the handles and carefully exit the machine.",
+                    "Return the weight plates to their original position and wipe down the machine with a disinfectant spray and towel."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Lever Incline Chest Press Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Lever Incline Chest Press Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the upper chest muscles for a more defined and sculpted look",
+                    "Allows for a greater range of motion compared to traditional bench press",
+                    "Reduces strain on the shoulders and wrists",
+                    "Provides a more stable and controlled movement",
+                    "Can be easily adjusted for different fitness levels and goals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Lever Incline Chest Press Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Pectoralis major (upper and middle fibers)",
+                    "Anterior deltoids",
+                    "Triceps brachii"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Lever Incline Chest Press Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Barbell Incline Chest Press",
+                    "Dumbbell Incline Chest Press",
+                    "Machine Incline Chest Press",
+                    "Resistance Band Incline Chest Press",
+                    "Single Arm Incline Chest Press"
+                ]
+            }
+        }
+    ]
+}

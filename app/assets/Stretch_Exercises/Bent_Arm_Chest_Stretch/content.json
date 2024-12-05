@@ -1,0 +1,74 @@
+{
+    "title": "Bent Arm Chest Stretch",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Bent Arm Chest Stretch Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your arms at your sides.",
+                    "Bend your elbows and bring your hands up to your shoulders, keeping your elbows close to your body.",
+                    "Clasp your hands together behind your back, with your palms facing inward.",
+                    "Gently pull your hands away from your back, keeping your elbows bent and your shoulders relaxed.",
+                    "Hold the stretch for 15-30 seconds, breathing deeply.",
+                    "Release the stretch and repeat on the other side."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Bent Arm Chest Stretch Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Bent Arm Chest Stretch Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Relieves tension and tightness in the chest muscles",
+                    "Improves posture by opening up the chest and shoulders",
+                    "Increases flexibility in the shoulders and upper back",
+                    "Can help alleviate pain and discomfort in the neck and shoulders",
+                    "May improve breathing and lung capacity"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Bent Arm Chest Stretch Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Pectoralis Major",
+                    "Pectoralis Minor",
+                    "Anterior Deltoid",
+                    "Biceps Brachii"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Bent Arm Chest Stretch Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Standing Bent Arm Chest Stretch",
+                    "Seated Bent Arm Chest Stretch",
+                    "Wall Bent Arm Chest Stretch",
+                    "Doorway Bent Arm Chest Stretch",
+                    "Partner Bent Arm Chest Stretch"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "title": "Cable Reverse Crunch",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Cable Reverse Crunch Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on your back with your knees bent and your feet flat on the ground.",
+                    "Loop a resistance band around a sturdy anchor point behind your head and hold onto the ends of the band with both hands.",
+                    "Extend your arms straight up towards the ceiling, keeping the band taut.",
+                    "Engage your core and lift your hips off the ground, bringing your knees towards your chest.",
+                    "Pause at the top of the movement and squeeze your abs.",
+                    "Slowly lower your hips back down to the starting position.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Cable Reverse Crunch Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Cable Reverse Crunch Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the rectus abdominis, obliques, and hip flexors",
+                    "Increases core stability and strength",
+                    "Improves posture and balance",
+                    "Can be modified for different fitness levels by adjusting the weight and resistance",
+                    "Engages the entire core, rather than just the upper or lower abs"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cable Reverse Crunch Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus Abdominis",
+                    "Obliques",
+                    "Transverse Abdominis"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cable Reverse Crunch Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Weighted Cable Reverse Crunch",
+                    "Single Leg Cable Reverse Crunch",
+                    "Cable Reverse Crunch with Twist",
+                    "Standing Cable Reverse Crunch",
+                    "Cable Reverse Crunch with Knee Tuck"
+                ]
+            }
+        }
+    ]
+}

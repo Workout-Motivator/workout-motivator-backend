@@ -1,0 +1,73 @@
+{
+    "title": "Dynamic Chest Stretch",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Dynamic Chest Stretch Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your arms extended out to your sides at shoulder height.",
+                    "Slowly bring your arms forward, crossing them in front of your body.",
+                    "As you cross your arms, squeeze your chest muscles and hold for 10-15 seconds.",
+                    "Release the stretch and return your arms to the starting position.",
+                    "Repeat the stretch for 2-3 sets of 10-15 repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Dynamic Chest Stretch Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Dynamic Chest Stretch Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Increases flexibility and range of motion in the chest muscles",
+                    "Helps to prevent and alleviate shoulder and neck pain",
+                    "Improves posture by opening up the chest and shoulders",
+                    "Can be done anywhere without any equipment",
+                    "Can be modified to target specific areas of the chest and shoulders"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dynamic Chest Stretch Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Pectoralis Major",
+                    "Pectoralis Minor",
+                    "Anterior Deltoids",
+                    "Serratus Anterior"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dynamic Chest Stretch Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Standing Dynamic Chest Stretch",
+                    "Seated Dynamic Chest Stretch",
+                    "Wall Dynamic Chest Stretch",
+                    "Partner Dynamic Chest Stretch",
+                    "Resistance Band Dynamic Chest Stretch"
+                ]
+            }
+        }
+    ]
+}

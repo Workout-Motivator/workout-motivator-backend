@@ -1,0 +1,89 @@
+{
+    "title": "Sun Salutation",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Sun Salutation Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand at the front of your mat with your feet together and your hands in prayer position at your heart.",
+                    "Inhale and raise your arms above your head, reaching towards the sky.",
+                    "Exhale and fold forward, bringing your hands to the mat beside your feet.",
+                    "Inhale and lift your chest halfway, bringing your hands to your shins.",
+                    "Exhale and step or jump back into plank position.",
+                    "Lower down to the ground, keeping your elbows close to your body.",
+                    "Inhale and lift your chest into upward facing dog, keeping your thighs off the ground.",
+                    "Exhale and lift your hips into downward facing dog, pressing your heels towards the ground.",
+                    "Inhale and step or jump your feet to your hands, lifting your chest halfway.",
+                    "Exhale and fold forward, bringing your hands to the mat beside your feet.",
+                    "Inhale and rise up to standing, reaching your arms towards the sky.",
+                    "Exhale and bring your hands back to prayer position at your heart."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Sun Salutation Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Sun Salutation Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens upper back muscles",
+                    "Improves posture",
+                    "Increases shoulder stability",
+                    "Engages core muscles",
+                    "Can help alleviate back pain"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Sun Salutation Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Glutes",
+                    "Abdominals",
+                    "Back muscles",
+                    "Chest muscles",
+                    "Shoulder muscles",
+                    "Triceps"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Sun Salutation Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Half Sun Salutation",
+                    "Full Sun Salutation A",
+                    "Full Sun Salutation B",
+                    "New Moon Salutation",
+                    "Twisted Root Sun Salutation",
+                    "Warrior Sun Salutation",
+                    "Chair Sun Salutation",
+                    "Standing Forward Fold Sun Salutation",
+                    "Seated Sun Salutation",
+                    "Wall Sun Salutation"
+                ]
+            }
+        }
+    ]
+}

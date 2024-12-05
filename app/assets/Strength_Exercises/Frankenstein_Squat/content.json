@@ -1,0 +1,85 @@
+{
+    "title": "Frankenstein Squat",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Frankenstein Squat Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by standing with your feet shoulder-width apart and your toes pointing slightly outward.",
+                    "Hold a dumbbell or kettlebell with both hands in front of your chest.",
+                    "Squat down as low as you can while keeping your heels on the ground and your back straight.",
+                    "As you come up from the squat, press the weight overhead until your arms are fully extended.",
+                    "Lower the weight back to your chest as you squat down again.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Frankenstein Squat Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Frankenstein Squat Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets multiple muscle groups including quads, glutes, hamstrings, and calves",
+                    "Improves lower body strength and power",
+                    "Increases hip mobility and flexibility",
+                    "Can be modified for different fitness levels and goals",
+                    "Engages core muscles for added stability and balance"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Frankenstein Squat Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Frankenstein Squat Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Front squat",
+                    "Back squat",
+                    "Overhead squat",
+                    "Zercher squat",
+                    "Goblet squat",
+                    "Bulgarian split squat",
+                    "Box squat",
+                    "Sumo squat",
+                    "Narrow stance squat",
+                    "Paused squat",
+                    "High bar squat",
+                    "Low bar squat",
+                    "Single leg squat",
+                    "Jump squat",
+                    "Pistol squat"
+                ]
+            }
+        }
+    ]
+}

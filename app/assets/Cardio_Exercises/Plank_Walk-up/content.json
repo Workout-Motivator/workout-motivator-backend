@@ -1,0 +1,83 @@
+{
+    "title": "Plank Walk-up",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Plank Walk-up Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start in a plank position with your forearms on the ground and your body in a straight line from head to heels.",
+                    "Push up onto your right hand, then your left hand, coming into a high plank position.",
+                    "Lower back down onto your right forearm, then your left forearm, returning to the starting plank position.",
+                    "Repeat, leading with your left hand this time.",
+                    "Continue alternating sides for the desired number of reps or time."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Plank Walk-up Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Plank Walk-up Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves agility and coordination",
+                    "Increases power and explosiveness",
+                    "Enhances cardiovascular endurance",
+                    "Helps with weight loss and body composition",
+                    "Can be modified for different fitness levels and goals",
+                    "Can be done with minimal equipment and space"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Plank Walk-up Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus abdominis",
+                    "Obliques",
+                    "Erector spinae",
+                    "Glutes",
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Shoulders",
+                    "Chest",
+                    "Triceps"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Plank Walk-up Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Plank with shoulder taps",
+                    "Plank with leg lifts",
+                    "Plank with knee tucks",
+                    "Plank with side taps",
+                    "Plank with hip dips",
+                    "Plank with mountain climbers",
+                    "Plank with spiderman crawls",
+                    "Plank with reach and rotate",
+                    "Plank with alternating arm and leg lifts"
+                ]
+            }
+        }
+    ]
+}

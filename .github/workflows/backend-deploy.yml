@@ -68,7 +68,7 @@ jobs:
         DB_USER="${{ secrets.POSTGRES_USER }}"
         DB_PASS="${{ secrets.POSTGRES_PASSWORD }}"
         DB_NAME="${{ secrets.POSTGRES_DB }}"
-        DB_URL="postgresql://${DB_USER}:${DB_PASS}@postgres:5432/${DB_NAME}"
+        DB_URL="postgresql://${DB_USER}:${DB_PASS}@workout-motivator-db:5432/${DB_NAME}"
         kubectl create secret generic db-config \
           --namespace ${{ env.NAMESPACE }} \
           --from-literal=POSTGRES_DB="$DB_NAME" \

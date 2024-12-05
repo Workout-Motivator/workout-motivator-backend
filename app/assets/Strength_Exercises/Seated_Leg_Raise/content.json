@@ -1,0 +1,78 @@
+{
+    "title": "Seated Leg Raise",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Seated Leg Raise Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Begin by sitting on a sturdy chair with your back straight and your feet flat on the ground.",
+                    "Place your hands on the sides of the chair for support.",
+                    "Slowly lift one leg off the ground, keeping it straight and extended in front of you.",
+                    "Hold the position for a few seconds, then lower your leg back down to the starting position.",
+                    "Repeat the exercise with the other leg.",
+                    "Continue alternating legs for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Seated Leg Raise Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Seated Leg Raise Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens and tones the muscles in the lower abdomen, hips, and thighs",
+                    "Improves flexibility and range of motion in the hips and lower back",
+                    "Helps to improve posture and balance",
+                    "Can be done anywhere, without any equipment",
+                    "Low-impact exercise that is easy on the joints"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Seated Leg Raise Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus femoris",
+                    "Iliopsoas",
+                    "Sartorius",
+                    "Tensor fasciae latae"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Seated Leg Raise Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Standing Leg Raise",
+                    "Lying Leg Raise",
+                    "Side-Lying Leg Raise",
+                    "Reverse Leg Raise",
+                    "Flutter Kicks",
+                    "Bicycle Crunches",
+                    "Scissor Kicks",
+                    "Plank Leg Raises",
+                    "Mountain Climbers"
+                ]
+            }
+        }
+    ]
+}

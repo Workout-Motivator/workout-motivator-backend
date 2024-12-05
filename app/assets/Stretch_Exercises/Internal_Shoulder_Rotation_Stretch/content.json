@@ -1,0 +1,78 @@
+{
+    "title": "Internal Shoulder Rotation Stretch",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Internal Shoulder Rotation Stretch Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your arms at your sides.",
+                    "Bend your right elbow to a 90-degree angle and raise your forearm to shoulder height.",
+                    "Place your right hand on your left shoulder blade, with your elbow pointing straight out to the side.",
+                    "Use your left hand to gently push your right elbow towards your left shoulder, feeling a stretch in your right shoulder.",
+                    "Hold the stretch for 15-30 seconds, then release and repeat on the other side."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Internal Shoulder Rotation Stretch Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Internal Shoulder Rotation Stretch Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves flexibility and range of motion in the shoulders",
+                    "Helps prevent shoulder injuries",
+                    "Relieves tension and tightness in the shoulders and upper back",
+                    "Can improve posture and alignment",
+                    "May help alleviate shoulder pain and discomfort"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Internal Shoulder Rotation Stretch Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Pectoralis Major",
+                    "Subscapularis",
+                    "Latissimus Dorsi",
+                    "Teres Major"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Internal Shoulder Rotation Stretch Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "External Shoulder Rotation Stretch",
+                    "Shoulder Extension Stretch",
+                    "Shoulder Flexion Stretch",
+                    "Shoulder Abduction Stretch",
+                    "Shoulder Adduction Stretch",
+                    "Shoulder Circumduction Stretch",
+                    "Scapular Retraction Stretch",
+                    "Scapular Protraction Stretch",
+                    "Scapular Depression Stretch",
+                    "Scapular Elevation Stretch"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "title": "Dumbbell Incline Row",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Incline Row Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by placing a dumbbell on each side of an incline bench.",
+                    "Position yourself face down on the bench with your chest and stomach resting against the incline.",
+                    "Grab the dumbbells with an overhand grip and let your arms hang straight down towards the floor.",
+                    "Engage your back muscles and pull the dumbbells up towards your chest, keeping your elbows close to your body.",
+                    "Pause for a moment at the top of the movement, then slowly lower the dumbbells back down to the starting position.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Incline Row Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Incline Row Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets multiple muscle groups including the back, shoulders, and biceps",
+                    "Improves posture and upper body strength",
+                    "Can be modified for different fitness levels by adjusting weight and incline angle",
+                    "Engages stabilizer muscles in the core and lower body",
+                    "Can be done with minimal equipment, making it a convenient exercise to do at home or while traveling"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Incline Row Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rhomboids",
+                    "Trapezius",
+                    "Latissimus dorsi",
+                    "Biceps brachii",
+                    "Forearm muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Incline Row Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single-arm Dumbbell Incline Row",
+                    "Wide-grip Dumbbell Incline Row",
+                    "Reverse-grip Dumbbell Incline Row",
+                    "Alternating Dumbbell Incline Row",
+                    "Renegade Row with Dumbbells"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "title": "Crab Pose",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Crab Pose Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start on your hands and knees with your wrists directly under your shoulders and your knees directly under your hips.",
+                    "Spread your fingers wide and press firmly into your hands to engage your arms.",
+                    "As you exhale, tuck your toes and lift your knees off the floor, straightening your legs and pressing your hips up and back into an inverted V-shape.",
+                    "Press your chest towards your thighs and lengthen your spine.",
+                    "Keep your head and neck relaxed, looking towards your feet.",
+                    "Hold the pose for 5-10 breaths, then release back down to your hands and knees."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Crab Pose Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Crab Pose Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens leg muscles",
+                    "Improves hip mobility",
+                    "Increases core stability",
+                    "Enhances coordination and balance",
+                    "Can be done anywhere without equipment",
+                    "Provides a low-impact workout"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Crab Pose Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Triceps",
+                    "Deltoids",
+                    "Abdominals",
+                    "Glutes",
+                    "Quadriceps"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Crab Pose Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Crab walk",
+                    "Crab toe touches",
+                    "Crab reach and kick",
+                    "Crab dips",
+                    "Crab crawl"
+                ]
+            }
+        }
+    ]
+}

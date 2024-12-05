@@ -1,0 +1,72 @@
+{
+    "title": "Lever Leg Extension",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Lever Leg Extension Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Adjust the machine to fit your body by adjusting the seat and the lever arm.",
+                    "Sit on the machine with your back against the backrest and your feet on the foot pad.",
+                    "Grasp the handles on the side of the seat for stability.",
+                    "Extend your legs out in front of you, keeping your knees slightly bent.",
+                    "Slowly straighten your legs until they are fully extended.",
+                    "Hold for a second and then slowly lower your legs back to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Lever Leg Extension Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Lever Leg Extension Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the quadriceps muscles, helping to strengthen and tone the front of the thighs",
+                    "Isolates the quadriceps, reducing the involvement of other muscles and allowing for a more targeted workout",
+                    "Can be adjusted to accommodate different fitness levels and abilities",
+                    "May help improve knee stability and reduce the risk of injury",
+                    "Can be performed with or without weights, making it a versatile exercise option"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Lever Leg Extension Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Lever Leg Extension Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Seated Leg Extension",
+                    "Standing Leg Extension",
+                    "Single Leg Extension",
+                    "Reverse Leg Extension",
+                    "Machine Leg Extension"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "title": "Ez Barbell Curl",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Ez Barbell Curl Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold the EZ barbell with an underhand grip, hands shoulder-width apart.",
+                    "Keep your elbows close to your sides and curl the barbell up towards your chest, keeping your wrists straight.",
+                    "Pause at the top of the movement and squeeze your biceps.",
+                    "Slowly lower the barbell back down to the starting position.",
+                    "Repeat for desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Ez Barbell Curl Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Ez Barbell Curl Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the biceps and forearms",
+                    "Allows for a greater range of motion compared to a straight barbell curl",
+                    "Reduces strain on the wrists and elbows",
+                    "Can be used to vary your bicep workout routine",
+                    "Can be performed with different grip widths to target different areas of the biceps"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Ez Barbell Curl Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Biceps brachii",
+                    "Brachialis",
+                    "Brachioradialis"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Ez Barbell Curl Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Standing Barbell Curl",
+                    "Seated Barbell Curl",
+                    "Close-Grip Barbell Curl",
+                    "Reverse-Grip Barbell Curl",
+                    "Preacher Curl with EZ Bar",
+                    "Hammer Curl with EZ Bar"
+                ]
+            }
+        }
+    ]
+}

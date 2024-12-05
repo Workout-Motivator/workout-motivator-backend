@@ -1,0 +1,76 @@
+{
+    "title": "Hanging Toes to Bar",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Hanging Toes to Bar Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by hanging from a pull-up bar with your arms fully extended and your feet off the ground.",
+                    "Engage your core and begin to lift your legs up towards the bar, keeping them straight.",
+                    "As your legs come up, try to touch your toes to the bar.",
+                    "Pause briefly at the top of the movement, then slowly lower your legs back down to the starting position.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Hanging Toes to Bar Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Hanging Toes to Bar Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the core muscles, including the rectus abdominis, obliques, and hip flexors",
+                    "Improves grip strength and forearm endurance",
+                    "Increases shoulder stability and mobility",
+                    "Enhances overall body control and coordination",
+                    "Can be modified for different fitness levels and goals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Hanging Toes to Bar Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus Abdominis",
+                    "Obliques",
+                    "Transverse Abdominis",
+                    "Hip Flexors",
+                    "Latissimus Dorsi",
+                    "Rhomboids",
+                    "Trapezius"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Hanging Toes to Bar Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Knees to Elbows",
+                    "Straight Leg Raises",
+                    "Windshield Wipers",
+                    "Toes to Rings",
+                    "Toes to Bar with a Kip"
+                ]
+            }
+        }
+    ]
+}

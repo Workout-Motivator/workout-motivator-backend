@@ -1,0 +1,78 @@
+{
+    "title": "Landmine Lateral Raise",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Landmine Lateral Raise Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by standing with your feet shoulder-width apart and your left foot slightly in front of your right foot.",
+                    "Place the end of a barbell into a landmine attachment or securely anchor it in a corner.",
+                    "Grasp the barbell with your right hand and extend your arm straight out to the side, keeping your elbow slightly bent.",
+                    "Slowly raise the barbell up towards your shoulder, keeping your elbow in the same position and your wrist straight.",
+                    "Pause at the top of the movement and then slowly lower the barbell back down to the starting position.",
+                    "Repeat for the desired number of repetitions and then switch sides."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Landmine Lateral Raise Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Landmine Lateral Raise Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the lateral deltoid muscles, which are responsible for shoulder abduction and stabilization",
+                    "Helps to improve shoulder mobility and flexibility",
+                    "Can be performed with relatively light weights, making it a good exercise for beginners or those with shoulder injuries",
+                    "Engages the core muscles, providing additional stability and strengthening benefits",
+                    "Can be easily modified by changing the angle of the landmine or the grip on the barbell"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Landmine Lateral Raise Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Deltoids (shoulders)",
+                    "Trapezius (upper back)",
+                    "Rotator cuff muscles (shoulder stabilizers)",
+                    "Triceps (back of upper arm)"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Landmine Lateral Raise Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Landmine Front Raise",
+                    "Landmine Reverse Fly",
+                    "Landmine Shoulder Press",
+                    "Landmine Upright Row",
+                    "Single Arm Landmine Press",
+                    "Landmine 180s",
+                    "Landmine Bent Over Row",
+                    "Landmine Push Press",
+                    "Landmine Thruster"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "title": "Kettlebell Half Turkish Get-up",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Half Turkish Get-up Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on your back with your right arm extended straight up towards the ceiling, holding a kettlebell in your right hand.",
+                    "Bend your right knee and place your right foot flat on the ground.",
+                    "Extend your left arm out to the side at a 45-degree angle from your body.",
+                    "Roll onto your left side, using your left arm as support.",
+                    "Prop yourself up onto your left elbow, keeping your left leg straight and your left foot on the ground.",
+                    "Press the kettlebell up towards the ceiling with your right arm, keeping your right elbow locked and your wrist straight.",
+                    "Slowly sit up, keeping your right arm extended and the kettlebell overhead.",
+                    "Place your left hand on the ground for support as you come to a kneeling position.",
+                    "Stand up, keeping the kettlebell overhead and your right arm extended.",
+                    "Reverse the movement to return to the starting position, lowering yourself back down to the ground with control.",
+                    "Repeat for the desired number of reps, then switch sides and repeat with the kettlebell in your left hand."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Half Turkish Get-up Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Half Turkish Get-up Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens chest, shoulders, and triceps",
+                    "Improves core stability and balance",
+                    "Increases upper body power and explosiveness",
+                    "Engages multiple muscle groups for a full-body workout",
+                    "Can be modified for different fitness levels and goals",
+                    "Requires minimal equipment and can be done at home or in the gym"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Half Turkish Get-up Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Abdominals",
+                    "Glutes",
+                    "Hamstrings",
+                    "Quadriceps",
+                    "Shoulders",
+                    "Triceps"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Half Turkish Get-up Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "kettlebell-full-turkish-get-up",
+                    "kettlebell-windmill",
+                    "kettlebell-squat-to-press",
+                    "kettlebell-single-leg-deadlift",
+                    "kettlebell-swings"
+                ]
+            }
+        }
+    ]
+}

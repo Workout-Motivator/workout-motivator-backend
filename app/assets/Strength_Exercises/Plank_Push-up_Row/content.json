@@ -1,0 +1,75 @@
+{
+    "title": "Plank Push-up Row",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Plank Push-up Row Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start in a plank position with your hands directly under your shoulders and your feet hip-width apart.",
+                    "Lower your body down into a push-up, keeping your elbows close to your body.",
+                    "As you push back up, lift one hand off the ground and pull your elbow back, bringing a dumbbell up to your side.",
+                    "Lower the weight back down and repeat on the other side.",
+                    "Repeat the push-up and row on each side for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Plank Push-up Row Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Plank Push-up Row Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens core muscles",
+                    "Improves upper body strength",
+                    "Increases stability and balance",
+                    "Engages multiple muscle groups at once",
+                    "Can be done anywhere without equipment",
+                    "Can be modified for different fitness levels"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Plank Push-up Row Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Triceps",
+                    "Chest",
+                    "Shoulders",
+                    "Back",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Plank Push-up Row Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Plank with alternating arm and leg lifts",
+                    "Push-up with a shoulder tap",
+                    "Renegade row with a push-up",
+                    "Plank with a side arm balance",
+                    "Push-up with a knee tuck"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "title": "Vinyasa",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Vinyasa Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start in a high plank position with your hands shoulder-width apart and your feet hip-width apart.",
+                    "Shift your weight forward and lower your body down to the ground, keeping your elbows close to your sides.",
+                    "As you inhale, press into your hands and lift your chest up into a cobra pose.",
+                    "Exhale and push back into downward-facing dog, lifting your hips up and back.",
+                    "From downward-facing dog, step your right foot forward between your hands and come into a low lunge.",
+                    "As you inhale, lift your torso up and raise your arms overhead into a high lunge.",
+                    "Exhale and bring your hands down to the ground, stepping back into downward-facing dog.",
+                    "Repeat the sequence on the other side, stepping your left foot forward into a low lunge and lifting up into a high lunge.",
+                    "Continue flowing through this sequence, moving with your breath."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Vinyasa Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Vinyasa Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the legs, glutes, and core muscles",
+                    "Improves balance and stability",
+                    "Increases flexibility in the hips and legs",
+                    "Helps to improve posture",
+                    "Can be done anywhere with no equipment needed",
+                    "Can be modified to increase or decrease difficulty"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Vinyasa Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Triceps",
+                    "Chest",
+                    "Shoulders",
+                    "Core",
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Glutes"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Vinyasa Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Vinyasa flow",
+                    "Power vinyasa",
+                    "Slow vinyasa",
+                    "Vinyasa with weights",
+                    "Vinyasa for beginners"
+                ]
+            }
+        }
+    ]
+}

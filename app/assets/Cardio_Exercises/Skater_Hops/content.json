@@ -1,0 +1,75 @@
+{
+    "title": "Skater Hops",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Skater Hops Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your arms at your sides.",
+                    "Shift your weight onto your left foot and lift your right foot off the ground.",
+                    "Bend your left knee and jump to the right, landing on your right foot.",
+                    "Immediately shift your weight onto your right foot and lift your left foot off the ground.",
+                    "Bend your right knee and jump to the left, landing on your left foot.",
+                    "Continue hopping back and forth for the desired number of repetitions or time."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Skater Hops Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Skater Hops Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves balance and coordination",
+                    "Strengthens leg muscles, including quadriceps, hamstrings, and glutes",
+                    "Increases cardiovascular endurance",
+                    "Helps with agility and quickness",
+                    "Can be done anywhere with no equipment needed"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Skater Hops Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Glutes",
+                    "Calf muscles",
+                    "Core muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Skater Hops Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single-leg skater hops",
+                    "Skater hops with a medicine ball",
+                    "Skater hops with a resistance band",
+                    "Skater hops with a lateral jump",
+                    "Skater hops with a 180-degree turn"
+                ]
+            }
+        }
+    ]
+}

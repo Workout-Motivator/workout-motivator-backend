@@ -1,0 +1,77 @@
+{
+    "title": "Kettlebell Lateral Lunge",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Lateral Lunge Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a kettlebell in front of your chest with both hands.",
+                    "Take a big step to the side with your right foot, keeping your left foot planted and your toes pointing forward.",
+                    "Bend your right knee and push your hips back as you lower your body into a lunge position.",
+                    "Keep your chest up and your core engaged as you push through your right foot to return to the starting position.",
+                    "Repeat on the other side, stepping to the left and lunging with your left leg.",
+                    "Continue alternating sides for the desired number of repetitions or time."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Lateral Lunge Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Lateral Lunge Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the lower body muscles, including the glutes, quads, hamstrings, and calves",
+                    "Improves hip mobility and flexibility",
+                    "Targets the adductor muscles, which are often neglected in traditional leg exercises",
+                    "Engages the core muscles for stability and balance",
+                    "Increases cardiovascular endurance and calorie burn",
+                    "Can be modified for different fitness levels and goals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Lateral Lunge Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Adductors",
+                    "Abductors",
+                    "Core muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Lateral Lunge Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Kettlebell Front Lunge",
+                    "Kettlebell Reverse Lunge",
+                    "Kettlebell Curtsy Lunge",
+                    "Kettlebell Walking Lunge",
+                    "Kettlebell Goblet Squat"
+                ]
+            }
+        }
+    ]
+}

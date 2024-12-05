@@ -1,0 +1,77 @@
+{
+    "title": "Medicine Ball Catch and Overhead Throw",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Medicine Ball Catch and Overhead Throw Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand facing a partner with a medicine ball in your hands.",
+                    "Step forward with one foot and bring the ball back behind your head.",
+                    "As you step forward with your other foot, throw the ball overhead to your partner.",
+                    "Your partner will catch the ball and repeat the exercise back to you.",
+                    "Continue throwing the ball back and forth for a set amount of time or repetitions.",
+                    "Make sure to use your entire body to generate power for the throw and catch the ball with both hands.",
+                    "As you become more comfortable with the exercise, you can increase the weight of the medicine ball or the distance between you and your partner."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Medicine Ball Catch and Overhead Throw Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Medicine Ball Catch and Overhead Throw Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves hand-eye coordination",
+                    "Increases power and explosiveness in upper body muscles",
+                    "Enhances core stability and balance",
+                    "Improves reaction time and reflexes",
+                    "Can be used for cardiovascular conditioning",
+                    "Can be done alone or with a partner for added challenge and fun"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Medicine Ball Catch and Overhead Throw Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Abdominal muscles",
+                    "Shoulder muscles",
+                    "Arm muscles",
+                    "Back muscles",
+                    "Leg muscles (if performed with a squat or lunge)"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Medicine Ball Catch and Overhead Throw Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Medicine Ball Slam",
+                    "Medicine Ball Russian Twist",
+                    "Medicine Ball Woodchopper",
+                    "Medicine Ball Wall Ball",
+                    "Medicine Ball Lunge and Twist"
+                ]
+            }
+        }
+    ]
+}

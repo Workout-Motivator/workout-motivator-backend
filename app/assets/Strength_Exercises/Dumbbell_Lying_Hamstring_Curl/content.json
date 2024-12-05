@@ -1,0 +1,74 @@
+{
+    "title": "Dumbbell Lying Hamstring Curl",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Lying Hamstring Curl Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying face down on a flat bench with a dumbbell in each hand.",
+                    "Place your feet under a padded bar or have a partner hold them down.",
+                    "Bend your knees and bring your heels towards your glutes.",
+                    "Hold the dumbbells with your palms facing down and your arms extended towards the floor.",
+                    "Slowly curl your heels towards your glutes, keeping your knees bent and your hips on the bench.",
+                    "Pause for a moment at the top of the movement, then slowly lower your heels back down to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Lying Hamstring Curl Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Lying Hamstring Curl Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the hamstrings, which are important for knee stability and overall lower body strength",
+                    "Can be done with just a set of dumbbells, making it a convenient exercise to do at home or in a gym",
+                    "Allows for a greater range of motion compared to traditional machine hamstring curls",
+                    "Engages the core muscles for added stability and balance",
+                    "Can be modified to target different areas of the hamstring muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Lying Hamstring Curl Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Biceps femoris",
+                    "Semitendinosus",
+                    "Semimembranosus"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Lying Hamstring Curl Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single-leg Dumbbell Lying Hamstring Curl",
+                    "Barbell Lying Hamstring Curl",
+                    "Seated Machine Hamstring Curl",
+                    "Standing Machine Hamstring Curl",
+                    "Swiss Ball Hamstring Curl"
+                ]
+            }
+        }
+    ]
+}

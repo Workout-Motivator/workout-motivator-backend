@@ -1,0 +1,78 @@
+{
+    "title": "Cable Seated Wide Grip Row",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Cable Seated Wide Grip Row Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Adjust the cable machine to the appropriate weight and attach the wide grip handle.",
+                    "Sit on the bench with your feet flat on the ground and your knees slightly bent.",
+                    "Grasp the handle with both hands, palms facing down and your arms fully extended.",
+                    "Slowly pull the handle towards your chest, keeping your elbows close to your body.",
+                    "Pause for a moment at the top of the movement, squeezing your shoulder blades together.",
+                    "Slowly release the handle back to the starting position, fully extending your arms.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Cable Seated Wide Grip Row Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Cable Seated Wide Grip Row Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets multiple muscle groups including the back, shoulders, and biceps",
+                    "Improves posture and spinal alignment",
+                    "Increases upper body strength and endurance",
+                    "Provides a low-impact workout option",
+                    "Allows for adjustable resistance and difficulty levels"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cable Seated Wide Grip Row Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Latissimus dorsi",
+                    "Trapezius",
+                    "Rhomboids",
+                    "Erector spinae",
+                    "Biceps"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cable Seated Wide Grip Row Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Cable Seated Close grip Row",
+                    "Cable Seated Neutral grip Row",
+                    "Cable Seated Reverse grip Row",
+                    "Cable Standing Wide grip Row",
+                    "Cable Standing Close grip Row",
+                    "Cable Standing Neutral grip Row",
+                    "Cable Standing Reverse grip Row"
+                ]
+            }
+        }
+    ]
+}

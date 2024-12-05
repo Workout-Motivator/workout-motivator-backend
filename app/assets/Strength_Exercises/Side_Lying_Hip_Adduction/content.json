@@ -1,0 +1,80 @@
+{
+    "title": "Side Lying Hip Adduction",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Side Lying Hip Adduction Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on your side with your legs straight and stacked on top of each other.",
+                    "Engage your core and glutes to stabilize your body.",
+                    "Slowly lift your top leg towards the ceiling, keeping it straight and in line with your body.",
+                    "Pause at the top of the movement and squeeze your inner thigh muscles.",
+                    "Lower your leg back down to the starting position.",
+                    "Repeat for the desired number of repetitions on one side before switching to the other side."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Side Lying Hip Adduction Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Side Lying Hip Adduction Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens core muscles",
+                    "Improves balance and stability",
+                    "Targets oblique muscles",
+                    "Can help alleviate lower back pain",
+                    "Increases overall body awareness"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Side Lying Hip Adduction Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Gluteus medius",
+                    "Tensor fasciae latae",
+                    "Gracilis",
+                    "Adductor longus",
+                    "Adductor brevis",
+                    "Adductor magnus"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Side Lying Hip Adduction Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Side-lying hip abduction",
+                    "Side-lying hip external rotation",
+                    "Side-lying hip internal rotation",
+                    "Side-lying hip flexion",
+                    "Side-lying hip extension",
+                    "Clamshell exercise",
+                    "Fire hydrant exercise",
+                    "Resistance band hip adduction",
+                    "Resistance band hip abduction"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "title": "Warrior Ii Yoga Pose",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Warrior Ii Yoga Pose Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Begin standing at the top of your mat with your feet hip-width apart.",
+                    "Step your left foot back about 3-4 feet, turning your left toes out to a 45-degree angle.",
+                    "Bend your right knee, keeping it directly over your ankle, and sink your hips down towards the ground.",
+                    "Extend your arms out to the sides, parallel to the ground, with your palms facing down.",
+                    "Gaze over your right fingertips and hold the pose for 5-10 breaths.",
+                    "Release the pose by straightening your right leg and stepping your left foot forward to meet your right foot.",
+                    "Repeat on the other side, stepping your right foot back and bending your left knee."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Warrior Ii Yoga Pose Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Warrior Ii Yoga Pose Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens legs, ankles, and feet",
+                    "Stretches hips, groins, and shoulders",
+                    "Opens chest and lungs",
+                    "Improves balance and stability",
+                    "Increases focus and concentration",
+                    "Relieves stress and anxiety",
+                    "Can help with sciatica and lower back pain"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Warrior Ii Yoga Pose Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Glutes",
+                    "Abdominals",
+                    "Obliques",
+                    "Back muscles",
+                    "Shoulders",
+                    "Chest"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Warrior Ii Yoga Pose Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Extended Side Angle Pose",
+                    "Reverse Warrior Pose",
+                    "Triangle Pose",
+                    "Half Moon Pose",
+                    "Bound Side Angle Pose",
+                    "Revolved Side Angle Pose",
+                    "Warrior III Pose",
+                    "Warrior I Pose",
+                    "Garland Pose"
+                ]
+            }
+        }
+    ]
+}

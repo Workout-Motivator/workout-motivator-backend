@@ -1,0 +1,75 @@
+{
+    "title": "Lever Seated Reverse Fly",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Lever Seated Reverse Fly Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Adjust the seat height so that the handles are at shoulder level.",
+                    "Sit on the machine with your back against the pad and grasp the handles with an overhand grip.",
+                    "Keep your elbows slightly bent and your arms straight out in front of you.",
+                    "Slowly pull the handles back towards your chest, squeezing your shoulder blades together.",
+                    "Pause for a moment at the top of the movement, then slowly release back to the starting position.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Lever Seated Reverse Fly Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Lever Seated Reverse Fly Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the muscles of the upper back, specifically the rhomboids and rear deltoids",
+                    "Improves posture by pulling the shoulders back and down",
+                    "Helps to prevent and alleviate shoulder pain and injury",
+                    "Targets the muscles that are often neglected in traditional upper body exercises",
+                    "Can be modified to accommodate different fitness levels and abilities"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Lever Seated Reverse Fly Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rhomboids",
+                    "Trapezius",
+                    "Posterior deltoids",
+                    "Infraspinatus",
+                    "Terres minor"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Lever Seated Reverse Fly Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Lever Seated Fly",
+                    "Lever Seated Fly with Dumbbells",
+                    "Lever Seated Fly with Resistance Bands",
+                    "Lever Seated Reverse Fly with Dumbbells",
+                    "Lever Seated Reverse Fly with Resistance Bands"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "title": "Arm Crossover",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Arm Crossover Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your arms extended out to the sides at shoulder height.",
+                    "Cross your right arm over your left arm in front of your body, keeping your arms straight.",
+                    "Uncross your arms and return to the starting position.",
+                    "Cross your left arm over your right arm in front of your body, keeping your arms straight.",
+                    "Uncross your arms and return to the starting position.",
+                    "Repeat steps 2-5 for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Arm Crossover Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Arm Crossover Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Increases flexibility and range of motion in the shoulders",
+                    "Helps prevent shoulder injuries",
+                    "Relieves tension and tightness in the shoulders and upper back",
+                    "Improves posture and alignment",
+                    "Can be done anywhere without equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Arm Crossover Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Chest muscles",
+                    "Shoulder muscles",
+                    "Triceps muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Arm Crossover Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Arm circles",
+                    "Arm swings",
+                    "Arm raises",
+                    "Tricep dips",
+                    "Push-ups",
+                    "Bicep curls",
+                    "Shoulder press",
+                    "Plank with arm reach",
+                    "Reverse fly",
+                    "Upright row"
+                ]
+            }
+        }
+    ]
+}

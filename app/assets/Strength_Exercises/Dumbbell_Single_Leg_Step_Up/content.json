@@ -1,0 +1,74 @@
+{
+    "title": "Dumbbell Single Leg Step Up",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Single Leg Step Up Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand in front of a bench or step with a dumbbell in one hand.",
+                    "Place one foot on the bench or step, keeping your knee in line with your toes.",
+                    "Push through your heel to lift your body up onto the bench or step, bringing your other foot up to meet the first one.",
+                    "Lower yourself back down to the starting position, keeping your weight in your heel.",
+                    "Repeat for the desired number of reps, then switch to the other leg."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Single Leg Step Up Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Single Leg Step Up Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the lower body muscles, including the quadriceps, hamstrings, glutes, and calves",
+                    "Improves balance and stability",
+                    "Increases cardiovascular endurance",
+                    "Targets one leg at a time, helping to correct muscle imbalances",
+                    "Can be modified to increase or decrease difficulty by adjusting weight or height of step"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Single Leg Step Up Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calf muscles",
+                    "Core muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Single Leg Step Up Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Single Leg Step Up with Knee Raise",
+                    "Dumbbell Single Leg Step Up with Lateral Raise",
+                    "Dumbbell Single Leg Step Up with Bicep Curl",
+                    "Dumbbell Single Leg Step Up with Overhead Press",
+                    "Dumbbell Single Leg Step Up with Tricep Extension"
+                ]
+            }
+        }
+    ]
+}

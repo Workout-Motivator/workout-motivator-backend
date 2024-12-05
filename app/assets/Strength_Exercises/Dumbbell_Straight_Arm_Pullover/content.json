@@ -1,0 +1,75 @@
+{
+    "title": "Dumbbell Straight Arm Pullover",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Straight Arm Pullover Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying flat on a bench with your feet firmly planted on the ground and your head hanging slightly off the edge of the bench.",
+                    "Hold a dumbbell with both hands and extend your arms straight up towards the ceiling.",
+                    "Slowly lower the dumbbell behind your head, keeping your arms straight and your core engaged.",
+                    "Once the dumbbell is parallel to the ground, pause for a moment and then slowly lift it back up to the starting position.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Straight Arm Pullover Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Straight Arm Pullover Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the chest, back, and triceps muscles",
+                    "Improves upper body strength and stability",
+                    "Increases flexibility in the shoulders and upper back",
+                    "Can help improve posture and reduce the risk of shoulder injuries",
+                    "Can be performed with a variety of weights and equipment, making it accessible for all fitness levels"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Straight Arm Pullover Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Pectoralis Major",
+                    "Latissimus Dorsi",
+                    "Triceps Brachii",
+                    "Rhomboids",
+                    "Trapezius",
+                    "Serratus Anterior"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Straight Arm Pullover Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Pullover on Stability Ball",
+                    "Barbell Straight Arm Pullover",
+                    "Cable Straight Arm Pullover",
+                    "Single Arm Dumbbell Pullover",
+                    "Seated Machine Straight Arm Pullover"
+                ]
+            }
+        }
+    ]
+}

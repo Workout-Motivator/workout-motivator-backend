@@ -1,0 +1,77 @@
+{
+    "title": "Superman Row",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Superman Row Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by standing with your feet shoulder-width apart and your arms extended out in front of you.",
+                    "Take a big step forward with your left foot and simultaneously lift your right knee up towards your chest.",
+                    "As you do this, bring your arms down to your sides and pretend to grab onto a rope.",
+                    "Next, jump up off your left foot and switch your legs mid-air so that your right foot lands in front of you and your left foot lands behind you.",
+                    "As you land, swing your arms back up in front of you and pretend to pull the rope towards you.",
+                    "Repeat this movement, alternating legs and pretending to pull the rope with each jump.",
+                    "Do 3 sets of 10 reps on each leg for a total of 60 jumps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Superman Row Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Superman Row Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens upper back muscles",
+                    "Improves posture",
+                    "Increases grip strength",
+                    "Engages core muscles",
+                    "Can be done with minimal equipment",
+                    "Can be modified for different fitness levels"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Superman Row Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Lower back muscles",
+                    "Upper back muscles",
+                    "Shoulder muscles",
+                    "Triceps muscles",
+                    "Biceps muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Superman Row Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Superman row with dumbbells",
+                    "Superman row with resistance bands",
+                    "Single-arm superman row",
+                    "Renegade row (superman row with push-up)",
+                    "Reverse-grip superman row"
+                ]
+            }
+        }
+    ]
+}

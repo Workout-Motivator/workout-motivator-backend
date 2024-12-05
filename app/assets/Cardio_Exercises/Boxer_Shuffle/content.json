@@ -1,0 +1,82 @@
+{
+    "title": "Boxer Shuffle",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Boxer Shuffle Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your arms at your sides.",
+                    "Begin by taking a small step to the right with your right foot, then quickly bring your left foot to meet your right foot.",
+                    "Next, take a small step to the left with your left foot, then quickly bring your right foot to meet your left foot.",
+                    "Continue shuffling back and forth, keeping your feet close to the ground and your movements quick and light.",
+                    "As you become more comfortable with the movement, you can increase the speed and intensity of the shuffle."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Boxer Shuffle Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Boxer Shuffle Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves cardiovascular endurance",
+                    "Increases agility and coordination",
+                    "Helps with weight loss and management",
+                    "Strengthens leg muscles",
+                    "Can be done anywhere with no equipment needed"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Boxer Shuffle Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Calves",
+                    "Glutes",
+                    "Abdominals",
+                    "Obliques",
+                    "Shoulders",
+                    "Chest",
+                    "Back"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Boxer Shuffle Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Side Shuffle",
+                    "Heel Taps",
+                    "Jumping Jacks",
+                    "High Knees",
+                    "Butt Kicks",
+                    "Skater Jumps",
+                    "Plank Jacks",
+                    "Burpees",
+                    "Mountain Climbers"
+                ]
+            }
+        }
+    ]
+}

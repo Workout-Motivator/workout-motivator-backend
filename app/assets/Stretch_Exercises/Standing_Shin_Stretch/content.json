@@ -1,0 +1,75 @@
+{
+    "title": "Standing Shin Stretch",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Standing Shin Stretch Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet hip-width apart and your arms at your sides.",
+                    "Lift your right foot off the ground and bring your right ankle up to rest on your left knee.",
+                    "Use your right hand to gently press down on your right knee, feeling a stretch in your right shin.",
+                    "Hold the stretch for 15-30 seconds, then release and switch sides.",
+                    "Repeat the stretch on each side 2-3 times."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Standing Shin Stretch Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Standing Shin Stretch Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves flexibility and range of motion in the shins and ankles",
+                    "Helps prevent shin splints and other lower leg injuries",
+                    "Stretches the muscles in the front of the lower leg, including the tibialis anterior and extensor digitorum longus",
+                    "Can be done anywhere without any equipment",
+                    "May improve balance and stability in the lower body"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Standing Shin Stretch Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Tibialis Anterior",
+                    "Extensor Digitorum Longus",
+                    "Extensor Hallucis Longus",
+                    "Peroneus Tertius"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Standing Shin Stretch Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Seated Shin Stretch",
+                    "Kneeling Shin Stretch",
+                    "Wall Shin Stretch",
+                    "Standing Calf Stretch",
+                    "Seated Calf Stretch",
+                    "Kneeling Calf Stretch",
+                    "Wall Calf Stretch"
+                ]
+            }
+        }
+    ]
+}

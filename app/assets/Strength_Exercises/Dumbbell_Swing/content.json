@@ -1,0 +1,75 @@
+{
+    "title": "Dumbbell Swing",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Swing Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a dumbbell with both hands in front of your body.",
+                    "Bend your knees slightly and hinge forward at the hips, keeping your back straight.",
+                    "Swing the dumbbell back between your legs, keeping your arms straight.",
+                    "Drive your hips forward and swing the dumbbell up to shoulder height, using the momentum from your hips to power the movement.",
+                    "Lower the dumbbell back down between your legs and repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Swing Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Swing Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Works multiple muscle groups including the shoulders, back, hips, and legs",
+                    "Improves cardiovascular endurance and overall fitness",
+                    "Increases explosive power and strength in the lower body",
+                    "Can be modified for different fitness levels and goals",
+                    "Requires minimal equipment and can be done at home or in the gym"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Swing Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Glutes",
+                    "Hamstrings",
+                    "Quadriceps",
+                    "Lower back",
+                    "Shoulders",
+                    "Forearms"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Swing Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Kettlebell Swing",
+                    "Single Arm Dumbbell Swing",
+                    "Double Arm Dumbbell Swing",
+                    "Medicine Ball Slam",
+                    "Barbell Clean and Jerk"
+                ]
+            }
+        }
+    ]
+}

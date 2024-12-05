@@ -1,0 +1,79 @@
+{
+    "title": "Heel to Toe Walk",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Heel to Toe Walk Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet together and your arms at your sides.",
+                    "Take a step forward with your right foot, placing your heel just in front of the toes of your left foot.",
+                    "Take another step with your left foot, placing your heel just in front of the toes of your right foot.",
+                    "Continue walking in this heel-to-toe fashion for 20 steps.",
+                    "Turn around and walk back in the same manner for another 20 steps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Heel to Toe Walk Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Heel to Toe Walk Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves cardiovascular health",
+                    "Increases endurance and stamina",
+                    "Helps with weight loss and management",
+                    "Strengthens bones and muscles",
+                    "Improves coordination and balance",
+                    "Can be done anywhere with minimal equipment",
+                    "Can be a fun and social activity"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Heel to Toe Walk Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Gastrocnemius",
+                    "Soleus",
+                    "Tibialis anterior",
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Glutes",
+                    "Abdominals",
+                    "Lower back muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Heel to Toe Walk Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Heel-to-toe walk with eyes closed",
+                    "Heel-to-toe walk on a balance beam",
+                    "Heel-to-toe walk while holding a weight",
+                    "Heel-to-toe walk on an unstable surface",
+                    "Heel-to-toe walk backwards"
+                ]
+            }
+        }
+    ]
+}

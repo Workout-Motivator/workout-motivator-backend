@@ -1,0 +1,75 @@
+{
+    "title": "Resistance Band Hip Thrust",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Resistance Band Hip Thrust Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Place the resistance band around your thighs, just above your knees.",
+                    "Sit on the ground with your back against a bench or box.",
+                    "Place your feet flat on the ground, hip-width apart, and close enough to your body that your fingertips can touch your heels.",
+                    "Engage your glutes and lift your hips off the ground until your body forms a straight line from your shoulders to your knees.",
+                    "Hold for a few seconds, then lower your hips back down to the ground.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Resistance Band Hip Thrust Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Resistance Band Hip Thrust Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the glutes, hamstrings, and lower back muscles",
+                    "Improves hip mobility and stability",
+                    "Increases strength and power in the lower body",
+                    "Can be done anywhere with a resistance band",
+                    "Low impact exercise that is easy on the joints"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Resistance Band Hip Thrust Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Glutes",
+                    "Hamstrings",
+                    "Quadriceps",
+                    "Lower back",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Resistance Band Hip Thrust Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single-leg Resistance Band Hip Thrust",
+                    "Resistance Band Hip Thrust with Abduction",
+                    "Resistance Band Hip Thrust with Pulse",
+                    "Resistance Band Hip Thrust with Hold",
+                    "Resistance Band Hip Thrust with March"
+                ]
+            }
+        }
+    ]
+}

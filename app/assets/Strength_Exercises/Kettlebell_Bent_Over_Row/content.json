@@ -1,0 +1,78 @@
+{
+    "title": "Kettlebell Bent Over Row",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Bent Over Row Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a kettlebell in one hand.",
+                    "Bend forward at the hips, keeping your back straight and your abs engaged.",
+                    "Let the kettlebell hang straight down from your arm.",
+                    "Slowly pull the kettlebell up towards your chest, keeping your elbow close to your body.",
+                    "Pause for a moment at the top of the movement, then slowly lower the kettlebell back down to the starting position.",
+                    "Repeat for the desired number of reps, then switch sides and repeat with the other arm."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Bent Over Row Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Bent Over Row Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves grip strength",
+                    "Increases core stability",
+                    "Develops overall body strength",
+                    "Enhances cardiovascular endurance",
+                    "Improves posture and balance",
+                    "Engages multiple muscle groups simultaneously",
+                    "Can be modified for different fitness levels"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Bent Over Row Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Latissimus dorsi",
+                    "Trapezius",
+                    "Rhomboids",
+                    "Erector spinae",
+                    "Biceps brachii",
+                    "Forearm muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Bent Over Row Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "kettlebell single-arm bent-over row",
+                    "kettlebell double-arm bent-over row",
+                    "kettlebell renegade row",
+                    "kettlebell high pull",
+                    "kettlebell clean and press"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "title": "Sphinx",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Sphinx Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your arms at your sides.",
+                    "Take a deep breath in and raise your arms above your head, keeping them straight and shoulder-width apart.",
+                    "As you exhale, bend forward at the waist and lower your torso towards the ground, keeping your back straight.",
+                    "Place your hands on the ground in front of you and walk them forward until your body is in a plank position.",
+                    "Hold the plank position for a few seconds, then lower your body to the ground, keeping your elbows close to your sides.",
+                    "Push your body up off the ground, straightening your arms and returning to the plank position.",
+                    "Walk your hands back towards your feet and slowly roll your body up to a standing position.",
+                    "Lower your arms back down to your sides and repeat the exercise for several repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Sphinx Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Sphinx Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the muscles in the chest, shoulders, and triceps",
+                    "Improves posture and stability in the upper body",
+                    "Increases flexibility in the spine and hips",
+                    "Stimulates the digestive system and improves circulation",
+                    "Can help alleviate stress and anxiety"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Sphinx Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Erector spinae",
+                    "Trapezius",
+                    "Rhomboids",
+                    "Latissimus dorsi",
+                    "Glutes",
+                    "Hamstrings"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Sphinx Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Sphynx",
+                    "Sphynx cat",
+                    "Sphinx moth",
+                    "The Great Sphinx of Giza",
+                    "Sphinx (mythology)"
+                ]
+            }
+        }
+    ]
+}

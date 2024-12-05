@@ -1,0 +1,77 @@
+{
+    "title": "Mountain Pose",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Mountain Pose Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet hip-width apart and your arms at your sides.",
+                    "Take a deep breath in and raise your arms overhead, reaching towards the sky.",
+                    "Interlace your fingers and turn your palms up towards the ceiling.",
+                    "Press your feet firmly into the ground and engage your leg muscles.",
+                    "Lengthen your spine and reach through the crown of your head.",
+                    "Hold the pose for several deep breaths.",
+                    "To release, exhale and lower your arms back down to your sides."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_0.webp"
+        },
+        {
+            "type": "section",
+            "title": "Mountain Pose Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Mountain Pose Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves shoulder mobility and flexibility",
+                    "Strengthens the muscles in the shoulder, upper back, and core",
+                    "Helps correct posture by strengthening the muscles that support the spine",
+                    "Can be done anywhere with a wall or sturdy surface",
+                    "Can be modified for different levels of difficulty"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Mountain Pose Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Abdominals",
+                    "Back muscles",
+                    "Shoulders",
+                    "Neck muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Mountain Pose Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Warrior I",
+                    "Warrior II",
+                    "Triangle pose",
+                    "Tree pose",
+                    "Eagle pose"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "title": "Kettlebell Sit Up",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Sit Up Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on your back with your knees bent and feet flat on the ground.",
+                    "Hold the kettlebell with both hands and extend your arms straight up towards the ceiling.",
+                    "Engage your core and slowly sit up, bringing the kettlebell with you towards your feet.",
+                    "Pause at the top of the movement and then slowly lower yourself back down to the starting position.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Sit Up Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Sit Up Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the core muscles, including the rectus abdominis, obliques, and hip flexors",
+                    "Improves overall core strength and stability",
+                    "Increases flexibility in the hips and lower back",
+                    "Can be modified to increase or decrease difficulty based on fitness level",
+                    "Engages multiple muscle groups at once, leading to a more efficient workout",
+                    "Can be done with minimal equipment, making it a convenient exercise to do at home or while traveling"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Sit Up Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus abdominis",
+                    "Obliques",
+                    "Hip flexors",
+                    "Erector spinae"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Sit Up Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Kettlebell Russian Twist",
+                    "Kettlebell Windmill",
+                    "Kettlebell Turkish Get-up",
+                    "Kettlebell Figure 8",
+                    "Kettlebell Halo"
+                ]
+            }
+        }
+    ]
+}

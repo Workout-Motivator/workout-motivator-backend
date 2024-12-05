@@ -1,0 +1,74 @@
+{
+    "title": "Cable Overhead Curl",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Cable Overhead Curl Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a cable with both hands, palms facing up.",
+                    "Extend your arms straight up above your head, keeping your elbows close to your ears.",
+                    "Slowly lower the cable behind your head, bending your elbows and keeping your upper arms stationary.",
+                    "Pause for a moment, then slowly raise the cable back up to the starting position.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Cable Overhead Curl Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Cable Overhead Curl Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the biceps and forearms",
+                    "Allows for a greater range of motion compared to traditional bicep curls",
+                    "Engages the core muscles for stability",
+                    "Can be easily adjusted for different resistance levels",
+                    "Helps to improve grip strength"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cable Overhead Curl Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Biceps brachii",
+                    "Brachialis",
+                    "Brachioradialis"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cable Overhead Curl Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single-arm Cable Overhead Curl",
+                    "Double-arm Cable Overhead Curl",
+                    "Reverse-grip Cable Overhead Curl",
+                    "Wide-grip Cable Overhead Curl",
+                    "Narrow-grip Cable Overhead Curl",
+                    "Seated Cable Overhead Curl",
+                    "Standing Cable Overhead Curl"
+                ]
+            }
+        }
+    ]
+}

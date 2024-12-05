@@ -1,0 +1,75 @@
+{
+    "title": "Barbell Pullover",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Barbell Pullover Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying flat on a bench with your feet firmly planted on the ground and your head hanging off the edge of the bench.",
+                    "Grasp the barbell with both hands, using an overhand grip, and hold it above your chest with your arms extended.",
+                    "Slowly lower the barbell behind your head, keeping your arms straight and your elbows locked in place.",
+                    "Once the barbell is behind your head, pause for a moment and then slowly raise it back up to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Barbell Pullover Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Barbell Pullover Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets multiple muscle groups including the chest, back, and triceps",
+                    "Improves upper body strength and endurance",
+                    "Increases flexibility in the shoulders and upper back",
+                    "Can help improve posture by strengthening the muscles that support the spine",
+                    "May improve breathing by expanding the rib cage and increasing lung capacity"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Barbell Pullover Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Pectoralis major",
+                    "Latissimus dorsi",
+                    "Triceps brachii",
+                    "Rhomboids",
+                    "Trapezius",
+                    "Serratus anterior"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Barbell Pullover Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Pullover",
+                    "Cable Pullover",
+                    "Machine Pullover",
+                    "Single Arm Dumbbell Pullover",
+                    "Decline Bench Pullover"
+                ]
+            }
+        }
+    ]
+}

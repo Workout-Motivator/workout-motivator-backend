@@ -1,0 +1,75 @@
+{
+    "title": "Cable Lunge",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Cable Lunge Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet hip-width apart and hold a cable handle in each hand.",
+                    "Step forward with your right foot and lower your body into a lunge position, keeping your back straight and your left knee hovering just above the ground.",
+                    "As you lunge forward, extend your arms straight out in front of you, keeping your elbows slightly bent.",
+                    "Pause for a moment, then return to the starting position by pushing off with your right foot and bringing your left foot forward to meet it.",
+                    "Repeat the exercise, this time stepping forward with your left foot.",
+                    "Complete 10-12 reps on each leg for 2-3 sets."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Cable Lunge Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Cable Lunge Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets multiple muscle groups including quadriceps, glutes, hamstrings, and calves",
+                    "Improves balance and stability",
+                    "Increases lower body strength and power",
+                    "Can be modified to challenge different fitness levels",
+                    "Provides a low-impact option for those with joint pain or injuries"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cable Lunge Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cable Lunge Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Reverse Cable Lunge",
+                    "Cable Lunge with Twist",
+                    "Cable Lateral Lunge",
+                    "Cable Curtsy Lunge",
+                    "Cable Front Lunge"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "title": "Dumbbell Suitcase Carry",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Suitcase Carry Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a dumbbell in one hand.",
+                    "Keep your core tight and your back straight.",
+                    "Begin walking forward, keeping your arm straight and the weight at your side.",
+                    "Take small, controlled steps and keep your shoulders level.",
+                    "Walk for a set distance or time, then switch the weight to the other hand and repeat."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Suitcase Carry Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Suitcase Carry Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves grip strength",
+                    "Increases core stability",
+                    "Develops unilateral strength and balance",
+                    "Enhances overall body control and coordination",
+                    "Can be done with minimal equipment and space"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Suitcase Carry Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Forearm muscles",
+                    "Abdominal muscles",
+                    "Lower back muscles",
+                    "Gluteus medius muscles",
+                    "Quadriceps muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Suitcase Carry Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Farmer’s Carry",
+                    "Dumbbell Waiter’s Carry",
+                    "Dumbbell Rack Carry",
+                    "Dumbbell Overhead Carry",
+                    "Dumbbell Zercher Carry"
+                ]
+            }
+        }
+    ]
+}

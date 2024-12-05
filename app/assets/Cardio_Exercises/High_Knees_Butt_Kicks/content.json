@@ -1,0 +1,79 @@
+{
+    "title": "High Knees Butt Kicks",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "High Knees Butt Kicks Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet hip-width apart and your arms at your sides.",
+                    "Start by jogging in place, lifting your knees up high towards your chest and pumping your arms.",
+                    "After 30 seconds, switch to butt kicks by jogging in place and kicking your heels up towards your glutes.",
+                    "Alternate between high knees and butt kicks for 1-2 minutes, or as long as desired.",
+                    "Remember to keep your core engaged and your posture tall throughout the exercise."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "High Knees Butt Kicks Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "High Knees Butt Kicks Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves cardiovascular endurance",
+                    "Increases leg strength and power",
+                    "Improves coordination and balance",
+                    "Helps to burn calories and lose weight",
+                    "Can be done anywhere without equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "High Knees Butt Kicks Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Glutes",
+                    "Calves",
+                    "Abdominals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "High Knees Butt Kicks Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "High knees",
+                    "Butt kicks",
+                    "Jumping jacks with high knees",
+                    "Jumping jacks with butt kicks",
+                    "High knees with a twist",
+                    "Butt kicks with a hop",
+                    "High knees with a hop",
+                    "Butt kicks with a twist",
+                    "Jumping lunges with high knees",
+                    "Jumping lunges with butt kicks"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "title": "Weighted Frog Pump",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Weighted Frog Pump Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on your back with your knees bent and feet flat on the ground.",
+                    "Place a weight, such as a dumbbell or kettlebell, on your lower abdomen.",
+                    "Engage your glutes and lift your hips off the ground, squeezing your glutes at the top of the movement.",
+                    "Lower your hips back down to the ground and repeat for the desired number of reps.",
+                    "Make sure to keep your core engaged and your lower back flat on the ground throughout the exercise."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Weighted Frog Pump Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Weighted Frog Pump Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the glutes, hamstrings, and core muscles",
+                    "Increases hip mobility and flexibility",
+                    "Improves posture and balance",
+                    "Can be modified for different fitness levels by adjusting weight or reps",
+                    "Can be done with minimal equipment, making it a convenient exercise to do at home or while traveling"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Weighted Frog Pump Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Glutes",
+                    "Hamstrings",
+                    "Quadriceps",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Weighted Frog Pump Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Unweighted Frog Pump",
+                    "Single Leg Frog Pump",
+                    "Weighted Single Leg Frog Pump",
+                    "Sumo Frog Pump",
+                    "Weighted Sumo Frog Pump",
+                    "Explosive Frog Pump",
+                    "Weighted Explosive Frog Pump",
+                    "Resistance Band Frog Pump",
+                    "Weighted Resistance Band Frog Pump"
+                ]
+            }
+        }
+    ]
+}

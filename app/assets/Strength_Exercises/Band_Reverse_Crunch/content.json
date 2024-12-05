@@ -1,0 +1,75 @@
+{
+    "title": "Band Reverse Crunch",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Band Reverse Crunch Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on your back with your knees bent and feet flat on the ground.",
+                    "Place your hands behind your head, with your elbows pointing out to the sides.",
+                    "Wrap a resistance band around your thighs, just above your knees.",
+                    "Engage your core and lift your head, neck, and shoulders off the ground.",
+                    "At the same time, lift your feet off the ground and bring your knees towards your chest.",
+                    "As you crunch, push your knees out against the resistance band.",
+                    "Hold the crunch for a few seconds, then slowly lower your head, neck, shoulders, and feet back down to the starting position.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Band Reverse Crunch Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Band Reverse Crunch Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the wrist extensors and flexors",
+                    "Improves grip strength",
+                    "Helps prevent wrist injuries",
+                    "Can be done with minimal equipment",
+                    "Targets the forearm muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Band Reverse Crunch Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus Abdominis",
+                    "Obliques",
+                    "Transverse Abdominis"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Band Reverse Crunch Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Reverse crunch with resistance band",
+                    "Band-assisted reverse crunch",
+                    "Reverse crunch with band overhead",
+                    "Band-resisted reverse crunch",
+                    "Reverse crunch with band around thighs"
+                ]
+            }
+        }
+    ]
+}

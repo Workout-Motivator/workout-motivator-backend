@@ -1,0 +1,77 @@
+{
+    "title": "Dumbbell Side Squat",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Side Squat Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a dumbbell in each hand at your sides.",
+                    "Take a big step to the side with your right foot, keeping your left foot planted and your toes pointing forward.",
+                    "Bend your right knee and lower your body down into a squat, keeping your back straight and your chest up.",
+                    "Push through your right foot to stand back up to the starting position.",
+                    "Repeat on the other side, stepping out with your left foot and squatting down.",
+                    "Continue alternating sides for the desired number of reps or time."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Side Squat Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Side Squat Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets multiple muscle groups including the quads, glutes, hamstrings, and inner thighs",
+                    "Improves balance and stability",
+                    "Increases strength and power in the lower body",
+                    "Can be modified to increase or decrease difficulty by adjusting weight or depth of squat",
+                    "Can be done with minimal equipment, making it a convenient exercise to do at home or while traveling"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Side Squat Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Abductors",
+                    "Adductors",
+                    "Core muscles for stabilization"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Side Squat Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Front Squat",
+                    "Dumbbell Goblet Squat",
+                    "Dumbbell Bulgarian Split Squat",
+                    "Dumbbell Sumo Squat",
+                    "Dumbbell Step-up"
+                ]
+            }
+        }
+    ]
+}

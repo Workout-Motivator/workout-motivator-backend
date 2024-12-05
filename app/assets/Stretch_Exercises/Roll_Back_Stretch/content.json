@@ -1,0 +1,74 @@
+{
+    "title": "Roll Back Stretch",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Roll Back Stretch Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by sitting on the floor with your legs straight out in front of you.",
+                    "Place your hands behind you, fingers pointing towards your body.",
+                    "Slowly lean back, using your hands to support your weight.",
+                    "Keep your legs straight and together as you lower your upper body towards the floor.",
+                    "Hold the stretch for 10-15 seconds, then slowly sit back up.",
+                    "Repeat the stretch 2-3 times."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Roll Back Stretch Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Roll Back Stretch Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Relieves tension in the lower back and hips",
+                    "Improves flexibility in the spine",
+                    "Stretches the hamstrings and glutes",
+                    "Can help alleviate sciatica pain",
+                    "May improve posture and balance"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Roll Back Stretch Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Lower back muscles",
+                    "Hamstrings",
+                    "Glutes",
+                    "Abdominal muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Roll Back Stretch Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Roll Back Stretch with Leg Extension",
+                    "Roll Back Stretch with Arm Reach",
+                    "Roll Back Stretch with Twist",
+                    "Roll Back Stretch with Resistance Band",
+                    "Roll Back Stretch with Foam Roller"
+                ]
+            }
+        }
+    ]
+}

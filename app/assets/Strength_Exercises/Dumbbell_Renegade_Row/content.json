@@ -1,0 +1,76 @@
+{
+    "title": "Dumbbell Renegade Row",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Renegade Row Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start in a high plank position with your hands gripping a pair of dumbbells directly under your shoulders.",
+                    "Engage your core and glutes to keep your body in a straight line from head to heels.",
+                    "Row one dumbbell up towards your chest, keeping your elbow close to your body.",
+                    "Lower the dumbbell back down to the ground and repeat on the other side.",
+                    "Continue alternating sides for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Renegade Row Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Renegade Row Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the upper body, including the back, shoulders, and arms",
+                    "Improves core stability and balance",
+                    "Increases overall muscle endurance",
+                    "Can be modified for different fitness levels and goals",
+                    "Can be done with minimal equipment and space"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Renegade Row Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Latissimus dorsi",
+                    "Rhomboids",
+                    "Trapezius",
+                    "Biceps",
+                    "Triceps",
+                    "Abdominals",
+                    "Erector spinae"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Renegade Row Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Renegade Row with Push-up",
+                    "Renegade Row with Kettlebell",
+                    "Renegade Row with Barbell",
+                    "Renegade Row with Resistance Bands",
+                    "Renegade Row with TRX Straps"
+                ]
+            }
+        }
+    ]
+}

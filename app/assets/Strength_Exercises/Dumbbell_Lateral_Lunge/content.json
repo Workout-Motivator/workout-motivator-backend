@@ -1,0 +1,78 @@
+{
+    "title": "Dumbbell Lateral Lunge",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Lateral Lunge Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart, holding a dumbbell in each hand at your sides.",
+                    "Take a big step to the right with your right foot, keeping your left foot in place.",
+                    "Bend your right knee and push your hips back, lowering your body into a lunge position.",
+                    "As you lunge, raise your left arm straight up above your head, keeping your right arm straight down by your side.",
+                    "Push through your right foot to return to the starting position, lowering your left arm back down to your side.",
+                    "Repeat on the other side, stepping to the left with your left foot and raising your right arm above your head.",
+                    "Continue alternating sides for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Lateral Lunge Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Lateral Lunge Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets multiple muscle groups including the glutes, quads, hamstrings, and adductors",
+                    "Improves balance and stability",
+                    "Increases hip mobility",
+                    "Can be modified to increase or decrease difficulty",
+                    "Can be done with minimal equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Lateral Lunge Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Abductors",
+                    "Adductors",
+                    "Core muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Lateral Lunge Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Lateral Lunge with Overhead Press",
+                    "Dumbbell Lateral Lunge with Bicep Curl",
+                    "Dumbbell Lateral Lunge with Front Raise",
+                    "Dumbbell Lateral Lunge with Tricep Extension",
+                    "Dumbbell Lateral Lunge with Twist"
+                ]
+            }
+        }
+    ]
+}

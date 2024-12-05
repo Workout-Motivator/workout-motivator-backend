@@ -1,0 +1,77 @@
+{
+    "title": "Band Bent Over Row",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Band Bent Over Row Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a barbell with an overhand grip, hands slightly wider than shoulder-width apart.",
+                    "Bend your knees slightly and hinge forward at the hips, keeping your back straight and your core engaged.",
+                    "Bring the barbell towards your chest, keeping your elbows close to your body and squeezing your shoulder blades together at the top of the movement.",
+                    "Lower the barbell back down to the starting position, keeping your back straight and your core engaged throughout the exercise.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Band Bent Over Row Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Band Bent Over Row Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets multiple muscle groups including the back, shoulders, and arms",
+                    "Improves posture and spinal alignment",
+                    "Increases upper body strength and muscle definition",
+                    "Can be modified for different fitness levels by adjusting the resistance band tension or using different band sizes",
+                    "Can be done anywhere with minimal equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Band Bent Over Row Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rhomboids",
+                    "Trapezius",
+                    "Rear deltoids",
+                    "Biceps",
+                    "Forearms"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Band Bent Over Row Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single arm band bent over row",
+                    "Wide grip band bent over row",
+                    "Narrow grip band bent over row",
+                    "Reverse grip band bent over row",
+                    "Underhand grip band bent over row",
+                    "Paused band bent over row",
+                    "Band pull apart to band bent over row",
+                    "Band pull apart to band pull apart to band bent over row"
+                ]
+            }
+        }
+    ]
+}

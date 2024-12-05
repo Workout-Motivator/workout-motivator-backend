@@ -1,0 +1,72 @@
+{
+    "title": "Middle Back Stretch",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Middle Back Stretch Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your arms at your sides.",
+                    "Interlace your fingers behind your back with your palms facing inward.",
+                    "Slowly lift your arms up and away from your body, keeping them straight and your hands clasped together.",
+                    "As you lift your arms, arch your back and push your chest forward.",
+                    "Hold the stretch for 10-15 seconds, then release and repeat as desired."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Middle Back Stretch Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Middle Back Stretch Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Relieves tension and tightness in the middle back muscles",
+                    "Improves posture by stretching the muscles that support the spine",
+                    "Increases flexibility and range of motion in the middle back",
+                    "Reduces the risk of injury by warming up the muscles before exercise",
+                    "Can help alleviate back pain and discomfort"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Middle Back Stretch Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rhomboids",
+                    "Trapezius",
+                    "Erector Spinae"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Middle Back Stretch Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Seated middle back stretch",
+                    "Standing middle back stretch",
+                    "Foam roller middle back stretch",
+                    "Cat-cow stretch",
+                    "Child’s pose"
+                ]
+            }
+        }
+    ]
+}

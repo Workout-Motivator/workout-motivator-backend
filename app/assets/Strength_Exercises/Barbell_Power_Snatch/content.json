@@ -1,0 +1,80 @@
+{
+    "title": "Barbell Power Snatch",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Barbell Power Snatch Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start with the barbell on the ground in front of you, with your feet shoulder-width apart and your toes pointing forward.",
+                    "Bend down and grip the barbell with your hands slightly wider than shoulder-width apart, palms facing down.",
+                    "Stand up, keeping your back straight and your arms extended.",
+                    "Bend your knees slightly and explosively pull the barbell up towards your chest, keeping it close to your body.",
+                    "As the barbell reaches chest height, quickly rotate your elbows underneath the bar and press it overhead, locking out your arms.",
+                    "Lower the barbell back down to the starting position, keeping it close to your body and bending your knees slightly to absorb the impact.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Barbell Power Snatch Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Barbell Power Snatch Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves explosive power and speed",
+                    "Targets multiple muscle groups including the shoulders, back, hips, and legs",
+                    "Enhances coordination and balance",
+                    "Increases flexibility and mobility in the hips and ankles",
+                    "Can improve athletic performance in sports such as weightlifting, basketball, and football",
+                    "Can be modified for different fitness levels and goals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Barbell Power Snatch Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Trapezius",
+                    "Deltoids",
+                    "Glutes",
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Calves",
+                    "Abdominals",
+                    "Erector Spinae"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Barbell Power Snatch Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Power Snatch",
+                    "Kettlebell Power Snatch",
+                    "Single Arm Dumbbell Power Snatch",
+                    "Hang Power Snatch",
+                    "Split Stance Power Snatch"
+                ]
+            }
+        }
+    ]
+}

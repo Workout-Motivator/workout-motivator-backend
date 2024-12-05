@@ -1,0 +1,76 @@
+{
+    "title": "Bear Plank",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Bear Plank Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start in a plank position with your hands directly under your shoulders and your feet hip-width apart.",
+                    "Engage your core and lift your hips up towards the ceiling, creating an inverted V-shape with your body.",
+                    "Slowly lower your hips back down to the starting plank position.",
+                    "Next, lift your right foot off the ground and bring your knee towards your chest, keeping your core engaged.",
+                    "Return your right foot to the starting position and repeat the movement with your left foot.",
+                    "Continue alternating between lifting your right and left foot for the desired number of repetitions or time."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Bear Plank Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Bear Plank Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens core muscles",
+                    "Improves posture",
+                    "Increases stability and balance",
+                    "Engages multiple muscle groups, including arms, shoulders, and glutes",
+                    "Can be modified for different fitness levels",
+                    "Can be done anywhere without equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Bear Plank Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Abdominals",
+                    "Lower back",
+                    "Glutes",
+                    "Quadriceps",
+                    "Shoulders"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Bear Plank Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Side Plank",
+                    "Reverse Plank",
+                    "Plank with Leg Lift",
+                    "Plank with Shoulder Tap",
+                    "Plank with Knee to Elbow"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "title": "Dumbbell Rear Delt Row",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Rear Delt Row Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a dumbbell in each hand.",
+                    "Bend forward at the hips, keeping your back straight and your head up.",
+                    "Extend your arms straight down towards the floor, palms facing each other.",
+                    "Engage your shoulder blades and pull the dumbbells up towards your chest, keeping your elbows close to your body.",
+                    "Pause at the top of the movement and squeeze your shoulder blades together.",
+                    "Slowly lower the dumbbells back down to the starting position.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Rear Delt Row Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Rear Delt Row Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the rear deltoid muscles, which are often neglected in traditional back exercises",
+                    "Improves posture by strengthening the upper back muscles",
+                    "Helps prevent shoulder injuries by improving shoulder stability",
+                    "Can be done with a variety of equipment, including dumbbells, resistance bands, and cable machines",
+                    "Allows for a full range of motion, which can increase muscle activation and growth"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Rear Delt Row Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rhomboids",
+                    "Trapezius",
+                    "Posterior deltoid",
+                    "Erector spinae",
+                    "Latissimus dorsi"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Rear Delt Row Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Rear Delt Fly",
+                    "Cable Rear Delt Fly",
+                    "Seated Rear Delt Raise",
+                    "Bent Over Rear Delt Raise",
+                    "Face Pulls"
+                ]
+            }
+        }
+    ]
+}

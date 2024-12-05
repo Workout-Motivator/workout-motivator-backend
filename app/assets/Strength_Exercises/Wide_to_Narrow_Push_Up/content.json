@@ -1,0 +1,74 @@
+{
+    "title": "Wide to Narrow Push Up",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Wide to Narrow Push Up Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start in a high plank position with your hands slightly wider than shoulder-width apart.",
+                    "Lower your body down towards the ground, keeping your elbows close to your sides.",
+                    "As you push back up, move your hands closer together until they are directly under your shoulders.",
+                    "Lower your body down again, this time keeping your elbows close to your body and your hands close together.",
+                    "Push back up to the starting position, moving your hands back out to a wider position.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Wide to Narrow Push Up Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Wide to Narrow Push Up Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets multiple muscle groups including chest, triceps, shoulders, and core",
+                    "Increases upper body strength and endurance",
+                    "Improves overall push up form and technique",
+                    "Can be modified for different fitness levels by adjusting hand placement",
+                    "Engages stabilizer muscles in the shoulders and core for added balance and control"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Wide to Narrow Push Up Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Chest muscles (pectoralis major and minor)",
+                    "Triceps",
+                    "Shoulders (anterior deltoids)",
+                    "Core muscles (abdominals and lower back)"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Wide to Narrow Push Up Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Decline Push Up",
+                    "Spiderman Push Up",
+                    "Diamond Push Up",
+                    "Staggered Push Up",
+                    "One-Arm Push Up"
+                ]
+            }
+        }
+    ]
+}

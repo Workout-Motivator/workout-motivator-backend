@@ -1,0 +1,74 @@
+{
+    "title": "Seated Rotation Stretch",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Seated Rotation Stretch Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by sitting on the floor with your legs extended in front of you.",
+                    "Place your right hand on your left knee and your left hand behind you on the floor.",
+                    "Inhale and sit up tall, lengthening your spine.",
+                    "Exhale and twist your torso to the left, using your right hand to gently pull your left knee towards your right shoulder.",
+                    "Hold the stretch for 10-15 seconds, breathing deeply.",
+                    "Release the stretch and repeat on the other side, placing your left hand on your right knee and your right hand behind you on the floor.",
+                    "Repeat the stretch on both sides 2-3 times."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Seated Rotation Stretch Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Seated Rotation Stretch Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens hamstrings and glutes",
+                    "Improves balance and stability",
+                    "Increases flexibility in the hips and lower back",
+                    "Can be done without equipment",
+                    "Targets the posterior chain muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Seated Rotation Stretch Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Obliques",
+                    "Abdominals",
+                    "Lower back muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Seated Rotation Stretch Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Seated trunk rotation",
+                    "Seated spinal twist",
+                    "Seated Russian twist",
+                    "Seated oblique twist",
+                    "Seated bicycle crunches"
+                ]
+            }
+        }
+    ]
+}

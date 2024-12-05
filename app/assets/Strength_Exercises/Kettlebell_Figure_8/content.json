@@ -1,0 +1,76 @@
+{
+    "title": "Kettlebell Figure 8",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Figure 8 Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a kettlebell in your right hand.",
+                    "Swing the kettlebell between your legs and pass it to your left hand.",
+                    "Bring the kettlebell around the outside of your left leg and pass it back to your right hand.",
+                    "Bring the kettlebell around the outside of your right leg and pass it back to your left hand.",
+                    "Continue passing the kettlebell between your hands in a figure 8 motion for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Figure 8 Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Figure 8 Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves coordination and balance",
+                    "Targets multiple muscle groups including the core, arms, and legs",
+                    "Increases cardiovascular endurance",
+                    "Can be modified for different fitness levels",
+                    "Helps to improve grip strength",
+                    "Can be done with minimal equipment and space"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Figure 8 Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Abdominal muscles",
+                    "Lower back muscles",
+                    "Shoulder muscles",
+                    "Forearm muscles",
+                    "Gluteal muscles",
+                    "Quadriceps muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Figure 8 Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Kettlebell Figure 8 with a squat",
+                    "Kettlebell Figure 8 with a lunge",
+                    "Kettlebell Figure 8 with a jump",
+                    "Kettlebell Figure 8 with a twist",
+                    "Kettlebell Figure 8 with a single arm"
+                ]
+            }
+        }
+    ]
+}

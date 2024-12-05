@@ -1,0 +1,73 @@
+{
+    "title": "Negative Crunch",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Negative Crunch Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying flat on your back with your knees bent and feet flat on the ground.",
+                    "Place your hands behind your head, with your elbows pointing out to the sides.",
+                    "Engage your core muscles by pulling your belly button towards your spine.",
+                    "Slowly lift your shoulders off the ground, keeping your lower back pressed into the floor.",
+                    "Hold the crunch for a few seconds, then slowly lower your shoulders back down to the ground.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Negative Crunch Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Negative Crunch Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the rectus abdominis muscle, which is responsible for the “six-pack” look",
+                    "Increases core strength and stability",
+                    "Improves posture and balance",
+                    "Can be done without any equipment",
+                    "Can be modified to increase or decrease difficulty"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Negative Crunch Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus abdominis",
+                    "Obliques",
+                    "Transverse abdominis"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Negative Crunch Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Reverse Crunch",
+                    "Decline Reverse Crunch",
+                    "Reverse Crunch with Leg Extension",
+                    "Reverse Crunch with Resistance Band",
+                    "Reverse Crunch with Stability Ball"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "title": "Side-to-side Toe Touch",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Side-to-side Toe Touch Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your arms at your sides.",
+                    "Take a step to the right with your right foot and simultaneously reach down with your left hand to touch your right foot.",
+                    "Return to the starting position and repeat on the other side, taking a step to the left with your left foot and reaching down with your right hand to touch your left foot.",
+                    "Continue alternating sides for the desired number of repetitions or time."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Side-to-side Toe Touch Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Side-to-side Toe Touch Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Increases cardiovascular endurance",
+                    "Improves muscular strength and endurance",
+                    "Enhances coordination and balance",
+                    "Burns calories and aids in weight loss",
+                    "Can be done anywhere without equipment",
+                    "Engages multiple muscle groups, including legs, core, and upper body",
+                    "Can be modified for different fitness levels",
+                    "Boosts energy and mood"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Side-to-side Toe Touch Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Obliques",
+                    "Rectus abdominis",
+                    "Hip flexors",
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Glutes"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Side-to-side Toe Touch Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Side-to-side heel touch",
+                    "Side-to-side knee touch",
+                    "Side-to-side ankle touch",
+                    "Side-to-side toe tap",
+                    "Side-to-side leg swing"
+                ]
+            }
+        }
+    ]
+}

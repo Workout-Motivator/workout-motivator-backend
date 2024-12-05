@@ -1,0 +1,75 @@
+{
+    "title": "Dumbbell Bent Arm Pullover",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Bent Arm Pullover Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying flat on a bench with your feet firmly planted on the ground and your knees bent.",
+                    "Hold a dumbbell with both hands and extend your arms straight up towards the ceiling.",
+                    "Slowly lower the dumbbell behind your head, keeping your arms straight and your elbows slightly bent.",
+                    "Once the dumbbell is behind your head, slowly raise it back up to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Bent Arm Pullover Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Bent Arm Pullover Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the biceps muscle group",
+                    "Improves arm strength and definition",
+                    "Helps with grip strength",
+                    "Can be done with minimal equipment",
+                    "Can be easily modified for different fitness levels"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Bent Arm Pullover Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Latissimus dorsi",
+                    "Pectoralis major",
+                    "Trapezius",
+                    "Rhomboids",
+                    "Triceps brachii",
+                    "Serratus anterior"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Bent Arm Pullover Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "dumbbell bent-arm pullover with bench",
+                    "dumbbell bent-arm pullover with stability ball",
+                    "dumbbell bent-arm pullover with resistance band",
+                    "dumbbell bent-arm pullover with cable machine",
+                    "dumbbell bent-arm pullover with dumbbell fly"
+                ]
+            }
+        }
+    ]
+}

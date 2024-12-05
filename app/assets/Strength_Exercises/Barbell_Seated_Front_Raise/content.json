@@ -1,0 +1,74 @@
+{
+    "title": "Barbell Seated Front Raise",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Barbell Seated Front Raise Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by sitting on a bench with your feet flat on the ground and your back straight.",
+                    "Hold a barbell with an overhand grip, hands shoulder-width apart, and rest it on your thighs.",
+                    "Slowly raise the barbell up to shoulder height, keeping your arms straight and your elbows slightly bent.",
+                    "Hold the position for a second, then slowly lower the barbell back down to your thighs.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Barbell Seated Front Raise Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Barbell Seated Front Raise Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the anterior deltoids, or front shoulder muscles",
+                    "Improves shoulder strength and stability",
+                    "Helps to develop a more defined and sculpted shoulder appearance",
+                    "Can be modified to target different areas of the shoulder by adjusting grip or range of motion",
+                    "Assists in improving posture and reducing risk of shoulder injuries"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Barbell Seated Front Raise Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Deltoids (anterior)",
+                    "Triceps",
+                    "Upper pectoralis major"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Barbell Seated Front Raise Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Seated Front Raise",
+                    "Cable Seated Front Raise",
+                    "Plate Seated Front Raise",
+                    "Barbell Standing Front Raise",
+                    "Dumbbell Standing Front Raise",
+                    "Cable Standing Front Raise",
+                    "Plate Standing Front Raise"
+                ]
+            }
+        }
+    ]
+}

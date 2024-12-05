@@ -1,0 +1,79 @@
+{
+    "title": "Hip External Rotator Stretch",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Hip External Rotator Stretch Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on your back with your knees bent and feet flat on the ground.",
+                    "Cross your right ankle over your left knee, creating a figure four shape with your legs.",
+                    "Use your right hand to gently press your right knee away from your body.",
+                    "Hold the stretch for 20-30 seconds, feeling a stretch in your right hip.",
+                    "Release the stretch and repeat on the other side."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Hip External Rotator Stretch Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Hip External Rotator Stretch Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves hip mobility and flexibility",
+                    "Reduces risk of hip and lower back pain",
+                    "Helps prevent injuries in the hip and lower body",
+                    "Can improve athletic performance in activities that require hip rotation, such as golf or tennis",
+                    "May alleviate tension and tightness in the hip muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Hip External Rotator Stretch Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Gluteus medius",
+                    "Gluteus minimus",
+                    "Piriformis",
+                    "Obturator internus",
+                    "Gemellus superior",
+                    "Gemellus inferior"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Hip External Rotator Stretch Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Seated Hip External Rotator Stretch",
+                    "Standing Hip External Rotator Stretch",
+                    "Lying Hip External Rotator Stretch",
+                    "Modified Pigeon Pose",
+                    "Butterfly Stretch",
+                    "Figure Four Stretch",
+                    "Wall Hip External Rotator Stretch",
+                    "Resistance Band Hip External Rotator Stretch",
+                    "Chair Hip External Rotator Stretch"
+                ]
+            }
+        }
+    ]
+}

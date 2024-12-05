@@ -1,0 +1,75 @@
+{
+    "title": "Dead Hang Stretch",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Dead Hang Stretch Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Find a sturdy bar or ledge that you can hang from with your arms fully extended.",
+                    "Jump up and grab onto the bar with an overhand grip, with your hands slightly wider than shoulder-width apart.",
+                    "Allow your body to hang freely, with your feet off the ground.",
+                    "Relax your shoulders and engage your core muscles to maintain a straight body position.",
+                    "Hold the stretch for 30-60 seconds, breathing deeply and trying to relax into the stretch.",
+                    "Release the bar and rest for a few seconds before repeating the stretch for 2-3 sets."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Dead Hang Stretch Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Dead Hang Stretch Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves shoulder mobility and flexibility",
+                    "Relieves tension and tightness in the upper back and neck",
+                    "Strengthens grip and forearms",
+                    "Can help prevent and alleviate shoulder and neck injuries",
+                    "Can improve posture and alignment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dead Hang Stretch Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Latissimus dorsi",
+                    "Trapezius",
+                    "Rhomboids",
+                    "Deltoids",
+                    "Forearms"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dead Hang Stretch Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Active Hang Stretch",
+                    "Passive Hang Stretch",
+                    "One Arm Hang Stretch",
+                    "Weighted Hang Stretch",
+                    "Shoulder Extension Hang Stretch"
+                ]
+            }
+        }
+    ]
+}

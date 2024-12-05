@@ -1,0 +1,76 @@
+{
+    "title": "Step Up Crossover",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Step Up Crossover Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand in front of a step or platform with your feet shoulder-width apart.",
+                    "Step up onto the platform with your right foot, keeping your left foot on the ground.",
+                    "As you step up, swing your left leg across your body and place your left foot on the platform.",
+                    "Step down with your right foot, keeping your left foot on the platform.",
+                    "Step back down with your left foot, returning to the starting position.",
+                    "Repeat the exercise, starting with your left foot."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Step Up Crossover Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Step Up Crossover Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets multiple muscle groups including glutes, quads, hamstrings, and calves",
+                    "Improves balance and stability",
+                    "Increases cardiovascular endurance",
+                    "Can be modified to increase or decrease intensity",
+                    "Requires minimal equipment and can be done at home or in the gym"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Step Up Crossover Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Step Up Crossover Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Step up with knee raise",
+                    "Step up with lateral leg lift",
+                    "Step up with front kick",
+                    "Crossover with knee raise",
+                    "Crossover with lateral leg lift",
+                    "Crossover with front kick"
+                ]
+            }
+        }
+    ]
+}

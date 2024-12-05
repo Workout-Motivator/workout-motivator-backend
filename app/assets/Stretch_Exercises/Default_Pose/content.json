@@ -1,0 +1,75 @@
+{
+    "title": "Default Pose",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Default Pose Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your arms at your sides.",
+                    "Engage your core muscles by pulling your belly button towards your spine.",
+                    "Roll your shoulders back and down, and lift your chest up.",
+                    "Relax your neck and gaze straight ahead.",
+                    "Breathe deeply and hold the pose for 30 seconds to 1 minute."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Default Pose Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Default Pose Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Stretches the shoulders, chest, and spine",
+                    "Strengthens the arms and legs",
+                    "Improves digestion and relieves stress",
+                    "Helps to calm the mind and improve focus",
+                    "Can help to alleviate symptoms of menopause"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Default Pose Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Abdominals",
+                    "Lower back"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Default Pose Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "One-legged downward dog",
+                    "Three-legged downward dog",
+                    "Downward dog with knee-to-nose",
+                    "Downward dog with leg lifts",
+                    "Downward dog with ankle rotations"
+                ]
+            }
+        }
+    ]
+}

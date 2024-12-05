@@ -1,0 +1,72 @@
+{
+    "title": "Pretzel Stretch",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Pretzel Stretch Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your arms at your sides.",
+                    "Take your right arm and reach it over your head to the left side of your body.",
+                    "Place your left hand on your right elbow and gently pull your right arm towards your left side, feeling a stretch in your right side.",
+                    "Hold the stretch for 15-30 seconds, then release and repeat on the other side."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Pretzel Stretch Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Pretzel Stretch Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves flexibility in the hips, glutes, and lower back",
+                    "Relieves tension in the lower back and hips",
+                    "Stretches the IT band and outer thighs",
+                    "Can help alleviate sciatica pain",
+                    "Can improve posture and balance"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Pretzel Stretch Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Glutes",
+                    "Hamstrings",
+                    "Lower back",
+                    "Hip flexors"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Pretzel Stretch Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Pretzel Twist",
+                    "Pretzel Lunge",
+                    "Pretzel Plank",
+                    "Pretzel Roll",
+                    "Pretzel Dip"
+                ]
+            }
+        }
+    ]
+}

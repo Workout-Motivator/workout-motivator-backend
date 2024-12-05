@@ -1,0 +1,72 @@
+{
+    "title": "Cable Kneeling Triceps Extension",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Cable Kneeling Triceps Extension Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Attach a rope or cable to a high pulley machine.",
+                    "Kneel down in front of the machine and grab the rope with both hands, palms facing down.",
+                    "Bring your hands to the back of your head, keeping your elbows close to your ears.",
+                    "Extend your arms upwards, straightening your elbows and contracting your triceps.",
+                    "Slowly lower the rope back down to the starting position, keeping your elbows close to your ears.",
+                    "Repeat for desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Cable Kneeling Triceps Extension Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Cable Kneeling Triceps Extension Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the triceps muscles, helping to tone and strengthen them",
+                    "Improves overall arm strength and definition",
+                    "Engages the core muscles for added stability and balance",
+                    "Can be easily modified to increase or decrease resistance, making it suitable for all fitness levels",
+                    "Requires minimal equipment and can be done at home or in the gym"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cable Kneeling Triceps Extension Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Triceps brachii",
+                    "Anconeus"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cable Kneeling Triceps Extension Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single Arm Cable Kneeling Triceps Extension",
+                    "Reverse Grip Cable Kneeling Triceps Extension",
+                    "Standing Cable Triceps Extension",
+                    "Overhead Cable Triceps Extension",
+                    "Close Grip Cable Triceps Extension"
+                ]
+            }
+        }
+    ]
+}

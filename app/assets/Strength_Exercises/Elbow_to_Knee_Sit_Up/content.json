@@ -1,0 +1,74 @@
+{
+    "title": "Elbow to Knee Sit Up",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Elbow to Knee Sit Up Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying flat on your back with your knees bent and your feet flat on the ground.",
+                    "Place your hands behind your head, with your elbows pointing out to the sides.",
+                    "Engage your core muscles and lift your head, shoulders, and upper back off the ground.",
+                    "As you lift, bring your right elbow towards your left knee, while extending your right leg out straight.",
+                    "Lower your upper body and leg back down to the starting position.",
+                    "Repeat the movement, this time bringing your left elbow towards your right knee, while extending your left leg out straight.",
+                    "Continue alternating sides for the desired number of repetitions or time."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Elbow to Knee Sit Up Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Elbow to Knee Sit Up Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the abdominal muscles, specifically the rectus abdominis and obliques",
+                    "Improves core strength and stability",
+                    "Increases flexibility in the spine and hips",
+                    "Can be modified for different fitness levels by adjusting the number of repetitions or adding weights",
+                    "Can be done without equipment, making it a convenient exercise to do at home or while traveling"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Elbow to Knee Sit Up Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus abdominis",
+                    "Obliques",
+                    "Hip flexors"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Elbow to Knee Sit Up Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Reverse Crunch",
+                    "Leg Raises",
+                    "Plank Knee to Elbow",
+                    "Russian Twist",
+                    "Mountain Climbers"
+                ]
+            }
+        }
+    ]
+}

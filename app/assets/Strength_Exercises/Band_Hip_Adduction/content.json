@@ -1,0 +1,76 @@
+{
+    "title": "Band Hip Adduction",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Band Hip Adduction Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Begin by lying on your side with your legs straight and stacked on top of each other.",
+                    "Place a resistance band around your ankles and hold onto something stable with your top hand for balance.",
+                    "Engage your core and glutes to lift your bottom leg up towards the ceiling, keeping it straight.",
+                    "Slowly lower your leg back down to the starting position.",
+                    "Repeat for the desired number of repetitions, then switch sides and repeat."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Band Hip Adduction Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Band Hip Adduction Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the hip adductor muscles",
+                    "Improves hip stability and balance",
+                    "Helps prevent injuries in the hip and knee joints",
+                    "Can be done with minimal equipment and space",
+                    "Can be easily modified for different fitness levels"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Band Hip Adduction Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Inner thigh muscles (adductors)",
+                    "Gluteus medius"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Band Hip Adduction Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Band hip abduction",
+                    "Side-lying leg lifts",
+                    "Clamshells",
+                    "Fire hydrants",
+                    "Standing hip abductions",
+                    "Single-leg deadlifts",
+                    "Glute bridges",
+                    "Donkey kicks",
+                    "Plank leg lifts",
+                    "Resistance band squats"
+                ]
+            }
+        }
+    ]
+}

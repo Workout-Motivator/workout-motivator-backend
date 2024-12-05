@@ -1,0 +1,71 @@
+{
+    "title": "Cable Forward Raise",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Cable Forward Raise Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a cable in each hand with your palms facing down.",
+                    "Bring your arms forward and up until they are parallel to the ground, keeping your elbows slightly bent.",
+                    "Hold for a second, then slowly lower your arms back down to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Cable Forward Raise Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Cable Forward Raise Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the anterior deltoid muscle, which is responsible for shoulder flexion and abduction",
+                    "Helps to improve shoulder stability and mobility",
+                    "Can be performed with varying resistance levels to challenge the muscles and promote strength gains",
+                    "Allows for a controlled and isolated movement, reducing the risk of injury",
+                    "Can be easily modified to target different areas of the shoulder and upper body"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cable Forward Raise Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Anterior deltoid",
+                    "Lateral deltoid",
+                    "Supraspinatus"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cable Forward Raise Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Forward Raise",
+                    "Resistance Band Forward Raise",
+                    "Plate Forward Raise",
+                    "Barbell Forward Raise",
+                    "Single Arm Cable Forward Raise"
+                ]
+            }
+        }
+    ]
+}

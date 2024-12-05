@@ -1,0 +1,74 @@
+{
+    "title": "Leg Pull",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Leg Pull Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on your back with your legs extended straight up towards the ceiling.",
+                    "Place your hands behind your head and engage your core muscles.",
+                    "Slowly lower one leg towards the ground, keeping it straight and maintaining control.",
+                    "As you lower your leg, simultaneously pull the other leg towards your chest, using your core muscles to lift your upper body off the ground.",
+                    "Hold this position for a few seconds, then switch legs and repeat the movement.",
+                    "Continue alternating legs for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Leg Pull Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Leg Pull Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves flexibility in the hamstrings",
+                    "Reduces risk of injury in the lower back and legs",
+                    "Increases blood flow to the legs",
+                    "Helps to alleviate lower back pain",
+                    "Can be done anywhere without equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Leg Pull Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Glutes",
+                    "Calves"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Leg Pull Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Leg pull with resistance band",
+                    "Single leg pull",
+                    "Leg pull on stability ball",
+                    "Reverse leg pull",
+                    "Leg pull with dumbbells"
+                ]
+            }
+        }
+    ]
+}

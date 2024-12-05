@@ -1,0 +1,77 @@
+{
+    "title": "Knee Raise",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Knee Raise Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand up straight with your feet shoulder-width apart.",
+                    "Place your hands on your hips or extend them out in front of you.",
+                    "Lift your right knee up towards your chest while keeping your left foot firmly planted on the ground.",
+                    "Lower your right leg back down to the starting position.",
+                    "Repeat the movement with your left leg.",
+                    "Continue alternating legs for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Knee Raise Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Knee Raise Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens glutes and hamstrings",
+                    "Improves hip mobility and stability",
+                    "Helps to prevent lower back pain",
+                    "Can be done with minimal equipment",
+                    "Can be modified for different fitness levels"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Knee Raise Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus abdominis",
+                    "Obliques",
+                    "Hip flexors"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Knee Raise Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "High knee raise",
+                    "Low knee raise",
+                    "Alternating knee raise",
+                    "Oblique knee raise",
+                    "Reverse knee raise",
+                    "Single-leg knee raise",
+                    "Weighted knee raise",
+                    "Standing knee raise",
+                    "Seated knee raise"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "title": "Dumbbell Seated Bent Over Rear Delt Row",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Seated Bent Over Rear Delt Row Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by sitting on a bench with your feet flat on the ground and a dumbbell in each hand.",
+                    "Lean forward at the hips, keeping your back straight and your chest up.",
+                    "Extend your arms straight down towards the ground, with your palms facing each other.",
+                    "Slowly lift the dumbbells up towards your chest, keeping your elbows close to your body.",
+                    "Squeeze your shoulder blades together at the top of the movement.",
+                    "Lower the dumbbells back down to the starting position, keeping your back straight and your chest up.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Seated Bent Over Rear Delt Row Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Seated Bent Over Rear Delt Row Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the rear deltoids, which are often neglected in traditional back exercises",
+                    "Improves posture by strengthening the upper back muscles",
+                    "Increases shoulder stability and mobility",
+                    "Can be performed with a variety of weights and equipment, making it accessible for all fitness levels",
+                    "Engages the core muscles for added stability and strength"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Seated Bent Over Rear Delt Row Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rhomboids",
+                    "Trapezius",
+                    "Posterior deltoids",
+                    "Erector spinae",
+                    "Latissimus dorsi"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Seated Bent Over Rear Delt Row Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Seated Bent Over Rear Delt Row with palms facing each other",
+                    "Dumbbell Seated Bent Over Rear Delt Row with palms facing down",
+                    "Dumbbell Seated Bent Over Rear Delt Row with alternating arms",
+                    "Dumbbell Seated Bent Over Rear Delt Row with resistance band",
+                    "Dumbbell Seated Bent Over Rear Delt Row with barbell"
+                ]
+            }
+        }
+    ]
+}

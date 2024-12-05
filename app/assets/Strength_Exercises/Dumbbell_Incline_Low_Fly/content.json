@@ -1,0 +1,72 @@
+{
+    "title": "Dumbbell Incline Low Fly",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Incline Low Fly Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on an incline bench with a dumbbell in each hand.",
+                    "Extend your arms straight up above your chest, with your palms facing each other and the dumbbells touching.",
+                    "Slowly lower the dumbbells out to the sides, keeping a slight bend in your elbows.",
+                    "Lower the dumbbells until you feel a stretch in your chest muscles.",
+                    "Pause for a moment, then slowly bring the dumbbells back up to the starting position.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Incline Low Fly Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Incline Low Fly Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the upper chest muscles",
+                    "Helps to improve overall chest definition and shape",
+                    "Increases strength and stability in the chest and shoulder muscles",
+                    "Can be performed with a variety of weights and angles to increase difficulty and target specific areas of the chest",
+                    "Can be done with dumbbells or resistance bands for added variety"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Incline Low Fly Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Chest muscles (pectoralis major and minor)",
+                    "Shoulder muscles (anterior deltoids)"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Incline Low Fly Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Incline High Fly",
+                    "Dumbbell Incline Middle Fly",
+                    "Dumbbell Incline Reverse Fly",
+                    "Dumbbell Incline Press",
+                    "Dumbbell Incline Bench Row"
+                ]
+            }
+        }
+    ]
+}

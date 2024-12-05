@@ -1,0 +1,74 @@
+{
+    "title": "Twisting Crunch",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Twisting Crunch Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on your back with your knees bent and feet flat on the ground.",
+                    "Place your hands behind your head, with your elbows pointing out to the sides.",
+                    "Engage your core muscles by pulling your belly button towards your spine.",
+                    "Slowly lift your head, shoulders, and upper back off the ground, while twisting your torso to the right.",
+                    "Hold for a few seconds, then lower back down to the starting position.",
+                    "Repeat the movement, this time twisting your torso to the left.",
+                    "Continue alternating sides for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Twisting Crunch Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Twisting Crunch Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the oblique muscles, which are responsible for twisting and rotating movements of the torso",
+                    "Strengthens the core muscles, including the rectus abdominis and transverse abdominis",
+                    "Improves spinal mobility and flexibility",
+                    "Can help alleviate lower back pain by strengthening the muscles that support the spine",
+                    "Can be modified to increase or decrease the intensity, making it suitable for all fitness levels"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Twisting Crunch Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus abdominis",
+                    "Obliques",
+                    "Transverse abdominis"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Twisting Crunch Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Twisting Bicycle Crunch",
+                    "Twisting Russian Twist",
+                    "Twisting Plank",
+                    "Twisting Mountain Climber",
+                    "Twisting Leg Lifts"
+                ]
+            }
+        }
+    ]
+}

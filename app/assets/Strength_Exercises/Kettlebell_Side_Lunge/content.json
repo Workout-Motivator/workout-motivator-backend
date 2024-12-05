@@ -1,0 +1,79 @@
+{
+    "title": "Kettlebell Side Lunge",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Side Lunge Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a kettlebell in both hands at chest level.",
+                    "Take a big step to the side with your right foot, keeping your left foot planted and your toes pointing forward.",
+                    "Bend your right knee and lower your body down into a lunge, keeping your chest up and your back straight.",
+                    "Push off with your right foot and return to the starting position.",
+                    "Repeat on the other side, stepping out with your left foot and lunging down with your left leg.",
+                    "Continue alternating sides for the desired number of repetitions or time."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Side Lunge Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Side Lunge Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the core muscles",
+                    "Improves balance and stability",
+                    "Targets the obliques and glutes",
+                    "Increases overall body strength",
+                    "Can be modified for different fitness levels",
+                    "Improves posture and alignment",
+                    "Can be done at home or in the gym"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Side Lunge Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Glutes",
+                    "Calves",
+                    "Abdominals",
+                    "Obliques",
+                    "Lower back"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Side Lunge Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "kettlebell goblet side lunge",
+                    "kettlebell racked side lunge",
+                    "kettlebell suitcase side lunge",
+                    "kettlebell overhead side lunge",
+                    "kettlebell lateral lunge"
+                ]
+            }
+        }
+    ]
+}

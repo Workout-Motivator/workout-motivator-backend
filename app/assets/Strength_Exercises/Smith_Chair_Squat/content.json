@@ -1,0 +1,74 @@
+{
+    "title": "Smith Chair Squat",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Smith Chair Squat Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your toes pointing forward.",
+                    "Hold a chair in front of you with both hands, keeping your arms straight.",
+                    "Slowly lower your body down into a squat position, keeping your back straight and your knees behind your toes.",
+                    "Pause for a moment at the bottom of the squat, then slowly rise back up to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Smith Chair Squat Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Smith Chair Squat Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the lower body muscles, including the quadriceps, hamstrings, and glutes",
+                    "Improves balance and stability",
+                    "Targets the core muscles, including the abdominals and lower back",
+                    "Can be modified for different fitness levels and abilities",
+                    "Allows for proper form and technique with the assistance of the Smith machine"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Smith Chair Squat Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Smith Chair Squat Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Smith Machine Squat",
+                    "Chair Squat with Dumbbells",
+                    "Single Leg Smith Machine Squat",
+                    "Chair Squat with Resistance Bands",
+                    "Smith Machine Front Squat"
+                ]
+            }
+        }
+    ]
+}

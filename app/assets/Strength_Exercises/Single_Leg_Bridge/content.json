@@ -1,0 +1,73 @@
+{
+    "title": "Single Leg Bridge",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Single Leg Bridge Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Lie on your back with your knees bent and feet flat on the ground.",
+                    "Lift one leg off the ground and extend it straight up towards the ceiling.",
+                    "Press your other foot into the ground and lift your hips up towards the ceiling.",
+                    "Hold for a few seconds, then lower your hips back down to the ground.",
+                    "Repeat for the desired number of reps, then switch legs and repeat on the other side."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Single Leg Bridge Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Single Leg Bridge Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens glutes, hamstrings, and lower back muscles",
+                    "Improves hip stability and balance",
+                    "Helps alleviate lower back pain",
+                    "Increases flexibility in hip flexors and quadriceps",
+                    "Can be modified for different fitness levels and injuries"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Single Leg Bridge Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Glutes",
+                    "Hamstrings",
+                    "Lower back",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Single Leg Bridge Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single Leg Bridge with Leg Extension",
+                    "Single Leg Bridge with Hip Abduction",
+                    "Single Leg Bridge with Knee Drive",
+                    "Single Leg Bridge with Leg Curl",
+                    "Single Leg Bridge with Dumbbell Press"
+                ]
+            }
+        }
+    ]
+}

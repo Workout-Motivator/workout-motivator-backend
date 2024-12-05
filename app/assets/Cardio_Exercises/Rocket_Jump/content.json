@@ -1,0 +1,80 @@
+{
+    "title": "Rocket Jump",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Rocket Jump Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart.",
+                    "Bend your knees and lower your body into a squat position.",
+                    "Swing your arms back behind you.",
+                    "Jump up explosively, swinging your arms forward and pushing off the ground with your feet.",
+                    "As you reach the peak of your jump, tuck your knees into your chest.",
+                    "Extend your legs back out as you land, absorbing the impact with your legs.",
+                    "Repeat for desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Rocket Jump Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Rocket Jump Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves explosive power in the legs",
+                    "Increases vertical jump height",
+                    "Develops coordination and balance",
+                    "Engages core muscles for stability",
+                    "Burns calories and improves cardiovascular health"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Rocket Jump Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Calves",
+                    "Hamstrings",
+                    "Core muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Rocket Jump Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Double Rocket Jump",
+                    "Single Leg Rocket Jump",
+                    "180 Degree Rocket Jump",
+                    "360 Degree Rocket Jump",
+                    "Backward Rocket Jump",
+                    "Side-to-Side Rocket Jump",
+                    "Box Jump Rocket Jump",
+                    "Depth Jump Rocket Jump",
+                    "Weighted Rocket Jump"
+                ]
+            }
+        }
+    ]
+}

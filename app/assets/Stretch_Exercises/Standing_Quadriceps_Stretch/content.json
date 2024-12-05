@@ -1,0 +1,70 @@
+{
+    "title": "Standing Quadriceps Stretch",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Standing Quadriceps Stretch Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand up straight with your feet hip-width apart.",
+                    "Shift your weight onto your left foot and bend your right knee, bringing your heel towards your buttocks.",
+                    "Use your right hand to grasp your ankle and gently pull your heel towards your buttocks until you feel a stretch in your quadriceps muscle.",
+                    "Hold the stretch for 15-30 seconds, making sure to keep your knees close together and your hips level.",
+                    "Release the stretch and repeat on the other side."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Standing Quadriceps Stretch Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Standing Quadriceps Stretch Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves flexibility and range of motion in the quadriceps muscles",
+                    "Reduces muscle tension and soreness in the quadriceps",
+                    "Helps to prevent injury in the quadriceps and surrounding muscles",
+                    "Can improve posture and balance",
+                    "May help to alleviate lower back pain"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Standing Quadriceps Stretch Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Standing Quadriceps Stretch Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Seated Quadriceps Stretch",
+                    "Lying Quadriceps Stretch",
+                    "Wall Quadriceps Stretch",
+                    "Standing Quad Stretch with Towel",
+                    "Standing Quad Stretch with Resistance Band"
+                ]
+            }
+        }
+    ]
+}

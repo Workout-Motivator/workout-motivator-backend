@@ -1,0 +1,73 @@
+{
+    "title": "Band Good Morning",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Band Good Morning Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your arms at your sides.",
+                    "Place a resistance band under the arches of your feet and hold the ends of the band with your hands.",
+                    "Engage your core and slowly hinge forward at the hips, keeping your back straight and your knees slightly bent.",
+                    "As you hinge forward, lift your arms straight out in front of you until they are parallel to the ground.",
+                    "Hold this position for a few seconds, then slowly return to the starting position.",
+                    "Repeat for 10-15 reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Band Good Morning Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Band Good Morning Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the lower back muscles",
+                    "Improves hip mobility and flexibility",
+                    "Targets the glutes and hamstrings",
+                    "Can be modified for different fitness levels",
+                    "Helps improve posture and balance"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Band Good Morning Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Erector Spinae",
+                    "Glutes",
+                    "Hamstrings"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Band Good Morning Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Band Good Morning with Resistance Band",
+                    "Band Good Morning with Dumbbells",
+                    "Single Leg Band Good Morning",
+                    "Sumo Stance Band Good Morning",
+                    "Barbell Good Morning"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "title": "High Knee Run",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "High Knee Run Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet hip-width apart and your arms at your sides.",
+                    "Lift your right knee up towards your chest while simultaneously lifting your left arm up towards the sky.",
+                    "Lower your right leg and left arm back down to the starting position.",
+                    "Repeat the movement with your left knee and right arm.",
+                    "Continue alternating legs and arms, moving quickly to create a running motion.",
+                    "Try to bring your knees up as high as possible while maintaining good form.",
+                    "Perform the exercise for 30-60 seconds, or as long as you can maintain proper form."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "High Knee Run Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "High Knee Run Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves cardiovascular endurance",
+                    "Increases leg strength and power",
+                    "Improves coordination and balance",
+                    "Engages core muscles for stability",
+                    "Burns calories and aids in weight loss",
+                    "Can be done anywhere with no equipment needed"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "High Knee Run Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Glutes",
+                    "Calf muscles",
+                    "Abdominals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "High Knee Run Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "High Knee March",
+                    "High Knee Skip",
+                    "High Knee Sprint",
+                    "High Knee Jog",
+                    "High Knee Butt Kick"
+                ]
+            }
+        }
+    ]
+}

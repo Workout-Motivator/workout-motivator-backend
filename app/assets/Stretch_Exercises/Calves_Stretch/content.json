@@ -1,0 +1,72 @@
+{
+    "title": "Calves Stretch",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Calves Stretch Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand facing a wall with your hands on the wall at shoulder height.",
+                    "Step back with one foot, keeping your heel on the ground.",
+                    "Bend your front knee and lean towards the wall, keeping your back leg straight.",
+                    "You should feel a stretch in your calf muscle.",
+                    "Hold the stretch for 15-30 seconds.",
+                    "Switch legs and repeat the stretch."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Calves Stretch Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Calves Stretch Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves flexibility and range of motion in the calves",
+                    "Reduces the risk of injury in the lower legs and feet",
+                    "Relieves tension and tightness in the calves",
+                    "Can help alleviate plantar fasciitis and other foot conditions",
+                    "May improve overall posture and balance"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Calves Stretch Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Gastrocnemius",
+                    "Soleus"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Calves Stretch Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Standing calf stretch",
+                    "Seated calf stretch",
+                    "Wall calf stretch",
+                    "Stair calf stretch",
+                    "Toe raise calf stretch"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "title": "Resistance Band Side Plank",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Resistance Band Side Plank Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by placing a resistance band around your thighs, just above your knees.",
+                    "Lie on your side with your legs straight and your elbow directly under your shoulder.",
+                    "Engage your core and lift your hips off the ground, creating a straight line from your head to your feet.",
+                    "Hold this position for a few seconds, then lower your hips back down to the ground.",
+                    "Repeat for several reps on one side before switching to the other side."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Resistance Band Side Plank Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Resistance Band Side Plank Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the core muscles, including the obliques, rectus abdominis, and transverse abdominis",
+                    "Improves balance and stability",
+                    "Targets the muscles in the hips and glutes",
+                    "Increases overall body strength and endurance",
+                    "Can be modified for different fitness levels and abilities",
+                    "Requires minimal equipment and can be done at home or in a gym"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Resistance Band Side Plank Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Obliques",
+                    "Transverse Abdominis",
+                    "Glutes",
+                    "Quadratus Lumborum"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Resistance Band Side Plank Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Resistance Band Side Plank with Leg Lift",
+                    "Resistance Band Side Plank with Arm Reach",
+                    "Resistance Band Side Plank with Hip Dip",
+                    "Resistance Band Side Plank with Knee Tuck",
+                    "Resistance Band Side Plank with Row"
+                ]
+            }
+        }
+    ]
+}

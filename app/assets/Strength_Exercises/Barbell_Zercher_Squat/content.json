@@ -1,0 +1,83 @@
+{
+    "title": "Barbell Zercher Squat",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Barbell Zercher Squat Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by standing with your feet shoulder-width apart and your toes pointing slightly outward.",
+                    "Place the barbell on the ground in front of you and position yourself so that the bar is in the crook of your elbows.",
+                    "Grasp the bar with both hands and lift it up to your chest, keeping your elbows close to your body.",
+                    "Bend your knees and lower your hips down and back as if you were sitting in a chair.",
+                    "Keep your chest up and your back straight as you descend into the squat.",
+                    "Lower yourself until your thighs are parallel to the ground or lower if you can.",
+                    "Push through your heels and stand back up to the starting position.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Barbell Zercher Squat Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Barbell Zercher Squat Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets multiple muscle groups including quads, glutes, hamstrings, and core",
+                    "Improves overall lower body strength and power",
+                    "Increases grip strength and forearm endurance",
+                    "Can be used as a variation to traditional back squats",
+                    "Allows for a more upright torso position, reducing strain on the lower back"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Barbell Zercher Squat Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Core",
+                    "Upper back",
+                    "Biceps"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Barbell Zercher Squat Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Front Squat",
+                    "Back Squat",
+                    "Sumo Squat",
+                    "Goblet Squat",
+                    "Split Squat",
+                    "Bulgarian Split Squat",
+                    "Box Squat",
+                    "Pause Squat",
+                    "Jump Squat",
+                    "Single Leg Squat"
+                ]
+            }
+        }
+    ]
+}

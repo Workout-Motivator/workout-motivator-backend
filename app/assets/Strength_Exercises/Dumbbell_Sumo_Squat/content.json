@@ -1,0 +1,76 @@
+{
+    "title": "Dumbbell Sumo Squat",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Sumo Squat Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet wider than shoulder-width apart and your toes pointing slightly outward.",
+                    "Hold a dumbbell with both hands in front of your body, with your arms straight and your palms facing down.",
+                    "Lower your body by bending your knees and pushing your hips back, keeping your chest up and your back straight.",
+                    "Lower yourself until your thighs are parallel to the ground, or as low as you can go while maintaining good form.",
+                    "Push through your heels to stand back up to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Sumo Squat Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Sumo Squat Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens leg muscles, including quadriceps, hamstrings, and glutes",
+                    "Improves balance and stability",
+                    "Increases core strength and stability",
+                    "Can be modified to target different muscle groups or add difficulty",
+                    "Can be done with minimal equipment and in a variety of settings"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Sumo Squat Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Lower back",
+                    "Abdominals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Sumo Squat Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "dumbbell goblet squat",
+                    "barbell sumo squat",
+                    "dumbbell front squat",
+                    "kettlebell sumo squat",
+                    "bodyweight sumo squat"
+                ]
+            }
+        }
+    ]
+}

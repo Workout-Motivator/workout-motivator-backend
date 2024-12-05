@@ -1,0 +1,76 @@
+{
+    "title": "Front Plank With Leg Lift",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Front Plank With Leg Lift Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start in a plank position with your forearms on the ground and your elbows directly under your shoulders.",
+                    "Engage your core and lift one leg off the ground, keeping it straight and parallel to the floor.",
+                    "Hold for a few seconds, then lower your leg back down to the ground.",
+                    "Repeat with the other leg.",
+                    "Continue alternating legs for the desired number of repetitions or time."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Front Plank With Leg Lift Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Front Plank With Leg Lift Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens core muscles",
+                    "Improves balance and stability",
+                    "Targets multiple muscle groups including abs, obliques, shoulders, and hips",
+                    "Increases flexibility in hips and spine",
+                    "Can be modified for different fitness levels",
+                    "Helps prevent lower back pain"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Front Plank With Leg Lift Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus abdominis",
+                    "Transverse abdominis",
+                    "Obliques",
+                    "Erector spinae",
+                    "Glutes",
+                    "Quadriceps"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Front Plank With Leg Lift Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Side plank with leg lift",
+                    "Reverse plank with leg lift",
+                    "Plank with knee-to-elbow twist",
+                    "Plank with hip dips",
+                    "Plank with shoulder taps"
+                ]
+            }
+        }
+    ]
+}

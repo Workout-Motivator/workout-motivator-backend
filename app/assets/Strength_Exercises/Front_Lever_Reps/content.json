@@ -1,0 +1,76 @@
+{
+    "title": "Front Lever Reps",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Front Lever Reps Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Find a sturdy horizontal bar that can support your weight.",
+                    "Jump up and grab the bar with an overhand grip, with your hands shoulder-width apart.",
+                    "Engage your core and slowly lift your legs up until they are parallel to the ground.",
+                    "Hold this position for as long as you can, aiming for at least 5 seconds.",
+                    "Slowly lower your legs back down to the starting position.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Front Lever Reps Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Front Lever Reps Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the core and upper body muscles",
+                    "Improves grip strength and overall body control",
+                    "Increases shoulder stability and mobility",
+                    "Helps to prevent injuries in the upper body",
+                    "Challenges the mind-body connection and improves focus"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Front Lever Reps Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Latissimus dorsi",
+                    "Trapezius",
+                    "Rhomboids",
+                    "Abdominals",
+                    "Forearms"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Front Lever Reps Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Advanced Tuck Front Lever Reps",
+                    "Straddle Front Lever Reps",
+                    "Full Front Lever Reps",
+                    "One Arm Front Lever Reps",
+                    "Front Lever Pulls",
+                    "Front Lever Rows"
+                ]
+            }
+        }
+    ]
+}

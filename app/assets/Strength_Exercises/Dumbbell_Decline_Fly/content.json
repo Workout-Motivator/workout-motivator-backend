@@ -1,0 +1,73 @@
+{
+    "title": "Dumbbell Decline Fly",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Decline Fly Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on a decline bench with your feet secured at the end of the bench and your head at the top.",
+                    "Hold a dumbbell in each hand with your palms facing each other and your arms extended above your chest.",
+                    "Slowly lower the dumbbells out to the sides, keeping a slight bend in your elbows, until your arms are parallel to the floor.",
+                    "Pause for a moment, then slowly bring the dumbbells back up to the starting position, squeezing your chest muscles as you do so.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Decline Fly Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Decline Fly Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the lower portion of the chest muscles",
+                    "Increases chest muscle strength and definition",
+                    "Improves overall upper body strength and stability",
+                    "Helps to prevent shoulder injuries by strengthening the surrounding muscles",
+                    "Can be easily modified for different fitness levels by adjusting the weight of the dumbbells"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Decline Fly Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Pectoralis Major (lower fibers)",
+                    "Anterior Deltoid",
+                    "Triceps Brachii"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Decline Fly Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Incline Fly",
+                    "Dumbbell Flat Fly",
+                    "Cable Decline Fly",
+                    "Cable Incline Fly",
+                    "Cable Fly",
+                    "Pec Deck Machine Fly"
+                ]
+            }
+        }
+    ]
+}

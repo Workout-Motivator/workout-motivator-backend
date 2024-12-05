@@ -1,0 +1,82 @@
+{
+    "title": "Kettlebell One Arm Clean",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell One Arm Clean Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and the kettlebell on the floor in front of you.",
+                    "Bend down and grab the kettlebell with one hand, keeping your back straight and your core engaged.",
+                    "Stand up quickly, using the momentum to bring the kettlebell up to your shoulder in one fluid motion.",
+                    "Pause for a moment at the top, making sure your elbow is tucked in and your wrist is straight.",
+                    "Lower the kettlebell back down to the starting position, keeping your back straight and your core engaged.",
+                    "Repeat for the desired number of reps, then switch to the other arm."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell One Arm Clean Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell One Arm Clean Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves grip strength",
+                    "Increases power and explosiveness in the hips and legs",
+                    "Targets multiple muscle groups including the shoulders, back, and core",
+                    "Improves coordination and balance",
+                    "Can be modified for different fitness levels and goals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell One Arm Clean Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Forearms",
+                    "Biceps",
+                    "Shoulders",
+                    "Back",
+                    "Glutes",
+                    "Hamstrings",
+                    "Quadriceps",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell One Arm Clean Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Kettlebell One Arm Clean and Press",
+                    "Kettlebell One Arm Clean and Jerk",
+                    "Kettlebell One Arm Clean and Squat",
+                    "Kettlebell One Arm Clean and Snatch",
+                    "Kettlebell Double Clean",
+                    "Kettlebell Double Clean and Press",
+                    "Kettlebell Double Clean and Jerk",
+                    "Kettlebell Double Clean and Squat",
+                    "Kettlebell Double Clean and Snatch"
+                ]
+            }
+        }
+    ]
+}

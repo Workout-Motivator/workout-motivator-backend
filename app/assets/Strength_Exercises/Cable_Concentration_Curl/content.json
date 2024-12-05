@@ -1,0 +1,75 @@
+{
+    "title": "Cable Concentration Curl",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Cable Concentration Curl Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Attach a cable to a low pulley and select the appropriate weight.",
+                    "Stand facing the cable machine with your feet shoulder-width apart and your knees slightly bent.",
+                    "Grasp the cable handle with an underhand grip and bring it up to your chest, keeping your elbows close to your sides.",
+                    "Hold the contraction for a second and then slowly lower the cable back down to the starting position.",
+                    "Repeat for the desired number of reps.",
+                    "Switch arms and repeat the exercise on the other side."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Cable Concentration Curl Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Cable Concentration Curl Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the biceps brachii muscle, helping to increase arm strength and size",
+                    "Allows for a greater range of motion compared to traditional dumbbell curls",
+                    "Helps to isolate the biceps muscle, reducing the involvement of other muscles in the movement",
+                    "Can be performed with different cable attachments to vary the exercise and target different areas of the biceps",
+                    "May be a good alternative for those with wrist or elbow pain who cannot perform traditional curls with dumbbells"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cable Concentration Curl Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Biceps brachii",
+                    "Brachialis",
+                    "Brachioradialis"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cable Concentration Curl Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single-arm Cable Concentration Curl",
+                    "Double-arm Cable Concentration Curl",
+                    "Seated Cable Concentration Curl",
+                    "Standing Cable Concentration Curl",
+                    "Reverse-grip Cable Concentration Curl",
+                    "Close-grip Cable Concentration Curl",
+                    "Wide-grip Cable Concentration Curl"
+                ]
+            }
+        }
+    ]
+}

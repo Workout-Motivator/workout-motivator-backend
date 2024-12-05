@@ -1,0 +1,77 @@
+{
+    "title": "Cable Twist",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Cable Twist Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a cable handle with both hands.",
+                    "Extend your arms straight out in front of you, keeping your elbows slightly bent.",
+                    "Slowly twist your torso to the right, pulling the cable across your body.",
+                    "Pause for a moment, then slowly twist back to the starting position.",
+                    "Repeat the twist to the left side, pulling the cable across your body.",
+                    "Pause for a moment, then slowly twist back to the starting position.",
+                    "Continue alternating twists for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Cable Twist Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Cable Twist Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the oblique muscles, which are important for core stability and rotational movements",
+                    "Improves overall core strength and endurance",
+                    "Can help improve posture and reduce lower back pain",
+                    "Can be easily modified to increase or decrease resistance",
+                    "Can be performed with a cable machine or resistance band, making it accessible for most fitness levels"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cable Twist Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Obliques",
+                    "Rectus Abdominis",
+                    "Transverse Abdominis",
+                    "Erector Spinae",
+                    "Quadratus Lumborum"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cable Twist Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Standing Cable Twist",
+                    "Seated Cable Twist",
+                    "Half-Kneeling Cable Twist",
+                    "Single-Arm Cable Twist",
+                    "Low-to-High Cable Twist",
+                    "High-to-Low Cable Twist"
+                ]
+            }
+        }
+    ]
+}

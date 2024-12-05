@@ -1,0 +1,73 @@
+{
+    "title": "Dumbbell Single Stiff Leg Deadlift",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Single Stiff Leg Deadlift Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet hip-width apart, holding a dumbbell in your right hand with your palm facing your body.",
+                    "Shift your weight onto your left foot and lift your right foot off the ground, extending it behind you.",
+                    "Keeping your back straight and your core engaged, hinge forward at the hips and lower the dumbbell towards the ground, while lifting your right leg higher behind you.",
+                    "Lower the dumbbell as far as you can while maintaining good form, then slowly return to the starting position.",
+                    "Repeat for the desired number of reps, then switch sides and repeat with the dumbbell in your left hand."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Single Stiff Leg Deadlift Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Single Stiff Leg Deadlift Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the hamstrings, glutes, and lower back muscles",
+                    "Improves balance and stability",
+                    "Increases flexibility in the hamstrings and hips",
+                    "Targets each leg individually, helping to correct muscle imbalances",
+                    "Can be modified to challenge different fitness levels by adjusting weight and reps"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Single Stiff Leg Deadlift Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Hamstrings",
+                    "Glutes",
+                    "Lower back",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Single Stiff Leg Deadlift Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Single Leg Deadlift",
+                    "Barbell Single Leg Deadlift",
+                    "Kettlebell Single Leg Deadlift",
+                    "Bodyweight Single Leg Deadlift",
+                    "Resistance Band Single Leg Deadlift"
+                ]
+            }
+        }
+    ]
+}

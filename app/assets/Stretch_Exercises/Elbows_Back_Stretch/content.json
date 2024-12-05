@@ -1,0 +1,73 @@
+{
+    "title": "Elbows Back Stretch",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Elbows Back Stretch Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your arms at your sides.",
+                    "Slowly raise your arms behind you, keeping your elbows close to your body.",
+                    "As you raise your arms, squeeze your shoulder blades together and hold for 10-15 seconds.",
+                    "Slowly lower your arms back down to your sides.",
+                    "Repeat the stretch 2-3 times."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Elbows Back Stretch Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Elbows Back Stretch Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Relieves tension and tightness in the upper back and shoulders",
+                    "Improves posture by opening up the chest and shoulders",
+                    "Increases flexibility and range of motion in the shoulders",
+                    "Can help alleviate pain and discomfort caused by sitting at a desk or computer for long periods of time",
+                    "May also help reduce the risk of developing upper back and neck pain or injuries"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Elbows Back Stretch Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Triceps",
+                    "Rhomboids",
+                    "Trapezius",
+                    "Deltoids"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Elbows Back Stretch Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Elbows Forward Stretch",
+                    "Elbows Up Stretch",
+                    "Elbows Down Stretch",
+                    "Elbows Side Stretch",
+                    "Elbows Rotational Stretch"
+                ]
+            }
+        }
+    ]
+}

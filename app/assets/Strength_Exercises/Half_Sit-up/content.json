@@ -1,0 +1,79 @@
+{
+    "title": "Half Sit-up",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Half Sit-up Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on your back with your knees bent and feet flat on the ground.",
+                    "Place your hands behind your head, with your elbows pointing out to the sides.",
+                    "Engage your core muscles by pulling your belly button towards your spine.",
+                    "Lift your head, neck, and shoulders off the ground, while keeping your lower back on the ground.",
+                    "Pause for a moment at the top of the movement, then slowly lower yourself back down to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Half Sit-up Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Half Sit-up Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Stretches the hamstrings, shoulders, and spine",
+                    "Improves circulation and digestion",
+                    "Increases energy and focus",
+                    "Helps relieve stress and anxiety",
+                    "Can be done quickly and easily, making it a great addition to a busy schedule"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Half Sit-up Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus abdominis",
+                    "Obliques",
+                    "Transverse abdominis",
+                    "Hip flexors"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Half Sit-up Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Full sit-up",
+                    "Crunch",
+                    "Reverse crunch",
+                    "Russian twist",
+                    "Plank with knee tuck",
+                    "Bicycle crunch",
+                    "Leg raises",
+                    "Side plank with hip dip",
+                    "Mountain climbers",
+                    "Flutter kicks"
+                ]
+            }
+        }
+    ]
+}

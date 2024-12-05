@@ -1,0 +1,81 @@
+{
+    "title": "Barbell Chest Press on Stability Ball",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Barbell Chest Press on Stability Ball Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Choose a weight that is appropriate for your fitness level and goals.",
+                    "Sit on the stability ball with your feet flat on the ground and your knees bent at a 90-degree angle.",
+                    "Hold the barbell with an overhand grip, with your hands slightly wider than shoulder-width apart.",
+                    "Slowly lower the barbell towards your chest, keeping your elbows close to your body.",
+                    "Pause for a moment when the barbell is just above your chest.",
+                    "Push the barbell back up to the starting position, keeping your elbows close to your body.",
+                    "Repeat for the desired number of repetitions.",
+                    "When finished, carefully place the barbell back on the rack."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Barbell Chest Press on Stability Ball Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Barbell Chest Press on Stability Ball Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Engages multiple muscle groups including chest, shoulders, triceps, and core",
+                    "Improves overall upper body strength and endurance",
+                    "Increases stability and balance due to use of stability ball",
+                    "Allows for a greater range of motion compared to traditional bench press",
+                    "Can be modified for different fitness levels by adjusting weight and stability ball size"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Barbell Chest Press on Stability Ball Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Pectoralis major (chest)",
+                    "Triceps brachii (back of upper arm)",
+                    "Deltoids (shoulders)",
+                    "Rectus abdominis (abs)",
+                    "Obliques (side abs)",
+                    "Erector spinae (lower back)",
+                    "Gluteus maximus (butt)",
+                    "Hamstrings (back of thigh)",
+                    "Quadriceps (front of thigh)"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Barbell Chest Press on Stability Ball Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Chest Press on Stability Ball",
+                    "Push-up on Stability Ball",
+                    "Single Arm Chest Press on Stability Ball",
+                    "Incline Chest Press on Stability Ball",
+                    "Decline Chest Press on Stability Ball"
+                ]
+            }
+        }
+    ]
+}

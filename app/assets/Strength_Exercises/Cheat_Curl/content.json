@@ -1,0 +1,72 @@
+{
+    "title": "Cheat Curl",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Cheat Curl Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a dumbbell in each hand with your palms facing up.",
+                    "Keeping your elbows close to your sides, curl the dumbbells up towards your shoulders.",
+                    "As you reach the top of the curl, twist your wrists so that your palms are facing down.",
+                    "Lower the dumbbells back down to the starting position with your palms facing up.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Cheat Curl Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Cheat Curl Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the biceps muscles",
+                    "Allows for heavier weights to be lifted compared to traditional bicep curls",
+                    "Can help break through plateaus in bicep strength and size",
+                    "Engages the forearms and grip strength as well",
+                    "Can be used as a variation in bicep workouts for added variety and challenge"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cheat Curl Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Biceps brachii",
+                    "Brachialis",
+                    "Brachioradialis"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cheat Curl Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Reverse grip cheat curl",
+                    "Standing cheat curl",
+                    "Seated cheat curl",
+                    "One-arm cheat curl",
+                    "Close-grip cheat curl"
+                ]
+            }
+        }
+    ]
+}

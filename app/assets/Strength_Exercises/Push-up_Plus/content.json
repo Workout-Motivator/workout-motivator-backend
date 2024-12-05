@@ -1,0 +1,78 @@
+{
+    "title": "Push-up Plus",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Push-up Plus Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start in a high plank position with your hands shoulder-width apart and your feet hip-width apart.",
+                    "Lower your body down towards the ground by bending your elbows.",
+                    "As you push back up, round your upper back and protract your shoulder blades by pushing your hands into the ground.",
+                    "Hold this position for a few seconds before returning to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Push-up Plus Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Push-up Plus Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the chest, shoulders, and triceps",
+                    "Improves shoulder stability and mobility",
+                    "Engages the serratus anterior muscle, which is important for proper shoulder blade movement",
+                    "Can help alleviate shoulder pain and prevent injury",
+                    "Can be modified for different fitness levels and goals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Push-up Plus Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Pectoralis major",
+                    "Anterior deltoids",
+                    "Triceps brachii",
+                    "Serratus anterior"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Push-up Plus Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Push-Up with Shoulder Tap",
+                    "Decline Push-Up",
+                    "Diamond Push-Up",
+                    "Wide Push-Up",
+                    "One-Arm Push-Up",
+                    "Clapping Push-Up",
+                    "Plyometric Push-Up",
+                    "Spiderman Push-Up",
+                    "T Push-Up",
+                    "Staggered Push-Up"
+                ]
+            }
+        }
+    ]
+}

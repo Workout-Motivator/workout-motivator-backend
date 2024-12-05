@@ -1,0 +1,77 @@
+{
+    "title": "Mindful Breathing Meditation",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Mindful Breathing Meditation Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Find a quiet and comfortable place to sit or lie down.",
+                    "Close your eyes and take a few deep breaths to relax your body.",
+                    "Focus your attention on your breath as it enters and leaves your body.",
+                    "Notice the sensation of the air moving in and out of your nostrils or the rise and fall of your chest.",
+                    "If your mind wanders, gently bring your attention back to your breath without judgment.",
+                    "Continue to focus on your breath for a few minutes or as long as you like.",
+                    "When you are ready to end the meditation, take a few deep breaths and slowly open your eyes."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Mindful Breathing Meditation Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Mindful Breathing Meditation Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves posture and balance",
+                    "Strengthens legs, ankles, and feet",
+                    "Stretches the spine, shoulders, and hamstrings",
+                    "Relieves stress and anxiety",
+                    "Increases focus and concentration",
+                    "Improves digestion and circulation"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Mindful Breathing Meditation Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Diaphragm",
+                    "Intercostal muscles",
+                    "Abdominal muscles",
+                    "Back muscles",
+                    "Chest muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Mindful Breathing Meditation Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "mindful-body-scan-meditation",
+                    "loving-kindness-meditation",
+                    "walking-meditation",
+                    "mantra-meditation",
+                    "visualization-meditation"
+                ]
+            }
+        }
+    ]
+}

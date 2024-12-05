@@ -1,0 +1,76 @@
+{
+    "title": "Dumbbell Walking Lunges",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Walking Lunges Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart, holding a dumbbell in each hand.",
+                    "Take a large step forward with your right foot, bending your right knee and lowering your body until your right thigh is parallel to the ground.",
+                    "As you lower your body, simultaneously curl the dumbbells up towards your shoulders.",
+                    "Push off with your right foot and step forward with your left foot, repeating the lunge on the opposite side.",
+                    "Continue alternating legs and lunging forward, walking across the room or space.",
+                    "Complete 10-12 reps on each leg for 3-4 sets."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Walking Lunges Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Walking Lunges Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the lower body muscles, including the glutes, quads, hamstrings, and calves",
+                    "Improves balance and stability",
+                    "Increases cardiovascular endurance",
+                    "Engages the core muscles for added stability and strength",
+                    "Can be modified to target specific muscle groups or increase difficulty",
+                    "Can be done with minimal equipment and in a variety of settings"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Walking Lunges Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Walking Lunges Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Reverse Lunges",
+                    "Dumbbell Front Lunges",
+                    "Dumbbell Side Lunges",
+                    "Dumbbell Curtsy Lunges",
+                    "Dumbbell Bulgarian Split Squats"
+                ]
+            }
+        }
+    ]
+}

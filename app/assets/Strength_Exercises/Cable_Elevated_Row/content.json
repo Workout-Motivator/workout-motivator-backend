@@ -1,0 +1,80 @@
+{
+    "title": "Cable Elevated Row",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Cable Elevated Row Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Attach a cable to a high pulley and select the desired weight.",
+                    "Stand facing the cable machine with your feet shoulder-width apart and your knees slightly bent.",
+                    "Grasp the cable handle with both hands, palms facing each other, and extend your arms in front of you.",
+                    "Keeping your back straight and your core engaged, pull the cable towards your chest by retracting your shoulder blades.",
+                    "Pause for a moment at the top of the movement, squeezing your shoulder blades together.",
+                    "Slowly lower the cable back to the starting position, keeping your arms extended in front of you.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Cable Elevated Row Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Cable Elevated Row Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the upper back muscles, including the rhomboids, trapezius, and rear deltoids",
+                    "Improves posture and helps prevent rounded shoulders",
+                    "Increases upper body strength and muscle definition",
+                    "Can be easily modified to target different areas of the back by adjusting the height of the cable",
+                    "Provides a low-impact exercise option for those with joint pain or injuries"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cable Elevated Row Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Trapezius",
+                    "Rhomboids",
+                    "Deltoids",
+                    "Biceps",
+                    "Forearms"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cable Elevated Row Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single Arm Cable Elevated Row",
+                    "Wide Grip Cable Elevated Row",
+                    "Narrow Grip Cable Elevated Row",
+                    "Reverse Grip Cable Elevated Row",
+                    "Seated Cable Elevated Row",
+                    "Standing Cable Elevated Row",
+                    "Resistance Band Elevated Row",
+                    "Dumbbell Elevated Row",
+                    "Barbell Elevated Row"
+                ]
+            }
+        }
+    ]
+}

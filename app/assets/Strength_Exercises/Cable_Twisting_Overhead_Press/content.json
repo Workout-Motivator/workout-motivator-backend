@@ -1,0 +1,73 @@
+{
+    "title": "Cable Twisting Overhead Press",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Cable Twisting Overhead Press Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a dumbbell in each hand.",
+                    "Bring the dumbbells up to shoulder height with your palms facing forward.",
+                    "Twist your wrists so that your palms are facing each other.",
+                    "Press the dumbbells up overhead, keeping your palms facing each other.",
+                    "Lower the dumbbells back down to shoulder height, twisting your wrists back to the starting position.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Cable Twisting Overhead Press Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Cable Twisting Overhead Press Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves core stability and strength",
+                    "Targets the obliques and transverse abdominis muscles",
+                    "Helps improve posture and balance",
+                    "Can be modified for different fitness levels and goals",
+                    "Can be done with minimal equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cable Twisting Overhead Press Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Shoulders (deltoids)",
+                    "Triceps",
+                    "Core (abdominals and obliques)"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cable Twisting Overhead Press Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "cable twisting lateral raise",
+                    "cable twisting front raise",
+                    "cable twisting reverse fly",
+                    "cable twisting tricep extension",
+                    "cable twisting bicep curl"
+                ]
+            }
+        }
+    ]
+}

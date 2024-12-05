@@ -1,0 +1,78 @@
+{
+    "title": "Cable Shoulder Internal Rotation",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Cable Shoulder Internal Rotation Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Begin by attaching a cable to a low pulley and setting the weight to a comfortable level.",
+                    "Stand with your side facing the cable machine and grasp the handle with the hand furthest from the machine.",
+                    "Position your elbow at a 90-degree angle and keep it close to your side.",
+                    "Slowly rotate your shoulder inward, bringing your hand across your body.",
+                    "Pause for a moment at the end of the movement, then slowly return to the starting position.",
+                    "Repeat for the desired number of repetitions, then switch sides and repeat the exercise with your other arm."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Cable Shoulder Internal Rotation Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Cable Shoulder Internal Rotation Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the rotator cuff muscles",
+                    "Improves shoulder stability and mobility",
+                    "Helps prevent shoulder injuries",
+                    "Can improve posture and reduce shoulder pain",
+                    "Targets the infraspinatus and teres minor muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cable Shoulder Internal Rotation Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rotator cuff muscles (supraspinatus, infraspinatus, teres minor, subscapularis)",
+                    "Deltoid muscle (anterior fibers)",
+                    "Trapezius muscle (middle fibers)",
+                    "Rhomboid muscles (major and minor)"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cable Shoulder Internal Rotation Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Cable Shoulder External Rotation",
+                    "Dumbbell Shoulder Internal Rotation",
+                    "Dumbbell Shoulder External Rotation",
+                    "Resistance Band Shoulder Internal Rotation",
+                    "Resistance Band Shoulder External Rotation",
+                    "Seated Dumbbell Shoulder Internal Rotation",
+                    "Seated Dumbbell Shoulder External Rotation",
+                    "Standing Dumbbell Shoulder Internal Rotation",
+                    "Standing Dumbbell Shoulder External Rotation"
+                ]
+            }
+        }
+    ]
+}

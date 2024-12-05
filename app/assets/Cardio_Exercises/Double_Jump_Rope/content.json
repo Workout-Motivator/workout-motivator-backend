@@ -1,0 +1,77 @@
+{
+    "title": "Double Jump Rope",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Double Jump Rope Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Hold the handles of the jump rope in each hand.",
+                    "Step on the center of the rope with both feet.",
+                    "Swing the rope over your head and jump with both feet at the same time.",
+                    "As the rope comes down, jump again with both feet before it hits the ground.",
+                    "Repeat steps 3 and 4 for the desired number of double jumps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Double Jump Rope Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Double Jump Rope Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves flexibility in the hips, knees, and ankles",
+                    "Stretches the quadriceps, hamstrings, and hip flexors",
+                    "Helps to alleviate lower back pain",
+                    "Improves posture and balance",
+                    "Increases blood flow to the lower body",
+                    "Can be modified for different levels of flexibility"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Double Jump Rope Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Calves",
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Glutes",
+                    "Abdominals",
+                    "Shoulders",
+                    "Forearms"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Double Jump Rope Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Double unders",
+                    "Jump rope sprints",
+                    "Jump rope intervals",
+                    "Jump rope cross-overs",
+                    "Jump rope side swings"
+                ]
+            }
+        }
+    ]
+}

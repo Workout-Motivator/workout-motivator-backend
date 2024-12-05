@@ -1,0 +1,75 @@
+{
+    "title": "Chest Lift With Rotation",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Chest Lift With Rotation Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying flat on your back with your arms extended out to the sides.",
+                    "Bend your knees and place your feet flat on the ground.",
+                    "Engage your core muscles and lift your shoulders and upper back off the ground.",
+                    "As you lift, rotate your torso to the right and reach your left arm towards your right foot.",
+                    "Hold for a few seconds, then return to the starting position.",
+                    "Repeat the exercise, this time rotating your torso to the left and reaching your right arm towards your left foot.",
+                    "Continue alternating sides for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Chest Lift With Rotation Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Chest Lift With Rotation Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets chest muscles for strength and definition",
+                    "Incorporates core stabilization for improved balance and posture",
+                    "Involves triceps for added arm strength",
+                    "Can be modified for different fitness levels",
+                    "Increases overall upper body strength and endurance"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Chest Lift With Rotation Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus abdominis",
+                    "Obliques",
+                    "Pectoralis major",
+                    "Serratus anterior"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Chest Lift With Rotation Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "chest lift with twist",
+                    "chest twist",
+                    "rotational chest lift",
+                    "chest rotation",
+                    "twisting chest lift"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "title": "Ab Mat Sit-up",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Ab Mat Sit-up Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying down on your back with your knees bent and feet flat on the ground.",
+                    "Place the ab mat underneath your lower back, just above your tailbone.",
+                    "Interlock your fingers behind your head and engage your core muscles.",
+                    "Slowly lift your upper body off the ground, curling your shoulders towards your knees.",
+                    "Pause at the top of the movement and squeeze your abs.",
+                    "Lower your upper body back down to the starting position with control.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Ab Mat Sit-up Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Ab Mat Sit-up Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens abdominal muscles",
+                    "Improves core stability",
+                    "Helps improve posture",
+                    "Can help alleviate lower back pain",
+                    "Can be done anywhere without equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Ab Mat Sit-up Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus abdominis",
+                    "Obliques",
+                    "Hip flexors"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Ab Mat Sit-up Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "ab-mat sit-up with weight",
+                    "decline ab-mat sit-up",
+                    "medicine ball ab-mat sit-up",
+                    "single-leg ab-mat sit-up",
+                    "weighted ab-mat sit-up"
+                ]
+            }
+        }
+    ]
+}

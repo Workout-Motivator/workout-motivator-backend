@@ -1,0 +1,76 @@
+{
+    "title": "Garland Pose Malasana",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Garland Pose Malasana Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start in a standing position with your feet hip-width apart.",
+                    "Take a deep breath in and as you exhale, bend your knees and lower your hips down into a squatting position.",
+                    "Bring your palms together in front of your chest and press your elbows against your inner thighs.",
+                    "Take a deep breath in and as you exhale, twist your torso to the right and bring your left elbow to the outside of your right knee.",
+                    "Hold the pose for a few breaths, then inhale and come back to center.",
+                    "Exhale and twist to the left, bringing your right elbow to the outside of your left knee.",
+                    "Hold the pose for a few breaths, then inhale and come back to center.",
+                    "From here, release your hands to the floor and straighten your legs to come into Garland Pose.",
+                    "Hold the pose for a few breaths, then release and come back to standing."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_0.gif"
+        },
+        {
+            "type": "section",
+            "title": "Garland Pose Malasana Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Garland Pose Malasana Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the chest, shoulders, and biceps",
+                    "Improves upper body strength and muscle definition",
+                    "Can be modified for different fitness levels",
+                    "Engages the core for added stability and balance",
+                    "Can be done with minimal equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Garland Pose Malasana Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Lower back",
+                    "Abdominals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Garland Pose Malasana Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Garland Pose",
+                    "Malasana"
+                ]
+            }
+        }
+    ]
+}

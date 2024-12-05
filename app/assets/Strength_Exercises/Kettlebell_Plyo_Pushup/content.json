@@ -1,0 +1,75 @@
+{
+    "title": "Kettlebell Plyo Pushup",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Plyo Pushup Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start in a pushup position with one hand on a kettlebell and the other hand on the ground.",
+                    "Lower your body down towards the ground, keeping your core engaged and your elbows close to your body.",
+                    "As you push yourself back up, explosively lift your hand off the kettlebell and switch hands, placing the other hand on the kettlebell.",
+                    "Lower yourself down again, this time with the opposite hand on the kettlebell.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Plyo Pushup Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Plyo Pushup Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Increases upper body strength",
+                    "Improves explosive power",
+                    "Engages core muscles for stability",
+                    "Challenges coordination and balance",
+                    "Burns calories and promotes weight loss",
+                    "Can be modified for different fitness levels"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Plyo Pushup Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Chest muscles (pectoralis major and minor)",
+                    "Shoulder muscles (deltoids)",
+                    "Triceps",
+                    "Core muscles (abdominals and lower back)",
+                    "Leg muscles (quadriceps and glutes)"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Plyo Pushup Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Kettlebell Plyo Pushup with one hand on the kettlebell and the other hand on the ground",
+                    "Kettlebell Plyo Pushup with both hands on the kettlebell",
+                    "Kettlebell Plyo Pushup with a clap in between each rep",
+                    "Kettlebell Plyo Pushup with a jump onto a box or bench after each rep",
+                    "Kettlebell Plyo Pushup with a knee tuck or mountain climber in between each rep"
+                ]
+            }
+        }
+    ]
+}

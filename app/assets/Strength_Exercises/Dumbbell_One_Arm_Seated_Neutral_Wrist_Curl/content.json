@@ -1,0 +1,77 @@
+{
+    "title": "Dumbbell One Arm Seated Neutral Wrist Curl",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell One Arm Seated Neutral Wrist Curl Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by sitting on a bench with your feet flat on the ground and your back straight.",
+                    "Hold a dumbbell in one hand with your palm facing up and your wrist in a neutral position.",
+                    "Rest your forearm on your thigh, with your wrist hanging off the edge of your knee.",
+                    "Curl your wrist up towards your forearm, keeping your elbow and forearm stationary.",
+                    "Pause for a moment at the top of the movement, then slowly lower the weight back down to the starting position.",
+                    "Repeat for the desired number of repetitions, then switch arms and repeat the exercise on the other side."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell One Arm Seated Neutral Wrist Curl Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell One Arm Seated Neutral Wrist Curl Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the wrist flexor muscles",
+                    "Improves grip strength",
+                    "Helps prevent wrist injuries",
+                    "Can be done with a relatively light weight, making it accessible for beginners",
+                    "Targets the forearm muscles, which can improve overall arm aesthetics"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell One Arm Seated Neutral Wrist Curl Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Wrist flexors"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell One Arm Seated Neutral Wrist Curl Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell One Arm Seated Pronated Wrist Curl",
+                    "Dumbbell One Arm Seated Supinated Wrist Curl",
+                    "Dumbbell One Arm Standing Neutral Wrist Curl",
+                    "Dumbbell One Arm Standing Pronated Wrist Curl",
+                    "Dumbbell One Arm Standing Supinated Wrist Curl",
+                    "Barbell Seated Neutral Wrist Curl",
+                    "Barbell Seated Pronated Wrist Curl",
+                    "Barbell Seated Supinated Wrist Curl",
+                    "Barbell Standing Neutral Wrist Curl",
+                    "Barbell Standing Pronated Wrist Curl",
+                    "Barbell Standing Supinated Wrist Curl"
+                ]
+            }
+        }
+    ]
+}

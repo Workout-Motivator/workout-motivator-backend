@@ -1,0 +1,76 @@
+{
+    "title": "Kneeling Jump Squat",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Kneeling Jump Squat Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by kneeling on the ground with your feet flat on the floor and your toes pointing forward.",
+                    "Place your hands on your hips or behind your head.",
+                    "Engage your core and glutes, and then explosively jump up as high as you can.",
+                    "As you jump, extend your hips and knees fully.",
+                    "Land softly back on the ground in the kneeling position.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Kneeling Jump Squat Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Kneeling Jump Squat Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Increases lower body strength and power",
+                    "Improves explosive jumping ability",
+                    "Engages core muscles for stability and balance",
+                    "Can be modified for different fitness levels by adjusting the depth of the squat and the height of the jump",
+                    "Provides a cardiovascular workout",
+                    "Can be done with minimal equipment, making it a convenient exercise to do at home or while traveling"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Kneeling Jump Squat Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Kneeling Jump Squat Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single-leg Kneeling Jump Squat",
+                    "Weighted Kneeling Jump Squat",
+                    "Kneeling Jump Squat with Resistance Band",
+                    "Explosive Kneeling Jump Squat",
+                    "Alternating Kneeling Jump Squat"
+                ]
+            }
+        }
+    ]
+}

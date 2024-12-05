@@ -1,0 +1,71 @@
+{
+    "title": "45 Degrees Back Extension",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "45 Degrees Back Extension Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying face down on a back extension bench with your feet secured under the footpads and your hands behind your head.",
+                    "Engage your glutes and lower back muscles to lift your upper body off the bench, keeping your neck in a neutral position.",
+                    "Hold the contraction for a few seconds before slowly lowering your upper body back down to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "45 Degrees Back Extension Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "45 Degrees Back Extension Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens lower back muscles",
+                    "Improves posture",
+                    "Reduces risk of lower back pain and injury",
+                    "Increases flexibility in the hips and lower back",
+                    "Improves overall core stability"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "45 Degrees Back Extension Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Erector spinae",
+                    "Gluteus maximus",
+                    "Hamstrings"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "45 Degrees Back Extension Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "30 degrees Back Extension",
+                    "60 degrees Back Extension",
+                    "90 degrees Back Extension",
+                    "Weighted Back Extension",
+                    "Reverse Hyperextension"
+                ]
+            }
+        }
+    ]
+}

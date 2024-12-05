@@ -1,0 +1,76 @@
+{
+    "title": "Lying Around the World",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Lying Around the World Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying flat on your back with your arms extended out to the sides.",
+                    "Lift your legs up and bend your knees so that your feet are flat on the ground.",
+                    "Slowly lower your legs to one side, keeping your shoulders and arms flat on the ground.",
+                    "Hold for a few seconds, then bring your legs back up to center.",
+                    "Repeat on the other side.",
+                    "Continue alternating sides for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Lying Around the World Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Lying Around the World Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the core muscles",
+                    "Improves balance and stability",
+                    "Increases flexibility in the hips and lower back",
+                    "Engages the glutes and hamstrings",
+                    "Can help alleviate lower back pain"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Lying Around the World Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Deltoids",
+                    "Triceps",
+                    "Pectorals",
+                    "Trapezius",
+                    "Rhomboids",
+                    "Latissimus dorsi"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Lying Around the World Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Standing Around the World",
+                    "Seated Around the World",
+                    "Weighted Around the World",
+                    "Single Arm Around the World",
+                    "Partner Around the World"
+                ]
+            }
+        }
+    ]
+}

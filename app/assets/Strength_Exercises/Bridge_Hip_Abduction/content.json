@@ -1,0 +1,74 @@
+{
+    "title": "Bridge Hip Abduction",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Bridge Hip Abduction Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on your back with your knees bent and feet flat on the ground.",
+                    "Place a resistance band around your thighs, just above your knees.",
+                    "Bring your feet together and lift your hips up towards the ceiling, squeezing your glutes.",
+                    "Keeping your feet together, slowly lift your right leg up and out to the side, using the resistance band to add extra resistance.",
+                    "Lower your right leg back down to the starting position and repeat on the left side.",
+                    "Continue alternating legs for the desired number of repetitions.",
+                    "Lower your hips back down to the ground and remove the resistance band."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Bridge Hip Abduction Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Bridge Hip Abduction Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the gluteus medius muscle, which helps with hip stability and balance",
+                    "Improves hip mobility and flexibility",
+                    "Can help alleviate lower back pain by strengthening the muscles that support the spine",
+                    "May improve athletic performance in activities that require hip strength and stability, such as running and jumping",
+                    "Can be modified to increase or decrease difficulty based on individual fitness level"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Bridge Hip Abduction Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Gluteus Maximus",
+                    "Gluteus Medius",
+                    "Tensor Fasciae Latae"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Bridge Hip Abduction Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single Leg Bridge Hip Abduction",
+                    "Weighted Bridge Hip Abduction",
+                    "Resistance Band Bridge Hip Abduction",
+                    "Bridge Hip Abduction with Stability Ball",
+                    "Bridge Hip Abduction with Dumbbells"
+                ]
+            }
+        }
+    ]
+}

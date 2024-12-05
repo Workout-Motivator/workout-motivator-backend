@@ -1,0 +1,84 @@
+{
+    "title": "Burpee Twist",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Burpee Twist Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start in a standing position with your feet shoulder-width apart.",
+                    "Squat down and place your hands on the ground in front of you.",
+                    "Jump your feet back into a plank position.",
+                    "Do a push-up.",
+                    "Jump your feet back to the starting position.",
+                    "Jump up and twist your body to the left, bringing your right knee up to your left elbow.",
+                    "Jump back to the starting position.",
+                    "Jump up and twist your body to the right, bringing your left knee up to your right elbow.",
+                    "Jump back to the starting position and repeat the exercise for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Burpee Twist Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Burpee Twist Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Increases cardiovascular endurance",
+                    "Strengthens upper body muscles (chest, shoulders, triceps)",
+                    "Strengthens lower body muscles (quads, glutes, hamstrings)",
+                    "Improves core stability and strength",
+                    "Burns calories and aids in weight loss",
+                    "Can be done anywhere without equipment",
+                    "Improves coordination and agility"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Burpee Twist Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Abdominals",
+                    "Obliques",
+                    "Chest",
+                    "Shoulders",
+                    "Triceps"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Burpee Twist Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "burpee with push-up",
+                    "burpee with jump squat",
+                    "burpee with mountain climbers",
+                    "burpee with dumbbell press",
+                    "burpee with lateral jump"
+                ]
+            }
+        }
+    ]
+}

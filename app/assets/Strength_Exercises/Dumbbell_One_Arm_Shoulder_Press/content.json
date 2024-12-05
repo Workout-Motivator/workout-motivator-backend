@@ -1,0 +1,75 @@
+{
+    "title": "Dumbbell One Arm Shoulder Press",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell One Arm Shoulder Press Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a dumbbell in one hand at shoulder level, with your elbow bent and your palm facing forward.",
+                    "Press the dumbbell up and overhead, straightening your arm and keeping your core engaged.",
+                    "Lower the dumbbell back down to shoulder level, keeping your elbow close to your body.",
+                    "Repeat for the desired number of reps, then switch sides and repeat with the other arm."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell One Arm Shoulder Press Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell One Arm Shoulder Press Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the shoulder muscles, specifically the anterior and medial deltoids",
+                    "Improves shoulder strength and stability",
+                    "Helps to correct muscle imbalances between the left and right shoulders",
+                    "Engages the core muscles for added stability and balance",
+                    "Allows for unilateral training, which can help to improve overall strength and muscle development",
+                    "Can be modified to target different areas of the shoulder by adjusting the angle of the press"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell One Arm Shoulder Press Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Deltoids",
+                    "Triceps",
+                    "Trapezius",
+                    "Rotator Cuff"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell One Arm Shoulder Press Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell One Arm Shoulder Press",
+                    "Dumbbell Seated One Arm Shoulder Press",
+                    "Dumbbell Standing One Arm Shoulder Press",
+                    "Dumbbell Arnold Press",
+                    "Dumbbell Push Press",
+                    "Dumbbell Front Raise to Shoulder Press",
+                    "Dumbbell Lateral Raise to Shoulder Press"
+                ]
+            }
+        }
+    ]
+}

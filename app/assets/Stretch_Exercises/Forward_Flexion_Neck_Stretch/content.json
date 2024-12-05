@@ -1,0 +1,75 @@
+{
+    "title": "Forward Flexion Neck Stretch",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Forward Flexion Neck Stretch Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand or sit with your back straight and your shoulders relaxed.",
+                    "Slowly lower your chin towards your chest, feeling a stretch in the back of your neck.",
+                    "Hold the stretch for 15-30 seconds, breathing deeply.",
+                    "Slowly lift your head back up to the starting position.",
+                    "Repeat the stretch 2-3 times, as needed."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Forward Flexion Neck Stretch Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Forward Flexion Neck Stretch Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the quadriceps, hamstrings, and glutes",
+                    "Improves balance and stability",
+                    "Increases flexibility in the hips and legs",
+                    "Engages the core muscles for added stability",
+                    "Can be modified to target different muscle groups or add resistance",
+                    "Can be done with or without weights, making it accessible for all fitness levels",
+                    "Helps to improve overall lower body strength and endurance"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Forward Flexion Neck Stretch Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Sternocleidomastoid",
+                    "Trapezius",
+                    "Levator scapulae",
+                    "Scalenes"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Forward Flexion Neck Stretch Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Forward flexion neck stretch",
+                    "Chin tucks",
+                    "Neck rotations",
+                    "Shoulder shrugs",
+                    "Upper trapezius stretch"
+                ]
+            }
+        }
+    ]
+}

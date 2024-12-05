@@ -1,0 +1,75 @@
+{
+    "title": "Dumbbell Seated Shoulder Press",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Seated Shoulder Press Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by sitting on a bench with a dumbbell in each hand, resting on your thighs.",
+                    "Slowly raise the dumbbells to shoulder height, keeping your palms facing forward and your elbows bent.",
+                    "Press the dumbbells upward until your arms are fully extended above your head.",
+                    "Pause for a moment at the top of the movement, then slowly lower the dumbbells back down to shoulder height.",
+                    "Repeat for the desired number of repetitions.",
+                    "Remember to keep your core engaged and your back straight throughout the exercise."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Seated Shoulder Press Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Seated Shoulder Press Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the shoulder muscles, specifically the anterior and medial deltoids",
+                    "Improves shoulder strength and stability",
+                    "Can help improve posture and reduce risk of shoulder injuries",
+                    "Engages the core muscles for added stability and strength",
+                    "Allows for a greater range of motion compared to traditional shoulder presses",
+                    "Can be modified for different fitness levels by adjusting the weight of the dumbbells"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Seated Shoulder Press Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Deltoids",
+                    "Triceps",
+                    "Trapezius",
+                    "Rotator Cuff"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Seated Shoulder Press Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Standing Shoulder Press",
+                    "Dumbbell Arnold Press",
+                    "Dumbbell Lateral Raise",
+                    "Dumbbell Front Raise",
+                    "Dumbbell Bent-Over Rear Delt Raise"
+                ]
+            }
+        }
+    ]
+}

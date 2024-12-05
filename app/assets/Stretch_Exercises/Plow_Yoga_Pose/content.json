@@ -1,0 +1,78 @@
+{
+    "title": "Plow Yoga Pose",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Plow Yoga Pose Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start in a tabletop position with your hands and knees on the ground.",
+                    "Bring your knees wider than hip-width apart and bring your big toes to touch.",
+                    "Walk your hands forward and lower your chest towards the ground, keeping your hips over your knees.",
+                    "Rest your forehead on the ground and extend your arms forward, keeping your elbows off the ground.",
+                    "Press your palms into the ground and lift your elbows up, feeling a stretch in your upper back and shoulders.",
+                    "Hold the pose for 5-10 deep breaths.",
+                    "To release, walk your hands back towards your knees and sit back on your heels."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Plow Yoga Pose Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Plow Yoga Pose Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Stretches the spine and shoulders",
+                    "Calms the brain and reduces stress and fatigue",
+                    "Stimulates the abdominal organs and improves digestion",
+                    "Strengthens the arms, shoulders, and neck",
+                    "Improves flexibility in the hips and hamstrings",
+                    "Relieves symptoms of menopause and menstrual discomfort",
+                    "Can help alleviate insomnia and headaches"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Plow Yoga Pose Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Hamstrings",
+                    "Spinal erectors",
+                    "Neck muscles",
+                    "Shoulder muscles",
+                    "Abdominals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Plow Yoga Pose Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Half Plow Pose",
+                    "Full Plow Pose",
+                    "Supported Shoulderstand",
+                    "Legs Up the Wall Pose",
+                    "Happy Baby Pose"
+                ]
+            }
+        }
+    ]
+}

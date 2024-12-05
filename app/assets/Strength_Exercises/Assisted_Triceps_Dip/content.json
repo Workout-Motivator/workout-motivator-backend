@@ -1,0 +1,77 @@
+{
+    "title": "Assisted Triceps Dip",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Assisted Triceps Dip Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Find a sturdy chair or bench and place it behind you.",
+                    "Sit on the edge of the chair or bench and place your hands on the edge next to your hips.",
+                    "Slide your butt off the edge of the chair or bench and straighten your arms.",
+                    "Bend your elbows and lower your body towards the ground, keeping your back close to the chair or bench.",
+                    "Push back up to the starting position by straightening your arms.",
+                    "Repeat for desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Assisted Triceps Dip Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Assisted Triceps Dip Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves cardiovascular endurance",
+                    "Increases leg strength and power",
+                    "Enhances agility and coordination",
+                    "Burns calories and aids in weight loss",
+                    "Can be done anywhere with minimal equipment",
+                    "Engages multiple muscle groups, including quads, glutes, calves, and core",
+                    "Can be modified to increase or decrease intensity",
+                    "Improves bone density and reduces risk of osteoporosis",
+                    "Boosts mood and reduces stress"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Assisted Triceps Dip Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Triceps",
+                    "Chest",
+                    "Shoulders"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Assisted Triceps Dip Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Unassisted triceps dip",
+                    "Weighted triceps dip",
+                    "Triceps dip with resistance bands",
+                    "Triceps dip with a bench or chair",
+                    "Triceps dip with a stability ball"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "title": "Resistance Band Overhead Squat",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Resistance Band Overhead Squat Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and place the resistance band above your head, holding onto the ends with both hands.",
+                    "Engage your core and keep your arms straight as you lower into a squat, keeping your knees in line with your toes.",
+                    "As you stand back up, press the resistance band overhead, keeping your arms straight and your shoulders down.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Resistance Band Overhead Squat Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Resistance Band Overhead Squat Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the lower body muscles, including the quadriceps, hamstrings, and glutes",
+                    "Improves balance and stability",
+                    "Engages the core muscles for added stability and strength",
+                    "Increases flexibility in the hips and ankles",
+                    "Can be modified for different fitness levels and abilities",
+                    "Requires minimal equipment and can be done at home or in a gym"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Resistance Band Overhead Squat Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Core",
+                    "Shoulders",
+                    "Triceps"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Resistance Band Overhead Squat Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Resistance Band Front Squat",
+                    "Resistance Band Back Squat",
+                    "Resistance Band Goblet Squat",
+                    "Resistance Band Sumo Squat",
+                    "Resistance Band Bulgarian Split Squat",
+                    "Resistance Band Jump Squat",
+                    "Resistance Band Pistol Squat",
+                    "Resistance Band Lateral Squat",
+                    "Resistance Band Curtsy Squat"
+                ]
+            }
+        }
+    ]
+}

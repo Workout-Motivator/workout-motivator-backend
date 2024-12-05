@@ -1,0 +1,72 @@
+{
+    "title": "Reverse Shoulder Stretch",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Reverse Shoulder Stretch Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your arms at your sides.",
+                    "Bring your right arm across your chest, holding it with your left hand just above the elbow.",
+                    "Use your left hand to gently pull your right arm closer to your chest until you feel a stretch in your shoulder.",
+                    "Hold the stretch for 15-30 seconds, then release and repeat on the other side."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Reverse Shoulder Stretch Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Reverse Shoulder Stretch Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Relieves tension and tightness in the shoulders and upper back",
+                    "Improves range of motion in the shoulders",
+                    "Stretches the chest muscles and improves posture",
+                    "Can help alleviate shoulder pain and discomfort",
+                    "May improve breathing by opening up the chest and lungs"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Reverse Shoulder Stretch Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Trapezius",
+                    "Rhomboids",
+                    "Deltoids",
+                    "Rotator cuff muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Reverse Shoulder Stretch Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Shoulder Extension Stretch",
+                    "Shoulder Blade Squeeze",
+                    "Shoulder Circles",
+                    "Shoulder Rolls",
+                    "Shoulder Shrugs"
+                ]
+            }
+        }
+    ]
+}

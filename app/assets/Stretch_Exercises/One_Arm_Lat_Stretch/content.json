@@ -1,0 +1,74 @@
+{
+    "title": "One Arm Lat Stretch",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "One Arm Lat Stretch Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your knees slightly bent.",
+                    "Extend your right arm straight up towards the ceiling.",
+                    "Bend your right elbow and reach your right hand behind your head, placing your palm on the center of your back.",
+                    "Use your left hand to gently pull your right elbow towards your left shoulder, feeling a stretch in your right lat muscle.",
+                    "Hold the stretch for 15-30 seconds, then release and repeat on the other side."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "One Arm Lat Stretch Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "One Arm Lat Stretch Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Increases flexibility and range of motion in the latissimus dorsi muscle",
+                    "Helps alleviate tension and tightness in the upper back and shoulders",
+                    "Improves posture by stretching the muscles that contribute to rounded shoulders",
+                    "May help reduce the risk of injury in the upper body during physical activity",
+                    "Can be done anywhere without the need for equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "One Arm Lat Stretch Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Latissimus dorsi",
+                    "Teres major",
+                    "Rhomboids",
+                    "Trapezius",
+                    "Posterior deltoid"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "One Arm Lat Stretch Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "One arm Lat Stretch with resistance band",
+                    "One arm Lat Stretch with dumbbell",
+                    "One arm Lat Stretch with kettlebell",
+                    "One arm Lat Stretch with cable machine",
+                    "One arm Lat Stretch with foam roller"
+                ]
+            }
+        }
+    ]
+}

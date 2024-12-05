@@ -1,0 +1,79 @@
+{
+    "title": "Dumbbell Biceps Curl Squat",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Biceps Curl Squat Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a dumbbell in each hand with your palms facing up.",
+                    "Curl the dumbbells up towards your shoulders, keeping your elbows close to your body.",
+                    "At the top of the curl, pause and squeeze your biceps.",
+                    "Lower the dumbbells back down to the starting position.",
+                    "Once you have completed your desired number of curls, hold the dumbbells at your sides and perform a squat.",
+                    "Lower your body down as if you were sitting in a chair, keeping your weight in your heels and your chest up.",
+                    "Once your thighs are parallel to the ground, push through your heels to stand back up.",
+                    "Repeat the dumbbell biceps curl and squat for your desired number of sets and reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Biceps Curl Squat Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Biceps Curl Squat Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets multiple muscle groups including quads, glutes, hamstrings, and calves",
+                    "Improves balance and stability",
+                    "Increases lower body strength and power",
+                    "Can be modified for different fitness levels and goals",
+                    "Requires minimal equipment and can be done at home or in the gym"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Biceps Curl Squat Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Biceps",
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Biceps Curl Squat Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "dumbbell-biceps-curl-squat",
+                    "dumbbell-biceps-curl",
+                    "biceps-curl-squat",
+                    "dumbbell-squat",
+                    "biceps-curl",
+                    "squat"
+                ]
+            }
+        }
+    ]
+}

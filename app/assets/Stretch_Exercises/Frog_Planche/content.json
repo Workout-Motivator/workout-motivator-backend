@@ -1,0 +1,78 @@
+{
+    "title": "Frog Planche",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Frog Planche Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start in a push-up position with your hands shoulder-width apart and your feet together.",
+                    "Engage your core and slowly shift your weight forward, bringing your shoulders over your hands.",
+                    "As you shift your weight forward, lift your feet off the ground and extend your legs straight out behind you.",
+                    "Keep your body in a straight line from your head to your heels.",
+                    "Bend your knees and bring them towards your chest, keeping your feet together.",
+                    "Hold this position for a few seconds, then slowly lower your feet back down to the ground.",
+                    "Repeat for several reps, gradually increasing the amount of time you hold the position."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Frog Planche Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Frog Planche Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the core muscles",
+                    "Improves balance and stability",
+                    "Increases upper body strength, particularly in the shoulders, chest, and triceps",
+                    "Enhances flexibility in the hips and hamstrings",
+                    "Challenges the mind-body connection and improves focus and concentration"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Frog Planche Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Pectoralis major",
+                    "Deltoids",
+                    "Triceps brachii",
+                    "Rectus abdominis",
+                    "Obliques",
+                    "Quadriceps",
+                    "Glutes"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Frog Planche Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Tuck planche",
+                    "Advanced tuck planche",
+                    "Straddle planche",
+                    "Full planche",
+                    "Maltese"
+                ]
+            }
+        }
+    ]
+}

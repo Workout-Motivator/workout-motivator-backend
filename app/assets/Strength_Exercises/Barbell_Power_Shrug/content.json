@@ -1,0 +1,75 @@
+{
+    "title": "Barbell Power Shrug",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Barbell Power Shrug Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your knees slightly bent.",
+                    "Grasp the barbell with an overhand grip, hands shoulder-width apart.",
+                    "Lift the barbell by extending your hips and knees, keeping your back straight.",
+                    "As you lift the barbell, shrug your shoulders up towards your ears.",
+                    "Hold the shrug for a second, then lower the barbell back down to the starting position.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Barbell Power Shrug Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Barbell Power Shrug Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the upper trapezius muscles",
+                    "Improves posture and shoulder stability",
+                    "Increases grip strength",
+                    "Can help prevent neck and shoulder injuries",
+                    "Targets the muscles in the back, shoulders, and neck"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Barbell Power Shrug Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Trapezius",
+                    "Rhomboids",
+                    "Erector Spinae",
+                    "Levator Scapulae",
+                    "Serratus Anterior"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Barbell Power Shrug Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Power Shrug",
+                    "Kettlebell Power Shrug",
+                    "Trap Bar Power Shrug",
+                    "Smith Machine Power Shrug",
+                    "Cable Power Shrug"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "title": "Dumbbell Alternate Shoulder Press",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Alternate Shoulder Press Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a dumbbell in each hand at shoulder height, palms facing forward.",
+                    "Press one dumbbell up overhead, fully extending your arm.",
+                    "Lower the dumbbell back down to shoulder height.",
+                    "Repeat with the other arm.",
+                    "Continue alternating arms for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Alternate Shoulder Press Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Alternate Shoulder Press Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the chest, back, and shoulder muscles",
+                    "Improves posture and upper body stability",
+                    "Increases flexibility in the shoulders and chest",
+                    "Can help alleviate upper back pain",
+                    "Targets the triceps and core muscles as secondary muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Alternate Shoulder Press Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Deltoids",
+                    "Triceps",
+                    "Trapezius",
+                    "Rotator cuff muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Alternate Shoulder Press Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "dumbbell-shoulder-press",
+                    "dumbbell-front-raise",
+                    "dumbbell-lateral-raise",
+                    "dumbbell-rear-delt-fly",
+                    "barbell-shoulder-press",
+                    "seated-dumbbell-shoulder-press"
+                ]
+            }
+        }
+    ]
+}

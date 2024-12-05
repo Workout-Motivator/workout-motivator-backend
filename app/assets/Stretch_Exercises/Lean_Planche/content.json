@@ -1,0 +1,75 @@
+{
+    "title": "Lean Planche",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Lean Planche Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start in a push-up position with your hands shoulder-width apart and your feet together.",
+                    "Slowly shift your weight forward until your shoulders are over your hands.",
+                    "Engage your core and lift your feet off the ground, keeping your legs straight and together.",
+                    "Lower your hips and lift your legs until your body is parallel to the ground.",
+                    "Hold this position for as long as you can, aiming for 10-15 seconds to start.",
+                    "Lower your legs back down to the ground and return to the starting push-up position.",
+                    "Repeat for 3-5 sets, gradually increasing the amount of time you hold the planche position."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Lean Planche Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Lean Planche Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the core muscles",
+                    "Improves balance and stability",
+                    "Increases upper body strength, particularly in the shoulders, chest, and triceps",
+                    "Develops body control and coordination",
+                    "Can be modified to suit different fitness levels and abilities"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Lean Planche Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Abdominals",
+                    "Shoulders",
+                    "Chest",
+                    "Triceps",
+                    "Lower back"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Lean Planche Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Tuck planche",
+                    "Advanced tuck planche",
+                    "Straddle planche",
+                    "Full planche"
+                ]
+            }
+        }
+    ]
+}

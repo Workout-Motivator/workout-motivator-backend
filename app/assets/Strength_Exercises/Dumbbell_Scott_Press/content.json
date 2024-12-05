@@ -1,0 +1,72 @@
+{
+    "title": "Dumbbell Scott Press",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Scott Press Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a dumbbell in each hand at shoulder height, palms facing forward.",
+                    "Engage your core and press the dumbbells up and out to the sides, keeping your elbows slightly bent.",
+                    "As you press the dumbbells up, rotate your palms so they face forward and your arms are fully extended overhead.",
+                    "Slowly lower the dumbbells back down to shoulder height, rotating your palms back to the starting position as you do so.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Scott Press Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Scott Press Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the shoulders, triceps, and upper back muscles",
+                    "Improves shoulder stability and mobility",
+                    "Helps to develop upper body strength and power",
+                    "Can be modified to target different areas of the shoulder muscles",
+                    "Can be performed with a variety of weights and equipment, making it accessible to a wide range of fitness levels"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Scott Press Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Deltoids",
+                    "Triceps",
+                    "Upper Pectorals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Scott Press Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Arnold Press",
+                    "Dumbbell Shoulder Press",
+                    "Dumbbell Push Press",
+                    "Dumbbell Front Raise",
+                    "Dumbbell Lateral Raise"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "title": "Balance Board",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Balance Board Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Place the balance board on a flat surface.",
+                    "Step onto the balance board with both feet, positioning them shoulder-width apart.",
+                    "Engage your core muscles and maintain a straight posture.",
+                    "Shift your weight to one side of the board, lifting the opposite foot off the ground.",
+                    "Hold the position for a few seconds, then shift your weight to the other side of the board, lifting the opposite foot off the ground.",
+                    "Repeat this side-to-side movement for several repetitions, aiming to maintain your balance throughout.",
+                    "For an added challenge, try performing the exercise with your eyes closed or while holding a weight in each hand.",
+                    "When finished, step off the balance board and stretch your legs and core muscles."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Balance Board Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Balance Board Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves balance and stability",
+                    "Strengthens core muscles",
+                    "Increases ankle and knee stability",
+                    "Enhances coordination and proprioception",
+                    "Can be used for rehabilitation purposes",
+                    "Provides a low-impact workout",
+                    "Can be used for a variety of exercises and activities"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Balance Board Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Core muscles (abdominals, obliques, lower back)",
+                    "Leg muscles (quadriceps, hamstrings, calves)",
+                    "Ankle stabilizer muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Balance Board Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single-leg balance board",
+                    "Side-to-side balance board",
+                    "Forward and backward balance board",
+                    "Circular balance board",
+                    "Wobble board",
+                    "Rocking balance board",
+                    "Roller balance board",
+                    "Half-ball balance board"
+                ]
+            }
+        }
+    ]
+}

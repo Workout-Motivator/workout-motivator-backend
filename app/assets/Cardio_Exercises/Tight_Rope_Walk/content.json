@@ -1,0 +1,74 @@
+{
+    "title": "Tight Rope Walk",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Tight Rope Walk Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by standing on a tight rope or a narrow surface that is elevated from the ground.",
+                    "Place your arms out to the sides to help with balance.",
+                    "Take small steps, one foot in front of the other, keeping your eyes focused on a fixed point in front of you.",
+                    "Keep your core engaged and your body centered over the rope.",
+                    "As you gain confidence, try to walk faster or even turn around and walk backwards.",
+                    "Practice regularly to improve your balance and coordination."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Tight Rope Walk Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Tight Rope Walk Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves flexibility and range of motion in the hips, hamstrings, and lower back",
+                    "Increases blood flow and circulation to the lower body",
+                    "Helps to prevent injury by warming up the muscles before physical activity",
+                    "Can be done anywhere without the need for equipment",
+                    "May improve posture and balance over time"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Tight Rope Walk Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Core muscles (abdominals, obliques, lower back)",
+                    "Leg muscles (quadriceps, hamstrings, calves)",
+                    "Gluteus maximus (butt muscles)",
+                    "Stabilizer muscles in the feet and ankles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Tight Rope Walk Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Tightrope walk with arms outstretched",
+                    "Tightrope walk with eyes closed",
+                    "Tightrope walk with a weighted backpack",
+                    "Tightrope walk backwards",
+                    "Tightrope walk with a partner"
+                ]
+            }
+        }
+    ]
+}

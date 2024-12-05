@@ -1,0 +1,79 @@
+{
+    "title": "Toe Jump",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Toe Jump Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your arms at your sides.",
+                    "Bend your knees slightly and jump up, lifting your toes off the ground.",
+                    "Land softly on the balls of your feet and immediately jump again, lifting your heels off the ground this time.",
+                    "Continue alternating between jumping onto your toes and jumping onto your heels for the desired number of repetitions or time.",
+                    "Make sure to keep your core engaged and your movements controlled throughout the exercise."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Toe Jump Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Toe Jump Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves lower body strength and power",
+                    "Increases cardiovascular endurance",
+                    "Enhances coordination and balance",
+                    "Helps to develop fast-twitch muscle fibers",
+                    "Can be done anywhere without equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Toe Jump Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Gastrocnemius",
+                    "Soleus",
+                    "Tibialis anterior",
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Glutes",
+                    "Core muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Toe Jump Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single Leg Toe Jump",
+                    "Double Leg Toe Jump",
+                    "180 Degree Toe Jump",
+                    "360 Degree Toe Jump",
+                    "Toe Touch Jump",
+                    "Straddle Toe Jump",
+                    "Pike Toe Jump",
+                    "Tuck Toe Jump"
+                ]
+            }
+        }
+    ]
+}

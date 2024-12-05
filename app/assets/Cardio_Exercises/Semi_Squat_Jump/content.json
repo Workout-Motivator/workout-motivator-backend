@@ -1,0 +1,74 @@
+{
+    "title": "Semi Squat Jump",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Semi Squat Jump Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your arms at your sides.",
+                    "Bend your knees and lower your body into a semi-squat position.",
+                    "Quickly jump up as high as you can, extending your arms above your head.",
+                    "Land softly back in the semi-squat position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Semi Squat Jump Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Semi Squat Jump Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the glutes, hamstrings, and lower back muscles",
+                    "Improves core stability and balance",
+                    "Increases flexibility in the hips and spine",
+                    "Relieves tension in the neck and shoulders",
+                    "Can help alleviate lower back pain"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Semi Squat Jump Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calf muscles",
+                    "Core muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Semi Squat Jump Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Full squat jump",
+                    "Single-leg squat jump",
+                    "Box jump",
+                    "Tuck jump",
+                    "Split squat jump"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "title": "Cable Upper Row",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Cable Upper Row Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Attach a cable handle to a high pulley on a cable machine.",
+                    "Stand facing the machine with your feet shoulder-width apart and your knees slightly bent.",
+                    "Grasp the handle with both hands, palms facing down.",
+                    "Engage your core and pull the handle towards your chest, keeping your elbows close to your body.",
+                    "Pause for a moment at the top of the movement, squeezing your shoulder blades together.",
+                    "Slowly release the handle back to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Cable Upper Row Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Cable Upper Row Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the upper back muscles, including the rhomboids, trapezius, and rear deltoids",
+                    "Improves posture and shoulder stability",
+                    "Can be easily adjusted to target different areas of the upper back by changing the height of the cable attachment",
+                    "Allows for a greater range of motion compared to traditional barbell or dumbbell rows",
+                    "Engages the core muscles for added stability and strength"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cable Upper Row Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Trapezius",
+                    "Rhomboids",
+                    "Deltoids",
+                    "Biceps",
+                    "Forearms"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cable Upper Row Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single-Arm Cable Row",
+                    "Wide-Grip Cable Row",
+                    "Close-Grip Cable Row",
+                    "Reverse-Grip Cable Row",
+                    "Seated Cable Row",
+                    "Standing Cable Row",
+                    "High Cable Row",
+                    "Low Cable Row",
+                    "One-Arm High Cable Row",
+                    "One-Arm Low Cable Row"
+                ]
+            }
+        }
+    ]
+}

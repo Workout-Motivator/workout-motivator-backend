@@ -1,0 +1,81 @@
+{
+    "title": "Squat Jacks",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Squat Jacks Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your arms at your sides.",
+                    "Lower into a squat position by bending your knees and pushing your hips back.",
+                    "As you come up from the squat, jump your feet out to the sides while simultaneously raising your arms above your head.",
+                    "Jump your feet back together and lower back into the squat position.",
+                    "Repeat the jumping motion for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Squat Jacks Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Squat Jacks Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Increases cardiovascular endurance",
+                    "Strengthens lower body muscles, including quadriceps, hamstrings, and glutes",
+                    "Improves coordination and balance",
+                    "Burns calories and aids in weight loss",
+                    "Can be modified for different fitness levels"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Squat Jacks Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Abdominals",
+                    "Obliques",
+                    "Lower back"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Squat Jacks Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Jumping Jack Squats",
+                    "Sumo Squat Jacks",
+                    "Plank Jack Squats",
+                    "Reverse Lunge Jacks",
+                    "Curtsy Lunge Jacks",
+                    "Jump Squat Jacks",
+                    "Single Leg Squat Jacks",
+                    "Side Lunge Jacks",
+                    "Skater Squat Jacks",
+                    "Split Squat Jacks"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "title": "Dumbbell Around Pullover",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Around Pullover Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on a bench with your feet flat on the ground and your knees bent.",
+                    "Hold a dumbbell with both hands and extend your arms straight up towards the ceiling.",
+                    "Slowly lower the dumbbell behind your head, keeping your arms straight and your elbows locked in place.",
+                    "Once the dumbbell is behind your head, slowly bring it back up to the starting position, making sure to keep your arms straight and your elbows locked in place.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Around Pullover Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Around Pullover Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets multiple muscle groups including the chest, back, shoulders, and triceps",
+                    "Improves upper body strength and endurance",
+                    "Increases flexibility and range of motion in the shoulders",
+                    "Can be modified for different fitness levels by adjusting weight and reps",
+                    "Can be done with minimal equipment, making it a convenient exercise to do at home or while traveling"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Around Pullover Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Pectoralis Major",
+                    "Latissimus Dorsi",
+                    "Trapezius",
+                    "Rhomboids",
+                    "Triceps Brachii",
+                    "Serratus Anterior"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Around Pullover Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Pullover",
+                    "Barbell Pullover",
+                    "Cable Pullover",
+                    "Machine Pullover",
+                    "Single Arm Dumbbell Pullover",
+                    "Decline Dumbbell Pullover",
+                    "Incline Dumbbell Pullover",
+                    "Seated Dumbbell Pullover",
+                    "Standing Dumbbell Pullover"
+                ]
+            }
+        }
+    ]
+}

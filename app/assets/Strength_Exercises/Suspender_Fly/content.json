@@ -1,0 +1,73 @@
+{
+    "title": "Suspender Fly",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Suspender Fly Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on your back with your legs straight up in the air, perpendicular to the floor.",
+                    "Place your hands behind your head and engage your core muscles.",
+                    "Slowly lower your legs towards the floor, keeping them straight and your core engaged.",
+                    "Stop when your legs are a few inches above the floor and hold for a few seconds.",
+                    "Slowly raise your legs back up to the starting position, keeping them straight and your core engaged.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Suspender Fly Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Suspender Fly Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the chest, shoulders, and triceps",
+                    "Increases upper body strength and muscle definition",
+                    "Improves posture and stability",
+                    "Can be done with minimal equipment",
+                    "Can be modified for different fitness levels"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Suspender Fly Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Pectoralis Major",
+                    "Anterior Deltoids",
+                    "Triceps Brachii"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Suspender Fly Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single Leg Suspender Fly",
+                    "Alternating Leg Suspender Fly",
+                    "Weighted Suspender Fly",
+                    "Resistance Band Suspender Fly",
+                    "Push-up Suspender Fly"
+                ]
+            }
+        }
+    ]
+}

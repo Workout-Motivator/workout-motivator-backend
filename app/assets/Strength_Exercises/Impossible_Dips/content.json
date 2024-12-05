@@ -1,0 +1,78 @@
+{
+    "title": "Impossible Dips",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Impossible Dips Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by finding a sturdy surface to perform the dips on, such as parallel bars or the edge of a bench.",
+                    "Place your hands on the surface, shoulder-width apart, and extend your legs out in front of you.",
+                    "Lower your body down by bending your elbows, keeping them close to your body.",
+                    "Once your arms reach a 90-degree angle, push yourself back up to the starting position.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Impossible Dips Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Impossible Dips Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets triceps, chest, and shoulders",
+                    "Increases upper body strength and endurance",
+                    "Improves overall body control and stability",
+                    "Can be done with minimal equipment",
+                    "Provides a challenging workout for advanced fitness levels"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Impossible Dips Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Triceps",
+                    "Chest",
+                    "Shoulders",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Impossible Dips Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Assisted dips with resistance bands",
+                    "Weighted dips",
+                    "Ring dips",
+                    "Parallel bar dips",
+                    "Single-leg dips",
+                    "Tricep dips on a bench or chair",
+                    "Decline bench dips",
+                    "Assisted one-arm dips with resistance bands",
+                    "Assisted one-leg dips with resistance bands",
+                    "Assisted one-arm, one-leg dips with resistance bands"
+                ]
+            }
+        }
+    ]
+}

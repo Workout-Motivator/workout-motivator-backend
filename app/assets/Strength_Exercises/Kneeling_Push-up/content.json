@@ -1,0 +1,78 @@
+{
+    "title": "Kneeling Push-up",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Kneeling Push-up Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by getting down on your hands and knees, with your hands shoulder-width apart and your knees hip-width apart.",
+                    "Extend your legs behind you, so that you are in a plank position with your body in a straight line from your head to your heels.",
+                    "Lower your body towards the ground by bending your elbows, keeping your body in a straight line.",
+                    "Push yourself back up to the starting position by straightening your arms.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Kneeling Push-up Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Kneeling Push-up Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves agility and footwork",
+                    "Increases speed and reaction time",
+                    "Enhances coordination and balance",
+                    "Develops cardiovascular endurance",
+                    "Targets multiple muscle groups including legs, core, and upper body",
+                    "Can be modified for different skill levels and sports",
+                    "Provides a fun and challenging workout"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Kneeling Push-up Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Chest muscles (pectoralis major and minor)",
+                    "Shoulder muscles (deltoids)",
+                    "Triceps",
+                    "Core muscles (abdominals and lower back)"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Kneeling Push-up Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "incline push-up",
+                    "decline push-up",
+                    "wide push-up",
+                    "narrow push-up",
+                    "plyometric push-up",
+                    "one-arm push-up",
+                    "spiderman push-up",
+                    "pike push-up"
+                ]
+            }
+        }
+    ]
+}

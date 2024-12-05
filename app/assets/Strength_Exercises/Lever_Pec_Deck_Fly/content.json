@@ -1,0 +1,72 @@
+{
+    "title": "Lever Pec Deck Fly",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Lever Pec Deck Fly Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Adjust the seat height and distance from the machine so that your elbows are at the same height as your shoulders when you grip the handles.",
+                    "Grasp the handles with a neutral grip (palms facing each other) and sit with your back against the pad.",
+                    "Press the handles together in front of your chest, keeping your elbows slightly bent.",
+                    "Slowly release the handles back to the starting position, allowing your chest muscles to stretch.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Lever Pec Deck Fly Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Lever Pec Deck Fly Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the chest muscles, specifically the pectoralis major and minor",
+                    "Isolates the chest muscles, reducing the involvement of other muscle groups",
+                    "Allows for a full range of motion, stretching and contracting the chest muscles",
+                    "Can be adjusted to target different areas of the chest, such as the upper or lower portions",
+                    "Is a safe exercise for those with shoulder or back injuries, as it does not put pressure on those areas"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Lever Pec Deck Fly Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Pectoralis major",
+                    "Anterior deltoids",
+                    "Triceps brachii"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Lever Pec Deck Fly Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Cable Pec Deck Fly",
+                    "Dumbbell Pec Deck Fly",
+                    "Machine Pec Deck Fly",
+                    "Resistance Band Pec Deck Fly",
+                    "Smith Machine Pec Deck Fly"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "title": "Dumbbell Single Leg Squat",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Single Leg Squat Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a dumbbell in your right hand.",
+                    "Lift your left foot off the ground and extend it forward.",
+                    "Bend your right knee and lower your body into a squat position, keeping your back straight and your chest up.",
+                    "Pause for a moment at the bottom of the squat, then push through your right foot to return to the starting position.",
+                    "Repeat for the desired number of repetitions, then switch sides and repeat with the dumbbell in your left hand."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Single Leg Squat Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Single Leg Squat Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the legs, particularly the quadriceps, hamstrings, and glutes",
+                    "Improves balance and stability",
+                    "Engages the core muscles for added stability and strength",
+                    "Can be done with minimal equipment, making it a convenient exercise to do at home or while traveling",
+                    "Targets each leg individually, helping to correct any muscle imbalances or weaknesses"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Single Leg Squat Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Single Leg Squat Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Bulgarian Split Squat",
+                    "Dumbbell Step-Up",
+                    "Dumbbell Lunges",
+                    "Dumbbell Goblet Squat",
+                    "Dumbbell Front Squat"
+                ]
+            }
+        }
+    ]
+}

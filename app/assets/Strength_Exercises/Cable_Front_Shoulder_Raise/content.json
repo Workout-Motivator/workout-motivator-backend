@@ -1,0 +1,76 @@
+{
+    "title": "Cable Front Shoulder Raise",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Cable Front Shoulder Raise Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a cable in your right hand with your palm facing down.",
+                    "Bring your right arm up and out to the side until it is parallel to the floor, keeping your elbow slightly bent.",
+                    "Lower your arm back down to the starting position and repeat for the desired number of repetitions.",
+                    "Switch sides and repeat the exercise with your left arm."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Cable Front Shoulder Raise Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Cable Front Shoulder Raise Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the front deltoids, which are responsible for lifting the arms in front of the body",
+                    "Helps to improve shoulder strength and stability",
+                    "Can be performed with a variety of cable attachments to target different areas of the shoulder",
+                    "Allows for a controlled and smooth movement, reducing the risk of injury",
+                    "Can be easily modified for different fitness levels by adjusting the weight or number of repetitions"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cable Front Shoulder Raise Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Anterior Deltoid",
+                    "Lateral Deltoid",
+                    "Upper Trapezius",
+                    "Clavicular (upper) Pectoralis Major"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cable Front Shoulder Raise Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Front Shoulder Raise",
+                    "Plate Front Shoulder Raise",
+                    "Resistance Band Front Shoulder Raise",
+                    "Barbell Front Shoulder Raise",
+                    "Arnold Press",
+                    "Seated Front Shoulder Raise",
+                    "Standing Front Shoulder Raise",
+                    "Single Arm Cable Front Shoulder Raise",
+                    "Alternating Cable Front Shoulder Raise"
+                ]
+            }
+        }
+    ]
+}

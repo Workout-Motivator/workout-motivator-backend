@@ -1,0 +1,73 @@
+{
+    "title": "Elevated Standing Calf Raise",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Elevated Standing Calf Raise Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand on an elevated surface such as a step or block with the balls of your feet on the edge and your heels hanging off.",
+                    "Hold onto a stable object such as a railing or wall for balance.",
+                    "Raise your heels up as high as possible, squeezing your calf muscles at the top of the movement.",
+                    "Lower your heels back down below the level of the elevated surface, feeling a stretch in your calves.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Elevated Standing Calf Raise Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Elevated Standing Calf Raise Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens and tones the calf muscles",
+                    "Improves ankle stability and balance",
+                    "Increases ankle flexibility and range of motion",
+                    "Can help prevent injuries such as ankle sprains and Achilles tendonitis",
+                    "Can be done with minimal equipment and in a variety of settings"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Elevated Standing Calf Raise Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Gastrocnemius",
+                    "Soleus"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Elevated Standing Calf Raise Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Seated Calf Raise",
+                    "Donkey Calf Raise",
+                    "Single Leg Calf Raise",
+                    "Smith Machine Calf Raise",
+                    "Barbell Calf Raise",
+                    "Dumbbell Calf Raise",
+                    "Standing Calf Raise"
+                ]
+            }
+        }
+    ]
+}

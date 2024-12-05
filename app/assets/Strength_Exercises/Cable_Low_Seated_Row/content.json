@@ -1,0 +1,80 @@
+{
+    "title": "Cable Low Seated Row",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Cable Low Seated Row Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Adjust the cable machine to the appropriate weight and attach a V-bar handle to the cable.",
+                    "Sit on the bench with your feet flat on the platform and your knees slightly bent.",
+                    "Grasp the V-bar handle with an overhand grip and extend your arms in front of you.",
+                    "Keeping your back straight, pull the handle towards your abdomen, squeezing your shoulder blades together.",
+                    "Pause for a moment at the top of the movement, then slowly release the handle back to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Cable Low Seated Row Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Cable Low Seated Row Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the muscles in the back, including the latissimus dorsi, rhomboids, and trapezius",
+                    "Improves posture and spinal alignment",
+                    "Increases strength and muscle definition in the back",
+                    "Can be modified to target different areas of the back by adjusting the grip and hand placement on the cable",
+                    "Provides a low-impact exercise option for those with joint pain or injuries"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cable Low Seated Row Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rhomboids",
+                    "Trapezius",
+                    "Latissimus dorsi",
+                    "Erector spinae",
+                    "Biceps"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cable Low Seated Row Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single-arm Cable Low Seated Row",
+                    "Wide-grip Cable Low Seated Row",
+                    "Narrow-grip Cable Low Seated Row",
+                    "Reverse-grip Cable Low Seated Row",
+                    "One-arm Reverse-grip Cable Low Seated Row",
+                    "Close-grip Cable Low Seated Row",
+                    "Underhand-grip Cable Low Seated Row",
+                    "Overhand-grip Cable Low Seated Row",
+                    "Alternating Cable Low Seated Row",
+                    "Isometric Cable Low Seated Row"
+                ]
+            }
+        }
+    ]
+}

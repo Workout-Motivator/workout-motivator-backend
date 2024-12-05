@@ -1,0 +1,74 @@
+{
+    "title": "Crunch Single Leg Lift",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Crunch Single Leg Lift Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Lie down on your back with your knees bent and feet flat on the ground.",
+                    "Extend one leg straight up towards the ceiling.",
+                    "Place your hands behind your head, keeping your elbows wide.",
+                    "Engage your core and lift your head, neck, and shoulders off the ground.",
+                    "Simultaneously lift your extended leg towards your chest, keeping it straight.",
+                    "Lower your head, neck, and shoulders back down to the ground while lowering your leg back to the starting position.",
+                    "Repeat on the other side, alternating legs for each repetition."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Crunch Single Leg Lift Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Crunch Single Leg Lift Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the abdominal muscles",
+                    "Improves balance and stability",
+                    "Targets the lower abs and hip flexors",
+                    "Increases core strength and endurance",
+                    "Can be modified for different fitness levels"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Crunch Single Leg Lift Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus abdominis",
+                    "Obliques",
+                    "Hip flexors"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Crunch Single Leg Lift Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Crunch Double Leg Lift",
+                    "Reverse Crunch Single Leg Lift",
+                    "Reverse Crunch Double Leg Lift",
+                    "Bicycle Crunch",
+                    "Russian Twist"
+                ]
+            }
+        }
+    ]
+}

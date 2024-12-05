@@ -1,0 +1,81 @@
+{
+    "title": "Band Seated Row",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Band Seated Row Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Adjust the height of the cable machine to chest level.",
+                    "Attach a resistance band to the cable machine and sit on the bench facing the machine.",
+                    "Place your feet on the footrests and grab the resistance band with both hands, palms facing each other.",
+                    "Sit up straight with your shoulders relaxed and your core engaged.",
+                    "Pull the resistance band towards your chest, keeping your elbows close to your body.",
+                    "Squeeze your shoulder blades together at the end of the movement.",
+                    "Slowly release the resistance band back to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Band Seated Row Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Band Seated Row Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the upper back muscles, including the rhomboids, trapezius, and latissimus dorsi",
+                    "Improves posture by pulling the shoulders back and down",
+                    "Targets the biceps and forearms as secondary muscles",
+                    "Can be modified to target different areas of the back by adjusting grip and hand placement",
+                    "Can be done with a variety of equipment, including resistance bands, cable machines, and dumbbells",
+                    "Low impact exercise that is easy on the joints"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Band Seated Row Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rhomboids",
+                    "Trapezius",
+                    "Rear deltoids",
+                    "Biceps",
+                    "Forearms"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Band Seated Row Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single-arm seated row",
+                    "Wide-grip seated row",
+                    "Narrow-grip seated row",
+                    "Reverse-grip seated row",
+                    "T-bar row",
+                    "Cable seated row",
+                    "Dumbbell seated row",
+                    "Machine seated row"
+                ]
+            }
+        }
+    ]
+}

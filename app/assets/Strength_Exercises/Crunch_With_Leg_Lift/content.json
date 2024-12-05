@@ -1,0 +1,77 @@
+{
+    "title": "Crunch With Leg Lift",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Crunch With Leg Lift Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on your back with your knees bent and feet flat on the ground.",
+                    "Place your hands behind your head, keeping your elbows out to the sides.",
+                    "Engage your core muscles and lift your shoulders off the ground, bringing your chest towards your knees.",
+                    "At the same time, lift one leg off the ground and extend it straight up towards the ceiling.",
+                    "Lower your shoulders and leg back down to the starting position.",
+                    "Repeat the movement, this time lifting the opposite leg.",
+                    "Continue alternating legs with each repetition.",
+                    "Complete 2-3 sets of 10-15 repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Crunch With Leg Lift Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Crunch With Leg Lift Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens core muscles",
+                    "Improves stability and balance",
+                    "Increases coordination and body awareness",
+                    "Targets multiple muscle groups, including abs, obliques, and hip flexors",
+                    "Can be modified for different fitness levels and abilities",
+                    "Can be done with minimal equipment",
+                    "Helps prevent lower back pain and injury"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Crunch With Leg Lift Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus abdominis",
+                    "Obliques",
+                    "Hip flexors"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Crunch With Leg Lift Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Crunch with twist",
+                    "Reverse crunch",
+                    "Bicycle crunch",
+                    "Plank with leg lift",
+                    "Side plank with leg lift"
+                ]
+            }
+        }
+    ]
+}

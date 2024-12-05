@@ -1,0 +1,77 @@
+{
+    "title": "Dumbbell Fly",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Fly Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying flat on a bench with your feet firmly planted on the ground.",
+                    "Hold a dumbbell in each hand with your palms facing each other and your arms extended above your chest.",
+                    "Slowly lower the dumbbells out to the sides of your body, keeping your elbows slightly bent.",
+                    "Stop when your arms are parallel to the ground and you feel a stretch in your chest muscles.",
+                    "Slowly raise the dumbbells back up to the starting position, squeezing your chest muscles as you go.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Fly Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Fly Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the chest muscles, specifically the pectoralis major and minor",
+                    "Helps to improve upper body strength and muscle definition",
+                    "Can be performed with a variety of weights and angles to target different areas of the chest",
+                    "Assists in improving posture and reducing the risk of shoulder injuries",
+                    "Can be easily modified for individuals with shoulder or wrist issues"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Fly Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Chest muscles (pectoralis major and minor)",
+                    "Shoulder muscles (anterior deltoids)",
+                    "Triceps"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Fly Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Incline Dumbbell Fly",
+                    "Decline Dumbbell Fly",
+                    "Standing Dumbbell Fly",
+                    "Seated Dumbbell Fly",
+                    "Single Arm Dumbbell Fly",
+                    "Alternating Dumbbell Fly",
+                    "Reverse Dumbbell Fly",
+                    "Close Grip Dumbbell Fly",
+                    "Wide Grip Dumbbell Fly"
+                ]
+            }
+        }
+    ]
+}

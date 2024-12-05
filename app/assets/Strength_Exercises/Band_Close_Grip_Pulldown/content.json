@@ -1,0 +1,75 @@
+{
+    "title": "Band Close Grip Pulldown",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Band Close Grip Pulldown Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Adjust the weight on the pulldown machine to a comfortable level.",
+                    "Attach a resistance band to the machine, making sure it is securely fastened.",
+                    "Stand facing the machine and grasp the handles with an underhand grip, with your hands shoulder-width apart.",
+                    "Engage your core and keep your back straight as you pull the handles down towards your chest, squeezing your shoulder blades together.",
+                    "Pause for a moment at the bottom of the movement, then slowly release the handles back up to the starting position.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Band Close Grip Pulldown Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Band Close Grip Pulldown Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the upper back muscles, specifically the latissimus dorsi",
+                    "Improves posture and spinal alignment",
+                    "Increases grip strength",
+                    "Can be modified for different fitness levels by adjusting the resistance band or weight used",
+                    "Engages the biceps and forearms as secondary muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Band Close Grip Pulldown Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Latissimus dorsi",
+                    "Trapezius",
+                    "Rhomboids",
+                    "Biceps brachii",
+                    "Forearm muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Band Close Grip Pulldown Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Wide grip pulldown",
+                    "Reverse grip pulldown",
+                    "Assisted pull-up machine",
+                    "Chin-up",
+                    "One-arm dumbbell row"
+                ]
+            }
+        }
+    ]
+}

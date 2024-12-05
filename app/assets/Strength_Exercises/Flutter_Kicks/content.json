@@ -1,0 +1,73 @@
+{
+    "title": "Flutter Kicks",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Flutter Kicks Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying flat on your back with your arms at your sides.",
+                    "Lift your legs off the ground about six inches and keep them straight.",
+                    "Alternate lifting each leg up and down in a fluttering motion, keeping your legs straight and close to the ground.",
+                    "Continue fluttering your legs for the desired amount of reps or time.",
+                    "Remember to engage your core and keep your lower back pressed into the ground throughout the exercise."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Flutter Kicks Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Flutter Kicks Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the lower abs and hip flexors",
+                    "Improves core stability and balance",
+                    "Increases endurance and stamina",
+                    "Can be done anywhere without equipment",
+                    "Low impact exercise that is easy on the joints"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Flutter Kicks Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus abdominis",
+                    "Transverse abdominis",
+                    "Hip flexors",
+                    "Quadriceps"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Flutter Kicks Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Scissor Kicks",
+                    "Reverse Flutter Kicks",
+                    "Butterfly Kicks",
+                    "Vertical Flutter Kicks",
+                    "Single Leg Flutter Kicks"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "title": "Dumbbell Hang Clean and Jerk",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Hang Clean and Jerk Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart, holding a dumbbell in each hand with your palms facing your thighs.",
+                    "Bend your knees slightly and hinge forward at the hips, keeping your back straight and your core engaged.",
+                    "As you exhale, pull the dumbbells up towards your shoulders, keeping them close to your body.",
+                    "Once the dumbbells reach shoulder height, quickly drop into a squat position and then stand up explosively, using the momentum to press the dumbbells overhead.",
+                    "Lower the dumbbells back down to your shoulders and then drop back into a squat position.",
+                    "As you stand up again, use the momentum to push the dumbbells overhead once more.",
+                    "Lower the dumbbells back down to your shoulders and then stand up straight.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Hang Clean and Jerk Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Hang Clean and Jerk Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Full body workout",
+                    "Improves explosive power and strength",
+                    "Targets multiple muscle groups including shoulders, back, legs, and core",
+                    "Increases cardiovascular endurance",
+                    "Improves coordination and balance",
+                    "Can be modified for different fitness levels",
+                    "Can be done with minimal equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Hang Clean and Jerk Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Deltoids",
+                    "Trapezius",
+                    "Rhomboids",
+                    "Triceps",
+                    "Biceps",
+                    "Forearms",
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Core muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Hang Clean and Jerk Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Clean and Press",
+                    "Dumbbell Snatch",
+                    "Dumbbell Push Press",
+                    "Dumbbell Thruster",
+                    "Dumbbell Squat Clean"
+                ]
+            }
+        }
+    ]
+}

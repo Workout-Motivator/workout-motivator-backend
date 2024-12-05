@@ -1,0 +1,76 @@
+{
+    "title": "Pistol Squat to Box",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Pistol Squat to Box Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart, facing away from a sturdy box or bench.",
+                    "Lift your right foot off the ground and extend it forward, keeping your leg straight.",
+                    "Bend your left knee and lower your body down into a squat, keeping your right foot off the ground.",
+                    "Lower your body until your glutes touch the box or bench.",
+                    "Push through your left heel to stand back up to the starting position.",
+                    "Repeat for the desired number of reps, then switch legs and repeat on the other side."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Pistol Squat to Box Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Pistol Squat to Box Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves balance and stability",
+                    "Strengthens the lower body, including the quads, glutes, and hamstrings",
+                    "Increases flexibility in the hips and ankles",
+                    "Challenges the core muscles for improved overall strength",
+                    "Can be modified for different fitness levels by adjusting the height of the box"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Pistol Squat to Box Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Pistol Squat to Box Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Pistol Squat to Bench",
+                    "Pistol Squat to Chair",
+                    "Pistol Squat to Step",
+                    "Pistol Squat to Box with Weight",
+                    "Pistol Squat to Box with Resistance Band",
+                    "Pistol Squat to Box with Medicine Ball"
+                ]
+            }
+        }
+    ]
+}

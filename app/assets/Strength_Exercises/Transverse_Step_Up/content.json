@@ -1,0 +1,76 @@
+{
+    "title": "Transverse Step Up",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Transverse Step Up Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand facing a bench or step that is knee height or lower.",
+                    "Place your right foot on the bench or step.",
+                    "Step up onto the bench or step with your right foot, straightening your right leg and lifting your left foot off the ground.",
+                    "Bring your left foot up to the bench or step, so that both feet are on the bench or step.",
+                    "Step down with your left foot, returning to the starting position.",
+                    "Repeat the exercise with your left foot on the bench or step.",
+                    "Continue alternating legs for the desired number of repetitions or time."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Transverse Step Up Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Transverse Step Up Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves balance and stability",
+                    "Strengthens the glutes, quads, and hamstrings",
+                    "Increases hip mobility",
+                    "Engages the core muscles",
+                    "Can be modified for different fitness levels"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Transverse Step Up Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Core muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Transverse Step Up Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Lateral Step Up",
+                    "Single Leg Step Up",
+                    "Weighted Step Up",
+                    "Box Jump Step Up",
+                    "Reverse Step Up"
+                ]
+            }
+        }
+    ]
+}

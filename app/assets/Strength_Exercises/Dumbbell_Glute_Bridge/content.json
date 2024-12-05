@@ -1,0 +1,72 @@
+{
+    "title": "Dumbbell Glute Bridge",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Glute Bridge Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on your back with your knees bent and feet flat on the ground. Hold a dumbbell in each hand, resting them on your hips.",
+                    "Engage your glutes and lift your hips off the ground until your body forms a straight line from your shoulders to your knees.",
+                    "Hold this position for a few seconds, then lower your hips back down to the ground.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Glute Bridge Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Glute Bridge Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the glutes and hamstrings",
+                    "Improves hip mobility and stability",
+                    "Helps to prevent lower back pain",
+                    "Can be done with minimal equipment",
+                    "Can be modified to increase or decrease difficulty"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Glute Bridge Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Glutes",
+                    "Hamstrings",
+                    "Lower back",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Glute Bridge Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single-leg Dumbbell Glute Bridge",
+                    "Weighted Dumbbell Glute Bridge",
+                    "Barbell Glute Bridge",
+                    "Resistance Band Glute Bridge",
+                    "Smith Machine Glute Bridge"
+                ]
+            }
+        }
+    ]
+}

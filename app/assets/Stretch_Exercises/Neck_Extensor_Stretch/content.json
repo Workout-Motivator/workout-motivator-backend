@@ -1,0 +1,75 @@
+{
+    "title": "Neck Extensor Stretch",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Neck Extensor Stretch Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand or sit with good posture, keeping your spine straight.",
+                    "Place your hands on the back of your head, interlacing your fingers.",
+                    "Gently pull your head down towards your chest, using your hands to provide a slight resistance.",
+                    "Hold the stretch for 15-30 seconds, feeling a gentle stretch in the back of your neck.",
+                    "Slowly release the stretch and return to your starting position.",
+                    "Repeat the stretch 2-3 times, as needed."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Neck Extensor Stretch Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Neck Extensor Stretch Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Relieves tension and pain in the neck and upper back",
+                    "Improves posture by strengthening the neck muscles",
+                    "Increases range of motion in the neck",
+                    "Reduces the risk of neck injuries",
+                    "Can be done anywhere without any equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Neck Extensor Stretch Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Trapezius",
+                    "Rhomboids",
+                    "Erector spinae",
+                    "Splenius capitis",
+                    "Semispinalis capitis"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Neck Extensor Stretch Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Chin tucks",
+                    "Neck rotations",
+                    "Shoulder blade squeezes",
+                    "Upper trapezius stretch",
+                    "Levator scapulae stretch"
+                ]
+            }
+        }
+    ]
+}

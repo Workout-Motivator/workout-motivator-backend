@@ -1,0 +1,75 @@
+{
+    "title": "Rotating Stomach Stretch",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Rotating Stomach Stretch Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on your back with your arms extended out to the sides.",
+                    "Bend your knees and bring them up towards your chest.",
+                    "Slowly lower your legs to the right side of your body, keeping your shoulders flat on the ground.",
+                    "Hold this position for 10-15 seconds, feeling the stretch in your stomach and lower back.",
+                    "Slowly bring your legs back to the center and repeat on the left side.",
+                    "Continue alternating sides for 10-15 repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Rotating Stomach Stretch Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Rotating Stomach Stretch Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves flexibility and range of motion in the spine and hips",
+                    "Stretches the abdominal muscles and obliques",
+                    "Relieves tension and tightness in the lower back",
+                    "Can help alleviate digestive issues and constipation",
+                    "May improve posture and balance"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Rotating Stomach Stretch Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus abdominis",
+                    "Obliques",
+                    "Erector spinae",
+                    "Quadratus lumborum"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Rotating Stomach Stretch Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Standing Rotating Stomach Stretch",
+                    "Seated Rotating Stomach Stretch",
+                    "Supine Rotating Stomach Stretch",
+                    "Prone Rotating Stomach Stretch",
+                    "Modified Rotating Stomach Stretch with Knee Bend",
+                    "Partner Rotating Stomach Stretch"
+                ]
+            }
+        }
+    ]
+}

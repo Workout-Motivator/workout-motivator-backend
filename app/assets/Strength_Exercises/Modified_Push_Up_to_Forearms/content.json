@@ -1,0 +1,78 @@
+{
+    "title": "Modified Push Up to Forearms",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Modified Push Up to Forearms Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start in a high plank position with your hands directly under your shoulders and your feet hip-width apart.",
+                    "Lower your body down to the ground, keeping your elbows close to your sides.",
+                    "Once you are on the ground, place your forearms on the ground, keeping your elbows bent at a 90-degree angle.",
+                    "Push yourself back up to the high plank position, using your forearms to lift yourself up.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Modified Push Up to Forearms Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Modified Push Up to Forearms Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the chest, shoulders, triceps, and core muscles",
+                    "Improves stability and balance",
+                    "Targets the muscles in the upper back and neck, helping to improve posture",
+                    "Can be modified to accommodate different fitness levels and abilities",
+                    "Requires no equipment and can be done anywhere"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Modified Push Up to Forearms Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Chest muscles (pectoralis major and minor)",
+                    "Shoulder muscles (anterior deltoids)",
+                    "Triceps brachii",
+                    "Core muscles (rectus abdominis, transverse abdominis, and obliques)"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Modified Push Up to Forearms Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Push Up with Shoulder Tap",
+                    "Decline Push Up",
+                    "Incline Push Up",
+                    "Single Leg Push Up",
+                    "Spiderman Push Up",
+                    "Diamond Push Up",
+                    "Wide Grip Push Up",
+                    "Staggered Push Up",
+                    "Clap Push Up",
+                    "One Arm Push Up"
+                ]
+            }
+        }
+    ]
+}

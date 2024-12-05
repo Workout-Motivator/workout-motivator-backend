@@ -1,0 +1,78 @@
+{
+    "title": "Bulgarian Jump Squat",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Bulgarian Jump Squat Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your toes pointing slightly outward.",
+                    "Hold a dumbbell in each hand at your sides.",
+                    "Lower your body into a squat position by bending your knees and pushing your hips back.",
+                    "As you come up from the squat, jump as high as you can.",
+                    "While in the air, bring your feet together and then back to shoulder-width apart.",
+                    "Land softly on the balls of your feet and immediately lower back into a squat position.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Bulgarian Jump Squat Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Bulgarian Jump Squat Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Increases lower body strength and power",
+                    "Improves balance and stability",
+                    "Targets the quads, glutes, and hamstrings",
+                    "Engages the core muscles for added stability",
+                    "Can be done with just bodyweight or with added weight for increased resistance",
+                    "Provides a cardiovascular workout due to the explosive nature of the exercise",
+                    "Can help improve athletic performance in sports that require jumping and explosive movements"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Bulgarian Jump Squat Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Bulgarian Jump Squat Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Jump Squat with Dumbbells",
+                    "Jump Squat with Barbell",
+                    "Jump Squat with Resistance Bands",
+                    "Single-Leg Jump Squat",
+                    "Box Jump Squat"
+                ]
+            }
+        }
+    ]
+}

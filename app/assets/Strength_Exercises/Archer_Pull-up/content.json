@@ -1,0 +1,76 @@
+{
+    "title": "Archer Pull-up",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Archer Pull-up Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Find a sturdy horizontal bar that can support your weight.",
+                    "Stand underneath the bar and grip it with one hand, placing your palm facing away from you and your fingers wrapped around the top of the bar.",
+                    "Extend your other arm out to the side, keeping it straight and parallel to the ground.",
+                    "Engage your core and pull yourself up towards the bar using only the arm that is gripping the bar.",
+                    "As you pull yourself up, move your non-gripping arm towards the bar and use it for support as needed.",
+                    "Lower yourself back down to the starting position with control.",
+                    "Repeat for the desired number of repetitions, then switch arms and repeat the exercise on the other side."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Archer Pull-up Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Archer Pull-up Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets multiple muscle groups including the back, shoulders, and arms",
+                    "Improves grip strength and overall upper body strength",
+                    "Increases range of motion and flexibility in the shoulders",
+                    "Challenges and improves balance and stability",
+                    "Can be modified for different fitness levels and goals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Archer Pull-up Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Biceps brachii",
+                    "Latissimus dorsi",
+                    "Trapezius",
+                    "Rhomboids",
+                    "Forearm muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Archer Pull-up Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Weighted Archer Pull-up",
+                    "Assisted Archer Pull-up",
+                    "Slow Eccentric Archer Pull-up",
+                    "Archer Chin-up",
+                    "Archer Muscle-up"
+                ]
+            }
+        }
+    ]
+}

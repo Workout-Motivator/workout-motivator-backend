@@ -1,0 +1,76 @@
+{
+    "title": "Barbell Curtsey Lunge",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Barbell Curtsey Lunge Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by standing with your feet hip-width apart and your core engaged.",
+                    "Hold a barbell with both hands, resting it on your shoulders behind your neck.",
+                    "Step your left foot diagonally behind your right foot, crossing your left leg behind your right.",
+                    "Bend both knees and lower your body down towards the ground, keeping your back straight and your chest lifted.",
+                    "Pause for a moment at the bottom of the lunge, then push through your right foot to return to standing.",
+                    "Repeat the movement on the other side, stepping your right foot diagonally behind your left foot.",
+                    "Continue alternating sides for the desired number of reps or time."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Barbell Curtsey Lunge Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Barbell Curtsey Lunge Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets multiple muscle groups including glutes, quads, hamstrings, and calves",
+                    "Improves balance and stability",
+                    "Increases lower body strength and power",
+                    "Can be modified for different fitness levels by adjusting weight or depth of lunge",
+                    "Helps to prevent injury by strengthening muscles and improving range of motion"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Barbell Curtsey Lunge Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Glutes",
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Calves",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Barbell Curtsey Lunge Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Curtsey Lunge",
+                    "Reverse Lunge",
+                    "Side Lunge",
+                    "Walking Lunge",
+                    "Jumping Lunge"
+                ]
+            }
+        }
+    ]
+}

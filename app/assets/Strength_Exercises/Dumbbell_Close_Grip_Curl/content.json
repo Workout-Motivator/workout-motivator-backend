@@ -1,0 +1,71 @@
+{
+    "title": "Dumbbell Close Grip Curl",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Close Grip Curl Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a dumbbell in each hand with your palms facing inward towards your body.",
+                    "Bring the dumbbells up to your chest, keeping your elbows close to your sides.",
+                    "Slowly lower the dumbbells back down to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Close Grip Curl Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Close Grip Curl Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the biceps brachii muscle, helping to increase arm strength and size",
+                    "Engages the brachialis muscle, which can help to improve overall arm definition",
+                    "Allows for a greater range of motion compared to traditional bicep curls, which can lead to better muscle activation",
+                    "Can be performed with relatively light weights, making it a good option for beginners or those with limited access to heavy weights",
+                    "Can be easily modified by changing the grip width or using different types of dumbbells (e.g. hexagonal or adjustable)"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Close Grip Curl Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Biceps brachii",
+                    "Brachialis",
+                    "Brachioradialis"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Close Grip Curl Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Hammer Curl",
+                    "Dumbbell Preacher Curl",
+                    "Dumbbell Concentration Curl",
+                    "Dumbbell Spider Curl",
+                    "Dumbbell Reverse Curl"
+                ]
+            }
+        }
+    ]
+}

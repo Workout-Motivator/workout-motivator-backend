@@ -1,0 +1,76 @@
+{
+    "title": "Self Assisted Inverse Leg Curl",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Self Assisted Inverse Leg Curl Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying face down on a mat or bench with your legs straight and your hands placed under your shoulders.",
+                    "Engage your core and glutes to lift your legs off the ground, keeping them straight and together.",
+                    "Bend your knees and bring your heels towards your glutes, keeping your thighs off the ground.",
+                    "Slowly lower your legs back down to the starting position, keeping them straight and hovering above the ground.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Self Assisted Inverse Leg Curl Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Self Assisted Inverse Leg Curl Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Increases lower body strength and power",
+                    "Improves explosive movements and agility",
+                    "Enhances cardiovascular endurance",
+                    "Burns calories and aids in weight loss",
+                    "Can be modified for different fitness levels",
+                    "Engages multiple muscle groups, including quads, glutes, hamstrings, and calves",
+                    "Improves balance and coordination",
+                    "Can be done without equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Self Assisted Inverse Leg Curl Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Hamstrings",
+                    "Glutes",
+                    "Lower back",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Self Assisted Inverse Leg Curl Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Partner-assisted inverse leg curl",
+                    "Single-leg inverse leg curl",
+                    "Weighted inverse leg curl",
+                    "Swiss ball inverse leg curl",
+                    "TRX inverse leg curl"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "title": "Bear Crawl",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Bear Crawl Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start in a tabletop position with your hands and knees on the ground.",
+                    "Lift your knees off the ground so that they are hovering just above the floor.",
+                    "Begin to move forward by taking a step with your right hand and left foot simultaneously.",
+                    "Follow with a step with your left hand and right foot.",
+                    "Continue to move forward in this manner, alternating your hands and feet.",
+                    "Keep your core engaged and your back flat throughout the exercise.",
+                    "Continue for a set distance or time, then rest and repeat."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Bear Crawl Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Bear Crawl Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves core strength and stability",
+                    "Increases shoulder and hip mobility",
+                    "Enhances coordination and balance",
+                    "Works multiple muscle groups including the arms, shoulders, chest, back, abs, glutes, and legs",
+                    "Can be done anywhere without equipment",
+                    "Provides a cardiovascular workout",
+                    "Helps to improve posture"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Bear Crawl Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Abdominals",
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Chest",
+                    "Shoulders",
+                    "Triceps"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Bear Crawl Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Crab Walk",
+                    "Duck Walk",
+                    "Gorilla Walk",
+                    "Spider Crawl",
+                    "Turtle Walk"
+                ]
+            }
+        }
+    ]
+}

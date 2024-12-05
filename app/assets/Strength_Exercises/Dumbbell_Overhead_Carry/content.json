@@ -1,0 +1,74 @@
+{
+    "title": "Dumbbell Overhead Carry",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Overhead Carry Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a dumbbell in one hand with your arm extended straight up towards the ceiling.",
+                    "Engage your core and keep your arm straight as you walk forward, taking small steps.",
+                    "Keep your shoulder blades down and back, and your chest lifted.",
+                    "Continue walking for a set distance or time, then switch the dumbbell to the other hand and repeat.",
+                    "Make sure to keep your arm straight and avoid leaning to one side.",
+                    "Repeat for the desired number of sets and reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Overhead Carry Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Overhead Carry Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the shoulders, upper back, and core muscles",
+                    "Improves posture and stability",
+                    "Increases grip strength",
+                    "Can be done with a variety of weights and equipment, making it adaptable for different fitness levels and goals",
+                    "Engages multiple muscle groups at once, making it a time-efficient exercise"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Overhead Carry Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Deltoids",
+                    "Triceps",
+                    "Trapezius",
+                    "Core muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Overhead Carry Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Farmer’s Carry",
+                    "Dumbbell Suitcase Carry",
+                    "Dumbbell Waiter’s Carry",
+                    "Dumbbell Rack Carry",
+                    "Dumbbell Zercher Carry"
+                ]
+            }
+        }
+    ]
+}

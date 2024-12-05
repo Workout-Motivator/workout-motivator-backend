@@ -1,0 +1,73 @@
+{
+    "title": "Jack Knife Sit-up",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Jack Knife Sit-up Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying flat on your back with your arms extended above your head and your legs straight out in front of you.",
+                    "Engage your core muscles and lift your legs and arms simultaneously, bringing them towards each other in a jackknife motion.",
+                    "As you lift your upper body off the ground, bring your knees towards your chest and reach your hands towards your feet.",
+                    "Exhale as you reach the top of the movement and hold for a second or two.",
+                    "Slowly lower your arms and legs back down to the starting position, inhaling as you do so.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Jack Knife Sit-up Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Jack Knife Sit-up Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens core muscles",
+                    "Improves balance and stability",
+                    "Targets lower abs and obliques",
+                    "Can be modified for different fitness levels",
+                    "Can be done with or without equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Jack Knife Sit-up Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus abdominis",
+                    "Obliques",
+                    "Hip flexors"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Jack Knife Sit-up Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Jackknife crunch",
+                    "Reverse jackknife crunch",
+                    "Weighted jackknife crunch",
+                    "Decline jackknife crunch",
+                    "Side jackknife crunch"
+                ]
+            }
+        }
+    ]
+}

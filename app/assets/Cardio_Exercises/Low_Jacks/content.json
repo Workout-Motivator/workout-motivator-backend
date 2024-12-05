@@ -1,0 +1,74 @@
+{
+    "title": "Low Jacks",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Low Jacks Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet together and your arms at your sides.",
+                    "Jump your feet out to the sides while simultaneously raising your arms above your head.",
+                    "Jump your feet back together while lowering your arms back to your sides.",
+                    "Repeat this movement for the desired number of repetitions or time period."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Low Jacks Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Low Jacks Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Increases heart rate and improves cardiovascular health",
+                    "Works multiple muscle groups, including legs, glutes, and core",
+                    "Improves coordination and balance",
+                    "Can be modified for different fitness levels",
+                    "Requires no equipment and can be done anywhere"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Low Jacks Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Abdominals",
+                    "Obliques"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Low Jacks Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Low Jacks with a hop",
+                    "Low Jacks with a jump",
+                    "Low Jacks with a squat",
+                    "Low Jacks with a lunge",
+                    "Low Jacks with a kick"
+                ]
+            }
+        }
+    ]
+}

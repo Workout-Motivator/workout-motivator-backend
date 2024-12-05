@@ -1,0 +1,74 @@
+{
+    "title": "Dumbbell Superman",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Superman Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying face down on a flat bench or exercise ball with your arms extended straight out in front of you, holding a dumbbell in each hand.",
+                    "Engage your core and lift your arms, chest, and legs off the bench or ball, keeping your arms and legs straight.",
+                    "Hold this position for a few seconds, then slowly lower your arms, chest, and legs back down to the starting position.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Superman Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Superman Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the lower back muscles",
+                    "Improves posture and spinal alignment",
+                    "Engages the core muscles for stability",
+                    "Targets the glutes and hamstrings for added strength",
+                    "Can be modified for different fitness levels and abilities"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Superman Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Erector Spinae",
+                    "Glutes",
+                    "Hamstrings",
+                    "Quadriceps",
+                    "Shoulders",
+                    "Triceps"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Superman Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Superman with alternating arms",
+                    "Dumbbell Superman with both arms at the same time",
+                    "Bodyweight Superman",
+                    "Resistance band Superman",
+                    "Weight plate Superman"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "title": "Isometric Wipers",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Isometric Wipers Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying flat on your back with your arms extended out to the sides and your palms facing down.",
+                    "Lift your legs up so that they are perpendicular to the floor and your body forms a 90-degree angle.",
+                    "Engage your core and slowly lower your legs to the right side, keeping them straight and hovering just above the ground.",
+                    "Hold this position for a few seconds, then use your core to lift your legs back up to the starting position.",
+                    "Repeat the same movement, this time lowering your legs to the left side.",
+                    "Continue alternating sides for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Isometric Wipers Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Isometric Wipers Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the core muscles, including the rectus abdominis, obliques, and transverse abdominis",
+                    "Improves stability and balance",
+                    "Increases flexibility in the hips and lower back",
+                    "Helps prevent lower back pain and injury",
+                    "Can be done anywhere without equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Isometric Wipers Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus abdominis",
+                    "Obliques",
+                    "Transverse abdominis",
+                    "Erector spinae",
+                    "Quadratus lumborum"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Isometric Wipers Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Isometric Wipers with Dumbbells",
+                    "Isometric Wipers with Resistance Bands",
+                    "Isometric Wipers on Stability Ball",
+                    "Isometric Wipers with Medicine Ball",
+                    "Isometric Wipers with Kettlebell"
+                ]
+            }
+        }
+    ]
+}

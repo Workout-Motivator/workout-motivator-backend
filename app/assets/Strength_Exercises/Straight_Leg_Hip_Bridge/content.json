@@ -1,0 +1,76 @@
+{
+    "title": "Straight Leg Hip Bridge",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Straight Leg Hip Bridge Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on your back with your knees bent and feet flat on the ground.",
+                    "Extend one leg straight up towards the ceiling, keeping it in line with your hip.",
+                    "Engage your glutes and lift your hips up towards the ceiling, creating a straight line from your shoulders to your extended foot.",
+                    "Hold for a few seconds, then slowly lower your hips back down to the ground.",
+                    "Repeat for the desired number of reps, then switch legs and repeat on the other side."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Straight Leg Hip Bridge Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Straight Leg Hip Bridge Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens glutes, hamstrings, and lower back muscles",
+                    "Improves hip mobility and flexibility",
+                    "Helps alleviate lower back pain",
+                    "Can improve posture and balance",
+                    "Can be modified for different fitness levels and goals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Straight Leg Hip Bridge Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Glutes",
+                    "Hamstrings",
+                    "Lower back",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Straight Leg Hip Bridge Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single Leg Straight Leg Hip Bridge",
+                    "Weighted Straight Leg Hip Bridge",
+                    "Resistance Band Straight Leg Hip Bridge",
+                    "Single Leg Resistance Band Straight Leg Hip Bridge",
+                    "Decline Straight Leg Hip Bridge",
+                    "Single Leg Decline Straight Leg Hip Bridge",
+                    "Medicine Ball Straight Leg Hip Bridge",
+                    "Single Leg Medicine Ball Straight Leg Hip Bridge"
+                ]
+            }
+        }
+    ]
+}

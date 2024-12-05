@@ -1,0 +1,72 @@
+{
+    "title": "Barbell Spider Curl",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Barbell Spider Curl Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by standing with your feet shoulder-width apart and your knees slightly bent.",
+                    "Hold a barbell with an underhand grip, with your hands shoulder-width apart.",
+                    "Bring the barbell up to your chest, keeping your elbows close to your body.",
+                    "Slowly lower the barbell back down to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Barbell Spider Curl Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Barbell Spider Curl Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the biceps brachii muscle, specifically the short head",
+                    "Allows for a greater range of motion compared to traditional bicep curls",
+                    "Engages the forearms and grip strength as stabilizers",
+                    "Can help improve overall bicep strength and size",
+                    "Can be easily modified by adjusting the weight or grip width"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Barbell Spider Curl Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Biceps brachii",
+                    "Brachialis",
+                    "Brachioradialis"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Barbell Spider Curl Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Spider Curl",
+                    "Cable Spider Curl",
+                    "Reverse Spider Curl",
+                    "Incline Spider Curl",
+                    "Preacher Spider Curl"
+                ]
+            }
+        }
+    ]
+}

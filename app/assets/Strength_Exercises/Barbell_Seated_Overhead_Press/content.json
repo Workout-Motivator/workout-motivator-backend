@@ -1,0 +1,76 @@
+{
+    "title": "Barbell Seated Overhead Press",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Barbell Seated Overhead Press Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by sitting on a bench with your feet flat on the ground and your back straight.",
+                    "Grasp the barbell with an overhand grip, slightly wider than shoulder-width apart.",
+                    "Lift the barbell up to shoulder height, keeping your elbows bent and close to your body.",
+                    "Press the barbell up and overhead, extending your arms fully.",
+                    "Lower the barbell back down to shoulder height, keeping your elbows close to your body.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Barbell Seated Overhead Press Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Barbell Seated Overhead Press Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets multiple muscle groups including shoulders, triceps, and upper back",
+                    "Improves overall upper body strength and stability",
+                    "Helps to improve posture and reduce risk of injury",
+                    "Can be easily modified to increase or decrease difficulty",
+                    "Can be performed with a variety of equipment, including dumbbells and kettlebells"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Barbell Seated Overhead Press Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Deltoids",
+                    "Triceps",
+                    "Trapezius",
+                    "Rotator Cuff",
+                    "Core muscles for stabilization"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Barbell Seated Overhead Press Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Seated Overhead Press",
+                    "Standing Barbell Overhead Press",
+                    "Standing Dumbbell Overhead Press",
+                    "Single Arm Dumbbell Overhead Press",
+                    "Push Press",
+                    "Push Jerk"
+                ]
+            }
+        }
+    ]
+}

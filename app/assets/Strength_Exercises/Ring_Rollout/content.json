@@ -1,0 +1,75 @@
+{
+    "title": "Ring Rollout",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Ring Rollout Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start in a plank position with your forearms on the ground and your elbows directly under your shoulders.",
+                    "Place a small ring or towel under your toes.",
+                    "Engage your core and glutes to keep your body in a straight line from head to heels.",
+                    "Slowly roll the ring forward by extending your arms and reaching your body forward.",
+                    "Pause for a moment at the end of the movement, then use your core and arms to roll the ring back to the starting position.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Ring Rollout Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Ring Rollout Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens core muscles",
+                    "Improves balance and stability",
+                    "Stretches inner thighs and groin muscles",
+                    "Increases flexibility in hips and lower back",
+                    "Can help alleviate lower back pain"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Ring Rollout Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Abdominal muscles (rectus abdominis, transverse abdominis)",
+                    "Oblique muscles (internal and external)",
+                    "Shoulder muscles (deltoids, rotator cuff muscles)",
+                    "Chest muscles (pectoralis major and minor)",
+                    "Triceps brachii"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Ring Rollout Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Ring push-up",
+                    "Ring dip",
+                    "Ring row",
+                    "Ring muscle-up",
+                    "Ring handstand push-up"
+                ]
+            }
+        }
+    ]
+}

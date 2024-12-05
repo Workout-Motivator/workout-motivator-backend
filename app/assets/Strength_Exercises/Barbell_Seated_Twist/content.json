@@ -1,0 +1,74 @@
+{
+    "title": "Barbell Seated Twist",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Barbell Seated Twist Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by sitting on a bench with your feet flat on the ground and your knees bent.",
+                    "Hold a barbell with both hands, keeping your arms straight and your hands shoulder-width apart.",
+                    "Slowly twist your torso to the right, keeping your hips and legs still.",
+                    "Pause for a moment at the end of the twist, then slowly return to the starting position.",
+                    "Repeat the twist to the left side, again pausing at the end of the movement before returning to the starting position.",
+                    "Continue alternating twists to each side for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Barbell Seated Twist Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Barbell Seated Twist Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the oblique muscles, which are responsible for twisting and rotating movements of the torso",
+                    "Improves core stability and balance",
+                    "Increases flexibility in the spine and hips",
+                    "Helps to prevent lower back pain and injury",
+                    "Can be modified for different fitness levels and goals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Barbell Seated Twist Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Obliques",
+                    "Rectus Abdominis",
+                    "Erector Spinae",
+                    "Quadratus Lumborum"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Barbell Seated Twist Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Barbell Russian Twist",
+                    "Medicine Ball Seated Twist",
+                    "Weight Plate Seated Twist",
+                    "Cable Seated Twist",
+                    "Dumbbell Seated Twist"
+                ]
+            }
+        }
+    ]
+}

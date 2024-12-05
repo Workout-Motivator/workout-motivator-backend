@@ -1,0 +1,77 @@
+{
+    "title": "Dumbbell Incline Hammer Curl",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Incline Hammer Curl Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by sitting on an incline bench with a dumbbell in each hand.",
+                    "Place your feet firmly on the ground and keep your back straight against the bench.",
+                    "Hold the dumbbells with your palms facing each other and your elbows close to your sides.",
+                    "Slowly curl the dumbbells up towards your shoulders, keeping your elbows stationary.",
+                    "Pause at the top of the movement and squeeze your biceps.",
+                    "Lower the dumbbells back down to the starting position in a controlled manner.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Incline Hammer Curl Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Incline Hammer Curl Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the biceps brachii muscle, which is responsible for flexing the elbow joint and rotating the forearm",
+                    "Engages the brachialis muscle, which lies underneath the biceps and helps to flex the elbow",
+                    "Activates the anterior deltoid muscle, which assists in shoulder flexion",
+                    "Improves grip strength and forearm stability",
+                    "Allows for a greater range of motion compared to traditional bicep curls",
+                    "Can be performed with a variety of weights and equipment, making it accessible for individuals of different fitness levels"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Incline Hammer Curl Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Biceps brachii",
+                    "Brachialis",
+                    "Brachioradialis"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Incline Hammer Curl Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Incline Curl",
+                    "Dumbbell Hammer Curl",
+                    "Dumbbell Preacher Curl",
+                    "Cable Incline Hammer Curl",
+                    "Cable Hammer Curl",
+                    "Barbell Incline Hammer Curl",
+                    "Barbell Hammer Curl"
+                ]
+            }
+        }
+    ]
+}

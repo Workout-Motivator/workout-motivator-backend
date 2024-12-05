@@ -1,0 +1,74 @@
+{
+    "title": "Dips Between Chairs",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Dips Between Chairs Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Place two sturdy chairs parallel to each other, with the seats facing outward.",
+                    "Stand between the chairs and place your hands on the seats, with your fingers facing forward.",
+                    "Step your feet forward so that your body is at a slight angle, with your arms straight.",
+                    "Bend your elbows and lower your body down towards the ground, keeping your back straight.",
+                    "Push through your hands to straighten your arms and lift your body back up to the starting position.",
+                    "Repeat for desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Dips Between Chairs Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Dips Between Chairs Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets triceps, chest, and shoulders",
+                    "Can be done at home with minimal equipment",
+                    "Improves upper body strength and endurance",
+                    "Can be modified to increase or decrease difficulty",
+                    "Helps with pushing movements in other exercises"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dips Between Chairs Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Triceps",
+                    "Chest",
+                    "Shoulders",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dips Between Chairs Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Weighted dips",
+                    "Assisted dips (using a resistance band or machine)",
+                    "Tricep dips (with hands close together on the chair)",
+                    "Single-leg dips (lifting one leg off the ground)",
+                    "Decline dips (feet elevated on another chair or bench)"
+                ]
+            }
+        }
+    ]
+}

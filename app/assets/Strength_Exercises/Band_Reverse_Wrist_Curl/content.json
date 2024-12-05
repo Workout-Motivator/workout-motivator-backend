@@ -1,0 +1,72 @@
+{
+    "title": "Band Reverse Wrist Curl",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Band Reverse Wrist Curl Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by sitting on a bench or chair with your feet flat on the ground and your back straight.",
+                    "Hold a dumbbell in each hand with an overhand grip, palms facing down.",
+                    "Rest your forearms on the bench or chair with your wrists hanging off the edge.",
+                    "Slowly lower the dumbbells towards the ground by flexing your wrists.",
+                    "Once your wrists are fully flexed, pause for a moment before slowly raising the dumbbells back up by extending your wrists.",
+                    "At the top of the movement, pause for a moment before repeating the exercise for the desired number of repetitions.",
+                    "After completing the set, switch to an underhand grip and repeat the exercise for the same number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Band Reverse Wrist Curl Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Band Reverse Wrist Curl Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens glutes, hamstrings, and lower back muscles",
+                    "Improves hip mobility and stability",
+                    "Helps to prevent lower back pain and injury",
+                    "Can be modified to target specific muscle groups",
+                    "Can be done with minimal equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Band Reverse Wrist Curl Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Forearm Extensors"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Band Reverse Wrist Curl Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Reverse wrist curl with band",
+                    "Band reverse wrist extension",
+                    "Band resisted wrist curl",
+                    "Band resisted reverse wrist curl",
+                    "Band wrist curl with pronation"
+                ]
+            }
+        }
+    ]
+}

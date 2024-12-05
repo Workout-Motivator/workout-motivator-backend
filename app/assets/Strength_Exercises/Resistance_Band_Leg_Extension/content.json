@@ -1,0 +1,72 @@
+{
+    "title": "Resistance Band Leg Extension",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Resistance Band Leg Extension Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Attach the resistance band to a sturdy anchor point, such as a door or pole.",
+                    "Secure the other end of the band around your ankle.",
+                    "Stand facing the anchor point with your feet hip-width apart.",
+                    "Shift your weight onto one leg and lift the other leg straight out in front of you, keeping it parallel to the ground.",
+                    "Slowly extend your lifted leg out in front of you, stretching the resistance band as you do so.",
+                    "Hold the extension for a few seconds, then slowly release and return to the starting position.",
+                    "Repeat for the desired number of repetitions, then switch legs and repeat the exercise on the other side."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Resistance Band Leg Extension Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Resistance Band Leg Extension Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens quadriceps muscles",
+                    "Improves knee stability and balance",
+                    "Targets specific muscle groups without putting stress on joints",
+                    "Can be done anywhere with a resistance band",
+                    "Can be easily modified for different fitness levels"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Resistance Band Leg Extension Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Resistance Band Leg Extension Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Resistance Band Leg Curl",
+                    "Resistance Band Glute Bridge",
+                    "Resistance Band Squat",
+                    "Resistance Band Lateral Walk",
+                    "Resistance Band Deadlift"
+                ]
+            }
+        }
+    ]
+}

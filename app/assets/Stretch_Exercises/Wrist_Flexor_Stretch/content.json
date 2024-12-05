@@ -1,0 +1,70 @@
+{
+    "title": "Wrist Flexor Stretch",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Wrist Flexor Stretch Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by standing or sitting with your back straight and your arms extended in front of you.",
+                    "Bend your wrist so that your fingers point towards the floor.",
+                    "Use your other hand to gently pull your fingers towards your wrist until you feel a stretch in your forearm.",
+                    "Hold the stretch for 15-30 seconds.",
+                    "Release the stretch and repeat on the other arm."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Wrist Flexor Stretch Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Wrist Flexor Stretch Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Increases flexibility and range of motion in the wrist and forearm",
+                    "Helps prevent and alleviate wrist and forearm pain and discomfort",
+                    "Improves grip strength and dexterity",
+                    "Can be done anywhere, anytime, without any equipment",
+                    "May also help reduce the risk of carpal tunnel syndrome and other repetitive strain injuries"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Wrist Flexor Stretch Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Wrist flexor muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Wrist Flexor Stretch Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Wrist Extensor Stretch",
+                    "Forearm Pronator Stretch",
+                    "Forearm Supinator Stretch",
+                    "Wrist Flexor and Extensor Stretch",
+                    "Wrist Circles"
+                ]
+            }
+        }
+    ]
+}

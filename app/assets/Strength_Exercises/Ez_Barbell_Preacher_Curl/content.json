@@ -1,0 +1,75 @@
+{
+    "title": "Ez Barbell Preacher Curl",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Ez Barbell Preacher Curl Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Adjust the preacher bench to the appropriate height for your body.",
+                    "Load the EZ barbell with the desired weight.",
+                    "Sit on the preacher bench with your chest against the pad and your arms extended over the bench, holding the EZ barbell with an underhand grip.",
+                    "Curl the barbell towards your shoulders, keeping your elbows close to your body and your wrists straight.",
+                    "Pause at the top of the movement and squeeze your biceps.",
+                    "Slowly lower the barbell back to the starting position, keeping your elbows and wrists in the same position.",
+                    "Repeat for the desired number of repetitions.",
+                    "When finished, carefully place the barbell back on the rack."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Ez Barbell Preacher Curl Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Ez Barbell Preacher Curl Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the biceps brachii muscle, helping to increase arm strength and size",
+                    "Allows for a greater range of motion compared to traditional bicep curls",
+                    "Reduces strain on the wrists and forearms, making it a safer exercise for those with wrist or forearm injuries",
+                    "Helps to isolate the biceps muscle, reducing the involvement of other muscles in the movement",
+                    "Can be easily modified by adjusting the weight or grip on the barbell to increase or decrease the intensity of the exercise"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Ez Barbell Preacher Curl Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Biceps brachii",
+                    "Brachialis",
+                    "Brachioradialis"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Ez Barbell Preacher Curl Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Standing Barbell Preacher Curl",
+                    "Seated Barbell Preacher Curl",
+                    "One-Arm Dumbbell Preacher Curl",
+                    "Reverse-Grip EZ Bar Preacher Curl",
+                    "Close-Grip EZ Bar Preacher Curl"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "title": "Exercise Ball Dip",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Exercise Ball Dip Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Place an exercise ball against a wall and lean against it with your back.",
+                    "Place your hands on the ball at shoulder width apart and extend your legs out in front of you.",
+                    "Lower your body by bending your elbows until your upper arms are parallel to the ground.",
+                    "Push yourself back up to the starting position by straightening your arms.",
+                    "Repeat for desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Exercise Ball Dip Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Exercise Ball Dip Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets triceps, chest, and shoulders",
+                    "Improves upper body strength and stability",
+                    "Engages core muscles for added balance and control",
+                    "Can be modified for different fitness levels by adjusting the height of the ball",
+                    "Low impact exercise that is easy on joints"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Exercise Ball Dip Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Triceps",
+                    "Chest",
+                    "Shoulders",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Exercise Ball Dip Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Weighted Exercise Ball Dip",
+                    "Single Leg Exercise Ball Dip",
+                    "Decline Exercise Ball Dip",
+                    "Assisted Exercise Ball Dip",
+                    "Explosive Exercise Ball Dip"
+                ]
+            }
+        }
+    ]
+}

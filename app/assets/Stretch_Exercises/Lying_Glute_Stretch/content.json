@@ -1,0 +1,76 @@
+{
+    "title": "Lying Glute Stretch",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Lying Glute Stretch Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on your back with your knees bent and feet flat on the ground.",
+                    "Bring your right ankle over your left knee, creating a figure four shape with your legs.",
+                    "Use your hands to gently pull your left thigh towards your chest, feeling a stretch in your right glute.",
+                    "Hold the stretch for 20-30 seconds, then release and switch sides.",
+                    "Repeat the stretch on both sides for 2-3 sets."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Lying Glute Stretch Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Lying Glute Stretch Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Relieves tension in the glutes and lower back",
+                    "Improves flexibility in the hips and glutes",
+                    "Can help alleviate sciatica pain",
+                    "May improve posture and balance",
+                    "Can be done anywhere with a flat surface"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Lying Glute Stretch Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Gluteus Maximus",
+                    "Hamstrings",
+                    "Erector Spinae"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Lying Glute Stretch Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Standing Glute Stretch",
+                    "Seated Glute Stretch",
+                    "Butterfly Stretch",
+                    "Pigeon Pose",
+                    "Figure Four Stretch",
+                    "Hamstring Stretch with Strap",
+                    "Quad Stretch",
+                    "Runner’s Lunge",
+                    "Downward Facing Dog"
+                ]
+            }
+        }
+    ]
+}

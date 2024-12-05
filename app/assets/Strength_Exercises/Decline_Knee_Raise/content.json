@@ -1,0 +1,76 @@
+{
+    "title": "Decline Knee Raise",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Decline Knee Raise Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your arms at your sides.",
+                    "Lift your right foot off the ground and bring your knee up towards your chest.",
+                    "Slowly lower your right foot back down to the ground, but don’t let it touch the floor.",
+                    "Lift your right foot back up towards your chest, but this time, bring it out to the side at a 45-degree angle.",
+                    "Slowly lower your right foot back down to the ground, but don’t let it touch the floor.",
+                    "Lift your right foot back up towards your chest, but this time, bring it across your body to the opposite side at a 45-degree angle.",
+                    "Slowly lower your right foot back down to the ground, but don’t let it touch the floor.",
+                    "Repeat steps 2-7 with your left leg."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Decline Knee Raise Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Decline Knee Raise Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens abdominal muscles",
+                    "Improves core stability",
+                    "Targets oblique muscles",
+                    "Increases flexibility in the spine",
+                    "Improves posture",
+                    "Enhances overall athletic performance"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Decline Knee Raise Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus abdominis",
+                    "Obliques",
+                    "Hip flexors"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Decline Knee Raise Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Decline leg raise",
+                    "Knee tuck",
+                    "Decline knee raise with twist",
+                    "Decline reverse crunch",
+                    "Decline oblique crunch"
+                ]
+            }
+        }
+    ]
+}

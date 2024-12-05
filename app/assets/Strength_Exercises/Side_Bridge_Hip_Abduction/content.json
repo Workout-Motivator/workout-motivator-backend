@@ -1,0 +1,77 @@
+{
+    "title": "Side Bridge Hip Abduction",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Side Bridge Hip Abduction Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on your side with your elbow directly under your shoulder and your legs straight out.",
+                    "Engage your core and lift your hips off the ground, creating a straight line from your head to your feet.",
+                    "Keeping your legs straight, lift your top leg up towards the ceiling, keeping your foot flexed.",
+                    "Lower your leg back down to the starting position.",
+                    "Repeat for the desired number of repetitions, then switch to the other side."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Side Bridge Hip Abduction Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Side Bridge Hip Abduction Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the muscles in the hips, glutes, and core",
+                    "Improves stability and balance",
+                    "Helps prevent injuries in the lower back, hips, and knees",
+                    "Can be modified for different fitness levels and abilities",
+                    "Can be done with minimal equipment and in a small space"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Side Bridge Hip Abduction Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Gluteus medius",
+                    "Tensor fasciae latae",
+                    "Obturator externus",
+                    "Obturator internus",
+                    "Gemellus superior",
+                    "Gemellus inferior",
+                    "Piriformis"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Side Bridge Hip Abduction Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Side Bridge with Leg Lift",
+                    "Side Bridge with Knee Tuck",
+                    "Side Bridge with Leg Extension",
+                    "Side Plank with Hip Abduction",
+                    "Side Plank with Leg Lift",
+                    "Side Plank with Knee Tuck"
+                ]
+            }
+        }
+    ]
+}

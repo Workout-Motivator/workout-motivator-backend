@@ -1,0 +1,76 @@
+{
+    "title": "Dumbbell Front Raise",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Front Raise Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a dumbbell in each hand with your palms facing your thighs.",
+                    "Keeping your arms straight, lift the dumbbells in front of you until they reach shoulder height.",
+                    "Hold for a second, then slowly lower the dumbbells back down to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Front Raise Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Front Raise Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the anterior deltoid muscle, which is responsible for lifting the arm in front of the body",
+                    "Improves shoulder strength and stability",
+                    "Helps to prevent shoulder injuries",
+                    "Can be performed with light weights and high reps for muscular endurance or heavy weights and low reps for muscular strength",
+                    "Can be easily modified by changing the angle of the raise or using different equipment, such as a barbell or resistance bands"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Front Raise Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Anterior deltoid",
+                    "Lateral deltoid",
+                    "Supraspinatus"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Front Raise Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Lateral Raise",
+                    "Dumbbell Shoulder Press",
+                    "Dumbbell Arnold Press",
+                    "Dumbbell Bent Over Reverse Fly",
+                    "Cable Front Raise",
+                    "Cable Lateral Raise",
+                    "Cable Shoulder Press",
+                    "Barbell Front Raise",
+                    "Barbell Shoulder Press",
+                    "Barbell Upright Row"
+                ]
+            }
+        }
+    ]
+}

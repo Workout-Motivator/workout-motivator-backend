@@ -1,0 +1,74 @@
+{
+    "title": "Dumbbell Incline Twist Press",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Incline Twist Press Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on an incline bench with a dumbbell in each hand.",
+                    "Hold the dumbbells at chest level with your palms facing each other.",
+                    "Slowly lower the dumbbells towards your chest while twisting your torso to one side.",
+                    "Pause for a moment at the bottom of the movement.",
+                    "Press the dumbbells back up to the starting position while twisting your torso to the opposite side.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Incline Twist Press Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Incline Twist Press Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the chest, shoulders, and triceps",
+                    "Engages the core muscles for stability and balance",
+                    "Improves upper body strength and muscle definition",
+                    "Increases range of motion in the shoulders",
+                    "Can be modified for different fitness levels and goals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Incline Twist Press Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Chest muscles (pectoralis major and minor)",
+                    "Shoulder muscles (anterior deltoids)",
+                    "Triceps",
+                    "Core muscles (obliques and rectus abdominis)"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Incline Twist Press Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Incline Press",
+                    "Dumbbell Twist Press",
+                    "Incline Dumbbell Flye",
+                    "Dumbbell Bench Press",
+                    "Dumbbell Pullover"
+                ]
+            }
+        }
+    ]
+}

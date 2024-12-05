@@ -1,0 +1,74 @@
+{
+    "title": "Resistance Band Push-up",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Resistance Band Push-up Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Place the resistance band around your back, just below your shoulder blades.",
+                    "Get into a push-up position with your hands shoulder-width apart and your feet hip-width apart.",
+                    "Lower your body towards the ground, keeping your elbows close to your sides.",
+                    "Push yourself back up to the starting position, keeping your core engaged and your back straight.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Resistance Band Push-up Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Resistance Band Push-up Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Increases upper body strength",
+                    "Targets chest, shoulders, and triceps",
+                    "Improves core stability",
+                    "Engages more muscle fibers than traditional push-ups",
+                    "Allows for variation in resistance level by adjusting band tension",
+                    "Can be done anywhere with minimal equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Resistance Band Push-up Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Chest muscles (pectoralis major and minor)",
+                    "Triceps",
+                    "Shoulder muscles (deltoids)",
+                    "Core muscles (abdominals and lower back)"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Resistance Band Push-up Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Push-up with resistance band around back",
+                    "Push-up with resistance band around wrists",
+                    "Push-up with resistance band around hands",
+                    "Push-up with resistance band around ankles",
+                    "Push-up with resistance band around thighs"
+                ]
+            }
+        }
+    ]
+}

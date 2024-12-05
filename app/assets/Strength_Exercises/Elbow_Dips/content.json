@@ -1,0 +1,73 @@
+{
+    "title": "Elbow Dips",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Elbow Dips Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by sitting on a chair with your feet flat on the ground and your hands on the edge of the seat, fingers pointing towards your body.",
+                    "Slowly slide your body off the chair, keeping your hands in place and your elbows bent at a 90-degree angle.",
+                    "Lower your body towards the ground by bending your elbows, keeping your back straight and your shoulders down.",
+                    "Stop when your elbows reach a 90-degree angle or when your upper arms are parallel to the ground.",
+                    "Push yourself back up to the starting position by straightening your arms, keeping your elbows close to your body.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Elbow Dips Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Elbow Dips Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens triceps muscles",
+                    "Improves upper body strength",
+                    "Increases range of motion in shoulders",
+                    "Can be done anywhere without equipment",
+                    "Helps with pushing movements in other exercises"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Elbow Dips Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Triceps",
+                    "Chest",
+                    "Shoulders"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Elbow Dips Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Tricep dips",
+                    "Bench dips",
+                    "Parallel bar dips",
+                    "Assisted dips",
+                    "Weighted dips"
+                ]
+            }
+        }
+    ]
+}

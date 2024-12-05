@@ -1,0 +1,71 @@
+{
+    "title": "Cable Standing Wrist Curl",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Cable Standing Wrist Curl Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand facing a cable machine with your feet shoulder-width apart and your knees slightly bent.",
+                    "Grasp the cable attachment with an underhand grip, with your palms facing up.",
+                    "Bring your forearms up to shoulder height, keeping your elbows close to your sides.",
+                    "Curl your wrists upward, bringing the cable attachment towards your forearms.",
+                    "Pause for a moment at the top of the movement, then slowly lower the cable attachment back down to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_0.webp"
+        },
+        {
+            "type": "section",
+            "title": "Cable Standing Wrist Curl Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Cable Standing Wrist Curl Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the wrist flexor muscles",
+                    "Improves grip strength",
+                    "Helps prevent wrist injuries",
+                    "Can improve performance in sports that require wrist strength, such as tennis or golf",
+                    "Can be easily adjusted for different levels of resistance"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cable Standing Wrist Curl Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Forearm Flexors"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cable Standing Wrist Curl Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Barbell Standing Wrist Curl",
+                    "Dumbbell Standing Wrist Curl",
+                    "Reverse Cable Standing Wrist Curl",
+                    "Reverse Barbell Standing Wrist Curl",
+                    "Reverse Dumbbell Standing Wrist Curl"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "title": "L Drill",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "L Drill Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start in a standing position with your feet shoulder-width apart and your arms extended out to the sides.",
+                    "Jump and cross your right foot over your left foot, landing on the ball of your left foot.",
+                    "Jump and cross your left foot over your right foot, landing on the ball of your right foot.",
+                    "Continue jumping and crossing your feet over each other in a quick, fluid motion.",
+                    "After a set amount of time or repetitions, rest and repeat the exercise."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "L Drill Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "L Drill Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the upper body, particularly the back, shoulders, and arms",
+                    "Improves grip strength",
+                    "Increases overall body control and stability",
+                    "Targets the lats and biceps for a more defined and toned appearance",
+                    "Can be modified for different fitness levels by adjusting the resistance or using assistance bands",
+                    "Improves posture and reduces the risk of back pain",
+                    "Can be done with minimal equipment, making it a convenient exercise to do at home or while traveling"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "L Drill Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Glutes",
+                    "Calves",
+                    "Abdominals",
+                    "Obliques"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "L Drill Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Forward L-drill",
+                    "Backward L-drill",
+                    "Double L-drill",
+                    "Box L-drill",
+                    "Partner L-drill"
+                ]
+            }
+        }
+    ]
+}

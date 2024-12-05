@@ -1,0 +1,77 @@
+{
+    "title": "Dumbbell Z Press",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Z Press Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by sitting on the floor with your legs straight out in front of you and a dumbbell in each hand.",
+                    "Bend your knees and place your feet flat on the floor, bringing your heels close to your glutes.",
+                    "Bring the dumbbells up to your shoulders, with your palms facing each other and your elbows pointing forward.",
+                    "Press the dumbbells up and slightly back, so that they are directly above your shoulders and your arms are straight.",
+                    "Lower the dumbbells back down to your shoulders, keeping your elbows pointed forward and your core engaged.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Z Press Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Z Press Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the shoulders, triceps, and core muscles",
+                    "Improves shoulder mobility and stability",
+                    "Helps to correct imbalances between the left and right sides of the body",
+                    "Can be done with a relatively light weight, making it accessible for beginners",
+                    "Engages the core muscles for added stability and strength"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Z Press Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Shoulders (deltoids)",
+                    "Triceps",
+                    "Upper back (trapezius)",
+                    "Core (abdominals)"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Z Press Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single-arm Dumbbell Z Press",
+                    "Seated Dumbbell Z Press",
+                    "Standing Dumbbell Z Press",
+                    "Alternating Dumbbell Z Press",
+                    "Barbell Z Press",
+                    "Kettlebell Z Press",
+                    "Landmine Z Press",
+                    "Overhead Press with Resistance Bands"
+                ]
+            }
+        }
+    ]
+}

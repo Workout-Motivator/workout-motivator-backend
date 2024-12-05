@@ -1,0 +1,76 @@
+{
+    "title": "Cable Seated Curl",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Cable Seated Curl Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Adjust the cable machine so that the pulley is at the lowest setting.",
+                    "Sit on the bench with your back straight and your feet flat on the ground.",
+                    "Grasp the cable handle with an underhand grip, with your palms facing up.",
+                    "Keep your elbows close to your sides and curl the handle towards your shoulders.",
+                    "Hold the contraction for a second and then slowly lower the handle back down to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Cable Seated Curl Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Cable Seated Curl Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the biceps muscles, helping to increase arm strength and size",
+                    "Allows for a full range of motion, ensuring that the biceps are fully engaged throughout the exercise",
+                    "Provides constant tension on the biceps, which can lead to greater muscle activation and growth",
+                    "Can be easily adjusted to accommodate different fitness levels and goals",
+                    "Helps to improve grip strength and forearm development"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cable Seated Curl Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Biceps brachii",
+                    "Brachialis",
+                    "Brachioradialis"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cable Seated Curl Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single-arm Cable Seated Curl",
+                    "Alternating Cable Seated Curl",
+                    "Wide-grip Cable Seated Curl",
+                    "Narrow-grip Cable Seated Curl",
+                    "Reverse-grip Cable Seated Curl",
+                    "Low-pulley Cable Seated Curl",
+                    "High-pulley Cable Seated Curl",
+                    "Standing Cable Curl"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "title": "High Knee Twist",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "High Knee Twist Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet hip-width apart and your arms at your sides.",
+                    "Bring your right knee up towards your chest and twist your torso to the right, bringing your left elbow towards your right knee.",
+                    "Lower your right foot back to the ground and repeat on the other side, bringing your left knee up towards your chest and twisting your torso to the left, bringing your right elbow towards your left knee.",
+                    "Continue alternating sides, bringing your knees up towards your chest and twisting your torso with each repetition.",
+                    "Complete 10-15 repetitions on each side."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "High Knee Twist Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "High Knee Twist Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves cardiovascular endurance",
+                    "Strengthens lower body muscles, including quadriceps, hamstrings, and calves",
+                    "Engages core muscles for stability and balance",
+                    "Increases flexibility in hips and lower back",
+                    "Can be modified for different fitness levels and goals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "High Knee Twist Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus abdominis",
+                    "Obliques",
+                    "Hip flexors",
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Calves"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "High Knee Twist Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "High Knee March",
+                    "High Knee Skip",
+                    "High Knee Run",
+                    "High Knee Jump",
+                    "High Knee Lunge",
+                    "High Knee Sprint",
+                    "High Knee Toe Tap",
+                    "High Knee Mountain Climber",
+                    "High Knee Bicycle Crunch",
+                    "High Knee Plank Jacks"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "title": "Jack Plank",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Jack Plank Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying face down on the ground with your arms extended in front of you.",
+                    "Engage your core and lift your arms, legs, and chest off the ground simultaneously.",
+                    "Hold this position for a few seconds, making sure to keep your neck in a neutral position.",
+                    "Lower your body back down to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Jack Plank Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Jack Plank Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens core muscles",
+                    "Improves balance and stability",
+                    "Increases upper body strength",
+                    "Can help alleviate lower back pain",
+                    "Engages multiple muscle groups at once"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Jack Plank Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus abdominis",
+                    "Obliques",
+                    "Erector spinae",
+                    "Glutes",
+                    "Quadriceps",
+                    "Hamstrings"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Jack Plank Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Jack Plank",
+                    "Plank Jacks",
+                    "Jumping Jacks",
+                    "Jack Squats",
+                    "Plank Knee-to-Elbow Jacks"
+                ]
+            }
+        }
+    ]
+}

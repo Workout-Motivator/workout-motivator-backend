@@ -1,0 +1,74 @@
+{
+    "title": "Resistance Band Leg Lift",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Resistance Band Leg Lift Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Attach a resistance band to a sturdy anchor point, such as a door handle or pole.",
+                    "Place the band around your ankle and stand facing the anchor point with your feet hip-width apart.",
+                    "Shift your weight onto your left foot and lift your right foot off the ground, keeping your leg straight.",
+                    "Slowly lift your right leg out to the side, keeping your foot flexed and your toes pointing forward.",
+                    "Pause at the top of the movement, then slowly lower your leg back down to the starting position.",
+                    "Repeat for the desired number of repetitions, then switch sides and repeat with your left leg."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Resistance Band Leg Lift Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Resistance Band Leg Lift Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the hip abductor muscles",
+                    "Improves balance and stability",
+                    "Targets the glutes, hips, and thighs",
+                    "Can be done anywhere with a resistance band",
+                    "Low impact exercise that is easy on the joints"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Resistance Band Leg Lift Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Glutes",
+                    "Hamstrings",
+                    "Quadriceps",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Resistance Band Leg Lift Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Resistance Band Side Leg Lift",
+                    "Resistance Band Clamshell",
+                    "Resistance Band Fire Hydrant",
+                    "Resistance Band Donkey Kick",
+                    "Resistance Band Squat with Leg Lift"
+                ]
+            }
+        }
+    ]
+}

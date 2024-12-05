@@ -1,0 +1,74 @@
+{
+    "title": "Squat Tuck Jump",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Squat Tuck Jump Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your arms at your sides.",
+                    "Squat down by bending your knees and pushing your hips back, keeping your chest up and your weight in your heels.",
+                    "Jump up explosively, bringing your knees up towards your chest and tucking them in as you jump.",
+                    "Land softly on the balls of your feet and immediately lower back down into a squat position.",
+                    "Repeat for the desired number of reps or time."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Squat Tuck Jump Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Squat Tuck Jump Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Increases lower body strength and power",
+                    "Improves cardiovascular endurance",
+                    "Enhances explosive movements and agility",
+                    "Engages core muscles for stability and balance",
+                    "Burns calories and promotes weight loss"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Squat Tuck Jump Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Abdominals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Squat Tuck Jump Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Squat Jump",
+                    "Tuck Jump",
+                    "Jump Squat with Medicine Ball",
+                    "Single Leg Squat Jump",
+                    "Box Jump"
+                ]
+            }
+        }
+    ]
+}

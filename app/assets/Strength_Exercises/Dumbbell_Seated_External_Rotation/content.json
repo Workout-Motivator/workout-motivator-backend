@@ -1,0 +1,74 @@
+{
+    "title": "Dumbbell Seated External Rotation",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Seated External Rotation Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by sitting on a bench with your feet flat on the ground and your back straight.",
+                    "Hold a dumbbell in your right hand and place your right elbow on the inside of your right thigh, with your forearm perpendicular to the ground.",
+                    "Rotate your right shoulder outward, keeping your elbow and forearm in the same position.",
+                    "Slowly lower the dumbbell back down to the starting position.",
+                    "Repeat for the desired number of repetitions, then switch to your left arm and repeat the exercise."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Seated External Rotation Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Seated External Rotation Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the shoulders, specifically the front and side deltoids",
+                    "Improves shoulder stability and mobility",
+                    "Engages the core muscles for stability",
+                    "Can be done with a variety of weights to increase or decrease intensity",
+                    "Can be modified for individuals with shoulder injuries or limitations"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Seated External Rotation Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rotator cuff muscles (supraspinatus, infraspinatus, teres minor, subscapularis)",
+                    "Deltoid (posterior)",
+                    "Trapezius (middle and lower fibers)",
+                    "Rhomboids"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Seated External Rotation Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "dumbbell standing external rotation",
+                    "dumbbell lying external rotation",
+                    "cable seated external rotation",
+                    "cable standing external rotation",
+                    "band seated external rotation",
+                    "band standing external rotation"
+                ]
+            }
+        }
+    ]
+}

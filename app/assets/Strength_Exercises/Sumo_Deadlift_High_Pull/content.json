@@ -1,0 +1,82 @@
+{
+    "title": "Sumo Deadlift High Pull",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Sumo Deadlift High Pull Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start with your feet shoulder-width apart and your toes pointing slightly outwards.",
+                    "Place your hands on the barbell with a wide grip, palms facing down.",
+                    "Bend your knees and lower your hips until your thighs are parallel to the ground.",
+                    "Keep your back straight and your chest up.",
+                    "Drive through your heels and lift the barbell up towards your chin, keeping your elbows high and wide.",
+                    "As you lift the barbell, extend your hips and knees until you are standing upright.",
+                    "Lower the barbell back down to the starting position by reversing the movement.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Sumo Deadlift High Pull Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Sumo Deadlift High Pull Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets multiple muscle groups including the glutes, hamstrings, quads, upper back, shoulders, and traps",
+                    "Improves overall strength and power",
+                    "Increases cardiovascular endurance",
+                    "Improves grip strength",
+                    "Can be modified for different fitness levels and goals",
+                    "Helps with functional movements and daily activities",
+                    "Can be used for weight loss and body composition goals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Sumo Deadlift High Pull Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Trapezius",
+                    "Rhomboids",
+                    "Deltoids",
+                    "Glutes",
+                    "Hamstrings",
+                    "Quadriceps",
+                    "Erector spinae",
+                    "Abdominals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Sumo Deadlift High Pull Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single-arm Sumo Deadlift High Pull",
+                    "Sumo Deadlift High Pull with dumbbells",
+                    "Sumo Deadlift High Pull with kettlebells",
+                    "Sumo Deadlift High Pull with resistance bands",
+                    "Sumo Deadlift High Pull with barbell and chains"
+                ]
+            }
+        }
+    ]
+}

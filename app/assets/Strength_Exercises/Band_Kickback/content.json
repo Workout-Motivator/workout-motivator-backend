@@ -1,0 +1,73 @@
+{
+    "title": "Band Kickback",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Band Kickback Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by attaching an ankle cuff to a low cable pulley and strapping it around your ankle.",
+                    "Stand facing the cable machine with your feet shoulder-width apart and your knees slightly bent.",
+                    "Grab the cable with both hands and bring it towards your chest, keeping your elbows close to your body.",
+                    "Extend your right leg back, keeping it straight, until your foot is a few inches off the ground.",
+                    "Slowly kick your right foot back as far as you can, squeezing your glutes at the top of the movement.",
+                    "Lower your leg back down to the starting position and repeat for the desired number of reps.",
+                    "Switch sides and repeat the exercise with your left leg."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Band Kickback Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Band Kickback Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the glutes and hamstrings",
+                    "Helps improve hip extension and stability",
+                    "Can be done with minimal equipment (just a resistance band)",
+                    "Can be easily modified to increase or decrease resistance",
+                    "Can be incorporated into a full body workout or used as a standalone exercise"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Band Kickback Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Gluteus maximus",
+                    "Hamstrings"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Band Kickback Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single-leg band kickback",
+                    "Standing band kickback",
+                    "Seated band kickback",
+                    "Side-lying band kickback",
+                    "Reverse band kickback"
+                ]
+            }
+        }
+    ]
+}

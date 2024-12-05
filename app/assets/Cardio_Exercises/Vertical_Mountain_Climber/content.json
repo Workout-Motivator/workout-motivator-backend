@@ -1,0 +1,80 @@
+{
+    "title": "Vertical Mountain Climber",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Vertical Mountain Climber Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start in a plank position with your hands shoulder-width apart and your feet hip-width apart.",
+                    "Engage your core and bring your right knee towards your chest, keeping your foot off the ground.",
+                    "Quickly switch and bring your left knee towards your chest while extending your right leg back.",
+                    "Continue alternating legs as quickly as possible while maintaining proper form.",
+                    "Complete 3 sets of 30 seconds each."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Vertical Mountain Climber Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Vertical Mountain Climber Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Increases cardiovascular endurance",
+                    "Strengthens core muscles",
+                    "Improves balance and coordination",
+                    "Tones leg muscles",
+                    "Burns calories and aids in weight loss",
+                    "Can be done anywhere with no equipment needed"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Vertical Mountain Climber Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus abdominis",
+                    "Obliques",
+                    "Transverse abdominis",
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Glutes",
+                    "Hip flexors",
+                    "Chest",
+                    "Shoulders",
+                    "Triceps"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Vertical Mountain Climber Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Diagonal Mountain Climber",
+                    "Spider Mountain Climber",
+                    "Cross-Body Mountain Climber",
+                    "Single-Leg Mountain Climber",
+                    "Plank Jack Mountain Climber"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "title": "Kettlebell Strict Press",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Strict Press Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold the kettlebell in one hand at shoulder height, with your elbow bent and the weight resting against your forearm.",
+                    "Engage your core and glutes to maintain a stable base.",
+                    "Press the kettlebell straight up overhead, fully extending your arm and keeping your wrist straight.",
+                    "Lower the kettlebell back down to your shoulder, keeping your elbow close to your body.",
+                    "Repeat for the desired number of reps, then switch sides and repeat with the other arm."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Strict Press Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Strict Press Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the shoulders, triceps, and upper back muscles",
+                    "Improves shoulder stability and mobility",
+                    "Engages the core muscles for stability and balance",
+                    "Can be done with one or two kettlebells for variation",
+                    "Helps to improve posture and reduce risk of shoulder injuries"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Strict Press Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Shoulder muscles (deltoids)",
+                    "Triceps",
+                    "Upper back muscles (trapezius, rhomboids)",
+                    "Core muscles (abdominals, obliques)"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Strict Press Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Kettlebell Push Press",
+                    "Kettlebell Jerk",
+                    "Kettlebell Half-Kneeling Press",
+                    "Kettlebell Bottoms-Up Press",
+                    "Kettlebell Windmill"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "title": "Side Twist",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Side Twist Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your arms extended out to the sides at shoulder height.",
+                    "Twist your torso to the right, bringing your left hand across your body to touch your right hand.",
+                    "Return to the starting position and then twist your torso to the left, bringing your right hand across your body to touch your left hand.",
+                    "Repeat this twisting motion for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Side Twist Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Side Twist Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves hip mobility and flexibility",
+                    "Stretches the inner and outer thighs",
+                    "Activates the glutes and hip muscles",
+                    "Helps to prevent injury in the hips and lower back",
+                    "Can be done as a warm-up or cool-down exercise"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Side Twist Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Obliques",
+                    "Transverse Abdominis",
+                    "Erector Spinae",
+                    "Quadratus Lumborum"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Side Twist Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Side plank with twist",
+                    "Standing side twist with weight",
+                    "Seated Russian twist",
+                    "Woodchopper",
+                    "Oblique crunches"
+                ]
+            }
+        }
+    ]
+}

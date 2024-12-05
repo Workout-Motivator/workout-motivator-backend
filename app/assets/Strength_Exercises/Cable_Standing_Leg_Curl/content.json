@@ -1,0 +1,73 @@
+{
+    "title": "Cable Standing Leg Curl",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Cable Standing Leg Curl Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Attach a cable ankle strap to a low pulley cable machine.",
+                    "Stand facing the machine with your feet shoulder-width apart.",
+                    "Attach the ankle strap to your right ankle.",
+                    "Keeping your upper body straight, bend your right knee and lift your heel towards your buttocks.",
+                    "Hold for a second and then slowly lower your leg back down to the starting position.",
+                    "Repeat for the desired number of repetitions and then switch to your left leg."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Cable Standing Leg Curl Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Cable Standing Leg Curl Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the hamstrings, which are important for knee stability and overall lower body strength",
+                    "Allows for isolation of the hamstring muscles, leading to more effective muscle activation and growth",
+                    "Can be adjusted to target different areas of the hamstring muscles by changing the foot position or using different attachments on the cable machine",
+                    "Provides a low-impact option for those with knee or hip issues, as the exercise does not put pressure on these joints",
+                    "Improves balance and stability as the exercise requires standing on one leg"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cable Standing Leg Curl Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Hamstrings",
+                    "Glutes",
+                    "Calves"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cable Standing Leg Curl Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single-leg cable standing leg curl",
+                    "Seated cable leg curl",
+                    "Prone cable leg curl",
+                    "Standing cable hip extension",
+                    "Standing cable hip abduction"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "title": "Reverse Plank",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Reverse Plank Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by sitting on the floor with your legs extended in front of you.",
+                    "Place your hands on the floor behind you, with your fingers pointing towards your feet.",
+                    "Press into your hands and lift your hips off the ground, coming into a reverse tabletop position.",
+                    "Extend your legs out straight and engage your core to lift your hips higher.",
+                    "Hold the pose for 30 seconds to 1 minute, breathing deeply.",
+                    "To release, lower your hips back down to the ground and come back into a seated position."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Reverse Plank Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Reverse Plank Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the core muscles",
+                    "Improves posture",
+                    "Increases flexibility in the shoulders, chest, and front of the body",
+                    "Stretches the muscles in the back of the legs",
+                    "Improves balance and stability",
+                    "Can help alleviate lower back pain"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Reverse Plank Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Triceps",
+                    "Shoulders",
+                    "Core",
+                    "Glutes",
+                    "Hamstrings"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Reverse Plank Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single leg reverse plank",
+                    "Reverse plank with leg lift",
+                    "Reverse plank with knee tuck",
+                    "Reverse plank with hip dip",
+                    "Reverse plank with arm reach"
+                ]
+            }
+        }
+    ]
+}

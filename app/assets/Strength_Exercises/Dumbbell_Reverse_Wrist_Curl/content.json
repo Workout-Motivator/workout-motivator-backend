@@ -1,0 +1,71 @@
+{
+    "title": "Dumbbell Reverse Wrist Curl",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Reverse Wrist Curl Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by sitting on a bench or chair with your feet flat on the ground and your back straight.",
+                    "Hold a dumbbell in each hand with an overhand grip (palms facing down) and your arms extended in front of you.",
+                    "Slowly lower the dumbbells towards the ground by bending your wrists backwards.",
+                    "Pause for a moment at the bottom of the movement, then slowly raise the dumbbells back up by bending your wrists upwards.",
+                    "Repeat for the desired number of repetitions.",
+                    "Remember to keep your elbows and upper arms stationary throughout the exercise."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Reverse Wrist Curl Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Reverse Wrist Curl Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the muscles in the forearms and wrists",
+                    "Improves grip strength",
+                    "Helps prevent wrist injuries",
+                    "Can improve performance in activities that require wrist and forearm strength, such as tennis, golf, and rock climbing",
+                    "Can be done with minimal equipment and in a variety of settings"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Reverse Wrist Curl Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Forearm Extensors"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Reverse Wrist Curl Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Wrist Curl",
+                    "Barbell Reverse Wrist Curl",
+                    "Cable Reverse Wrist Curl",
+                    "Plate Pinch Reverse Wrist Curl",
+                    "Wrist Roller Reverse Wrist Curl"
+                ]
+            }
+        }
+    ]
+}

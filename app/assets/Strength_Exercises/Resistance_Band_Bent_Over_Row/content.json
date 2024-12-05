@@ -1,0 +1,76 @@
+{
+    "title": "Resistance Band Bent Over Row",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Resistance Band Bent Over Row Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Step 1: Securely anchor the resistance band to a sturdy object at waist height.",
+                    "Step 2: Stand facing the anchor point with your feet shoulder-width apart and knees slightly bent.",
+                    "Step 3: Grasp the resistance band handles with an overhand grip, palms facing down.",
+                    "Step 4: Hinge forward at the hips, keeping your back straight and core engaged.",
+                    "Step 5: Pull the resistance band handles towards your chest, squeezing your shoulder blades together.",
+                    "Step 6: Pause briefly at the top of the movement, then slowly release the band back to the starting position.",
+                    "Step 7: Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Resistance Band Bent Over Row Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Resistance Band Bent Over Row Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets multiple muscle groups including the back, shoulders, and arms",
+                    "Improves posture and strengthens the upper body",
+                    "Can be done anywhere with a resistance band and minimal equipment",
+                    "Allows for a full range of motion and can be easily modified for different fitness levels",
+                    "Helps to prevent injury by strengthening the muscles that support the spine"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Resistance Band Bent Over Row Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Latissimus dorsi",
+                    "Trapezius",
+                    "Rhomboids",
+                    "Erector spinae",
+                    "Biceps brachii"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Resistance Band Bent Over Row Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single Arm Resistance Band Bent Over Row",
+                    "Resistance Band Seated Bent Over Row",
+                    "Resistance Band Upright Row",
+                    "Resistance Band Reverse Fly",
+                    "Resistance Band High Row"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "title": "Kettlebell Double Snatch",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Double Snatch Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a kettlebell in each hand at your sides.",
+                    "Bend your knees slightly and hinge forward at the hips, keeping your back straight and your core engaged.",
+                    "Swing the kettlebells back between your legs, then explosively drive your hips forward and use the momentum to lift the kettlebells up to shoulder height.",
+                    "As the kettlebells reach shoulder height, rotate your wrists and press them overhead, locking out your arms at the top of the movement.",
+                    "Lower the kettlebells back down to shoulder height, then swing them back between your legs and repeat the movement for the desired number of reps.",
+                    "Remember to keep your core engaged throughout the exercise and to use your hips to generate power, rather than relying on your arms."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Double Snatch Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Double Snatch Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Full body workout",
+                    "Improves cardiovascular endurance",
+                    "Increases strength and power in the shoulders, back, and legs",
+                    "Enhances grip strength and stability",
+                    "Improves coordination and balance",
+                    "Burns a high number of calories in a short amount of time",
+                    "Can be modified for different fitness levels"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Double Snatch Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Shoulders",
+                    "Back",
+                    "Glutes",
+                    "Hamstrings",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Double Snatch Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Kettlebell Single Snatch",
+                    "Kettlebell Clean and Press",
+                    "Kettlebell Swing",
+                    "Kettlebell Clean and Jerk",
+                    "Kettlebell High Pull"
+                ]
+            }
+        }
+    ]
+}

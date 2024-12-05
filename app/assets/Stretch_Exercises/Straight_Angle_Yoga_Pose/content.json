@@ -1,0 +1,81 @@
+{
+    "title": "Straight Angle Yoga Pose",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Straight Angle Yoga Pose Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand straight with your feet hip-width apart.",
+                    "Take a deep breath and raise your arms above your head.",
+                    "Exhale and bend forward from your hips, keeping your back straight.",
+                    "Place your hands on the floor or on your shins, depending on your flexibility.",
+                    "Hold the pose for 5-10 breaths, focusing on lengthening your spine and relaxing your neck and shoulders.",
+                    "To release the pose, inhale and slowly come back up to standing, raising your arms above your head."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Straight Angle Yoga Pose Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Straight Angle Yoga Pose Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Stretches the hamstrings, calves, and spine",
+                    "Strengthens the thighs and knees",
+                    "Improves digestion and relieves constipation",
+                    "Reduces stress and anxiety",
+                    "Improves posture and balance",
+                    "Can help alleviate symptoms of menopause"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Straight Angle Yoga Pose Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Glutes",
+                    "Calves",
+                    "Abdominals",
+                    "Back muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Straight Angle Yoga Pose Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Extended Triangle Pose",
+                    "Revolved Triangle Pose",
+                    "Warrior II Pose",
+                    "Half Moon Pose",
+                    "Revolved Half Moon Pose",
+                    "Revolved Side Angle Pose",
+                    "Side Angle Pose",
+                    "Revolved Wide Legged Forward Fold",
+                    "Wide Legged Forward Fold"
+                ]
+            }
+        }
+    ]
+}

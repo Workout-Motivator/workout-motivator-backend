@@ -1,0 +1,80 @@
+{
+    "title": "Bent Over Row With Towel",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Bent Over Row With Towel Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and place a towel on the ground in front of you.",
+                    "Bend over at the waist and grasp the towel with both hands, keeping your back straight and your knees slightly bent.",
+                    "Pull the towel towards your chest, squeezing your shoulder blades together as you do so.",
+                    "Lower the towel back down to the ground and repeat for the desired number of repetitions.",
+                    "Make sure to keep your core engaged and your back straight throughout the exercise."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Bent Over Row With Towel Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Bent Over Row With Towel Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves cardiovascular health",
+                    "Strengthens leg muscles",
+                    "Increases endurance",
+                    "Helps with weight loss",
+                    "Reduces stress and anxiety",
+                    "Improves balance and coordination",
+                    "Low-impact exercise, easy on joints",
+                    "Can be done indoors or outdoors",
+                    "Can be a social activity"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Bent Over Row With Towel Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Latissimus dorsi",
+                    "Trapezius",
+                    "Rhomboids",
+                    "Erector spinae",
+                    "Biceps brachii"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Bent Over Row With Towel Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Bent-over row with dumbbells",
+                    "Bent-over row with barbell",
+                    "Bent-over row with resistance bands",
+                    "Bent-over row with kettlebells",
+                    "Bent-over row with cable machine",
+                    "Bent-over row with TRX straps",
+                    "Bent-over row with bodyweight (inverted row)"
+                ]
+            }
+        }
+    ]
+}

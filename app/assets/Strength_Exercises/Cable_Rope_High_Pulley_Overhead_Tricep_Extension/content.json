@@ -1,0 +1,75 @@
+{
+    "title": "Cable Rope High Pulley Overhead Tricep Extension",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Cable Rope High Pulley Overhead Tricep Extension Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Attach a rope to the high pulley of a cable machine.",
+                    "Stand facing away from the machine and grasp the rope with both hands, palms facing each other.",
+                    "Bring your hands up to your head, keeping your elbows close to your ears.",
+                    "Extend your arms upward, straightening your elbows and contracting your triceps.",
+                    "Lower the rope back down to your head, keeping your elbows in the same position.",
+                    "Repeat for desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Cable Rope High Pulley Overhead Tricep Extension Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Cable Rope High Pulley Overhead Tricep Extension Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the triceps muscles, which are responsible for extending the elbow joint",
+                    "Helps to build strength and definition in the triceps",
+                    "Improves overall upper body strength and stability",
+                    "Can be easily modified to target different areas of the triceps muscle",
+                    "Allows for a full range of motion, which can help to prevent injury and improve flexibility"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cable Rope High Pulley Overhead Tricep Extension Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Triceps brachii",
+                    "Anconeus"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cable Rope High Pulley Overhead Tricep Extension Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Cable Rope Low Pulley Overhead Tricep Extension",
+                    "Cable Rope Overhead Tricep Extension with Straight Bar",
+                    "Cable Rope Overhead Tricep Extension with V-Bar",
+                    "Cable Rope Overhead Tricep Extension with Rope",
+                    "Dumbbell Overhead Tricep Extension",
+                    "EZ-Bar Overhead Tricep Extension",
+                    "Single-Arm Cable Rope Overhead Tricep Extension",
+                    "Standing Overhead Tricep Extension with Resistance Band"
+                ]
+            }
+        }
+    ]
+}

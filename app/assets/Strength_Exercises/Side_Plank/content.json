@@ -1,0 +1,73 @@
+{
+    "title": "Side Plank",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Side Plank Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on your side with your legs straight and your elbow directly under your shoulder.",
+                    "Lift your hips off the ground, creating a straight line from your head to your feet.",
+                    "Hold this position for 30 seconds to 1 minute, or as long as you can maintain good form.",
+                    "Lower your hips back down to the ground and repeat on the other side.",
+                    "Complete 3-5 sets on each side."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Side Plank Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Side Plank Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the oblique muscles",
+                    "Improves core stability",
+                    "Increases hip and glute strength",
+                    "Improves balance and coordination",
+                    "Can help prevent lower back pain"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Side Plank Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Obliques",
+                    "Transverse Abdominis",
+                    "Gluteus Medius",
+                    "Quadratus Lumborum"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Side Plank Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "side-plank with leg lift",
+                    "side-plank with hip dip",
+                    "side-plank with reach under",
+                    "side-plank with arm raise",
+                    "side-plank with knee tuck"
+                ]
+            }
+        }
+    ]
+}

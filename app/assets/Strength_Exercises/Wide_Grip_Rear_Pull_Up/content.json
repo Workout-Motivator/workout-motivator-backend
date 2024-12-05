@@ -1,0 +1,76 @@
+{
+    "title": "Wide Grip Rear Pull Up",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Wide Grip Rear Pull Up Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand in front of a pull-up bar with your feet shoulder-width apart.",
+                    "Reach up and grab the bar with an overhand grip that is wider than shoulder-width apart.",
+                    "Hang from the bar with your arms fully extended and your shoulders relaxed.",
+                    "Engage your back muscles and pull your chest towards the bar, keeping your elbows pointed out to the sides.",
+                    "Pause at the top of the movement, squeezing your shoulder blades together.",
+                    "Slowly lower yourself back down to the starting position with control.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Wide Grip Rear Pull Up Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Wide Grip Rear Pull Up Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the upper back muscles, specifically the latissimus dorsi",
+                    "Improves overall upper body strength and endurance",
+                    "Helps to improve posture by strengthening the muscles that support the spine",
+                    "Increases grip strength and forearm endurance",
+                    "Can be modified to target different areas of the back by adjusting grip width and hand placement"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Wide Grip Rear Pull Up Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Latissimus dorsi",
+                    "Trapezius",
+                    "Rhomboids",
+                    "Posterior deltoids",
+                    "Biceps brachii"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Wide Grip Rear Pull Up Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Close Grip Rear Pull Up",
+                    "Wide Grip Front Pull Up",
+                    "Close Grip Front Pull Up",
+                    "Assisted Wide Grip Rear Pull Up",
+                    "Weighted Wide Grip Rear Pull Up"
+                ]
+            }
+        }
+    ]
+}

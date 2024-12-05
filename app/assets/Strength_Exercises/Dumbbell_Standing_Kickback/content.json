@@ -1,0 +1,73 @@
+{
+    "title": "Dumbbell Standing Kickback",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Standing Kickback Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a dumbbell in your right hand.",
+                    "Bend your knees slightly and hinge forward at the hips, keeping your back straight.",
+                    "Bring your right elbow up to your side, keeping your arm bent at a 90-degree angle.",
+                    "Extend your right arm back behind you, straightening it out as far as you can.",
+                    "Pause for a moment, then slowly lower the weight back down to the starting position.",
+                    "Repeat for the desired number of reps, then switch sides and repeat with your left arm."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Standing Kickback Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Standing Kickback Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the triceps muscles, helping to tone and strengthen the back of the arms",
+                    "Improves overall arm definition and can help to reduce the appearance of “bat wings”",
+                    "Engages the core muscles for added stability and balance",
+                    "Can be done with a variety of weights to increase or decrease the intensity of the exercise",
+                    "Requires minimal equipment and can be done at home or in the gym"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Standing Kickback Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Triceps",
+                    "Rear Deltoids",
+                    "Upper Back"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Standing Kickback Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Standing Tricep Extension",
+                    "Dumbbell Overhead Tricep Extension",
+                    "Cable Standing Tricep Pushdown",
+                    "Cable Overhead Tricep Extension",
+                    "Resistance Band Tricep Kickback"
+                ]
+            }
+        }
+    ]
+}

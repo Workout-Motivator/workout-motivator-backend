@@ -1,0 +1,74 @@
+{
+    "title": "Kneeling Wrist Flexor Stretch",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Kneeling Wrist Flexor Stretch Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by kneeling on the ground with your palms facing down and your fingers pointing towards your knees.",
+                    "Slowly lean forward, keeping your palms on the ground, until you feel a stretch in your wrists and forearms.",
+                    "Hold the stretch for 15-30 seconds, breathing deeply and relaxing your muscles.",
+                    "Slowly release the stretch and return to the starting position.",
+                    "Repeat the stretch on the other side by turning your hands over so that your palms are facing up and your fingers are pointing towards your knees.",
+                    "Again, slowly lean forward until you feel a stretch in your wrists and forearms.",
+                    "Hold the stretch for 15-30 seconds, breathing deeply and relaxing your muscles.",
+                    "Slowly release the stretch and return to the starting position.",
+                    "Repeat the stretch on both sides for 2-3 sets."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Kneeling Wrist Flexor Stretch Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Kneeling Wrist Flexor Stretch Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Increases flexibility and range of motion in the wrists and forearms",
+                    "Helps prevent and alleviate wrist and forearm pain and injuries",
+                    "Improves grip strength and endurance",
+                    "Can be done anywhere without equipment",
+                    "Can be easily modified for different levels of flexibility and intensity"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Kneeling Wrist Flexor Stretch Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Wrist flexor muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Kneeling Wrist Flexor Stretch Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Standing Wrist Flexor Stretch",
+                    "Seated Wrist Flexor Stretch",
+                    "Prone Wrist Flexor Stretch",
+                    "Supine Wrist Flexor Stretch",
+                    "Wrist Extensor Stretch"
+                ]
+            }
+        }
+    ]
+}

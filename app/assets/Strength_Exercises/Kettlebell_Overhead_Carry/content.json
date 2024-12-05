@@ -1,0 +1,78 @@
+{
+    "title": "Kettlebell Overhead Carry",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Overhead Carry Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by selecting an appropriate weight kettlebell for your fitness level.",
+                    "Stand with your feet shoulder-width apart and hold the kettlebell with one hand at shoulder height.",
+                    "Press the kettlebell overhead, fully extending your arm and keeping your core engaged.",
+                    "Begin walking forward, keeping your arm extended and the kettlebell stable overhead.",
+                    "Take small, controlled steps and maintain a straight posture throughout the exercise.",
+                    "Continue walking for a set distance or time, then switch the kettlebell to the other hand and repeat the exercise.",
+                    "Remember to breathe deeply and maintain proper form throughout the exercise.",
+                    "Once you have completed the desired number of sets, lower the kettlebell back to shoulder height and return it to the starting position."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Overhead Carry Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Overhead Carry Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves shoulder stability and mobility",
+                    "Strengthens the core and upper body muscles",
+                    "Increases grip strength",
+                    "Improves posture and balance",
+                    "Can be used as a cardiovascular exercise",
+                    "Can be modified for different fitness levels and goals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Overhead Carry Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Shoulders",
+                    "Triceps",
+                    "Core",
+                    "Glutes",
+                    "Quadriceps"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Overhead Carry Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Kettlebell Front Rack Carry",
+                    "Kettlebell Farmer’s Carry",
+                    "Kettlebell Suitcase Carry",
+                    "Kettlebell Waiter’s Carry",
+                    "Kettlebell Bottoms Up Carry"
+                ]
+            }
+        }
+    ]
+}

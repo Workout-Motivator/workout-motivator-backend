@@ -1,0 +1,74 @@
+{
+    "title": "Kettlebell Deadlift",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Deadlift Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and place the kettlebell on the ground in front of you.",
+                    "Bend your knees and hinge at the hips to reach down and grab the kettlebell with both hands.",
+                    "Engage your core and lift the kettlebell up by straightening your legs and standing up straight.",
+                    "Hold the kettlebell at hip level for a moment, then slowly lower it back down to the ground by bending your knees and hinging at the hips.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Deadlift Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Deadlift Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the lower body muscles, including the glutes, hamstrings, and quadriceps",
+                    "Improves grip strength and overall core stability",
+                    "Can be modified for different fitness levels and goals",
+                    "Helps to improve posture and reduce the risk of lower back pain",
+                    "Increases overall power and explosiveness"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Deadlift Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Glutes",
+                    "Hamstrings",
+                    "Quadriceps",
+                    "Lower back",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Deadlift Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Kettlebell sumo deadlift",
+                    "Kettlebell single-leg deadlift",
+                    "Kettlebell Romanian deadlift",
+                    "Kettlebell goblet squat",
+                    "Kettlebell swing"
+                ]
+            }
+        }
+    ]
+}

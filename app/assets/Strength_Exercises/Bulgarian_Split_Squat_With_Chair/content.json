@@ -1,0 +1,75 @@
+{
+    "title": "Bulgarian Split Squat With Chair",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Bulgarian Split Squat With Chair Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your back facing the chair and place your left foot on the seat of the chair.",
+                    "Step your right foot forward and lower your body down into a lunge position, keeping your left foot elevated on the chair.",
+                    "Make sure your right knee is directly above your ankle and your left knee is hovering just above the chair.",
+                    "Push through your right heel to stand back up to the starting position.",
+                    "Repeat for the desired number of reps on one side before switching to the other side."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Bulgarian Split Squat With Chair Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Bulgarian Split Squat With Chair Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves balance and stability",
+                    "Strengthens the quadriceps, hamstrings, and glutes",
+                    "Increases hip mobility",
+                    "Targets the core muscles for added stability",
+                    "Can be done with minimal equipment",
+                    "Allows for unilateral training to address muscle imbalances"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Bulgarian Split Squat With Chair Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Bulgarian Split Squat With Chair Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Bulgarian Split Squat with Dumbbells",
+                    "Bulgarian Split Squat with Barbell",
+                    "Bulgarian Split Squat with Resistance Bands",
+                    "Bulgarian Split Squat with Kettlebells",
+                    "Bulgarian Split Squat with Smith Machine"
+                ]
+            }
+        }
+    ]
+}

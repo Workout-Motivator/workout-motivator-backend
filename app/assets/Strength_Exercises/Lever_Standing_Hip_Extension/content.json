@@ -1,0 +1,74 @@
+{
+    "title": "Lever Standing Hip Extension",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Lever Standing Hip Extension Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand facing a sturdy object such as a wall or a chair.",
+                    "Place your hands on the object for support.",
+                    "Shift your weight onto your left leg and lift your right leg off the ground.",
+                    "Keep your right knee straight and lift your leg behind you as high as you can.",
+                    "Hold for a few seconds and then lower your leg back down.",
+                    "Repeat for the desired number of repetitions and then switch legs."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Lever Standing Hip Extension Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Lever Standing Hip Extension Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens gluteus maximus muscle",
+                    "Improves hip stability and balance",
+                    "Increases hip mobility and flexibility",
+                    "Helps prevent lower back pain and injury",
+                    "Can be modified for different fitness levels and goals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Lever Standing Hip Extension Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Gluteus Maximus",
+                    "Hamstrings",
+                    "Erector Spinae",
+                    "Gastrocnemius"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Lever Standing Hip Extension Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Lever Seated Hip Extension",
+                    "Lever Prone Hip Extension",
+                    "Lever Supine Hip Extension",
+                    "Lever Standing Hip Abduction",
+                    "Lever Standing Hip Adduction"
+                ]
+            }
+        }
+    ]
+}

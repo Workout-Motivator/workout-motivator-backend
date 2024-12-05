@@ -1,0 +1,72 @@
+{
+    "title": "Cable Reverse Wrist Curl",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Cable Reverse Wrist Curl Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Attach a cable to a low pulley and select the desired weight.",
+                    "Stand facing the cable machine with your feet shoulder-width apart.",
+                    "Grasp the handle with an overhand grip and extend your arms in front of you.",
+                    "Keeping your elbows stationary, curl your wrists back towards your body.",
+                    "Pause for a moment at the top of the movement, then slowly lower your wrists back to the starting position.",
+                    "Repeat for the desired number of repetitions.",
+                    "Switch hands and repeat the exercise with your other wrist."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Cable Reverse Wrist Curl Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Cable Reverse Wrist Curl Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the wrist extensors, which are important for grip strength and wrist stability",
+                    "Helps prevent wrist injuries by improving the strength and flexibility of the wrist muscles",
+                    "Can improve performance in sports that require strong grip and wrist stability, such as tennis, golf, and weightlifting",
+                    "Targets the muscles in the forearm, which can improve overall arm strength and size",
+                    "Can be done with a variety of weights and resistance levels, making it suitable for beginners and advanced athletes alike"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cable Reverse Wrist Curl Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Wrist extensors"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cable Reverse Wrist Curl Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Barbell Reverse Wrist Curl",
+                    "Dumbbell Reverse Wrist Curl",
+                    "Reverse Grip Barbell Wrist Curl",
+                    "Reverse Grip Dumbbell Wrist Curl",
+                    "Reverse Grip Cable Wrist Curl"
+                ]
+            }
+        }
+    ]
+}

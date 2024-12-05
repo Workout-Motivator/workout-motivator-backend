@@ -1,0 +1,75 @@
+{
+    "title": "Bodyweight Standing Calf Raise",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Bodyweight Standing Calf Raise Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your toes pointing forward.",
+                    "Place your hands on your hips or hold onto a stable object for balance.",
+                    "Raise your heels off the ground as high as possible, keeping your toes on the ground.",
+                    "Hold the position for a few seconds, then lower your heels back down to the ground.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Bodyweight Standing Calf Raise Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Bodyweight Standing Calf Raise Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens and tones the calf muscles",
+                    "Improves ankle stability and balance",
+                    "Can be done anywhere without equipment",
+                    "Helps prevent injuries such as ankle sprains",
+                    "Increases overall lower body strength and power"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Bodyweight Standing Calf Raise Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Gastrocnemius",
+                    "Soleus"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Bodyweight Standing Calf Raise Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Weighted Standing Calf Raise",
+                    "Seated Calf Raise",
+                    "Donkey Calf Raise",
+                    "Single Leg Calf Raise",
+                    "Smith Machine Calf Raise",
+                    "Barbell Calf Raise",
+                    "Dumbbell Calf Raise",
+                    "Toe Press on Leg Press Machine",
+                    "Jumping Calf Raise"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "title": "Kettlebell Goblet Squat",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Goblet Squat Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a kettlebell with both hands at chest level.",
+                    "Squat down by bending your knees and pushing your hips back, keeping your chest up and your back straight.",
+                    "Lower your body until your thighs are parallel to the ground.",
+                    "Pause for a moment, then push through your heels to stand back up to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Goblet Squat Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Goblet Squat Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the lower body muscles, including the quadriceps, hamstrings, glutes, and calves",
+                    "Improves core stability and balance",
+                    "Increases cardiovascular endurance",
+                    "Can be modified for different fitness levels and goals",
+                    "Engages multiple muscle groups at once, making it a time-efficient exercise",
+                    "Can be done with minimal equipment and space",
+                    "May improve mobility and flexibility in the hips and ankles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Goblet Squat Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Core",
+                    "Upper back",
+                    "Shoulders"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Goblet Squat Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Kettlebell Front Squat",
+                    "Kettlebell Sumo Squat",
+                    "Kettlebell Bulgarian Split Squat",
+                    "Kettlebell Overhead Squat",
+                    "Kettlebell Single-Leg Squat"
+                ]
+            }
+        }
+    ]
+}

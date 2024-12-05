@@ -1,0 +1,73 @@
+{
+    "title": "Dumbbell Seated Preacher Curl",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Seated Preacher Curl Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by sitting on a preacher bench with a dumbbell in one hand.",
+                    "Place the back of your upper arm on the preacher bench pad and extend your arm fully.",
+                    "Curl the dumbbell towards your shoulder while keeping your upper arm stationary.",
+                    "Pause at the top of the movement and squeeze your bicep.",
+                    "Slowly lower the dumbbell back to the starting position.",
+                    "Repeat for the desired number of reps and then switch arms."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Seated Preacher Curl Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Seated Preacher Curl Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the biceps brachii muscle, helping to increase arm strength and size",
+                    "Isolates the biceps, reducing the involvement of other muscles and allowing for a more focused workout",
+                    "Allows for a full range of motion, helping to stretch and contract the biceps for optimal muscle growth",
+                    "Can be performed with a variety of weights and grips, allowing for progression and variation in the workout",
+                    "Can be done seated, reducing the strain on the lower back and allowing for better form and control"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Seated Preacher Curl Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Biceps brachii",
+                    "Brachialis",
+                    "Brachioradialis"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Seated Preacher Curl Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Standing Preacher Curl",
+                    "Dumbbell Hammer Curl",
+                    "Dumbbell Concentration Curl",
+                    "Dumbbell Bicep Curl",
+                    "Dumbbell Incline Curl"
+                ]
+            }
+        }
+    ]
+}

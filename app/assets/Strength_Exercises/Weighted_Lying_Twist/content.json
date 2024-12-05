@@ -1,0 +1,75 @@
+{
+    "title": "Weighted Lying Twist",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Weighted Lying Twist Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on your back with your knees bent and feet flat on the ground.",
+                    "Hold a weight or medicine ball with both hands and extend your arms straight out to the sides, parallel to the ground.",
+                    "Keeping your shoulders on the ground, slowly lower your legs to one side while twisting your torso in the opposite direction.",
+                    "Pause for a moment, then use your core muscles to bring your legs and torso back to the starting position.",
+                    "Repeat on the other side, twisting your torso in the opposite direction and lowering your legs to the other side.",
+                    "Continue alternating sides for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Weighted Lying Twist Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Weighted Lying Twist Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the oblique muscles",
+                    "Improves core stability and balance",
+                    "Increases flexibility in the spine",
+                    "Can help alleviate lower back pain",
+                    "Engages the glutes and hip muscles",
+                    "Can be modified for different fitness levels and abilities"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Weighted Lying Twist Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Obliques",
+                    "Rectus Abdominis",
+                    "Erector Spinae",
+                    "Transverse Abdominis"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Weighted Lying Twist Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Unweighted Lying Twist",
+                    "Weighted Standing Twist",
+                    "Russian Twist",
+                    "Oblique Crunches",
+                    "Side Plank with Twist"
+                ]
+            }
+        }
+    ]
+}

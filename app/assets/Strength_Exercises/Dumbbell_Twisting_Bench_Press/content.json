@@ -1,0 +1,73 @@
+{
+    "title": "Dumbbell Twisting Bench Press",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Twisting Bench Press Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying flat on a bench with a dumbbell in each hand, held at chest level with palms facing forward.",
+                    "Slowly lower the dumbbells towards your chest, keeping your elbows close to your body.",
+                    "As you press the dumbbells back up, twist your wrists so that your palms are facing each other at the top of the movement.",
+                    "Lower the dumbbells back down to chest level, twisting your wrists back to the starting position with palms facing forward.",
+                    "Repeat for desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Twisting Bench Press Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Twisting Bench Press Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the chest, shoulders, and triceps",
+                    "Improves upper body strength and muscle definition",
+                    "Increases stability and balance in the chest and shoulder muscles",
+                    "Engages the core muscles for added stability and balance",
+                    "Allows for a greater range of motion compared to traditional bench press exercises",
+                    "Can be modified for different fitness levels and goals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Twisting Bench Press Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Chest muscles (pectoralis major and minor)",
+                    "Shoulder muscles (anterior deltoids)",
+                    "Triceps brachii"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Twisting Bench Press Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Twisting Floor Press",
+                    "Dumbbell Twisting Incline Press",
+                    "Dumbbell Twisting Decline Press",
+                    "Dumbbell Twisting Flyes",
+                    "Dumbbell Twisting Pullover"
+                ]
+            }
+        }
+    ]
+}

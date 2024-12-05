@@ -1,0 +1,72 @@
+{
+    "title": "Weighted Lying Neck Flexion",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Weighted Lying Neck Flexion Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on your back on a flat bench or mat with your head hanging off the edge.",
+                    "Hold a weight plate or dumbbell with both hands and place it on your forehead, keeping your elbows bent and close to your head.",
+                    "Slowly lower your head towards the ground, keeping your neck straight and your eyes looking up towards the ceiling.",
+                    "Pause for a moment at the bottom of the movement, then slowly raise your head back up to the starting position.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Weighted Lying Neck Flexion Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Weighted Lying Neck Flexion Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the neck muscles",
+                    "Improves posture",
+                    "Reduces neck pain and stiffness",
+                    "Increases range of motion in the neck",
+                    "Can be done with minimal equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Weighted Lying Neck Flexion Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Sternocleidomastoid",
+                    "Scalenes",
+                    "Longus Colli"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Weighted Lying Neck Flexion Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Unweighted Lying Neck Flexion",
+                    "Weighted Lying Neck Extension",
+                    "Seated Neck Flexion",
+                    "Standing Neck Flexion",
+                    "Neck Flexion with Resistance Band"
+                ]
+            }
+        }
+    ]
+}

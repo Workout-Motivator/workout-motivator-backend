@@ -1,0 +1,75 @@
+{
+    "title": "Barbell Seated Shrug",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Barbell Seated Shrug Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by sitting on a bench with your feet flat on the ground and your back straight.",
+                    "Grasp the barbell with an overhand grip, hands shoulder-width apart.",
+                    "Bring the barbell up to shoulder level, keeping your elbows close to your body.",
+                    "Shrug your shoulders up towards your ears, holding the barbell in place.",
+                    "Hold the shrug for a few seconds, then slowly lower your shoulders back down to the starting position.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Barbell Seated Shrug Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Barbell Seated Shrug Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the trapezius muscles in the upper back and shoulders",
+                    "Improves posture and reduces the risk of neck and shoulder pain",
+                    "Increases grip strength and forearm endurance",
+                    "Can be easily modified to target different areas of the trapezius muscles",
+                    "Can be performed with relatively heavy weights, making it an effective exercise for building muscle mass"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Barbell Seated Shrug Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Trapezius",
+                    "Rhomboids",
+                    "Levator Scapulae"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Barbell Seated Shrug Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Seated Shrug",
+                    "Smith Machine Seated Shrug",
+                    "Cable Seated Shrug",
+                    "Barbell Standing Shrug",
+                    "Dumbbell Standing Shrug",
+                    "Smith Machine Standing Shrug",
+                    "Cable Standing Shrug"
+                ]
+            }
+        }
+    ]
+}

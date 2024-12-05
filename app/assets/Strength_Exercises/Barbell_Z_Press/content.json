@@ -1,0 +1,74 @@
+{
+    "title": "Barbell Z Press",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Barbell Z Press Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by sitting on the floor with your legs straight out in front of you and the barbell resting on your thighs.",
+                    "Grab the barbell with an overhand grip and lift it up to your shoulders, keeping your elbows close to your body.",
+                    "Press the barbell up overhead, keeping your elbows locked out and your core engaged.",
+                    "Lower the barbell back down to your shoulders, keeping your elbows close to your body.",
+                    "Lower the barbell back down to your thighs and repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Barbell Z Press Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Barbell Z Press Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the shoulders, triceps, and core muscles",
+                    "Improves shoulder mobility and stability",
+                    "Increases upper body strength and power",
+                    "Can be performed with a relatively light weight, reducing the risk of injury",
+                    "Engages the entire body, promoting overall fitness and athleticism"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Barbell Z Press Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Shoulders (deltoids)",
+                    "Triceps",
+                    "Upper back (trapezius)",
+                    "Core (abdominals)"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Barbell Z Press Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Z Press",
+                    "Kettlebell Z Press",
+                    "Seated Barbell Shoulder Press",
+                    "Seated Dumbbell Shoulder Press",
+                    "Standing Barbell Shoulder Press",
+                    "Standing Dumbbell Shoulder Press"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "title": "Ez-bar Close Grip Bench Press",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Ez-bar Close Grip Bench Press Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Load an EZ bar with an appropriate weight for your fitness level.",
+                    "Lie down on a flat bench with your feet firmly planted on the ground.",
+                    "Grasp the EZ bar with a close grip, with your hands no more than shoulder-width apart.",
+                    "Unrack the bar and hold it above your chest with your arms fully extended.",
+                    "Lower the bar towards your chest, keeping your elbows tucked in close to your body.",
+                    "Pause when the bar is just above your chest, then press it back up to the starting position.",
+                    "Repeat for the desired number of reps.",
+                    "Rack the bar when you are finished."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Ez-bar Close Grip Bench Press Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Ez-bar Close Grip Bench Press Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves cardiovascular health",
+                    "Increases endurance and stamina",
+                    "Burns calories and aids in weight loss",
+                    "Strengthens leg muscles",
+                    "Improves balance and coordination",
+                    "Reduces stress and anxiety",
+                    "Boosts mood and energy levels",
+                    "Can be done outdoors for fresh air and vitamin D"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Ez-bar Close Grip Bench Press Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Triceps brachii",
+                    "Pectoralis major (sternal head)",
+                    "Anterior deltoid",
+                    "Coracobrachialis"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Ez-bar Close Grip Bench Press Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "EZ bar bench press",
+                    "Close grip barbell bench press",
+                    "Close grip dumbbell bench press",
+                    "Close grip push-ups",
+                    "Smith machine close grip bench press"
+                ]
+            }
+        }
+    ]
+}

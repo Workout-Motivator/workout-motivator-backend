@@ -1,0 +1,77 @@
+{
+    "title": "Dumbbell Standing Arnold Press",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Standing Arnold Press Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a dumbbell in each hand at shoulder height, palms facing your body.",
+                    "Engage your core and press the dumbbells overhead, rotating your palms to face forward as you do so.",
+                    "Lower the dumbbells back down to shoulder height, rotating your palms back to face your body.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Standing Arnold Press Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Standing Arnold Press Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the shoulder muscles",
+                    "Improves posture",
+                    "Increases shoulder mobility",
+                    "Helps prevent shoulder injuries",
+                    "Targets the deltoids and trapezius muscles",
+                    "Can be done with minimal equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Standing Arnold Press Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Deltoids",
+                    "Triceps",
+                    "Trapezius",
+                    "Rhomboids",
+                    "Rotator cuff muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Standing Arnold Press Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "dumbbell seated arnold press",
+                    "dumbbell standing shoulder press",
+                    "dumbbell push press",
+                    "dumbbell single-arm shoulder press",
+                    "barbell standing arnold press",
+                    "barbell seated shoulder press",
+                    "barbell push press",
+                    "barbell single-arm shoulder press"
+                ]
+            }
+        }
+    ]
+}

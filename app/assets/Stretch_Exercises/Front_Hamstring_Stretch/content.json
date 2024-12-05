@@ -1,0 +1,75 @@
+{
+    "title": "Front Hamstring Stretch",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Front Hamstring Stretch Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet hip-width apart and your knees slightly bent.",
+                    "Step forward with your right foot, keeping your heel on the ground.",
+                    "Extend your left leg behind you, keeping it straight.",
+                    "Place your hands on your hips and keep your back straight.",
+                    "Slowly lean forward from your hips, keeping your back straight and your head up.",
+                    "Stop when you feel a stretch in the back of your left leg.",
+                    "Hold the stretch for 15-30 seconds.",
+                    "Release the stretch and repeat on the other side."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Front Hamstring Stretch Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Front Hamstring Stretch Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves flexibility and range of motion in the hamstrings",
+                    "Reduces the risk of injury in the hamstrings and lower back",
+                    "Relieves tension and tightness in the hamstrings",
+                    "Can help alleviate lower back pain",
+                    "Improves posture and balance"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Front Hamstring Stretch Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Hamstrings",
+                    "Quadriceps",
+                    "Glutes"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Front Hamstring Stretch Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Standing Hamstring Stretch",
+                    "Seated Hamstring Stretch",
+                    "Single Leg Forward Bend",
+                    "Downward Facing Dog",
+                    "Wide-Legged Forward Bend"
+                ]
+            }
+        }
+    ]
+}

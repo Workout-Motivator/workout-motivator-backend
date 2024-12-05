@@ -1,0 +1,78 @@
+{
+    "title": "Trap Bar Jump Squat",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Trap Bar Jump Squat Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by standing in the center of the trap bar with your feet shoulder-width apart.",
+                    "Grab the handles of the trap bar and lift it up so that it is at waist height.",
+                    "Bend your knees and lower your hips down into a squat position.",
+                    "Explode upwards, jumping off the ground while still holding onto the trap bar.",
+                    "Land softly back into the squat position and repeat for the desired number of reps.",
+                    "Make sure to keep your back straight and your core engaged throughout the exercise.",
+                    "As you jump, focus on pushing through your heels and using your glutes and quads to power the movement.",
+                    "Remember to breathe throughout the exercise, inhaling as you lower into the squat and exhaling as you jump."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Trap Bar Jump Squat Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Trap Bar Jump Squat Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Increases explosive power in the lower body",
+                    "Improves vertical jump height",
+                    "Develops strength in the quadriceps, hamstrings, and glutes",
+                    "Engages the core muscles for stability and balance",
+                    "Can be used as a conditioning exercise for athletes",
+                    "Low impact exercise that is easier on the joints compared to traditional barbell squats"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Trap Bar Jump Squat Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Core muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Trap Bar Jump Squat Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Trap Bar Deadlift",
+                    "Jump Squat with Barbell",
+                    "Box Jump Squat",
+                    "Single Leg Jump Squat",
+                    "Trap Bar Farmer’s Walk"
+                ]
+            }
+        }
+    ]
+}

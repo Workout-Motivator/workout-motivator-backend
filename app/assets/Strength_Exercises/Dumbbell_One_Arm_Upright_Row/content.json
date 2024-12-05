@@ -1,0 +1,73 @@
+{
+    "title": "Dumbbell One Arm Upright Row",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell One Arm Upright Row Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a dumbbell in one hand with an overhand grip.",
+                    "Let the dumbbell hang at arm’s length in front of your thigh.",
+                    "Slowly lift the dumbbell up towards your chin, keeping your elbow close to your body.",
+                    "Pause for a moment at the top of the movement, then slowly lower the dumbbell back down to the starting position.",
+                    "Repeat for the desired number of reps, then switch arms and repeat the exercise on the other side."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell One Arm Upright Row Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell One Arm Upright Row Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the shoulders, specifically the deltoids and traps",
+                    "Improves shoulder strength and stability",
+                    "Helps to improve posture by strengthening the upper back muscles",
+                    "Can be done with a variety of weights to increase or decrease intensity",
+                    "Can be modified to target different areas of the shoulder by adjusting grip or arm position"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell One Arm Upright Row Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Deltoids",
+                    "Trapezius",
+                    "Biceps",
+                    "Forearms"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell One Arm Upright Row Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Two Arm Upright Row",
+                    "Barbell Upright Row",
+                    "Cable Upright Row",
+                    "Smith Machine Upright Row",
+                    "Kettlebell Upright Row"
+                ]
+            }
+        }
+    ]
+}

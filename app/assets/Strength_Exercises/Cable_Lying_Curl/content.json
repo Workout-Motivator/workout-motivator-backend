@@ -1,0 +1,73 @@
+{
+    "title": "Cable Lying Curl",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Cable Lying Curl Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on your back with your knees bent and your feet flat on the ground.",
+                    "Hold a cable handle in each hand with your arms extended straight up towards the ceiling.",
+                    "Slowly lower the cables towards your head, keeping your elbows in and your upper arms stationary.",
+                    "Pause when your forearms are parallel to the ground.",
+                    "Slowly raise the cables back up to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Cable Lying Curl Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Cable Lying Curl Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the anterior deltoid muscle",
+                    "Improves shoulder stability and mobility",
+                    "Helps to prevent shoulder injuries",
+                    "Can be done with a variety of cable attachments for variation",
+                    "Allows for unilateral training to address muscle imbalances"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cable Lying Curl Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Biceps brachii",
+                    "Brachialis",
+                    "Brachioradialis"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cable Lying Curl Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Standing cable curl",
+                    "Seated cable curl",
+                    "Single-arm cable curl",
+                    "High cable curl",
+                    "Low cable curl"
+                ]
+            }
+        }
+    ]
+}

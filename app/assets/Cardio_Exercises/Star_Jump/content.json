@@ -1,0 +1,77 @@
+{
+    "title": "Star Jump",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Star Jump Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your arms at your sides.",
+                    "Bend your knees slightly and jump up as high as you can.",
+                    "As you jump, spread your legs out to the sides and raise your arms above your head.",
+                    "Land softly on the balls of your feet with your knees slightly bent.",
+                    "Jump again, returning to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Star Jump Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Star Jump Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Increases cardiovascular endurance",
+                    "Improves coordination and balance",
+                    "Strengthens leg muscles",
+                    "Burns calories and aids in weight loss",
+                    "Can be done anywhere without equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Star Jump Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Glutes",
+                    "Calves",
+                    "Abdominals",
+                    "Shoulders",
+                    "Chest"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Star Jump Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Jumping Jacks",
+                    "High Knees",
+                    "Burpees",
+                    "Mountain Climbers",
+                    "Skater Jumps"
+                ]
+            }
+        }
+    ]
+}

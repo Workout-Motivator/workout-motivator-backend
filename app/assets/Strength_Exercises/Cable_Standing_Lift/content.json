@@ -1,0 +1,75 @@
+{
+    "title": "Cable Standing Lift",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Cable Standing Lift Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your knees slightly bent.",
+                    "Hold the cable handle with both hands in front of your body, palms facing down.",
+                    "Engage your core and keep your back straight.",
+                    "Slowly lift the cable up and out in front of you, keeping your arms straight and your hands at shoulder height.",
+                    "Hold for a few seconds, then slowly lower the cable back down to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Cable Standing Lift Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Cable Standing Lift Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets multiple muscle groups including shoulders, triceps, and upper back",
+                    "Improves overall upper body strength and stability",
+                    "Can be easily adjusted to accommodate different fitness levels and goals",
+                    "Helps to improve posture and reduce the risk of injury",
+                    "Provides a low-impact workout that is easy on the joints"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cable Standing Lift Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Shoulders (deltoids)",
+                    "Upper back (trapezius)",
+                    "Arms (biceps and triceps)",
+                    "Core (abdominals and lower back)",
+                    "Legs (quadriceps and glutes)"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cable Standing Lift Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Cable Standing Lift with One Arm",
+                    "Cable Standing Lift with Two Arms",
+                    "Cable Standing Lift with Alternating Arms",
+                    "Cable Standing Lift with Resistance Band",
+                    "Cable Standing Lift with Twist"
+                ]
+            }
+        }
+    ]
+}

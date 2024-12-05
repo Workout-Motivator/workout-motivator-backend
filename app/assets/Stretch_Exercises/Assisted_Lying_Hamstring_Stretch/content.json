@@ -1,0 +1,74 @@
+{
+    "title": "Assisted Lying Hamstring Stretch",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Assisted Lying Hamstring Stretch Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on your back with your legs straight out in front of you.",
+                    "Bend one knee and bring it towards your chest.",
+                    "Loop a towel or resistance band around the ball of your foot on the bent leg.",
+                    "Slowly straighten your leg while holding onto the towel or band, keeping your other leg straight on the ground.",
+                    "Stop when you feel a stretch in the back of your thigh.",
+                    "Hold the stretch for 15-30 seconds.",
+                    "Release the stretch and repeat on the other leg."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Assisted Lying Hamstring Stretch Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Assisted Lying Hamstring Stretch Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Increases flexibility and range of motion in the hamstrings",
+                    "Reduces the risk of injury in the hamstrings and lower back",
+                    "Improves posture and alignment of the pelvis and spine",
+                    "Relieves tension and tightness in the hamstrings and lower back",
+                    "Can be modified for individuals with limited flexibility or mobility"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Assisted Lying Hamstring Stretch Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Hamstrings",
+                    "Glutes",
+                    "Lower back"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Assisted Lying Hamstring Stretch Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Partner Assisted Lying Hamstring Stretch",
+                    "Single Leg Assisted Lying Hamstring Stretch",
+                    "Assisted Lying Hamstring Stretch with Resistance Band",
+                    "Assisted Lying Hamstring Stretch with Towel",
+                    "Assisted Lying Hamstring Stretch with Foam Roller"
+                ]
+            }
+        }
+    ]
+}

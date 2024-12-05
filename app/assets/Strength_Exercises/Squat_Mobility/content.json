@@ -1,0 +1,78 @@
+{
+    "title": "Squat Mobility",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Squat Mobility Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your toes pointing forward.",
+                    "Place your hands on your hips and engage your core muscles.",
+                    "Slowly lower your body down into a squat position, keeping your back straight and your knees in line with your toes.",
+                    "Hold the squat position for 10-15 seconds, focusing on keeping your balance and maintaining good form.",
+                    "Raise your body back up to a standing position, using your leg muscles to push yourself up.",
+                    "Repeat the squat 5-10 times, gradually increasing the depth of the squat as you become more comfortable with the exercise.",
+                    "For an added challenge, you can hold a weight or kettlebell in front of your chest while performing the squat."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Squat Mobility Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Squat Mobility Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves hip and ankle mobility",
+                    "Increases flexibility in the lower body",
+                    "Strengthens the quadriceps, hamstrings, glutes, and core muscles",
+                    "Improves balance and stability",
+                    "Enhances overall athletic performance",
+                    "Reduces the risk of injury during physical activity",
+                    "Can be modified for different fitness levels and goals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Squat Mobility Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Glutes",
+                    "Calves",
+                    "Core muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Squat Mobility Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "squat-hold",
+                    "squat-pulse",
+                    "squat-jumps",
+                    "goblet-squat",
+                    "front-squat"
+                ]
+            }
+        }
+    ]
+}

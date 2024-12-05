@@ -1,0 +1,73 @@
+{
+    "title": "Dumbbell Push Press",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Push Press Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a dumbbell in each hand at shoulder height, palms facing forward.",
+                    "Bend your knees slightly and then explosively push up through your legs, using the momentum to press the dumbbells overhead.",
+                    "Lower the dumbbells back down to shoulder height and repeat for the desired number of reps.",
+                    "Make sure to keep your core engaged and your back straight throughout the exercise."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Push Press Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Push Press Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets multiple muscle groups including shoulders, triceps, and chest",
+                    "Improves upper body strength and power",
+                    "Increases cardiovascular endurance",
+                    "Can be modified for different fitness levels by adjusting weight and reps",
+                    "Engages core muscles for stability and balance"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Push Press Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Shoulders (deltoids)",
+                    "Triceps",
+                    "Chest (pectoralis major)",
+                    "Core (abdominals and lower back)",
+                    "Legs (quadriceps, hamstrings, and glutes)"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Push Press Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Push Jerk",
+                    "Barbell Push Press",
+                    "Kettlebell Push Press",
+                    "Single Arm Dumbbell Push Press",
+                    "Landmine Push Press"
+                ]
+            }
+        }
+    ]
+}

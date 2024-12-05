@@ -1,0 +1,73 @@
+{
+    "title": "Wrist Roller",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Wrist Roller Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Attach a weight to the wrist roller.",
+                    "Hold the wrist roller with both hands, palms facing down.",
+                    "Extend your arms straight out in front of you.",
+                    "Roll the wrist roller up towards your body by rotating your wrists.",
+                    "Pause at the top for a few seconds.",
+                    "Slowly roll the wrist roller back down to the starting position.",
+                    "Repeat for desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Wrist Roller Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Wrist Roller Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Increases grip strength",
+                    "Improves forearm muscles",
+                    "Helps with wrist stability and flexibility",
+                    "Can be used for rehabilitation purposes",
+                    "Easy to use and can be done at home or in the gym"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Wrist Roller Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Forearm muscles (brachioradialis, flexor carpi radialis, flexor carpi ulnaris, extensor carpi radialis, extensor carpi ulnaris)",
+                    "Grip muscles (flexor digitorum profundus, flexor digitorum superficialis, flexor pollicis longus)"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Wrist Roller Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Reverse Wrist Roller",
+                    "One-Arm Wrist Roller",
+                    "Behind-the-Back Wrist Roller",
+                    "Seated Wrist Roller",
+                    "Standing Wrist Roller"
+                ]
+            }
+        }
+    ]
+}

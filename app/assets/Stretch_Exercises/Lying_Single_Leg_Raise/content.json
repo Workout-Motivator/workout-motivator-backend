@@ -1,0 +1,75 @@
+{
+    "title": "Lying Single Leg Raise",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Lying Single Leg Raise Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying flat on your back with your legs straight out in front of you.",
+                    "Bend your left knee and place your left foot flat on the ground.",
+                    "Keep your right leg straight and lift it up towards the ceiling.",
+                    "Slowly lower your right leg back down towards the ground, but do not let it touch the ground.",
+                    "Repeat this movement for 10-15 repetitions on your right leg.",
+                    "Switch to your left leg and repeat the exercise for 10-15 repetitions.",
+                    "For an added challenge, you can hold a small weight or resistance band around your ankle while performing the exercise."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Lying Single Leg Raise Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Lying Single Leg Raise Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the core muscles",
+                    "Improves balance and stability",
+                    "Targets the lower abdominal muscles",
+                    "Can be modified for different fitness levels",
+                    "Can be done anywhere without equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Lying Single Leg Raise Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus abdominis",
+                    "Transverse abdominis",
+                    "Obliques",
+                    "Hip flexors"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Lying Single Leg Raise Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "standing-single-leg-raise",
+                    "lying-double-leg-raise",
+                    "hanging-single-leg-raise",
+                    "seated-single-leg-raise",
+                    "reverse-single-leg-raise"
+                ]
+            }
+        }
+    ]
+}

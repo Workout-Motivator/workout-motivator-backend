@@ -1,0 +1,73 @@
+{
+    "title": "Kneeling Chest Stretch",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Kneeling Chest Stretch Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Begin by kneeling on the ground with your knees hip-width apart and your toes pointed behind you.",
+                    "Place your hands on your lower back with your fingers pointing downward.",
+                    "Slowly lean back, pushing your hips forward and arching your back.",
+                    "Hold this position for 15-30 seconds, feeling the stretch in your chest and shoulders.",
+                    "Slowly return to the starting position and repeat for 2-3 sets."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Kneeling Chest Stretch Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Kneeling Chest Stretch Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Relieves tension and tightness in the chest muscles",
+                    "Improves posture by opening up the chest and shoulders",
+                    "Increases flexibility in the chest and shoulders",
+                    "May help alleviate upper back pain",
+                    "Can be done anywhere without equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Kneeling Chest Stretch Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Pectoralis Major",
+                    "Pectoralis Minor",
+                    "Anterior Deltoids",
+                    "Coracobrachialis"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Kneeling Chest Stretch Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Standing Chest Stretch",
+                    "Doorway Chest Stretch",
+                    "Seated Chest Stretch",
+                    "Wall Chest Stretch",
+                    "Corner Chest Stretch"
+                ]
+            }
+        }
+    ]
+}

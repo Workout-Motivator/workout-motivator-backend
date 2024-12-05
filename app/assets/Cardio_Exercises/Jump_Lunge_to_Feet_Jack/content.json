@@ -1,0 +1,77 @@
+{
+    "title": "Jump Lunge to Feet Jack",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Jump Lunge to Feet Jack Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start in a standing position with your feet shoulder-width apart.",
+                    "Jump forward with your right foot and lower your body into a lunge position, with your right knee bent at a 90-degree angle and your left knee hovering just above the ground.",
+                    "From the lunge position, jump up and switch your legs in mid-air, landing with your left foot forward and your right foot back in a lunge position.",
+                    "Jump up again and bring your feet together, landing in a standing position.",
+                    "Finally, jump up and spread your feet apart while simultaneously raising your arms above your head to perform a jumping jack.",
+                    "Repeat the entire sequence, starting with your left foot forward this time."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Jump Lunge to Feet Jack Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Jump Lunge to Feet Jack Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves cardiovascular endurance",
+                    "Increases lower body strength and power",
+                    "Enhances coordination and balance",
+                    "Burns calories and aids in weight loss",
+                    "Can be done anywhere with minimal equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Jump Lunge to Feet Jack Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Abdominals",
+                    "Obliques",
+                    "Cardiovascular system"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Jump Lunge to Feet Jack Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Jump lunge to feet jack with dumbbells",
+                    "Jump lunge to feet jack with medicine ball",
+                    "Jump lunge to feet jack with resistance band",
+                    "Jump lunge to feet jack with kettlebell",
+                    "Jump lunge to feet jack with plyometric box"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "title": "Landmine Squat and Press",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Landmine Squat and Press Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by placing a barbell in a landmine attachment or in a corner of a room.",
+                    "Load the barbell with an appropriate weight for your fitness level.",
+                    "Stand facing the barbell with your feet shoulder-width apart.",
+                    "Grab the end of the barbell with both hands and lift it up to your chest.",
+                    "Squat down by bending your knees and pushing your hips back, keeping your chest up and your back straight.",
+                    "As you stand back up, press the barbell overhead, extending your arms fully.",
+                    "Lower the barbell back down to your chest as you squat down again.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Landmine Squat and Press Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Landmine Squat and Press Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets multiple muscle groups including legs, shoulders, and core",
+                    "Improves overall strength and power",
+                    "Increases cardiovascular endurance",
+                    "Improves balance and stability",
+                    "Can be modified for different fitness levels and abilities",
+                    "Can be done with minimal equipment",
+                    "Can be incorporated into a full body workout routine"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Landmine Squat and Press Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Core",
+                    "Shoulders",
+                    "Triceps"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Landmine Squat and Press Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Landmine Squat and Twist",
+                    "Landmine Single Leg Squat and Press",
+                    "Landmine Reverse Lunge and Press",
+                    "Landmine Deadlift and Press",
+                    "Landmine Clean and Press"
+                ]
+            }
+        }
+    ]
+}

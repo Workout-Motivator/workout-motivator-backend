@@ -1,0 +1,75 @@
+{
+    "title": "Reverse Crunch to Dead Bug",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Reverse Crunch to Dead Bug Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on your back with your arms extended towards the ceiling and your legs bent at a 90-degree angle.",
+                    "Engage your core and lift your hips off the ground, bringing your knees towards your chest.",
+                    "Slowly lower your hips back down to the starting position.",
+                    "Next, extend your legs out straight while simultaneously lowering your arms towards the ground overhead.",
+                    "Pause for a moment, then bring your arms and legs back to the starting position.",
+                    "Repeat steps 2-5 for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Reverse Crunch to Dead Bug Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Reverse Crunch to Dead Bug Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens lower back muscles",
+                    "Improves hip extension",
+                    "Increases glute activation",
+                    "Improves posture and spinal alignment",
+                    "Can help prevent lower back injuries"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Reverse Crunch to Dead Bug Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus abdominis",
+                    "Obliques",
+                    "Transverse abdominis",
+                    "Hip flexors",
+                    "Erector spinae"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Reverse Crunch to Dead Bug Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Reverse crunch with leg extension",
+                    "Dead bug with leg drop",
+                    "Reverse crunch with bicycle legs",
+                    "Dead bug with arm reach",
+                    "Reverse crunch with heel tap"
+                ]
+            }
+        }
+    ]
+}

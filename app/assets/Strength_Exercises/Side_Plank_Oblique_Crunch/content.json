@@ -1,0 +1,76 @@
+{
+    "title": "Side Plank Oblique Crunch",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Side Plank Oblique Crunch Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start in a side plank position with your elbow on the ground and your feet stacked on top of each other.",
+                    "Place your top hand behind your head with your elbow pointing towards the ceiling.",
+                    "Engage your core and lift your hips off the ground, creating a straight line from your head to your feet.",
+                    "Bring your top elbow and knee towards each other, crunching your obliques.",
+                    "Extend your arm and leg back out to the starting position.",
+                    "Repeat for the desired number of reps on one side before switching to the other side."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Side Plank Oblique Crunch Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Side Plank Oblique Crunch Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens oblique muscles",
+                    "Improves core stability",
+                    "Increases balance and coordination",
+                    "Helps prevent lower back pain",
+                    "Targets multiple muscle groups at once"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Side Plank Oblique Crunch Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Obliques",
+                    "Rectus Abdominis",
+                    "Transverse Abdominis",
+                    "Gluteus Medius",
+                    "Gluteus Minimus",
+                    "Tensor Fasciae Latae"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Side Plank Oblique Crunch Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Side Plank Hip Dips",
+                    "Side Plank with Leg Lift",
+                    "Side Plank with Arm Reach",
+                    "Side Plank with Knee Tuck",
+                    "Side Plank with Twist"
+                ]
+            }
+        }
+    ]
+}

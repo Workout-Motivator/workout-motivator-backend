@@ -1,0 +1,70 @@
+{
+    "title": "Triceps Stretch",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Triceps Stretch Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your arms at your sides.",
+                    "Take your right arm and lift it straight up, bending it at the elbow so that your hand is behind your head.",
+                    "Take your left hand and place it on your right elbow, gently pulling your right arm towards your left shoulder.",
+                    "Hold the stretch for 15-30 seconds, feeling the stretch in your triceps muscle.",
+                    "Release the stretch and repeat on the other side."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Triceps Stretch Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Triceps Stretch Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Helps to improve flexibility and range of motion in the triceps muscle.",
+                    "Reduces the risk of injury in the triceps muscle and surrounding areas.",
+                    "Relieves tension and tightness in the triceps muscle.",
+                    "Can be done anywhere without any equipment.",
+                    "May help to improve posture and reduce shoulder pain."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Triceps Stretch Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Triceps"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Triceps Stretch Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Standing Triceps Stretch",
+                    "Seated Triceps Stretch",
+                    "Overhead Triceps Stretch",
+                    "Doorway Triceps Stretch",
+                    "One-Arm Triceps Stretch"
+                ]
+            }
+        }
+    ]
+}

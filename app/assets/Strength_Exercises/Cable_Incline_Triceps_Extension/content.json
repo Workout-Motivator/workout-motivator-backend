@@ -1,0 +1,73 @@
+{
+    "title": "Cable Incline Triceps Extension",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Cable Incline Triceps Extension Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Adjust the cable machine to a high position and attach a rope handle.",
+                    "Stand facing away from the machine and grasp the rope handle with both hands, palms facing each other.",
+                    "Step forward to create tension in the cable and lean forward slightly, keeping your back straight.",
+                    "Bend your elbows and lower the rope behind your head, keeping your upper arms stationary.",
+                    "Extend your arms and raise the rope back to the starting position, squeezing your triceps at the top of the movement.",
+                    "Repeat for desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Cable Incline Triceps Extension Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Cable Incline Triceps Extension Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the triceps muscles, helping to build strength and size in the arms",
+                    "Allows for a greater range of motion compared to traditional triceps extensions",
+                    "Engages the stabilizer muscles in the shoulders and core, improving overall upper body stability",
+                    "Can be easily adjusted to target different areas of the triceps by changing the angle of the bench and cable attachment",
+                    "Provides a low-impact exercise option for those with joint pain or injuries"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cable Incline Triceps Extension Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Triceps brachii",
+                    "Anterior deltoid",
+                    "Pectoralis major (clavicular head)"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cable Incline Triceps Extension Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single Arm Cable Incline Triceps Extension",
+                    "Reverse Grip Cable Incline Triceps Extension",
+                    "Standing Cable Incline Triceps Extension",
+                    "Close Grip Cable Incline Triceps Extension",
+                    "Wide Grip Cable Incline Triceps Extension"
+                ]
+            }
+        }
+    ]
+}

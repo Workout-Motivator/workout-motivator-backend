@@ -1,0 +1,73 @@
+{
+    "title": "Cable One Arm Reverse Fly",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Cable One Arm Reverse Fly Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a cable in one hand with your palm facing down.",
+                    "Extend your arm out to the side, keeping it straight.",
+                    "Slowly bring your arm back towards your body, keeping it straight.",
+                    "As you bring your arm back, squeeze your shoulder blade and upper back muscles.",
+                    "Pause for a moment at the end of the movement, then slowly return to the starting position.",
+                    "Repeat for the desired number of repetitions, then switch arms and repeat."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Cable One Arm Reverse Fly Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Cable One Arm Reverse Fly Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens upper back muscles",
+                    "Improves posture",
+                    "Increases shoulder stability",
+                    "Enhances grip strength",
+                    "Targets multiple muscle groups at once"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cable One Arm Reverse Fly Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rear deltoids",
+                    "Upper back muscles",
+                    "Rotator cuff muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cable One Arm Reverse Fly Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "cable-one-arm-reverse-fly",
+                    "cable-one-arm-front-raise",
+                    "cable-one-arm-lateral-raise",
+                    "cable-one-arm-rear-delt-row",
+                    "cable-one-arm-upright-row"
+                ]
+            }
+        }
+    ]
+}

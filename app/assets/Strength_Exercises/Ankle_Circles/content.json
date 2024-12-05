@@ -1,0 +1,77 @@
+{
+    "title": "Ankle Circles",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Ankle Circles Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your hands on your hips.",
+                    "Lift your right foot off the ground and rotate your ankle clockwise for 10-15 repetitions.",
+                    "Switch to counterclockwise rotations for 10-15 repetitions.",
+                    "Lower your right foot back to the ground and repeat the same process with your left foot.",
+                    "Complete 2-3 sets on each foot."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Ankle Circles Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Ankle Circles Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves ankle mobility and flexibility",
+                    "Helps prevent ankle injuries",
+                    "Increases blood flow to the ankle joint",
+                    "Can be done anywhere without equipment",
+                    "Can be modified to target specific areas of the ankle"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Ankle Circles Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Gastrocnemius",
+                    "Soleus",
+                    "Tibialis anterior",
+                    "Peroneals",
+                    "Flexor hallucis longus",
+                    "Flexor digitorum longus",
+                    "Extensor hallucis longus",
+                    "Extensor digitorum longus"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Ankle Circles Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Standing Ankle Circles",
+                    "Seated Ankle Circles",
+                    "Resistance Band Ankle Circles",
+                    "Single Leg Ankle Circles",
+                    "Wall Ankle Circles"
+                ]
+            }
+        }
+    ]
+}

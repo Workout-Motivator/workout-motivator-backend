@@ -1,0 +1,75 @@
+{
+    "title": "Dumbbell Front Rack Lunge",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Front Rack Lunge Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a dumbbell in each hand at shoulder height, with your palms facing each other and your elbows pointing forward.",
+                    "Step forward with your right foot and lower your body until your right thigh is parallel to the ground and your left knee is hovering just above the floor.",
+                    "Push through your right heel to return to the starting position.",
+                    "Repeat on the other side, stepping forward with your left foot.",
+                    "Continue alternating legs for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Front Rack Lunge Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Front Rack Lunge Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the quadriceps, hamstrings, glutes, and calves",
+                    "Improves balance and stability",
+                    "Engages the core muscles for added stability",
+                    "Increases flexibility in the hip flexors and ankles",
+                    "Can be modified for different fitness levels by adjusting the weight of the dumbbells",
+                    "Targets multiple muscle groups in one exercise for efficient and effective workouts"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Front Rack Lunge Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Front Rack Lunge Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Reverse Lunge",
+                    "Dumbbell Walking Lunge",
+                    "Dumbbell Side Lunge",
+                    "Dumbbell Bulgarian Split Squat",
+                    "Dumbbell Step-Up"
+                ]
+            }
+        }
+    ]
+}

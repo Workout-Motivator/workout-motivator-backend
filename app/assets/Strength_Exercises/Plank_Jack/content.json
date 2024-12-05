@@ -1,0 +1,74 @@
+{
+    "title": "Plank Jack",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Plank Jack Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start in a plank position with your hands directly under your shoulders and your body in a straight line from head to heels.",
+                    "Jump your feet out wide while keeping your core engaged and your hips level.",
+                    "Jump your feet back together to return to the starting plank position.",
+                    "Repeat the movement for the desired number of repetitions or time."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Plank Jack Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Plank Jack Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Increases cardiovascular endurance",
+                    "Strengthens core muscles",
+                    "Improves balance and coordination",
+                    "Targets multiple muscle groups including legs, glutes, and shoulders",
+                    "Can be modified for different fitness levels",
+                    "Can be done anywhere with no equipment needed"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Plank Jack Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Abdominal muscles",
+                    "Shoulder muscles",
+                    "Chest muscles",
+                    "Gluteal muscles",
+                    "Leg muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Plank Jack Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Plank with shoulder taps",
+                    "Plank with knee tucks",
+                    "Plank with leg lifts",
+                    "Plank with hip dips",
+                    "Plank with mountain climbers"
+                ]
+            }
+        }
+    ]
+}

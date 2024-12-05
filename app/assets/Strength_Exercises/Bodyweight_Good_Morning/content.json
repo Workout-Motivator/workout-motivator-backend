@@ -1,0 +1,76 @@
+{
+    "title": "Bodyweight Good Morning",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Bodyweight Good Morning Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your hands on your hips.",
+                    "Engage your core and keep your back straight as you hinge forward at the hips.",
+                    "Lower your torso until it is parallel to the ground.",
+                    "Pause for a moment, then use your glutes and hamstrings to lift your torso back up to the starting position.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Bodyweight Good Morning Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Bodyweight Good Morning Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the lower back muscles",
+                    "Improves hip mobility and flexibility",
+                    "Targets the hamstrings and glutes",
+                    "Can be done without equipment",
+                    "Helps improve posture and balance"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Bodyweight Good Morning Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Erector Spinae",
+                    "Glutes",
+                    "Hamstrings",
+                    "Abdominals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Bodyweight Good Morning Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Barbell Good Morning",
+                    "Dumbbell Good Morning",
+                    "Kettlebell Good Morning",
+                    "Resistance Band Good Morning",
+                    "Single Leg Good Morning",
+                    "Sumo Stance Good Morning",
+                    "Seated Good Morning",
+                    "Standing Good Morning"
+                ]
+            }
+        }
+    ]
+}

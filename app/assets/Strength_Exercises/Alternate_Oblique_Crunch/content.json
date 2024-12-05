@@ -1,0 +1,74 @@
+{
+    "title": "Alternate Oblique Crunch",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Alternate Oblique Crunch Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on your back with your knees bent and feet flat on the ground.",
+                    "Place your hands behind your head, with your elbows pointing out to the sides.",
+                    "Lift your head and shoulders off the ground, and twist your torso to the right, bringing your left elbow towards your right knee.",
+                    "Lower your head and shoulders back down to the ground.",
+                    "Lift your head and shoulders off the ground again, and this time twist your torso to the left, bringing your right elbow towards your left knee.",
+                    "Lower your head and shoulders back down to the ground.",
+                    "Repeat steps 3-6 for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Alternate Oblique Crunch Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Alternate Oblique Crunch Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the oblique muscles, which are responsible for twisting and rotating the torso",
+                    "Helps to strengthen and tone the abdominal muscles",
+                    "Improves core stability and balance",
+                    "Can be done without any equipment, making it a convenient exercise to do at home or while traveling",
+                    "Can be modified to increase or decrease the difficulty level, making it suitable for all fitness levels"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Alternate Oblique Crunch Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus Abdominis",
+                    "External Obliques",
+                    "Internal Obliques"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Alternate Oblique Crunch Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Reverse Oblique Crunch",
+                    "Side Plank Oblique Crunch",
+                    "Weighted Oblique Crunch",
+                    "Twisting Oblique Crunch",
+                    "Decline Oblique Crunch"
+                ]
+            }
+        }
+    ]
+}

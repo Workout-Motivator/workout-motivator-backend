@@ -1,0 +1,78 @@
+{
+    "title": "Side Squat",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Side Squat Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your hands on your hips.",
+                    "Take a big step to the right with your right foot, keeping your left foot in place.",
+                    "Bend your right knee and lower your body down into a squat position, keeping your left leg straight.",
+                    "Push off with your right foot and return to the starting position.",
+                    "Repeat on the left side, taking a big step to the left with your left foot and bending your left knee while keeping your right leg straight.",
+                    "Continue alternating sides for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Side Squat Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Side Squat Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets multiple muscle groups including the glutes, quads, hamstrings, and inner thighs",
+                    "Improves balance and stability",
+                    "Increases hip mobility",
+                    "Can be modified to increase or decrease intensity",
+                    "Can be done with or without weights",
+                    "Provides a cardiovascular workout"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Side Squat Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Abductors",
+                    "Adductors",
+                    "Core muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Side Squat Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Side lunge",
+                    "Curtsy lunge",
+                    "Sumo squat",
+                    "Jumping lunge",
+                    "Skater lunge"
+                ]
+            }
+        }
+    ]
+}

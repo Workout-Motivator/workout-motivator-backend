@@ -1,0 +1,75 @@
+{
+    "title": "Toy Soldier Dynamic Stretch",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Toy Soldier Dynamic Stretch Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your arms at your sides.",
+                    "Step forward with your left foot and lower your body into a lunge position.",
+                    "As you lower your body, raise your arms above your head.",
+                    "Hold the lunge position for a few seconds.",
+                    "Return to the starting position and repeat the exercise with your right foot.",
+                    "Continue alternating between left and right legs for 10-12 repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Toy Soldier Dynamic Stretch Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Toy Soldier Dynamic Stretch Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets multiple muscle groups including the back, shoulders, and arms",
+                    "Improves posture and spinal alignment",
+                    "Increases overall strength and muscle mass",
+                    "Can be modified for different fitness levels and goals",
+                    "Helps prevent injury by strengthening the muscles that support the spine"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Toy Soldier Dynamic Stretch Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Hamstrings",
+                    "Glutes",
+                    "Lower back",
+                    "Shoulders",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Toy Soldier Dynamic Stretch Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Toy soldier static stretch",
+                    "Dynamic leg swings",
+                    "Standing quad stretch",
+                    "Walking lunges",
+                    "High knees"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "title": "Single Arm Overhead Dumbbell Squat",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Single Arm Overhead Dumbbell Squat Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a dumbbell in one hand with your arm extended straight up overhead.",
+                    "Lower into a squat by bending your knees and pushing your hips back, keeping your chest up and your weight in your heels.",
+                    "As you squat down, keep your arm extended overhead and your eyes focused on the weight.",
+                    "Pause at the bottom of the squat, then push through your heels to stand back up to the starting position.",
+                    "Repeat for the desired number of reps, then switch sides and repeat with the other arm."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Single Arm Overhead Dumbbell Squat Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Single Arm Overhead Dumbbell Squat Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets multiple muscle groups including the legs, core, and shoulders",
+                    "Improves overall strength and stability",
+                    "Increases flexibility and range of motion in the shoulders",
+                    "Helps to correct muscle imbalances between the left and right sides of the body",
+                    "Can be modified for different fitness levels by adjusting the weight of the dumbbell"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Single Arm Overhead Dumbbell Squat Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Core",
+                    "Shoulders",
+                    "Triceps"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Single Arm Overhead Dumbbell Squat Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single Arm Front Dumbbell Squat",
+                    "Single Arm Goblet Squat",
+                    "Single Arm Overhead Kettlebell Squat",
+                    "Single Arm Overhead Barbell Squat",
+                    "Single Arm Overhead Medicine Ball Squat"
+                ]
+            }
+        }
+    ]
+}

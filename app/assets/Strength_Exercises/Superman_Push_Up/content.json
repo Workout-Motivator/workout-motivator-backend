@@ -1,0 +1,79 @@
+{
+    "title": "Superman Push Up",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Superman Push Up Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start in a plank position with your hands shoulder-width apart and your feet hip-width apart.",
+                    "Lower your body down towards the ground, keeping your elbows close to your body.",
+                    "As you push back up, lift one arm and the opposite leg off the ground, keeping them straight.",
+                    "Return to the plank position and repeat on the other side.",
+                    "Continue alternating sides with each push up."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Superman Push Up Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Superman Push Up Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the chest, shoulders, triceps, and core muscles",
+                    "Improves upper body explosiveness and power",
+                    "Increases overall body stability and balance",
+                    "Challenges the body in a unique and fun way",
+                    "Can be modified to fit different fitness levels and abilities"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Superman Push Up Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Chest muscles",
+                    "Shoulder muscles",
+                    "Triceps muscles",
+                    "Core muscles",
+                    "Lower back muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Superman Push Up Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Spiderman Push up",
+                    "One-Arm Push up",
+                    "Clapping Push up",
+                    "Diamond Push up",
+                    "Wide Push up",
+                    "T Push up",
+                    "Staggered Push up",
+                    "Decline Push up",
+                    "Incline Push up",
+                    "Explosive Push up"
+                ]
+            }
+        }
+    ]
+}

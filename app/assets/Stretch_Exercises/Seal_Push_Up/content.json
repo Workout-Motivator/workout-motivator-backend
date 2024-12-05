@@ -1,0 +1,80 @@
+{
+    "title": "Seal Push Up",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Seal Push Up Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start in a plank position with your hands directly under your shoulders and your feet hip-width apart.",
+                    "Lower your body down towards the ground, keeping your elbows close to your sides.",
+                    "As you push back up, lift your right hand and left foot off the ground, rotating your body to the right.",
+                    "Return to the plank position and repeat on the other side, lifting your left hand and right foot off the ground and rotating your body to the left.",
+                    "Continue alternating sides for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Seal Push Up Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Seal Push Up Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the chest, shoulders, triceps, and core muscles",
+                    "Improves upper body stability and balance",
+                    "Increases flexibility in the spine and hips",
+                    "Enhances overall body coordination and control",
+                    "Can be modified for different fitness levels and goals",
+                    "Engages multiple muscle groups for a more efficient workout",
+                    "Can be done anywhere without equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Seal Push Up Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Chest muscles (pectoralis major and minor)",
+                    "Shoulder muscles (deltoids)",
+                    "Triceps",
+                    "Core muscles (abdominals and lower back)"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Seal Push Up Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single Leg Seal Push up",
+                    "Decline Seal Push up",
+                    "Weighted Seal Push up",
+                    "Close Grip Seal Push up",
+                    "Spiderman Seal Push up",
+                    "Explosive Seal Push up",
+                    "One Arm Seal Push up",
+                    "Clapping Seal Push up",
+                    "Staggered Seal Push up",
+                    "Isometric Seal Push up"
+                ]
+            }
+        }
+    ]
+}

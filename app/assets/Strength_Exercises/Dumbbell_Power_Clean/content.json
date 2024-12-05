@@ -1,0 +1,79 @@
+{
+    "title": "Dumbbell Power Clean",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Power Clean Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart, holding a dumbbell in each hand with your palms facing your thighs.",
+                    "Bend your knees and hinge forward at the hips, keeping your back straight and your core engaged.",
+                    "As you stand up, pull the dumbbells up towards your shoulders, keeping them close to your body.",
+                    "As the dumbbells reach your shoulders, rotate your wrists so that your palms face forward.",
+                    "Lower the dumbbells back down to the starting position, keeping your back straight and your core engaged.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Power Clean Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Power Clean Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Increases power and explosiveness in the upper body and lower body",
+                    "Improves coordination and balance",
+                    "Targets multiple muscle groups including the shoulders, back, legs, and core",
+                    "Can be modified for different fitness levels and goals",
+                    "Can be done with minimal equipment and space"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Power Clean Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Trapezius",
+                    "Rhomboids",
+                    "Deltoids",
+                    "Biceps",
+                    "Forearms",
+                    "Glutes",
+                    "Hamstrings",
+                    "Quadriceps",
+                    "Calves"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Power Clean Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Hang Power Clean",
+                    "Dumbbell Clean and Jerk",
+                    "Dumbbell Snatch",
+                    "Dumbbell Hang Snatch",
+                    "Dumbbell Hang Clean"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "title": "Cable Kneeling One Arm Lat Pulldown",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Cable Kneeling One Arm Lat Pulldown Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Attach a cable pulley to a high anchor point.",
+                    "Kneel down in front of the pulley and grab the handle with one hand.",
+                    "Engage your core and keep your back straight.",
+                    "Pull the handle down towards your side, keeping your elbow close to your body.",
+                    "Pause for a moment at the bottom of the movement, squeezing your lat muscle.",
+                    "Slowly release the handle back to the starting position.",
+                    "Repeat for desired number of reps, then switch to the other arm."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Cable Kneeling One Arm Lat Pulldown Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Cable Kneeling One Arm Lat Pulldown Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the latissimus dorsi muscle, which is responsible for pulling the arms down and back",
+                    "Improves upper body strength and posture",
+                    "Engages the core muscles for stability and balance",
+                    "Allows for unilateral training, which can help correct muscle imbalances",
+                    "Provides a greater range of motion compared to traditional lat pulldowns"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cable Kneeling One Arm Lat Pulldown Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Latissimus dorsi",
+                    "Trapezius",
+                    "Rhomboids",
+                    "Biceps",
+                    "Forearms"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cable Kneeling One Arm Lat Pulldown Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Cable Standing One Arm Lat Pulldown",
+                    "Cable Seated One Arm Lat Pulldown",
+                    "Cable One Arm High Row",
+                    "Cable One Arm Low Row",
+                    "Cable One Arm Reverse Fly"
+                ]
+            }
+        }
+    ]
+}

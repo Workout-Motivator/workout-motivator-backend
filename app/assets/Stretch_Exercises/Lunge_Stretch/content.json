@@ -1,0 +1,75 @@
+{
+    "title": "Lunge Stretch",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Lunge Stretch Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet hip-width apart and your hands on your hips.",
+                    "Step forward with your right foot, bending your right knee and keeping your left leg straight behind you.",
+                    "Lower your hips until your right thigh is parallel to the ground and your right knee is directly above your ankle.",
+                    "Hold this position for 10-15 seconds, feeling a stretch in your left hip flexor and right hamstring.",
+                    "Return to the starting position and repeat on the other side, stepping forward with your left foot.",
+                    "Complete 10-15 repetitions on each side."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Lunge Stretch Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Lunge Stretch Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens lower back muscles",
+                    "Improves posture",
+                    "Reduces risk of lower back pain and injury",
+                    "Increases flexibility in the lower back",
+                    "Improves core stability"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Lunge Stretch Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Glutes",
+                    "Calves",
+                    "Core muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Lunge Stretch Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Reverse lunge stretch",
+                    "Side lunge stretch",
+                    "Walking lunge stretch",
+                    "Curtsy lunge stretch",
+                    "Forward lunge stretch"
+                ]
+            }
+        }
+    ]
+}

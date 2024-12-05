@@ -1,0 +1,77 @@
+{
+    "title": "Cable Judo Flip",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Cable Judo Flip Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold the cable handle with both hands in front of your chest.",
+                    "Step forward with your left foot and pivot on your right foot, rotating your body to the left.",
+                    "As you pivot, extend your arms and push the cable handle away from your body.",
+                    "Jump and turn your body 180 degrees in the air, landing with your right foot forward and your left foot back.",
+                    "As you land, pull the cable handle back towards your chest and return to the starting position.",
+                    "Repeat the exercise, stepping forward with your right foot and pivoting to the right."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Cable Judo Flip Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Cable Judo Flip Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets multiple muscle groups including the chest, shoulders, triceps, and core",
+                    "Improves upper body strength and stability",
+                    "Increases power and explosiveness in the chest and shoulders",
+                    "Can be modified for different fitness levels and goals",
+                    "Engages the core muscles for added stability and balance",
+                    "Can be performed with minimal equipment and space"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cable Judo Flip Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Latissimus dorsi",
+                    "Trapezius",
+                    "Rhomboids",
+                    "Deltoids",
+                    "Biceps",
+                    "Forearms"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cable Judo Flip Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Cable Judo Flip with Resistance Band",
+                    "Cable Judo Flip with Medicine Ball",
+                    "Cable Judo Flip with Dumbbells",
+                    "Cable Judo Flip with Kettlebells",
+                    "Cable Judo Flip with Sandbag"
+                ]
+            }
+        }
+    ]
+}

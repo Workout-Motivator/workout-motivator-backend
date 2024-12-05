@@ -1,0 +1,78 @@
+{
+    "title": "Rotate Push Up",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Rotate Push Up Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start in a plank position with your hands shoulder-width apart and your feet hip-width apart.",
+                    "Lower your body down towards the ground, keeping your elbows close to your body.",
+                    "As you push back up, rotate your body to the left and extend your left arm up towards the ceiling.",
+                    "Lower your body back down to the ground and repeat, this time rotating to the right and extending your right arm up towards the ceiling.",
+                    "Continue alternating sides for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Rotate Push Up Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Rotate Push Up Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets multiple muscle groups including chest, shoulders, triceps, and core",
+                    "Improves upper body strength and stability",
+                    "Increases range of motion in shoulders and chest",
+                    "Challenges balance and coordination",
+                    "Can be modified for different fitness levels"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Rotate Push Up Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Chest muscles (pectoralis major and minor)",
+                    "Shoulder muscles (deltoids)",
+                    "Triceps",
+                    "Core muscles (abdominals and obliques)"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Rotate Push Up Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "One-arm push up",
+                    "Decline push up",
+                    "Spiderman push up",
+                    "Staggered push up",
+                    "Clap push up",
+                    "Explosive push up",
+                    "Wide grip push up",
+                    "Diamond push up",
+                    "T push up",
+                    "Side-to-side push up"
+                ]
+            }
+        }
+    ]
+}

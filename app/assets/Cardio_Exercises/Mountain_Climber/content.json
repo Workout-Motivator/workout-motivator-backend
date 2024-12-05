@@ -1,0 +1,78 @@
+{
+    "title": "Mountain Climber",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Mountain Climber Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start in a plank position with your hands directly under your shoulders and your body in a straight line from head to heels.",
+                    "Engage your core and bring your right knee towards your chest, keeping your foot off the ground.",
+                    "Quickly switch and bring your left knee towards your chest while extending your right leg back to the starting position.",
+                    "Continue alternating legs, moving as quickly as possible while maintaining proper form.",
+                    "Complete 3 sets of 30 seconds each, with a 10 second rest in between sets."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Mountain Climber Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Mountain Climber Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Increases cardiovascular endurance",
+                    "Improves core strength and stability",
+                    "Works multiple muscle groups including shoulders, chest, triceps, abs, and legs",
+                    "Can be done anywhere with no equipment needed",
+                    "Can be modified for different fitness levels and goals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Mountain Climber Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus abdominis",
+                    "Obliques",
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Glutes",
+                    "Hip flexors",
+                    "Chest",
+                    "Shoulders",
+                    "Triceps"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Mountain Climber Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Mountain Climber with a Twist",
+                    "Reverse Mountain Climber",
+                    "Single Leg Mountain Climber",
+                    "Spiderman Mountain Climber",
+                    "Side-to-Side Mountain Climber"
+                ]
+            }
+        }
+    ]
+}

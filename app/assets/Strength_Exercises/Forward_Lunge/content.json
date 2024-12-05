@@ -1,0 +1,76 @@
+{
+    "title": "Forward Lunge",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Forward Lunge Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet hip-width apart and your hands on your hips.",
+                    "Take a big step forward with your right foot, keeping your left foot in place.",
+                    "Bend your right knee and lower your body until your right thigh is parallel to the ground.",
+                    "Make sure your right knee is directly above your right ankle and your left knee is hovering just above the ground.",
+                    "Push off with your right foot and return to the starting position.",
+                    "Repeat on the other side, stepping forward with your left foot.",
+                    "Continue alternating legs for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Forward Lunge Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Forward Lunge Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the arms, wrists, and core muscles",
+                    "Improves posture and balance",
+                    "Increases flexibility in the shoulders, chest, and spine",
+                    "Helps to develop focus and concentration",
+                    "Can be modified for different levels of fitness and ability"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Forward Lunge Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Forward Lunge Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Reverse lunge",
+                    "Walking lunge",
+                    "Curtsy lunge",
+                    "Side lunge",
+                    "Jumping lunge"
+                ]
+            }
+        }
+    ]
+}

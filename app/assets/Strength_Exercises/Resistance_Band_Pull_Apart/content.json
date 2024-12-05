@@ -1,0 +1,72 @@
+{
+    "title": "Resistance Band Pull Apart",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Resistance Band Pull Apart Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a resistance band in front of you with both hands.",
+                    "Keep your arms straight and pull the band apart until it reaches your chest.",
+                    "Hold the position for a few seconds, then slowly release the tension and bring your hands back together.",
+                    "Repeat for 10-15 repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Resistance Band Pull Apart Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Resistance Band Pull Apart Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the upper back muscles",
+                    "Improves posture",
+                    "Increases shoulder mobility and stability",
+                    "Helps prevent shoulder injuries",
+                    "Can be done anywhere with a resistance band"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Resistance Band Pull Apart Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rhomboids",
+                    "Trapezius",
+                    "Posterior deltoids",
+                    "Rotator cuff muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Resistance Band Pull Apart Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Resistance Band Face Pull",
+                    "Resistance Band Rear Delt Fly",
+                    "Resistance Band Shoulder Press",
+                    "Resistance Band Lateral Raise",
+                    "Resistance Band Bent Over Row"
+                ]
+            }
+        }
+    ]
+}

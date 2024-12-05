@@ -1,0 +1,76 @@
+{
+    "title": "Stability Ball Rollout",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Stability Ball Rollout Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by kneeling on the ground with a stability ball in front of you.",
+                    "Place your forearms on the ball, keeping your elbows directly under your shoulders.",
+                    "Engage your core and slowly roll the ball forward, extending your arms in front of you.",
+                    "Keep your back straight and your hips in line with your shoulders.",
+                    "Pause for a moment when you feel a stretch in your abs, then slowly roll the ball back towards your knees.",
+                    "Repeat for 10-15 reps, or as many as you can do with proper form."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Stability Ball Rollout Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Stability Ball Rollout Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Increases cardiovascular endurance",
+                    "Strengthens leg muscles",
+                    "Improves balance and coordination",
+                    "Burns calories and aids in weight loss",
+                    "Can be done anywhere with stairs",
+                    "Low impact and easy on joints"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Stability Ball Rollout Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus abdominis",
+                    "Obliques",
+                    "Erector spinae",
+                    "Triceps",
+                    "Shoulder stabilizers"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Stability Ball Rollout Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Stability ball rollout with feet on ball",
+                    "Stability ball rollout with knees on ball",
+                    "Stability ball rollout with hands on ball and feet on ground",
+                    "Stability ball rollout with hands on ball and knees on ground",
+                    "Stability ball rollout with hands on ball and toes on ground"
+                ]
+            }
+        }
+    ]
+}

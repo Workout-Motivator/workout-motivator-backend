@@ -1,0 +1,75 @@
+{
+    "title": "Ski Step",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Ski Step Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your arms at your sides.",
+                    "Step your right foot diagonally behind your left foot, as if you were taking a step while skiing.",
+                    "As you step your right foot back, swing your left arm forward and your right arm back, as if you were holding ski poles.",
+                    "Step your left foot diagonally behind your right foot, while swinging your right arm forward and your left arm back.",
+                    "Continue alternating steps and arm swings, as if you were skiing down a slope.",
+                    "Repeat for the desired number of repetitions or time."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Ski Step Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Ski Step Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves cardiovascular endurance",
+                    "Strengthens lower body muscles, including quadriceps, hamstrings, and glutes",
+                    "Improves balance and coordination",
+                    "Increases agility and speed",
+                    "Can be done with or without equipment, making it a versatile exercise option"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Ski Step Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Glutes",
+                    "Calves",
+                    "Core muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Ski Step Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Side-to-side ski step",
+                    "Single-leg ski step",
+                    "Weighted ski step",
+                    "Jumping ski step",
+                    "Reverse ski step"
+                ]
+            }
+        }
+    ]
+}

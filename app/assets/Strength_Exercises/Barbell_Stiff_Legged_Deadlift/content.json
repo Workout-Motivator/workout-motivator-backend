@@ -1,0 +1,76 @@
+{
+    "title": "Barbell Stiff Legged Deadlift",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Barbell Stiff Legged Deadlift Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by standing with your feet shoulder-width apart and your toes pointing forward.",
+                    "Place the barbell on the floor in front of you and stand with your shins touching the bar.",
+                    "Bend down and grip the bar with an overhand grip, with your hands slightly wider than shoulder-width apart.",
+                    "Engage your core and lift the bar off the ground, keeping your back straight and your shoulders pulled back.",
+                    "Slowly lower the bar towards the ground, keeping your back straight and your core engaged.",
+                    "Lower the bar until you feel a stretch in your hamstrings, then slowly lift the bar back up to the starting position.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_0.gif"
+        },
+        {
+            "type": "section",
+            "title": "Barbell Stiff Legged Deadlift Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Barbell Stiff Legged Deadlift Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the hamstrings, glutes, and lower back muscles",
+                    "Improves hip mobility and flexibility",
+                    "Increases overall lower body strength and power",
+                    "Helps to prevent lower back injuries by strengthening the muscles that support the spine",
+                    "Can be modified to target specific muscle groups or to accommodate different fitness levels"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Barbell Stiff Legged Deadlift Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Erector Spinae",
+                    "Glutes",
+                    "Hamstrings",
+                    "Quadriceps",
+                    "Calves"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Barbell Stiff Legged Deadlift Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single Leg Barbell Stiff Legged Deadlift",
+                    "Dumbbell Stiff Legged Deadlift",
+                    "Sumo Stiff Legged Deadlift",
+                    "Romanian Deadlift",
+                    "Trap Bar Deadlift"
+                ]
+            }
+        }
+    ]
+}

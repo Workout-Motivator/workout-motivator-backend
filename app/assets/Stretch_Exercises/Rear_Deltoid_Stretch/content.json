@@ -1,0 +1,72 @@
+{
+    "title": "Rear Deltoid Stretch",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Rear Deltoid Stretch Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your arms at your sides.",
+                    "Bring your right arm across your chest, placing your left hand on your right elbow.",
+                    "Gently pull your right arm towards your left shoulder until you feel a stretch in your right shoulder.",
+                    "Hold the stretch for 15-30 seconds.",
+                    "Release the stretch and repeat on the other side."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Rear Deltoid Stretch Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Rear Deltoid Stretch Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Helps to improve posture by stretching the muscles in the upper back and shoulders",
+                    "Reduces the risk of shoulder injuries by increasing flexibility in the shoulder joint",
+                    "Relieves tension and tightness in the upper back and neck",
+                    "Improves range of motion in the shoulders, which can enhance athletic performance",
+                    "Can be done anywhere without any equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Rear Deltoid Stretch Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rear deltoid muscle",
+                    "Trapezius muscle",
+                    "Rotator cuff muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Rear Deltoid Stretch Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Standing Rear Deltoid Stretch",
+                    "Seated Rear Deltoid Stretch",
+                    "Bent Over Rear Deltoid Stretch",
+                    "Wall Rear Deltoid Stretch",
+                    "Doorway Rear Deltoid Stretch"
+                ]
+            }
+        }
+    ]
+}

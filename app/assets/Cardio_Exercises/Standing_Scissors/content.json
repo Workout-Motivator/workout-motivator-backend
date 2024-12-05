@@ -1,0 +1,76 @@
+{
+    "title": "Standing Scissors",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Standing Scissors Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your arms at your sides.",
+                    "Step your right foot forward and your left foot back, keeping your toes pointed forward.",
+                    "As you step forward, raise your arms out to the sides and up above your head.",
+                    "Lower your arms and step your left foot forward and your right foot back, again keeping your toes pointed forward.",
+                    "As you step forward with your left foot, raise your arms out to the sides and up above your head.",
+                    "Continue alternating your steps and arm movements for 10-15 repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Standing Scissors Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Standing Scissors Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves cardiovascular endurance",
+                    "Strengthens leg muscles, including quadriceps, hamstrings, and calves",
+                    "Increases hip flexibility and mobility",
+                    "Improves balance and coordination",
+                    "Burns calories and aids in weight loss",
+                    "Can be done anywhere without equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Standing Scissors Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Glutes",
+                    "Calves",
+                    "Abdominals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Standing Scissors Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Standing Cross Scissors",
+                    "Standing Double Scissors",
+                    "Standing Reverse Scissors",
+                    "Standing Side Scissors",
+                    "Standing Single Scissors"
+                ]
+            }
+        }
+    ]
+}

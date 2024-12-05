@@ -1,0 +1,72 @@
+{
+    "title": "Band Calf Raise",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Band Calf Raise Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and place a resistance band around the balls of your feet.",
+                    "Hold onto a stable surface, such as a wall or chair, for balance.",
+                    "Raise your heels off the ground, keeping your toes on the ground.",
+                    "Hold for a few seconds at the top of the movement.",
+                    "Slowly lower your heels back down to the ground.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Band Calf Raise Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Band Calf Raise Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens and tones the calf muscles",
+                    "Improves ankle stability and balance",
+                    "Can be done anywhere with a resistance band",
+                    "Allows for progressive overload by increasing band resistance",
+                    "Can be modified for different fitness levels by adjusting band tension and reps"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Band Calf Raise Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Gastrocnemius",
+                    "Soleus"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Band Calf Raise Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single-leg band calf raise",
+                    "Seated band calf raise",
+                    "Standing band calf raise with weight",
+                    "Donkey calf raise with band",
+                    "Reverse band calf raise"
+                ]
+            }
+        }
+    ]
+}

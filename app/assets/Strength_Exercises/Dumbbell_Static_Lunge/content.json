@@ -1,0 +1,76 @@
+{
+    "title": "Dumbbell Static Lunge",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Static Lunge Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet hip-width apart, holding a dumbbell in each hand.",
+                    "Take a big step forward with your right foot, keeping your left foot in place.",
+                    "Bend both knees to lower your body towards the ground, keeping your back straight and your chest lifted.",
+                    "Stop when your right thigh is parallel to the ground, and your left knee is hovering just above the floor.",
+                    "Hold this position for a few seconds, then push through your right heel to stand back up.",
+                    "Repeat on the other side, stepping forward with your left foot.",
+                    "Complete 10-12 reps on each leg for 3-4 sets."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Static Lunge Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Static Lunge Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the lower body muscles, including the quadriceps, hamstrings, and glutes",
+                    "Improves balance and stability",
+                    "Increases flexibility in the hip flexors and ankles",
+                    "Can be modified to target different muscle groups by adjusting the weight and stance",
+                    "Can be done with minimal equipment and in a variety of settings"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Static Lunge Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Static Lunge Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Walking Lunge",
+                    "Dumbbell Reverse Lunge",
+                    "Dumbbell Curtsy Lunge",
+                    "Dumbbell Side Lunge",
+                    "Dumbbell Bulgarian Split Squat"
+                ]
+            }
+        }
+    ]
+}

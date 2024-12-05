@@ -1,0 +1,80 @@
+{
+    "title": "Barbell Seated Good Morning",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Barbell Seated Good Morning Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by sitting on a bench with your feet flat on the ground and your back straight.",
+                    "Place the barbell across your shoulders, holding it with both hands.",
+                    "Slowly bend forward at the hips, keeping your back straight and your head up.",
+                    "Lower your torso until it is parallel to the ground.",
+                    "Pause for a moment, then slowly raise your torso back up to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Barbell Seated Good Morning Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Barbell Seated Good Morning Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the lower back muscles",
+                    "Improves posture and spinal alignment",
+                    "Increases hip mobility and flexibility",
+                    "Targets the hamstrings and glutes",
+                    "Can be modified for different fitness levels and goals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Barbell Seated Good Morning Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Erector Spinae",
+                    "Hamstrings",
+                    "Glutes",
+                    "Quadriceps",
+                    "Abdominals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Barbell Seated Good Morning Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Seated Good morning",
+                    "Barbell Romanian Deadlift",
+                    "Dumbbell Romanian Deadlift",
+                    "Single Leg Romanian Deadlift",
+                    "Barbell Hip Thrust",
+                    "Dumbbell Hip Thrust",
+                    "Glute Bridge",
+                    "Single Leg Glute Bridge",
+                    "Reverse Hyperextension",
+                    "Back Extension"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "title": "Static Lunge",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Static Lunge Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by standing with your feet hip-width apart.",
+                    "Take a big step forward with your right foot, keeping your left foot in place.",
+                    "Bend both knees to lower your body towards the ground, making sure your right knee is directly above your ankle and your left knee is hovering just above the ground.",
+                    "Keep your torso upright and your core engaged.",
+                    "Push through your right heel to stand back up to the starting position.",
+                    "Repeat on the other side by stepping forward with your left foot.",
+                    "Continue alternating legs for the desired number of repetitions or time."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Static Lunge Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Static Lunge Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the quadriceps, hamstrings, and glutes",
+                    "Improves balance and stability",
+                    "Increases flexibility in the hip flexors and groin muscles",
+                    "Can be modified to target different muscle groups or add resistance",
+                    "Can be done with or without weights, making it accessible for all fitness levels"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Static Lunge Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Static Lunge Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Reverse Lunge",
+                    "Walking Lunge",
+                    "Curtsy Lunge",
+                    "Side Lunge",
+                    "Jumping Lunge"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "title": "Dumbbell One Arm Triceps Extension",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell One Arm Triceps Extension Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a dumbbell in one hand.",
+                    "Extend your arm straight up towards the ceiling, keeping your elbow close to your head.",
+                    "Bend your elbow and lower the dumbbell behind your head, keeping your upper arm stationary.",
+                    "Extend your arm back up to the starting position.",
+                    "Repeat for desired number of reps, then switch arms and repeat."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell One Arm Triceps Extension Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell One Arm Triceps Extension Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets biceps, forearms, and brachialis muscles",
+                    "Improves grip strength",
+                    "Increases arm strength and size",
+                    "Helps prevent injury by strengthening supporting muscles",
+                    "Can be done with minimal equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell One Arm Triceps Extension Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Triceps brachii",
+                    "Anconeus"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell One Arm Triceps Extension Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "dumbbell-two-arm-triceps-extension",
+                    "dumbbell-kickback",
+                    "cable-one-arm-triceps-extension",
+                    "cable-two-arm-triceps-extension",
+                    "overhead-dumbbell-triceps-extension",
+                    "close-grip-bench-press"
+                ]
+            }
+        }
+    ]
+}

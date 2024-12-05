@@ -1,0 +1,80 @@
+{
+    "title": "Band Split Squat",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Band Split Squat Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet hip-width apart and your hands on your hips.",
+                    "Take a step forward with your right foot and place the center of a resistance band under your right foot.",
+                    "Step your left foot back about 2-3 feet and place the ball of your left foot on the ground.",
+                    "Hold the ends of the resistance band in each hand and bring your hands up to shoulder height.",
+                    "Bend both knees and lower your body down towards the ground, keeping your back straight and your chest lifted.",
+                    "Push through your right heel to stand back up to the starting position.",
+                    "Repeat for 10-12 reps on the right side before switching to the left side."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Band Split Squat Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Band Split Squat Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets multiple muscle groups including quads, glutes, hamstrings, and calves",
+                    "Improves balance and stability",
+                    "Increases lower body strength and power",
+                    "Can be modified for different fitness levels by adjusting the resistance band or adding weights",
+                    "Engages the core for added abdominal strength and stability"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Band Split Squat Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Band Split Squat Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Reverse Lunge",
+                    "Forward Lunge",
+                    "Curtsy Lunge",
+                    "Bulgarian Split Squat",
+                    "Jumping Split Squat",
+                    "Weighted Split Squat",
+                    "Single-Leg Deadlift",
+                    "Step-Up",
+                    "Box Jump"
+                ]
+            }
+        }
+    ]
+}

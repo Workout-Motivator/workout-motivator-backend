@@ -1,0 +1,75 @@
+{
+    "title": "Trap Bar Split Stance Rdl",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Trap Bar Split Stance Rdl Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Begin by standing in front of a trap bar with your feet shoulder-width apart.",
+                    "Step one foot forward and one foot back, creating a split stance.",
+                    "Grab the handles of the trap bar with both hands, keeping your arms straight and your shoulders pulled back.",
+                    "Engage your core and hinge at the hips, lowering the trap bar towards the ground while keeping your back straight.",
+                    "Lower the trap bar until you feel a stretch in your hamstrings, then push through your front foot to return to the starting position.",
+                    "Repeat for the desired number of reps, then switch your stance and repeat on the other side."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Trap Bar Split Stance Rdl Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Trap Bar Split Stance Rdl Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves balance and stability",
+                    "Strengthens the hamstrings, glutes, and lower back",
+                    "Increases hip mobility",
+                    "Targets the core muscles for improved posture and spinal alignment",
+                    "Can be modified for different fitness levels and goals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Trap Bar Split Stance Rdl Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Hamstrings",
+                    "Glutes",
+                    "Lower back",
+                    "Quadriceps",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Trap Bar Split Stance Rdl Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single Leg Trap Bar RDL",
+                    "Trap Bar RDL",
+                    "Sumo Deadlift",
+                    "Single Leg Deadlift",
+                    "Staggered Stance RDL"
+                ]
+            }
+        }
+    ]
+}

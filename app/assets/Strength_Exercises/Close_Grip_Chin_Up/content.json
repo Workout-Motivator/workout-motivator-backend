@@ -1,0 +1,79 @@
+{
+    "title": "Close Grip Chin Up",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Close Grip Chin Up Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Find a chin-up bar and grip it with your palms facing towards you, with your hands shoulder-width apart or closer.",
+                    "Hang from the bar with your arms fully extended and your feet off the ground.",
+                    "Engage your core and pull your body up towards the bar, keeping your elbows close to your body.",
+                    "Continue pulling until your chin is above the bar.",
+                    "Pause briefly at the top of the movement, then slowly lower yourself back down to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Close Grip Chin Up Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Close Grip Chin Up Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets multiple muscle groups including biceps, back, and shoulders",
+                    "Improves grip strength",
+                    "Increases upper body strength and endurance",
+                    "Can be modified for different fitness levels by using assistance bands or adding weight",
+                    "Requires minimal equipment and can be done at home or in a gym"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Close Grip Chin Up Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Biceps",
+                    "Forearms",
+                    "Upper back (latissimus dorsi)",
+                    "Shoulders (deltoids)",
+                    "Core (abdominals and obliques)"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Close Grip Chin Up Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Weighted Close Grip Chin Up",
+                    "Assisted Close Grip Chin Up",
+                    "Wide Grip Chin Up",
+                    "Neutral Grip Chin Up",
+                    "Commando Chin Up",
+                    "One Arm Chin Up",
+                    "Behind the Neck Chin Up",
+                    "Slow Negative Chin Up",
+                    "Isometric Chin Up Hold"
+                ]
+            }
+        }
+    ]
+}

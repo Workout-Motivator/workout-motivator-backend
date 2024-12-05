@@ -1,0 +1,77 @@
+{
+    "title": "Barbell Overhead Carry",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Barbell Overhead Carry Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by standing with your feet shoulder-width apart and your knees slightly bent.",
+                    "Grasp the barbell with both hands, palms facing up, and lift it up to shoulder height.",
+                    "Press the barbell overhead, fully extending your arms and keeping your core tight.",
+                    "Begin walking forward, taking small steps and keeping your arms fully extended overhead.",
+                    "Continue walking for a set distance or time, making sure to keep your core tight and your arms fully extended.",
+                    "When you reach the end of your set distance or time, lower the barbell back down to shoulder height and then down to the ground.",
+                    "Rest for a few seconds and then repeat for the desired number of sets and reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Barbell Overhead Carry Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Barbell Overhead Carry Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves shoulder stability and strength",
+                    "Engages the core muscles for stability and balance",
+                    "Increases grip strength",
+                    "Improves overall body coordination and control",
+                    "Can be used as a conditioning exercise for athletes",
+                    "Can be modified for different fitness levels and goals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Barbell Overhead Carry Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Deltoids",
+                    "Triceps",
+                    "Trapezius",
+                    "Core muscles",
+                    "Forearms"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Barbell Overhead Carry Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Overhead Carry",
+                    "Kettlebell Overhead Carry",
+                    "Single Arm Overhead Carry",
+                    "Farmer’s Walk with Overhead Press",
+                    "Overhead Squat"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "title": "Barbell Zercher Carry",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Barbell Zercher Carry Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by standing in front of a barbell with your feet shoulder-width apart.",
+                    "Squat down and grasp the barbell with both hands, keeping your palms facing up and your elbows bent.",
+                    "Lift the barbell up to your chest, keeping your elbows close to your body.",
+                    "Stand up straight and hold the barbell in front of your body, with your elbows bent and your palms facing up.",
+                    "Take a few steps forward, keeping your core tight and your back straight.",
+                    "Pause and then take a few steps backward, maintaining your form and balance.",
+                    "Repeat for the desired number of reps or distance.",
+                    "When finished, carefully lower the barbell back to the ground."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Barbell Zercher Carry Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Barbell Zercher Carry Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the core muscles",
+                    "Improves grip strength",
+                    "Targets the quadriceps, glutes, and upper back muscles",
+                    "Improves overall stability and balance",
+                    "Can be used as a conditioning exercise for athletes",
+                    "Can be modified to increase or decrease the difficulty level"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Barbell Zercher Carry Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Core muscles",
+                    "Forearms"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Barbell Zercher Carry Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Barbell Zercher Squat",
+                    "Barbell Zercher Deadlift",
+                    "Barbell Zercher Lunges",
+                    "Barbell Zercher Good Mornings",
+                    "Barbell Zercher Shrugs"
+                ]
+            }
+        }
+    ]
+}

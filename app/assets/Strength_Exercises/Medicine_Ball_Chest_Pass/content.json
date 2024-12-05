@@ -1,0 +1,74 @@
+{
+    "title": "Medicine Ball Chest Pass",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Medicine Ball Chest Pass Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand facing a wall with your feet shoulder-width apart.",
+                    "Hold a medicine ball at chest level with both hands.",
+                    "Extend your arms and push the ball forward, throwing it at the wall.",
+                    "Catch the ball as it bounces back towards you.",
+                    "Repeat for desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Medicine Ball Chest Pass Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Medicine Ball Chest Pass Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves upper body strength",
+                    "Increases power and explosiveness",
+                    "Enhances hand-eye coordination",
+                    "Engages core muscles for stability",
+                    "Can be done alone or with a partner for added motivation",
+                    "Can be modified for different fitness levels and goals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Medicine Ball Chest Pass Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Pectoralis major",
+                    "Triceps brachii",
+                    "Anterior deltoids",
+                    "Core muscles (rectus abdominis, obliques)"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Medicine Ball Chest Pass Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Medicine Ball Overhead Pass",
+                    "Medicine Ball Slam",
+                    "Medicine Ball Rotational Throw",
+                    "Medicine Ball Wall Ball",
+                    "Medicine Ball Russian Twist"
+                ]
+            }
+        }
+    ]
+}

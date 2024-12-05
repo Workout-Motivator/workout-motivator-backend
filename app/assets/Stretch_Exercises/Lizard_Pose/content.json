@@ -1,0 +1,80 @@
+{
+    "title": "Lizard Pose",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Lizard Pose Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start on your hands and knees with your wrists directly under your shoulders and your knees directly under your hips.",
+                    "Walk your hands forward a few inches and curl your toes under.",
+                    "As you exhale, move your buttocks halfway back toward your heels.",
+                    "Keep your arms active; don’t let your elbows touch the ground.",
+                    "Drop your forehead to the floor or to a blanket and let your neck relax.",
+                    "Breathe into your back, feeling the spine lengthen in both directions.",
+                    "Hold for up to a minute.",
+                    "To release, exhale and slowly roll your body upright into a kneeling position."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Lizard Pose Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Lizard Pose Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Increases flexibility in the hips, knees, and ankles",
+                    "Strengthens the spine and improves posture",
+                    "Calms the mind and reduces stress",
+                    "Stimulates the digestive system and improves circulation",
+                    "Helps to alleviate menstrual discomfort and sciatica pain"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Lizard Pose Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Glutes",
+                    "Hip flexors",
+                    "Abdominals",
+                    "Chest",
+                    "Shoulders",
+                    "Forearms"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Lizard Pose Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "lizard pose with quad stretch",
+                    "low lizard pose",
+                    "revolved lizard pose",
+                    "half lizard pose",
+                    "dragon pose"
+                ]
+            }
+        }
+    ]
+}

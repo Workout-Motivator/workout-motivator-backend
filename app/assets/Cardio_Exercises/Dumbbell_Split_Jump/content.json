@@ -1,0 +1,75 @@
+{
+    "title": "Dumbbell Split Jump",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Split Jump Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart, holding a dumbbell in each hand.",
+                    "Take a large step forward with your right foot and lower your body into a lunge position, keeping your back straight and your left knee hovering just above the ground.",
+                    "As you lower your body, simultaneously jump up and switch the position of your feet, landing with your left foot forward and your right foot back.",
+                    "Lower your body into a lunge position with your left knee hovering just above the ground.",
+                    "Jump up and switch the position of your feet again, landing with your right foot forward and your left foot back.",
+                    "Repeat this movement for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Split Jump Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Split Jump Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Increases lower body strength and power",
+                    "Improves balance and coordination",
+                    "Engages multiple muscle groups, including quads, glutes, hamstrings, and calves",
+                    "Can be modified for different fitness levels by adjusting weight and height of jump",
+                    "Provides a cardiovascular workout"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Split Jump Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Split Jump Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Split Squat Jump",
+                    "Dumbbell Jumping Lunges",
+                    "Dumbbell Plyometric Lunges",
+                    "Dumbbell Jump Squats",
+                    "Dumbbell Box Jumps"
+                ]
+            }
+        }
+    ]
+}

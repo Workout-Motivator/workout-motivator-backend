@@ -1,0 +1,74 @@
+{
+    "title": "Hanging Oblique Knee Raise",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Hanging Oblique Knee Raise Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Hang from a pull-up bar with your arms fully extended and your palms facing away from your body.",
+                    "Engage your core and lift your knees up towards your chest, keeping them together.",
+                    "As you lift your knees, twist your torso to the left or right, bringing your knees towards your elbow on that side.",
+                    "Lower your legs back down to the starting position and repeat on the other side.",
+                    "Continue alternating sides for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Hanging Oblique Knee Raise Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Hanging Oblique Knee Raise Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the oblique muscles, which are located on the sides of the abdomen",
+                    "Improves core strength and stability",
+                    "Increases flexibility in the hips and lower back",
+                    "Helps to improve posture and balance",
+                    "Can be modified to increase or decrease difficulty based on fitness level",
+                    "Requires minimal equipment and can be done at home or in the gym"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Hanging Oblique Knee Raise Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus Abdominis",
+                    "Obliques",
+                    "Transverse Abdominis",
+                    "Hip Flexors"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Hanging Oblique Knee Raise Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Weighted Hanging Oblique Knee Raise",
+                    "Side-to-Side Hanging Oblique Knee Raise",
+                    "Alternating Hanging Oblique Knee Raise",
+                    "Slow-Motion Hanging Oblique Knee Raise",
+                    "Single-Leg Hanging Oblique Knee Raise"
+                ]
+            }
+        }
+    ]
+}

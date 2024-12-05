@@ -1,0 +1,83 @@
+{
+    "title": "Butterfly Yoga Pose",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Butterfly Yoga Pose Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by sitting on the floor with your legs straight out in front of you.",
+                    "Bend your knees and bring the soles of your feet together, allowing your knees to fall out to the sides.",
+                    "Bring your heels as close to your body as possible.",
+                    "Place your hands on your ankles or feet.",
+                    "Take a deep breath in and lengthen your spine.",
+                    "As you exhale, gently press your knees down towards the floor.",
+                    "Keep your feet close to your body and avoid forcing your knees down too far.",
+                    "Hold the pose for 30 seconds to 1 minute, breathing deeply.",
+                    "To release the pose, use your hands to gently bring your knees back together and straighten your legs out in front of you."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Butterfly Yoga Pose Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Butterfly Yoga Pose Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Stretches the inner thighs and groin muscles",
+                    "Relieves tension in the hips and lower back",
+                    "Improves flexibility in the hip joints",
+                    "Helps to reduce menstrual discomfort and symptoms of menopause",
+                    "Calms the mind and reduces stress and anxiety"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Butterfly Yoga Pose Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Chest muscles",
+                    "Shoulder muscles",
+                    "Upper back muscles",
+                    "Abdominal muscles",
+                    "Hip muscles",
+                    "Thigh muscles",
+                    "Gluteal muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Butterfly Yoga Pose Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Half Butterfly Pose",
+                    "Full Butterfly Pose",
+                    "Bound Angle Pose",
+                    "Reclining Bound Angle Pose",
+                    "Butterfly Forward Fold",
+                    "Butterfly Twist",
+                    "Butterfly Shoulder Opener",
+                    "Butterfly Hip Opener"
+                ]
+            }
+        }
+    ]
+}

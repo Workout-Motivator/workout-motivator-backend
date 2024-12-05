@@ -1,0 +1,86 @@
+{
+    "title": "Pyramid Pose",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Pyramid Pose Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start in a standing position with your feet hip-width apart.",
+                    "Take a deep breath in and as you exhale, fold forward from your hips, keeping your spine straight.",
+                    "Place your hands on the ground, shoulder-width apart, with your fingertips in line with your toes.",
+                    "Step your left foot back, keeping your left heel lifted and your toes pointing slightly outwards.",
+                    "Press your right heel down into the ground and straighten your right leg as much as possible.",
+                    "Engage your thigh muscles and draw your kneecaps up towards your hips.",
+                    "Press your hands firmly into the ground and lift your hips up towards the ceiling.",
+                    "Lengthen your spine and gaze towards your navel.",
+                    "Hold the pose for 5-10 breaths, then release and repeat on the other side."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Pyramid Pose Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Pyramid Pose Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves agility and coordination",
+                    "Increases foot speed and reaction time",
+                    "Enhances cardiovascular endurance",
+                    "Burns calories and aids in weight loss",
+                    "Can be done anywhere with minimal equipment",
+                    "Helps to prevent injuries by strengthening lower body muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Pyramid Pose Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Glutes",
+                    "Calves",
+                    "Abdominals",
+                    "Spinal erectors",
+                    "Shoulders",
+                    "Chest"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Pyramid Pose Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Extended pyramid pose",
+                    "Revolved pyramid pose",
+                    "Pyramid pose with a twist",
+                    "Pyramid pose with a bind",
+                    "Low pyramid pose",
+                    "High pyramid pose",
+                    "Warrior III pyramid pose",
+                    "Pyramid pose with a quad stretch",
+                    "Pyramid pose with a side stretch"
+                ]
+            }
+        }
+    ]
+}

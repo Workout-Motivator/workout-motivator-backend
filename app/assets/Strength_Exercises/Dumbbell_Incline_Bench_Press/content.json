@@ -1,0 +1,77 @@
+{
+    "title": "Dumbbell Incline Bench Press",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Incline Bench Press Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on an incline bench with your feet flat on the ground and your back pressed against the bench.",
+                    "Hold a dumbbell in each hand with your palms facing forward and your arms extended above your chest.",
+                    "Slowly lower the dumbbells towards your chest, keeping your elbows close to your body.",
+                    "Pause for a moment when the dumbbells are just above your chest.",
+                    "Push the dumbbells back up to the starting position, fully extending your arms.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Incline Bench Press Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Incline Bench Press Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the upper chest muscles, helping to create a more defined and sculpted chest",
+                    "Engages the triceps and shoulders as secondary muscles, providing a full upper body workout",
+                    "Improves overall upper body strength and power",
+                    "Increases muscle endurance and stamina",
+                    "Can be easily modified by adjusting the weight or angle of the bench to accommodate different fitness levels and goals",
+                    "Helps to improve posture and reduce the risk of shoulder injuries"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Incline Bench Press Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Chest muscles (pectoralis major and minor)",
+                    "Shoulder muscles (anterior deltoids)",
+                    "Triceps brachii"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Incline Bench Press Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Flat Bench Press",
+                    "Dumbbell Decline Bench Press",
+                    "Barbell Incline Bench Press",
+                    "Barbell Flat Bench Press",
+                    "Barbell Decline Bench Press",
+                    "Machine Incline Bench Press",
+                    "Machine Flat Bench Press",
+                    "Machine Decline Bench Press"
+                ]
+            }
+        }
+    ]
+}

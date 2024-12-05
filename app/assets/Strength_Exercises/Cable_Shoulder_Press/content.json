@@ -1,0 +1,75 @@
+{
+    "title": "Cable Shoulder Press",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Cable Shoulder Press Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by sitting on a bench with your back straight and your feet flat on the floor.",
+                    "Hold a cable in each hand with your palms facing forward and your elbows bent at a 90-degree angle.",
+                    "Slowly press the cables upward until your arms are fully extended above your head.",
+                    "Hold this position for a few seconds, then slowly lower the cables back down to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Cable Shoulder Press Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Cable Shoulder Press Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the shoulder muscles, specifically the anterior and medial deltoids",
+                    "Improves shoulder stability and mobility",
+                    "Allows for a greater range of motion compared to traditional shoulder presses",
+                    "Engages the core muscles for added stability and balance",
+                    "Can be easily modified for different fitness levels and goals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cable Shoulder Press Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Deltoids",
+                    "Triceps",
+                    "Trapezius",
+                    "Rotator Cuff"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cable Shoulder Press Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single Arm Cable Shoulder Press",
+                    "Seated Cable Shoulder Press",
+                    "Standing Cable Shoulder Press",
+                    "Alternating Cable Shoulder Press",
+                    "Cable Front Raise",
+                    "Cable Lateral Raise",
+                    "Cable Rear Delt Fly"
+                ]
+            }
+        }
+    ]
+}

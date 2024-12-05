@@ -1,0 +1,76 @@
+{
+    "title": "Hip Circles Stretch",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Hip Circles Stretch Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your hands on your hips.",
+                    "Slowly rotate your hips in a circular motion, making sure to keep your upper body still.",
+                    "Complete 10 circles in one direction, then switch and complete 10 circles in the opposite direction.",
+                    "Repeat for 2-3 sets."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Hip Circles Stretch Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Hip Circles Stretch Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves hip mobility and flexibility",
+                    "Stretches the hip flexors, glutes, and lower back muscles",
+                    "Helps alleviate lower back pain",
+                    "Increases blood flow to the hip area",
+                    "Can be done as a warm-up or cool-down exercise",
+                    "Can be modified to target specific areas of the hips and lower back"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Hip Circles Stretch Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Glutes",
+                    "Hamstrings",
+                    "Quadriceps",
+                    "Hip flexors",
+                    "Abdominals",
+                    "Lower back muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Hip Circles Stretch Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Standing Hip Circles",
+                    "Seated Hip Circles",
+                    "Supine Hip Circles",
+                    "Quadruped Hip Circles",
+                    "Wall Hip Circles",
+                    "Chair Hip Circles"
+                ]
+            }
+        }
+    ]
+}

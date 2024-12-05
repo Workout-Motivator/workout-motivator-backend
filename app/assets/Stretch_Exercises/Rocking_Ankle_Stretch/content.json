@@ -1,0 +1,73 @@
+{
+    "title": "Rocking Ankle Stretch",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Rocking Ankle Stretch Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by sitting on the floor with your legs extended in front of you.",
+                    "Bend your right knee and place your right foot on the floor, with your heel close to your left hip.",
+                    "Place your left hand on your right knee and your right hand behind your back for support.",
+                    "Slowly rock your right ankle back and forth, keeping your foot relaxed.",
+                    "Continue for 10-15 repetitions, then switch sides and repeat with your left foot."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Rocking Ankle Stretch Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Rocking Ankle Stretch Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves ankle mobility and flexibility",
+                    "Stretches the calf muscles",
+                    "Helps prevent ankle injuries",
+                    "Can alleviate foot and ankle pain",
+                    "Can improve balance and stability"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Rocking Ankle Stretch Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Gastrocnemius",
+                    "Soleus",
+                    "Tibialis anterior",
+                    "Peroneals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Rocking Ankle Stretch Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Standing Ankle Stretch",
+                    "Seated Ankle Stretch",
+                    "Wall Ankle Stretch",
+                    "Resistance Band Ankle Stretch",
+                    "Calf Raise Ankle Stretch"
+                ]
+            }
+        }
+    ]
+}

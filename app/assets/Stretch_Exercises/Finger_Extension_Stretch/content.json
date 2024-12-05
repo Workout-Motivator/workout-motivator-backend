@@ -1,0 +1,74 @@
+{
+    "title": "Finger Extension Stretch",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Finger Extension Stretch Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by sitting in a comfortable position with your back straight and your feet flat on the ground.",
+                    "Extend your right arm in front of you with your palm facing down.",
+                    "Using your left hand, gently pull your fingers back towards your wrist until you feel a stretch in your forearm and fingers.",
+                    "Hold the stretch for 15-30 seconds, then release.",
+                    "Repeat the stretch on your left arm.",
+                    "Do 2-3 sets of 10-15 repetitions on each arm."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Finger Extension Stretch Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Finger Extension Stretch Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves flexibility and range of motion in the fingers",
+                    "Helps prevent and alleviate hand and wrist pain",
+                    "Can improve grip strength and dexterity",
+                    "May be helpful for those with arthritis or other hand conditions",
+                    "Can be done anywhere, anytime, without any equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Finger Extension Stretch Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Extensor digitorum muscle",
+                    "Extensor pollicis longus muscle",
+                    "Extensor pollicis brevis muscle",
+                    "Extensor indicis muscle"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Finger Extension Stretch Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Finger Flexion Stretch",
+                    "Finger Abduction Stretch",
+                    "Finger Adduction Stretch",
+                    "Finger Circumduction Stretch",
+                    "Finger Grip Strengthening Exercise"
+                ]
+            }
+        }
+    ]
+}

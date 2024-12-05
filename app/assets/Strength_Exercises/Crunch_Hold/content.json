@@ -1,0 +1,73 @@
+{
+    "title": "Crunch Hold",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Crunch Hold Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying flat on your back with your knees bent and feet flat on the ground.",
+                    "Place your hands behind your head, with your elbows pointing out to the sides.",
+                    "Engage your core muscles and lift your shoulders off the ground, bringing your chest towards your knees.",
+                    "Hold this position for a few seconds, making sure to keep your core muscles engaged and your lower back pressed into the ground.",
+                    "Slowly lower your shoulders back down to the ground and repeat for several repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Crunch Hold Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Crunch Hold Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens abdominal muscles",
+                    "Improves posture",
+                    "Reduces lower back pain",
+                    "Increases core stability",
+                    "Improves balance and coordination",
+                    "Can be modified for different fitness levels"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Crunch Hold Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus abdominis",
+                    "Obliques",
+                    "Transverse abdominis"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Crunch Hold Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Reverse Crunch Hold",
+                    "Side Crunch Hold",
+                    "Single Leg Crunch Hold",
+                    "Weighted Crunch Hold",
+                    "Plank Crunch Hold"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "title": "Band Face Pull",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Band Face Pull Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Attach a resistance band to a sturdy anchor point, such as a pole or door frame, at chest height.",
+                    "Grasp the band with both hands, palms facing down and hands shoulder-width apart.",
+                    "Step back until the band is taut and your arms are fully extended in front of you.",
+                    "Engage your shoulder blades and pull the band towards your face, keeping your elbows high and wide.",
+                    "Pause at the top of the movement, squeezing your shoulder blades together.",
+                    "Slowly release the band back to the starting position, keeping tension in the band throughout the movement.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Band Face Pull Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Band Face Pull Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the upper back, rear shoulders, and rotator cuff muscles",
+                    "Improves posture and shoulder mobility",
+                    "Helps prevent shoulder injuries",
+                    "Can be done with minimal equipment (just a resistance band)",
+                    "Can be easily modified for different fitness levels"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Band Face Pull Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rhomboids",
+                    "Trapezius",
+                    "Posterior deltoids",
+                    "Rotator cuff muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Band Face Pull Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single-arm band face pull",
+                    "Band pull-apart",
+                    "Band pull-apart with external rotation",
+                    "Band pull-apart with overhead press",
+                    "Band pull-apart with squat",
+                    "Band pull-apart with lunge",
+                    "Band pull-apart with bicep curl",
+                    "Band pull-apart with tricep extension",
+                    "Band pull-apart with lateral raise",
+                    "Band pull-apart with front raise"
+                ]
+            }
+        }
+    ]
+}

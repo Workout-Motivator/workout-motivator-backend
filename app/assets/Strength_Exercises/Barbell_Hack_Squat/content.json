@@ -1,0 +1,76 @@
+{
+    "title": "Barbell Hack Squat",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Barbell Hack Squat Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand behind a barbell with your feet shoulder-width apart.",
+                    "Bend down and grasp the barbell with an overhand grip, keeping your back straight.",
+                    "Stand up, lifting the barbell off the ground and holding it behind your legs.",
+                    "Take a step forward with one foot, keeping your back straight and your chest up.",
+                    "Bend your knees and lower your body until your thighs are parallel to the ground.",
+                    "Push through your heels and stand back up to the starting position.",
+                    "Repeat for the desired number of repetitions, then switch legs and repeat."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Barbell Hack Squat Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Barbell Hack Squat Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets multiple muscle groups including quadriceps, hamstrings, glutes, and calves",
+                    "Improves lower body strength and power",
+                    "Can be modified to target specific muscle groups by adjusting foot placement and barbell position",
+                    "Allows for heavier weight to be lifted compared to traditional squats due to the barbell being positioned behind the body",
+                    "Can improve overall squat form and technique"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Barbell Hack Squat Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Erector Spinae"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Barbell Hack Squat Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Hack Squat",
+                    "Smith Machine Hack Squat",
+                    "Single Leg Hack Squat",
+                    "Barbell Front Squat",
+                    "Barbell Back Squat"
+                ]
+            }
+        }
+    ]
+}

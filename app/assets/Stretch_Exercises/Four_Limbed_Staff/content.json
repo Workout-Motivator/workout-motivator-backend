@@ -1,0 +1,73 @@
+{
+    "title": "Four Limbed Staff",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Four Limbed Staff Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start in plank position with your hands shoulder-width apart and your feet hip-width apart.",
+                    "Lower your body down towards the ground, keeping your elbows close to your sides.",
+                    "As you lower yourself down, keep your body in a straight line from your head to your heels.",
+                    "Once your elbows are at a 90-degree angle, hold the pose for a few seconds.",
+                    "Push yourself back up to plank position, keeping your body in a straight line.",
+                    "Repeat the exercise for several repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Four Limbed Staff Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Four Limbed Staff Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens glutes and hamstrings",
+                    "Improves hip mobility and flexibility",
+                    "Helps to prevent lower back pain",
+                    "Increases power and explosiveness in lower body movements",
+                    "Can be done with or without weights for added resistance"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Four Limbed Staff Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Triceps",
+                    "Chest",
+                    "Shoulders",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Four Limbed Staff Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Chaturanga Dandasana",
+                    "Low Plank",
+                    "Yoga Push-Up",
+                    "Four-Limbed Staff Pose"
+                ]
+            }
+        }
+    ]
+}

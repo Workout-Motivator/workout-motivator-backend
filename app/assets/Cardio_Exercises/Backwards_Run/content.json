@@ -1,0 +1,82 @@
+{
+    "title": "Backwards Run",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Backwards Run Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by standing with your feet shoulder-width apart and your arms at your sides.",
+                    "Take a step back with your right foot, crossing it behind your left foot.",
+                    "As you step back, lift your left arm up and your right arm back, as if you were about to start running.",
+                    "Push off with your right foot and start running backwards, keeping your arms in the running position.",
+                    "Continue running backwards for a set distance or time, making sure to keep your head up and your eyes forward.",
+                    "When you reach the end of your set distance or time, slow down and come to a stop.",
+                    "Repeat the exercise, this time starting with your left foot stepping back and crossing behind your right foot."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Backwards Run Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Backwards Run Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves balance and coordination",
+                    "Strengthens leg muscles and glutes",
+                    "Increases cardiovascular endurance",
+                    "Engages different muscle groups than forward running",
+                    "Can help prevent injuries by improving overall body awareness"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Backwards Run Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Hamstrings",
+                    "Glutes",
+                    "Quadriceps",
+                    "Calf muscles",
+                    "Abdominals",
+                    "Lower back muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Backwards Run Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Backwards jog",
+                    "Backwards sprint",
+                    "Backwards high knees",
+                    "Backwards butt kicks",
+                    "Backwards lateral shuffle",
+                    "Backwards bear crawl",
+                    "Backwards crab walk",
+                    "Backwards lunges",
+                    "Backwards jump squats",
+                    "Backwards burpees"
+                ]
+            }
+        }
+    ]
+}

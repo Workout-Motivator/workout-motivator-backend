@@ -1,0 +1,73 @@
+{
+    "title": "Overhead Clap",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Overhead Clap Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your arms at your sides.",
+                    "Bring your arms up and clap your hands above your head.",
+                    "Lower your arms back down to your sides.",
+                    "Repeat steps 2-3 for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Overhead Clap Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Overhead Clap Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves coordination and agility",
+                    "Enhances communication and teamwork skills",
+                    "Increases cardiovascular endurance",
+                    "Boosts mood and energy levels",
+                    "Provides a fun and engaging way to exercise"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Overhead Clap Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Deltoids",
+                    "Trapezius",
+                    "Rotator cuff muscles",
+                    "Triceps",
+                    "Pectoralis major"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Overhead Clap Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Jumping jacks",
+                    "Seal claps",
+                    "High knees",
+                    "Butt kicks",
+                    "Mountain climbers"
+                ]
+            }
+        }
+    ]
+}

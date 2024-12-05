@@ -1,0 +1,79 @@
+{
+    "title": "Hip Extension Stretch",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Hip Extension Stretch Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by standing upright with your feet hip-width apart.",
+                    "Place your hands on your hips and engage your core muscles.",
+                    "Shift your weight onto your left foot and lift your right foot off the ground.",
+                    "Bend your right knee and bring your heel towards your buttocks.",
+                    "Grasp your right ankle with your right hand and hold it in place.",
+                    "Slowly extend your right leg behind you, keeping your knee bent and your foot flexed.",
+                    "Hold the stretch for 10-15 seconds, feeling the stretch in your hip flexors and quadriceps.",
+                    "Release the stretch and repeat on the other side."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Hip Extension Stretch Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Hip Extension Stretch Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves flexibility and range of motion in the hip joint",
+                    "Reduces tightness and discomfort in the hip and lower back muscles",
+                    "Helps alleviate hip and lower back pain",
+                    "Can improve posture and balance",
+                    "May help prevent injuries in the hip and lower back area"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Hip Extension Stretch Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Glutes",
+                    "Hamstrings",
+                    "Lower back"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Hip Extension Stretch Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Standing Hip Extension Stretch",
+                    "Lying Hip Extension Stretch",
+                    "Seated Hip Extension Stretch",
+                    "Wall Hip Extension Stretch",
+                    "Butterfly Hip Extension Stretch",
+                    "Figure Four Hip Extension Stretch",
+                    "Supine Hip Extension Stretch",
+                    "Prone Hip Extension Stretch",
+                    "Partner Hip Extension Stretch"
+                ]
+            }
+        }
+    ]
+}

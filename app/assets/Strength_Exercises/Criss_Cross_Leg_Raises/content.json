@@ -1,0 +1,72 @@
+{
+    "title": "Criss Cross Leg Raises",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Criss Cross Leg Raises Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Lie flat on your back with your arms at your sides and your legs extended straight up towards the ceiling.",
+                    "Criss cross your legs by lowering your right leg down towards the ground while keeping your left leg straight up towards the ceiling.",
+                    "As you lift your right leg back up, lower your left leg down towards the ground.",
+                    "Continue alternating legs in a criss cross motion while keeping your lower back pressed firmly into the ground.",
+                    "Complete 10-15 repetitions on each leg for a total of 20-30 repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Criss Cross Leg Raises Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Criss Cross Leg Raises Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the lower abs and obliques",
+                    "Improves core strength and stability",
+                    "Increases flexibility in the hips and lower back",
+                    "Can be modified for different fitness levels",
+                    "Can be done anywhere without equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Criss Cross Leg Raises Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus Abdominis",
+                    "Obliques",
+                    "Hip Flexors"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Criss Cross Leg Raises Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Criss Cross Crunches",
+                    "Reverse Criss Cross Leg Raises",
+                    "Criss Cross Bicycle Crunches",
+                    "Criss Cross Toe Touches",
+                    "Criss Cross Mountain Climbers"
+                ]
+            }
+        }
+    ]
+}

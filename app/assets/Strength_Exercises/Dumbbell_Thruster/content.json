@@ -1,0 +1,77 @@
+{
+    "title": "Dumbbell Thruster",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Thruster Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a dumbbell in each hand at shoulder height.",
+                    "Squat down until your thighs are parallel to the ground.",
+                    "As you stand up, press the dumbbells overhead until your arms are fully extended.",
+                    "Lower the dumbbells back to shoulder height as you squat down again.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Thruster Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Thruster Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Works multiple muscle groups: The dumbbell thruster is a compound exercise that targets the legs, glutes, shoulders, and triceps all at once.",
+                    "Improves cardiovascular endurance: Because the exercise involves both strength and cardio, it can help improve your overall endurance and stamina.",
+                    "Increases power and explosiveness: The explosive movement of the thruster can help increase power and explosiveness in other exercises and activities.",
+                    "Can be modified for different fitness levels: The weight of the dumbbells can be adjusted to make the exercise easier or more challenging, making it suitable for a wide range of fitness levels.",
+                    "Can be done with minimal equipment: All you need is a set of dumbbells, making it a convenient exercise to do at home or while traveling."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Thruster Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Shoulders",
+                    "Triceps",
+                    "Chest",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Thruster Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Front Squat and Press",
+                    "Dumbbell Squat and Overhead Press",
+                    "Dumbbell Squat and Push Press",
+                    "Dumbbell Squat and Thruster",
+                    "Dumbbell Clean and Press"
+                ]
+            }
+        }
+    ]
+}

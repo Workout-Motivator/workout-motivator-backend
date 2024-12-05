@@ -1,0 +1,73 @@
+{
+    "title": "Lever Back Extension",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Lever Back Extension Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying face down on a bench or stability ball with your hips at the edge of the bench and your feet firmly planted on the ground.",
+                    "Place your hands behind your head or cross them over your chest.",
+                    "Engage your glutes and lower back muscles to lift your upper body off the bench or ball, keeping your neck in a neutral position.",
+                    "Hold the contraction for a few seconds before slowly lowering back down to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Lever Back Extension Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Lever Back Extension Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens lower back muscles",
+                    "Improves posture",
+                    "Reduces risk of lower back pain and injury",
+                    "Increases flexibility in the lower back",
+                    "Engages core muscles for added stability"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Lever Back Extension Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Erector Spinae",
+                    "Gluteus Maximus",
+                    "Hamstrings"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Lever Back Extension Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single Leg Lever Back Extension",
+                    "Weighted Lever Back Extension",
+                    "Resistance Band Lever Back Extension",
+                    "Swiss Ball Lever Back Extension",
+                    "Reverse Hyperextension",
+                    "Superman Exercise"
+                ]
+            }
+        }
+    ]
+}

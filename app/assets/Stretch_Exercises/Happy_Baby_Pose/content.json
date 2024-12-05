@@ -1,0 +1,77 @@
+{
+    "title": "Happy Baby Pose",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Happy Baby Pose Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on your back on a yoga mat.",
+                    "Bend your knees and bring them towards your chest.",
+                    "Grab the outsides of your feet with your hands.",
+                    "Open your knees wider than your torso and bring them towards your armpits.",
+                    "Flex your feet and press your heels up towards the ceiling.",
+                    "Relax your shoulders and lengthen your neck.",
+                    "Breathe deeply and hold the pose for 30 seconds to 1 minute.",
+                    "To release, gently let go of your feet and bring your knees back towards your chest.",
+                    "Roll onto your side and slowly come up to a seated position."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Happy Baby Pose Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Happy Baby Pose Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens glutes and hamstrings",
+                    "Improves hip mobility and stability",
+                    "Helps alleviate lower back pain",
+                    "Can improve athletic performance in activities such as running and jumping",
+                    "Can be modified for different fitness levels and goals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Happy Baby Pose Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Inner thighs",
+                    "Hamstrings",
+                    "Hip flexors",
+                    "Lower back"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Happy Baby Pose Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Happy Baby Pose with Arms Extended",
+                    "Happy Baby Pose with Hands on Feet",
+                    "Happy Baby Pose with One Leg Extended",
+                    "Happy Baby Pose with Both Legs Extended",
+                    "Happy Baby Pose with Twist"
+                ]
+            }
+        }
+    ]
+}

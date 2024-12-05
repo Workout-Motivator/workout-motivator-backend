@@ -1,0 +1,80 @@
+{
+    "title": "Barbell Front Rack Split Squat",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Barbell Front Rack Split Squat Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by standing with your feet shoulder-width apart and holding a barbell in front of your body at shoulder height.",
+                    "Step forward with one foot and place it about two feet in front of the other foot.",
+                    "Bend both knees and lower your body until your back knee is almost touching the ground.",
+                    "Make sure your front knee is directly above your ankle and your back knee is pointing towards the ground.",
+                    "Push through your front foot to stand back up to the starting position.",
+                    "Repeat the exercise for the desired number of repetitions on one side before switching to the other side."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Barbell Front Rack Split Squat Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Barbell Front Rack Split Squat Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets multiple muscle groups including quads, glutes, hamstrings, and core",
+                    "Improves balance and stability",
+                    "Increases lower body strength and power",
+                    "Can help correct muscle imbalances between legs",
+                    "Allows for greater range of motion compared to traditional squats",
+                    "Can be modified for different fitness levels and goals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Barbell Front Rack Split Squat Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Barbell Front Rack Split Squat Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Front Rack Split Squat",
+                    "Barbell Back Rack Split Squat",
+                    "Dumbbell Bulgarian Split Squat",
+                    "Barbell Reverse Lunge",
+                    "Dumbbell Reverse Lunge",
+                    "Barbell Walking Lunge",
+                    "Dumbbell Walking Lunge",
+                    "Barbell Step Up",
+                    "Dumbbell Step Up"
+                ]
+            }
+        }
+    ]
+}

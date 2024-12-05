@@ -1,0 +1,78 @@
+{
+    "title": "Barbell Overhead Shrug",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Barbell Overhead Shrug Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a barbell with an overhand grip, hands slightly wider than shoulder-width apart.",
+                    "Lift the barbell overhead, fully extending your arms.",
+                    "Shrug your shoulders up towards your ears, holding the barbell steady.",
+                    "Lower your shoulders back down to the starting position.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Barbell Overhead Shrug Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Barbell Overhead Shrug Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the upper trapezius muscles",
+                    "Improves shoulder stability and mobility",
+                    "Increases grip strength",
+                    "Helps to improve posture",
+                    "Can be used as a warm-up exercise for overhead pressing movements"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Barbell Overhead Shrug Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Trapezius",
+                    "Rhomboids",
+                    "Deltoids",
+                    "Levator Scapulae"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Barbell Overhead Shrug Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Overhead Shrug",
+                    "Kettlebell Overhead Shrug",
+                    "Single Arm Overhead Shrug",
+                    "Behind the Back Barbell Shrug",
+                    "Trap Bar Overhead Shrug",
+                    "Smith Machine Overhead Shrug",
+                    "Seated Overhead Shrug",
+                    "Standing Overhead Shrug with Resistance Bands",
+                    "Overhead Shrug with Chains",
+                    "Overhead Shrug with a Sandbag"
+                ]
+            }
+        }
+    ]
+}

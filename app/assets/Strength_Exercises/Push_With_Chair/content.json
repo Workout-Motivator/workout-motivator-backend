@@ -1,0 +1,74 @@
+{
+    "title": "Push With Chair",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Push With Chair Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Place a sturdy chair against a wall or other stable surface.",
+                    "Stand facing the chair with your feet shoulder-width apart.",
+                    "Place your hands on the seat of the chair, shoulder-width apart.",
+                    "Step back with your feet until your body is at a slight angle.",
+                    "Lower your chest towards the chair by bending your elbows, keeping your body in a straight line.",
+                    "Push back up to the starting position by straightening your arms.",
+                    "Repeat for desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Push With Chair Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Push With Chair Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens chest, shoulders, and triceps",
+                    "Improves upper body stability and balance",
+                    "Can be done anywhere with a sturdy chair or surface",
+                    "Can be modified for different fitness levels by adjusting the angle of the body",
+                    "Helps to improve posture and reduce risk of shoulder injuries"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Push With Chair Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Chest muscles (pectoralis major and minor)",
+                    "Shoulder muscles (anterior deltoids)",
+                    "Triceps brachii"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Push With Chair Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Push with Wall",
+                    "Push with Table",
+                    "Push with Resistance Band",
+                    "Push with Dumbbells",
+                    "Push with Kettlebells"
+                ]
+            }
+        }
+    ]
+}

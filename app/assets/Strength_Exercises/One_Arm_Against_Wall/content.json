@@ -1,0 +1,79 @@
+{
+    "title": "One Arm Against Wall",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "One Arm Against Wall Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand facing a wall with your feet shoulder-width apart.",
+                    "Place one hand on the wall at shoulder height.",
+                    "Slowly lean your body weight into your hand, keeping your arm straight.",
+                    "Hold the stretch for 15-30 seconds.",
+                    "Repeat on the other side."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "One Arm Against Wall Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "One Arm Against Wall Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the legs and glutes",
+                    "Improves balance and coordination",
+                    "Targets the chest, triceps, and shoulders with the push-up",
+                    "Increases cardiovascular endurance",
+                    "Engages the core muscles for stability",
+                    "Can be modified for different fitness levels",
+                    "Provides a full-body workout in one exercise"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "One Arm Against Wall Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Triceps",
+                    "Deltoids",
+                    "Trapezius",
+                    "Latissimus dorsi",
+                    "Abdominals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "One Arm Against Wall Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "one-arm-against-wall",
+                    "one-arm-on-bench",
+                    "one-arm-on-knee",
+                    "one-arm-with-dumbbell",
+                    "one-arm-with-cable",
+                    "one-arm-with-barbell",
+                    "one-arm-with-kettlebell",
+                    "one-arm-with-resistance-band"
+                ]
+            }
+        }
+    ]
+}

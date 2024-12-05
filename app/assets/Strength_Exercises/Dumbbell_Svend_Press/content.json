@@ -1,0 +1,73 @@
+{
+    "title": "Dumbbell Svend Press",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Svend Press Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a dumbbell in each hand at chest level.",
+                    "Press the dumbbells together as hard as you can, engaging your chest muscles.",
+                    "Slowly rotate your hands outward, keeping the dumbbells pressed together, until your arms are fully extended.",
+                    "Hold for a few seconds, then slowly rotate your hands back to the starting position.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Svend Press Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Svend Press Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the chest, shoulders, and triceps",
+                    "Improves upper body strength and muscle definition",
+                    "Helps to correct posture by strengthening the upper back muscles",
+                    "Can be done with light weights and high reps for a toning effect or heavy weights and low reps for a strength-building effect",
+                    "Can be easily modified for different fitness levels and abilities"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Svend Press Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Pectoralis major",
+                    "Anterior deltoid",
+                    "Triceps brachii",
+                    "Rotator cuff muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Svend Press Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Svend Press with palms facing down",
+                    "Dumbbell Svend Press with palms facing up",
+                    "Dumbbell Svend Press with alternating palm positions",
+                    "Dumbbell Svend Press with a resistance band",
+                    "Dumbbell Svend Press with a stability ball"
+                ]
+            }
+        }
+    ]
+}

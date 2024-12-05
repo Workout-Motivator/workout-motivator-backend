@@ -1,0 +1,72 @@
+{
+    "title": "Glute Ham Raise",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Glute Ham Raise Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by kneeling on a mat or soft surface with your feet secured under a stable object, such as a bench or weight plate.",
+                    "Engage your glutes and hamstrings as you slowly lower your upper body towards the ground, keeping your core tight and your back straight.",
+                    "Once you reach the bottom of the movement, push through your heels and contract your glutes and hamstrings to lift your body back up to the starting position.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Glute Ham Raise Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Glute Ham Raise Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the glutes, hamstrings, and lower back muscles",
+                    "Improves posture and stability",
+                    "Increases sprinting speed and jumping ability",
+                    "Reduces risk of injury to the knees and lower back",
+                    "Can be modified for different fitness levels and goals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Glute Ham Raise Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Hamstrings",
+                    "Glutes",
+                    "Lower back",
+                    "Calves"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Glute Ham Raise Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Assisted Glute Ham Raise",
+                    "Weighted Glute Ham Raise",
+                    "Single Leg Glute Ham Raise",
+                    "Band Resisted Glute Ham Raise",
+                    "Reverse Hyperextension"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "title": "Upward Facing Dog",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Upward Facing Dog Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying face down on your mat with your hands placed next to your shoulders and your elbows close to your body.",
+                    "Press your hands and the tops of your feet into the mat as you inhale and lift your chest off the ground.",
+                    "Keep your shoulders relaxed and away from your ears as you straighten your arms and lift your thighs off the mat.",
+                    "Engage your core and press your hips forward as you lift your gaze towards the ceiling.",
+                    "Hold the pose for a few breaths, then exhale and release back down to the mat."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Upward Facing Dog Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Upward Facing Dog Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Stretches the chest, shoulders, and abdomen",
+                    "Strengthens the arms, wrists, and spine",
+                    "Improves posture and flexibility",
+                    "Stimulates the abdominal organs and improves digestion",
+                    "Relieves fatigue and mild depression"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Upward Facing Dog Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Chest muscles (pectoralis major and minor)",
+                    "Shoulder muscles (deltoids)",
+                    "Abdominal muscles (rectus abdominis and obliques)",
+                    "Back muscles (erector spinae and latissimus dorsi)",
+                    "Gluteal muscles (gluteus maximus)",
+                    "Thigh muscles (quadriceps)"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Upward Facing Dog Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Upward Facing Dog with leg lift",
+                    "Upward Facing Dog with arm reach",
+                    "Upward Facing Dog with side stretch",
+                    "Upward Facing Dog with twist",
+                    "Upward Facing Dog with hip opener"
+                ]
+            }
+        }
+    ]
+}

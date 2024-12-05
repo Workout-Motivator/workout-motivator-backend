@@ -1,0 +1,75 @@
+{
+    "title": "Spine Backbend Stretch",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Spine Backbend Stretch Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on your back with your knees bent and feet flat on the ground.",
+                    "Place your hands on the ground beside your ears with your fingers pointing towards your shoulders.",
+                    "Press into your hands and lift your head, shoulders, and chest off the ground.",
+                    "Keep your elbows close to your body and engage your core to lift your hips off the ground as well.",
+                    "Hold the pose for a few breaths, then slowly lower back down to the starting position.",
+                    "Repeat for several repetitions, focusing on keeping your movements slow and controlled."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Spine Backbend Stretch Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Spine Backbend Stretch Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves posture by stretching the spine and opening up the chest",
+                    "Increases flexibility in the spine and surrounding muscles",
+                    "Relieves tension and pain in the back and neck",
+                    "Stimulates the nervous system and improves circulation",
+                    "Can help alleviate symptoms of depression and anxiety"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Spine Backbend Stretch Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Erector Spinae",
+                    "Quadratus Lumborum",
+                    "Abdominals",
+                    "Glutes",
+                    "Hamstrings"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Spine Backbend Stretch Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Spine Extension Stretch",
+                    "Backbend Bridge Pose",
+                    "Cobra Pose",
+                    "Upward Facing Dog Pose",
+                    "Camel Pose"
+                ]
+            }
+        }
+    ]
+}

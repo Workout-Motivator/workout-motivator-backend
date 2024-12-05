@@ -1,0 +1,74 @@
+{
+    "title": "Exercise Ball Wall Squat",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Exercise Ball Wall Squat Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your back against a wall and place an exercise ball between your lower back and the wall.",
+                    "Step your feet out in front of you, about hip-width apart, and lower into a squat position, keeping your knees in line with your toes.",
+                    "As you lower down, roll the exercise ball down the wall, keeping it in contact with your lower back.",
+                    "Pause at the bottom of the squat, then push through your heels to stand back up, rolling the exercise ball back up the wall as you do so.",
+                    "Repeat for the desired number of reps or time."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Exercise Ball Wall Squat Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Exercise Ball Wall Squat Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the lower body muscles, including the quadriceps, hamstrings, and glutes",
+                    "Improves balance and stability",
+                    "Engages the core muscles for added abdominal strength",
+                    "Reduces pressure on the knees and lower back compared to traditional squats",
+                    "Can be modified for different fitness levels by adjusting the depth of the squat or using a lighter or heavier exercise ball"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Exercise Ball Wall Squat Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Exercise Ball Wall Squat Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Exercise Ball Squat",
+                    "Wall Sit with Exercise Ball",
+                    "Exercise Ball Wall Squat with Calf Raise",
+                    "Single Leg Exercise Ball Wall Squat",
+                    "Exercise Ball Wall Squat with Overhead Press"
+                ]
+            }
+        }
+    ]
+}

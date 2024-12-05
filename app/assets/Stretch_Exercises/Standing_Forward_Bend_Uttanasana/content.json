@@ -1,0 +1,76 @@
+{
+    "title": "Standing Forward Bend Uttanasana",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Standing Forward Bend Uttanasana Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet hip-width apart and your arms at your sides.",
+                    "Take a deep breath in and raise your arms above your head.",
+                    "Exhale and fold forward from your hips, keeping your back straight.",
+                    "Place your hands on the floor or on your shins, depending on your flexibility.",
+                    "Relax your head and neck and let your arms hang down towards the floor.",
+                    "Hold the pose for 30 seconds to 1 minute, breathing deeply.",
+                    "To release the pose, inhale and slowly roll up to standing, one vertebra at a time."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Standing Forward Bend Uttanasana Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Standing Forward Bend Uttanasana Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Increases flexibility in the hamstrings",
+                    "Improves range of motion in the hips",
+                    "Stretches the lower back muscles",
+                    "Helps to prevent injury in the lower body",
+                    "Can alleviate lower back pain"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Standing Forward Bend Uttanasana Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Hamstrings",
+                    "Glutes",
+                    "Lower back",
+                    "Calf muscles",
+                    "Hip flexors"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Standing Forward Bend Uttanasana Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "seated-forward-bend-paschimottanasana",
+                    "wide-legged-forward-bend-prasarita-padottanasana",
+                    "standing-wide-legged-forward-bend-uttanasana",
+                    "standing-half-forward-bend-ardha-uttanasana",
+                    "downward-facing-dog-adho-mukha-svanasana"
+                ]
+            }
+        }
+    ]
+}

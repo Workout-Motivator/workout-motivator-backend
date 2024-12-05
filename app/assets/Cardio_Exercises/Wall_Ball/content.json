@@ -1,0 +1,82 @@
+{
+    "title": "Wall Ball",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Wall Ball Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart, facing a wall.",
+                    "Hold the wall ball at chest height with both hands.",
+                    "Squat down, keeping your back straight and your knees behind your toes.",
+                    "As you stand up, throw the ball against the wall with both hands, aiming for a target above your head.",
+                    "Catch the ball as it bounces back to you.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Wall Ball Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Wall Ball Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves cardiovascular endurance",
+                    "Increases lower body strength",
+                    "Develops upper body power and strength",
+                    "Enhances hand-eye coordination",
+                    "Improves overall body coordination and balance",
+                    "Engages multiple muscle groups at once",
+                    "Can be modified for different fitness levels",
+                    "Can be done alone or with a partner",
+                    "Provides a full-body workout"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Wall Ball Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Core",
+                    "Shoulders",
+                    "Chest",
+                    "Triceps"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Wall Ball Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Medicine ball slams",
+                    "Medicine ball squat throws",
+                    "Medicine ball Russian twists",
+                    "Medicine ball overhead throws",
+                    "Medicine ball partner tosses"
+                ]
+            }
+        }
+    ]
+}

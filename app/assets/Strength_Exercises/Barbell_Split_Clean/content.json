@@ -1,0 +1,81 @@
+{
+    "title": "Barbell Split Clean",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Barbell Split Clean Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start with the barbell on the ground in front of you, with your feet shoulder-width apart.",
+                    "Bend down and grip the barbell with both hands, palms facing down and hands shoulder-width apart.",
+                    "Stand up, lifting the barbell off the ground and bringing it to your thighs.",
+                    "Jump up and split your legs, with one foot forward and one foot back.",
+                    "As you jump, pull the barbell up to your shoulders, keeping your elbows high and your wrists straight.",
+                    "Lower the barbell back down to your thighs, and jump back to your starting position with your feet shoulder-width apart.",
+                    "Repeat the exercise for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Barbell Split Clean Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Barbell Split Clean Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens lower body muscles including quadriceps, hamstrings, and glutes",
+                    "Improves core stability and balance",
+                    "Increases bone density and joint strength",
+                    "Boosts metabolism and burns calories",
+                    "Enhances athletic performance and power",
+                    "Improves overall functional movement and daily activities"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Barbell Split Clean Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Glutes",
+                    "Calves",
+                    "Lower back",
+                    "Upper back",
+                    "Shoulders",
+                    "Triceps",
+                    "Forearms"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Barbell Split Clean Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "dumbbell-split-clean",
+                    "kettlebell-split-clean",
+                    "barbell-power-clean",
+                    "barbell-hang-clean",
+                    "barbell-clean-and-jerk"
+                ]
+            }
+        }
+    ]
+}

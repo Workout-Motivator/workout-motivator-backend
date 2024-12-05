@@ -1,0 +1,71 @@
+{
+    "title": "Finger Curls",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Finger Curls Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by sitting on a bench or chair with your feet flat on the ground.",
+                    "Hold a dumbbell in one hand with your palm facing up and your elbow resting on your thigh.",
+                    "Curl your fingers around the dumbbell, squeezing it tightly.",
+                    "Slowly lower the dumbbell back down to the starting position.",
+                    "Repeat for 10-15 reps on each hand.",
+                    "Switch hands and repeat the exercise."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Finger Curls Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Finger Curls Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the muscles in the fingers, hands, and forearms",
+                    "Improves grip strength and dexterity",
+                    "Helps prevent injuries such as carpal tunnel syndrome and tennis elbow",
+                    "Can be done with minimal equipment and in a variety of settings",
+                    "May improve performance in activities that require hand and grip strength, such as rock climbing or weightlifting"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Finger Curls Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Forearm flexors"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Finger Curls Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Reverse Finger Curls",
+                    "Plate Pinches",
+                    "Wrist Curls",
+                    "Farmer’s Walk",
+                    "Dead Hang"
+                ]
+            }
+        }
+    ]
+}

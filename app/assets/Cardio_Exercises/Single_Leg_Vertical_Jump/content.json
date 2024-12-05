@@ -1,0 +1,74 @@
+{
+    "title": "Single Leg Vertical Jump",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Single Leg Vertical Jump Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand on one leg with your knee slightly bent.",
+                    "Jump as high as you can, using only the strength of your standing leg.",
+                    "Land softly on the same leg, absorbing the impact with your muscles.",
+                    "Repeat for the desired number of repetitions, then switch legs and repeat."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Single Leg Vertical Jump Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Single Leg Vertical Jump Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves explosive power in the legs",
+                    "Increases vertical jump height",
+                    "Strengthens the muscles in the legs, particularly the quads, hamstrings, and calves",
+                    "Improves balance and stability",
+                    "Can help prevent injuries by strengthening the muscles and joints",
+                    "Can be done with minimal equipment and space"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Single Leg Vertical Jump Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Calf muscles",
+                    "Hamstrings",
+                    "Core muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Single Leg Vertical Jump Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single Leg Broad Jump",
+                    "Single Leg Box Jump",
+                    "Single Leg Hurdle Jump",
+                    "Single Leg Depth Jump",
+                    "Single Leg Squat Jump"
+                ]
+            }
+        }
+    ]
+}

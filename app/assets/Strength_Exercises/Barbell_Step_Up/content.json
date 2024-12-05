@@ -1,0 +1,79 @@
+{
+    "title": "Barbell Step Up",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Barbell Step Up Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by standing in front of a bench or step with a barbell resting on your shoulders.",
+                    "Place one foot on the bench or step, making sure your entire foot is securely on the surface.",
+                    "Push through your heel and lift your body up onto the bench or step, bringing your other foot up to meet the first one.",
+                    "Step back down with the same foot you started with, keeping your other foot on the bench or step.",
+                    "Repeat the exercise for the desired number of repetitions on one leg before switching to the other leg."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Barbell Step Up Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Barbell Step Up Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the lower body muscles, including the quadriceps, hamstrings, glutes, and calves",
+                    "Improves balance and stability",
+                    "Increases cardiovascular endurance",
+                    "Can be modified to target specific muscle groups or increase difficulty",
+                    "Can be done with minimal equipment and in a variety of settings"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Barbell Step Up Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Barbell Step Up Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Step up",
+                    "Kettlebell Step up",
+                    "Weighted Box Step up",
+                    "Single Leg Step up",
+                    "Reverse Lunge Step up",
+                    "Curtsy Lunge Step up",
+                    "Side Step up",
+                    "Explosive Step up",
+                    "Step up with Knee Raise",
+                    "Step up with Leg Extension"
+                ]
+            }
+        }
+    ]
+}

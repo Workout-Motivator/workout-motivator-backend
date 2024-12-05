@@ -1,0 +1,76 @@
+{
+    "title": "Weighted Svend Press",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Weighted Svend Press Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by standing with your feet shoulder-width apart and holding a dumbbell in each hand at shoulder height.",
+                    "Lower your body into a squat position, keeping your back straight and your knees behind your toes.",
+                    "As you rise up from the squat, press the dumbbells overhead, extending your arms fully.",
+                    "Lower the dumbbells back to shoulder height as you lower your body back into the squat position.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Weighted Svend Press Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Weighted Svend Press Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the chest, shoulders, and triceps",
+                    "Improves upper body strength and stability",
+                    "Can help improve posture and reduce shoulder pain",
+                    "Allows for variation in weight and resistance to challenge the muscles",
+                    "Can be modified for different fitness levels and abilities"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Weighted Svend Press Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Pectoralis major",
+                    "Anterior deltoids",
+                    "Triceps brachii"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Weighted Svend Press Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Unweighted Svend Press",
+                    "Single Arm Svend Press",
+                    "Alternating Arm Svend Press",
+                    "Double Arm Svend Press",
+                    "Resistance Band Svend Press",
+                    "Kettlebell Svend Press",
+                    "Dumbbell Svend Press",
+                    "Barbell Svend Press",
+                    "Medicine Ball Svend Press"
+                ]
+            }
+        }
+    ]
+}

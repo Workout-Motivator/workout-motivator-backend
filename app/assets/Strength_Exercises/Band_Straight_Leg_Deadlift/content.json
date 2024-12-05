@@ -1,0 +1,74 @@
+{
+    "title": "Band Straight Leg Deadlift",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Band Straight Leg Deadlift Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet hip-width apart and place a resistance band under the arches of both feet.",
+                    "Hold the ends of the band with both hands, palms facing inwards.",
+                    "Engage your core and hinge forward at the hips, keeping your back straight and your knees slightly bent.",
+                    "Lower the band towards the ground, keeping your arms straight and your shoulders pulled back.",
+                    "Pause at the bottom of the movement, then slowly return to the starting position.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Band Straight Leg Deadlift Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Band Straight Leg Deadlift Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the hamstrings, glutes, and lower back muscles",
+                    "Improves hip mobility and stability",
+                    "Increases core strength and stability",
+                    "Helps to prevent lower back pain and injury",
+                    "Can be done with minimal equipment and in a variety of settings"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Band Straight Leg Deadlift Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Hamstrings",
+                    "Glutes",
+                    "Lower back",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Band Straight Leg Deadlift Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single leg straight leg deadlift",
+                    "Romanian deadlift",
+                    "Sumo deadlift",
+                    "Trap bar deadlift",
+                    "Kettlebell straight leg deadlift"
+                ]
+            }
+        }
+    ]
+}

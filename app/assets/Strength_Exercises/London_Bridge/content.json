@@ -1,0 +1,76 @@
+{
+    "title": "London Bridge",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "London Bridge Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your arms at your sides.",
+                    "Step your right foot forward and bend your right knee, keeping your left leg straight.",
+                    "Extend your arms straight out in front of you at shoulder height.",
+                    "Bring your left arm up and your right arm down, crossing them in front of your body.",
+                    "Uncross your arms and bring them back to shoulder height.",
+                    "Step your right foot back to its starting position.",
+                    "Step your left foot forward and repeat the exercise on the other side."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "London Bridge Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "London Bridge Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves cardiovascular health",
+                    "Strengthens leg muscles",
+                    "Improves balance and coordination",
+                    "Increases endurance and stamina",
+                    "Can be done anywhere with no equipment needed"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "London Bridge Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Glutes",
+                    "Hamstrings",
+                    "Quadriceps",
+                    "Calves",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "London Bridge Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "London Bridge is Falling Down",
+                    "London Bridge is Broken Down",
+                    "London Bridge is Falling",
+                    "London Bridge is Falling Apart",
+                    "London Bridge is Falling in the Water"
+                ]
+            }
+        }
+    ]
+}

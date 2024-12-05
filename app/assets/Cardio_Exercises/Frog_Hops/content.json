@@ -1,0 +1,73 @@
+{
+    "title": "Frog Hops",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Frog Hops Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start in a squat position with your feet shoulder-width apart and your hands clasped in front of your chest.",
+                    "Jump forward as far as you can, landing softly on the balls of your feet.",
+                    "Immediately jump back to the starting position, again landing softly on the balls of your feet.",
+                    "Repeat for the desired number of reps or time."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Frog Hops Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Frog Hops Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves cardiovascular endurance",
+                    "Strengthens lower body muscles, including quadriceps, hamstrings, and glutes",
+                    "Increases explosive power and speed",
+                    "Improves balance and coordination",
+                    "Can be done with minimal equipment and in a small space"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Frog Hops Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calf muscles",
+                    "Core muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Frog Hops Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single leg frog hops",
+                    "Side-to-side frog hops",
+                    "Forward and backward frog hops",
+                    "Weighted frog hops",
+                    "Explosive frog hops"
+                ]
+            }
+        }
+    ]
+}

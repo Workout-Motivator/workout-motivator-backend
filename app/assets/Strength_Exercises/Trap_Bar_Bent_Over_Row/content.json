@@ -1,0 +1,77 @@
+{
+    "title": "Trap Bar Bent Over Row",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Trap Bar Bent Over Row Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand in the center of a trap bar with your feet shoulder-width apart.",
+                    "Bend your knees slightly and hinge forward at the hips, keeping your back straight and your core engaged.",
+                    "Grasp the handles of the trap bar with an overhand grip.",
+                    "Keeping your elbows close to your body, pull the trap bar up towards your chest, squeezing your shoulder blades together at the top of the movement.",
+                    "Lower the trap bar back down to the starting position, keeping your back straight and your core engaged throughout the exercise.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Trap Bar Bent Over Row Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Trap Bar Bent Over Row Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the abdominal muscles",
+                    "Improves core stability",
+                    "Increases hip flexor flexibility",
+                    "Improves overall body control and coordination",
+                    "Can be modified for different fitness levels",
+                    "Can be done without equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Trap Bar Bent Over Row Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Trapezius",
+                    "Rhomboids",
+                    "Latissimus dorsi",
+                    "Erector spinae",
+                    "Posterior deltoids",
+                    "Biceps brachii"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Trap Bar Bent Over Row Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Trap bar bent over row with underhand grip",
+                    "Trap bar bent over row with overhand grip",
+                    "Single arm trap bar bent over row",
+                    "Trap bar high pull",
+                    "Trap bar deadlift"
+                ]
+            }
+        }
+    ]
+}

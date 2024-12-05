@@ -1,0 +1,74 @@
+{
+    "title": "Resistance Band Squat",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Resistance Band Squat Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Step 1: Stand with your feet shoulder-width apart and place the resistance band around your thighs, just above your knees.",
+                    "Step 2: Hold the ends of the resistance band with your hands and bring them up to shoulder height.",
+                    "Step 3: Lower your body into a squat position, keeping your back straight and your knees behind your toes.",
+                    "Step 4: Hold the squat position for a few seconds, then slowly return to the starting position.",
+                    "Step 5: Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Resistance Band Squat Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Resistance Band Squat Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets multiple muscle groups including quadriceps, glutes, hamstrings, and calves",
+                    "Improves lower body strength and endurance",
+                    "Increases stability and balance",
+                    "Can be modified for different fitness levels by adjusting the resistance band tension or using a different type of band",
+                    "Can be done anywhere with minimal equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Resistance Band Squat Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Resistance Band Squat Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Resistance Band Sumo Squat",
+                    "Resistance Band Goblet Squat",
+                    "Resistance Band Jump Squat",
+                    "Resistance Band Pistol Squat",
+                    "Resistance Band Bulgarian Split Squat"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "title": "Captains Chair Straight Leg Raise",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Captains Chair Straight Leg Raise Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Begin by sitting on the edge of a captain’s chair with your back straight and your hands gripping the handles on either side of your hips.",
+                    "Slowly lift your legs up towards your chest, keeping them straight and parallel to the ground.",
+                    "Hold this position for a few seconds, then slowly lower your legs back down to the starting position.",
+                    "Repeat this movement for the desired number of repetitions.",
+                    "Make sure to engage your core muscles throughout the exercise to maintain proper form and prevent injury."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Captains Chair Straight Leg Raise Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Captains Chair Straight Leg Raise Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the arms, shoulders, and core muscles",
+                    "Improves posture and body alignment",
+                    "Increases flexibility in the wrists and spine",
+                    "Helps to develop focus and concentration",
+                    "Can be used as a transition pose in a yoga flow sequence"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Captains Chair Straight Leg Raise Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus abdominis",
+                    "Obliques",
+                    "Hip flexors"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Captains Chair Straight Leg Raise Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "captain’s chair bent knee raise",
+                    "captain’s chair oblique knee raise",
+                    "hanging straight leg raise",
+                    "lying straight leg raise",
+                    "weighted captain’s chair straight leg raise"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "title": "Band Kneeling Pulldown",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Band Kneeling Pulldown Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Attach a resistance band to a high anchor point, such as a pull-up bar or sturdy hook.",
+                    "Kneel down in front of the anchor point and grab the resistance band with both hands, palms facing down.",
+                    "Engage your core and keep your back straight as you pull the band down towards your chest, bending your elbows and squeezing your shoulder blades together.",
+                    "Pause for a moment at the bottom of the movement, then slowly release the band back to the starting position.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Band Kneeling Pulldown Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Band Kneeling Pulldown Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the upper back muscles, specifically the latissimus dorsi",
+                    "Improves posture and spinal alignment",
+                    "Increases upper body strength and endurance",
+                    "Can be modified for different fitness levels by adjusting the resistance band tension",
+                    "Requires minimal equipment and can be done at home or in a gym"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Band Kneeling Pulldown Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Latissimus dorsi",
+                    "Trapezius",
+                    "Rhomboids",
+                    "Biceps"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Band Kneeling Pulldown Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single arm kneeling pulldown",
+                    "Wide grip kneeling pulldown",
+                    "Narrow grip kneeling pulldown",
+                    "Reverse grip kneeling pulldown",
+                    "Assisted kneeling pulldown",
+                    "Resistance band kneeling pulldown"
+                ]
+            }
+        }
+    ]
+}

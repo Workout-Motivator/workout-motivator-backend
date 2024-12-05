@@ -1,0 +1,77 @@
+{
+    "title": "Curtsey Squat",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Curtsey Squat Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet hip-width apart and your hands on your hips.",
+                    "Step your left foot back and to the right so that your feet are in a curtsy position.",
+                    "Bend both knees and lower your body down towards the ground, keeping your chest lifted and your core engaged.",
+                    "Push through your front heel to stand back up to starting position.",
+                    "Repeat on the other side, stepping your right foot back and to the left.",
+                    "Continue alternating sides for the desired number of reps or time."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Curtsey Squat Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Curtsey Squat Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the glutes, quads, and hamstrings",
+                    "Improves balance and stability",
+                    "Targets the inner and outer thighs",
+                    "Engages the core muscles",
+                    "Can be modified to increase or decrease intensity",
+                    "Helps to improve overall lower body strength and tone"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Curtsey Squat Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Glutes",
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Adductors",
+                    "Calves",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Curtsey Squat Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Reverse Curtsey Squat",
+                    "Weighted Curtsey Squat",
+                    "Jumping Curtsey Squat",
+                    "Curtsy Lunge with Side Leg Lift",
+                    "Curtsy Lunge with Bicep Curl"
+                ]
+            }
+        }
+    ]
+}

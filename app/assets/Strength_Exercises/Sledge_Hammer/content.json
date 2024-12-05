@@ -1,0 +1,76 @@
+{
+    "title": "Sledge Hammer",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Sledge Hammer Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold the sledgehammer with both hands, gripping it near the end of the handle.",
+                    "Swing the sledgehammer over your head, keeping your arms straight and your core engaged.",
+                    "As you bring the sledgehammer down, bend your knees and use your hips to generate power.",
+                    "Strike the object you are hitting with the sledgehammer, using a controlled motion and keeping your arms and core engaged.",
+                    "Repeat the exercise for the desired number of repetitions or until fatigued."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Sledge Hammer Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Sledge Hammer Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Full body workout",
+                    "Improves cardiovascular endurance",
+                    "Increases grip strength",
+                    "Builds core stability and strength",
+                    "Improves hand-eye coordination",
+                    "Can be used for functional training and sports-specific movements",
+                    "Provides a unique and challenging workout experience"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Sledge Hammer Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Shoulders",
+                    "Back",
+                    "Core",
+                    "Arms",
+                    "Forearms"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Sledge Hammer Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single Arm Sledge Hammer Swings",
+                    "Double Arm Sledge Hammer Swings",
+                    "Sledge Hammer Slams",
+                    "Overhead Sledge Hammer Swings",
+                    "Side-to-Side Sledge Hammer Swings"
+                ]
+            }
+        }
+    ]
+}

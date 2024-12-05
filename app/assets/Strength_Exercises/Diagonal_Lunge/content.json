@@ -1,0 +1,75 @@
+{
+    "title": "Diagonal Lunge",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Diagonal Lunge Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet hip-width apart and your arms at your sides.",
+                    "Take a large step forward with your left foot, crossing it diagonally in front of your right foot.",
+                    "Bend both knees and lower your body until your left thigh is parallel to the floor and your right knee is hovering just above the ground.",
+                    "Push through your left heel to return to the starting position.",
+                    "Repeat on the other side, stepping forward with your right foot and crossing it diagonally in front of your left foot.",
+                    "Continue alternating sides for the desired number of repetitions or time."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Diagonal Lunge Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Diagonal Lunge Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets multiple muscle groups including the glutes, quads, hamstrings, and core",
+                    "Improves balance and stability",
+                    "Increases flexibility in the hips and groin",
+                    "Can be modified to increase or decrease intensity",
+                    "Helps to improve overall lower body strength and power"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Diagonal Lunge Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Core muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Diagonal Lunge Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Reverse Diagonal Lunge",
+                    "Diagonal Lunge with Twist",
+                    "Diagonal Lunge with Knee Drive",
+                    "Diagonal Lunge with Bicep Curl",
+                    "Diagonal Lunge with Overhead Press"
+                ]
+            }
+        }
+    ]
+}

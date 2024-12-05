@@ -1,0 +1,79 @@
+{
+    "title": "Pulse Row",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Pulse Row Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by sitting on the floor with your legs extended in front of you.",
+                    "Place your hands on the floor behind you, fingers pointing towards your feet.",
+                    "Lift your hips off the ground, coming into a reverse tabletop position.",
+                    "Engage your core and lift your right leg off the ground, bringing your knee towards your chest.",
+                    "Extend your right leg out in front of you, keeping it lifted off the ground.",
+                    "Begin pulsing your right leg up and down, keeping it straight and engaged.",
+                    "Repeat the pulsing motion for 10-15 reps, then switch to the left leg.",
+                    "Complete 2-3 sets on each leg, taking breaks as needed."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Pulse Row Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Pulse Row Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Stretches the hips, thighs, and ankles",
+                    "Strengthens the arms and shoulders",
+                    "Improves digestion and relieves constipation",
+                    "Calms the mind and reduces stress",
+                    "Can help alleviate menstrual discomfort"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Pulse Row Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Upper back muscles (trapezius, rhomboids)",
+                    "Rear shoulder muscles (posterior deltoids)",
+                    "Biceps",
+                    "Forearm muscles (brachioradialis)"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Pulse Row Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "pulse-row with dumbbells",
+                    "pulse-row with resistance bands",
+                    "pulse-row with kettlebells",
+                    "single-arm pulse-row",
+                    "inverted pulse-row",
+                    "wide-grip pulse-row",
+                    "narrow-grip pulse-row",
+                    "plyometric pulse-row"
+                ]
+            }
+        }
+    ]
+}

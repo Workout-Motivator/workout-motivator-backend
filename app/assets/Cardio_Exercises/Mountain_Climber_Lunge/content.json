@@ -1,0 +1,79 @@
+{
+    "title": "Mountain Climber Lunge",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Mountain Climber Lunge Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start in a high plank position with your hands shoulder-width apart and your feet hip-width apart.",
+                    "Bring your right foot forward and place it next to your right hand.",
+                    "Lower your left knee to the ground and keep your right knee bent at a 90-degree angle.",
+                    "Push off your right foot and return to the high plank position.",
+                    "Repeat on the other side, bringing your left foot forward and lowering your right knee to the ground.",
+                    "Continue alternating sides for the desired number of repetitions or time."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Mountain Climber Lunge Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Mountain Climber Lunge Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves cardiovascular endurance",
+                    "Strengthens lower body muscles including quads, hamstrings, and glutes",
+                    "Engages core muscles for stability and balance",
+                    "Increases flexibility in hip flexors and ankles",
+                    "Can be modified for different fitness levels and goals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Mountain Climber Lunge Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Glutes",
+                    "Calves",
+                    "Abdominals",
+                    "Obliques",
+                    "Chest",
+                    "Shoulders",
+                    "Triceps"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Mountain Climber Lunge Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Reverse Mountain Climber Lunge",
+                    "Side-to-Side Mountain Climber Lunge",
+                    "Jumping Mountain Climber Lunge",
+                    "Weighted Mountain Climber Lunge",
+                    "Single-Leg Mountain Climber Lunge"
+                ]
+            }
+        }
+    ]
+}

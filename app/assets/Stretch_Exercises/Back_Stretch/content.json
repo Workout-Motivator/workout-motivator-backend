@@ -1,0 +1,78 @@
+{
+    "title": "Back Stretch",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Back Stretch Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your arms at your sides.",
+                    "Slowly bend forward at the waist, keeping your knees slightly bent and your back straight.",
+                    "Reach your hands towards the ground and hold the stretch for 10-15 seconds.",
+                    "Slowly rise back up to a standing position.",
+                    "Repeat the stretch 2-3 times."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Back Stretch Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Back Stretch Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Relieves tension and pain in the back muscles",
+                    "Improves flexibility and range of motion in the spine",
+                    "Reduces the risk of back injuries",
+                    "Helps to correct poor posture",
+                    "Can be done anywhere without any equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Back Stretch Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Erector Spinae",
+                    "Trapezius",
+                    "Rhomboids",
+                    "Latissimus Dorsi",
+                    "Hamstrings"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Back Stretch Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Standing back extension",
+                    "Seated back extension",
+                    "Cat-cow stretch",
+                    "Child’s pose",
+                    "Thread the needle stretch",
+                    "Downward facing dog",
+                    "Cobra pose",
+                    "Bridge pose",
+                    "Supine twist"
+                ]
+            }
+        }
+    ]
+}

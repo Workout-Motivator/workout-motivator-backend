@@ -1,0 +1,73 @@
+{
+    "title": "Dumbbell Seated Kickback",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Seated Kickback Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by sitting on a bench with your feet flat on the ground and a dumbbell in each hand.",
+                    "Lean forward slightly and bring your upper arms close to your sides, with your forearms extended straight back and the dumbbells in your hands.",
+                    "Exhale and extend your arms back, squeezing your triceps at the top of the movement.",
+                    "Inhale and slowly lower the dumbbells back to the starting position.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Seated Kickback Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Seated Kickback Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the triceps muscles, helping to tone and strengthen the back of the arms",
+                    "Can be done with a relatively light weight, making it accessible for beginners",
+                    "Requires minimal equipment, only a set of dumbbells and a bench or chair",
+                    "Helps to improve overall arm definition and can contribute to a more balanced physique",
+                    "Can be easily modified by adjusting the weight or number of reps to increase or decrease the intensity"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Seated Kickback Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Triceps brachii"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Seated Kickback Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Standing Kickback",
+                    "Dumbbell Bent Over Kickback",
+                    "Cable Seated Kickback",
+                    "Cable Standing Kickback",
+                    "Cable Bent Over Kickback",
+                    "Resistance Band Seated Kickback",
+                    "Resistance Band Standing Kickback",
+                    "Resistance Band Bent Over Kickback"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "title": "Cable Pulldown",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Cable Pulldown Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Adjust the weight on the cable machine to a comfortable level.",
+                    "Attach a wide grip bar to the cable machine.",
+                    "Stand facing the machine and grab the bar with both hands, palms facing away from you.",
+                    "Step back a few feet to create tension in the cable.",
+                    "Keep your back straight and your chest up as you pull the bar down towards your chest.",
+                    "Pause for a moment at the bottom of the movement, squeezing your shoulder blades together.",
+                    "Slowly release the bar back up to the starting position.",
+                    "Repeat for desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Cable Pulldown Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Cable Pulldown Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the latissimus dorsi muscle, which is the largest muscle in the back and helps with overall upper body strength and posture",
+                    "Can be adjusted to target different areas of the back, such as the lower or upper region",
+                    "Allows for a full range of motion, which can help improve flexibility and mobility in the shoulders and back",
+                    "Can be done with different variations, such as using different grips or handles, to add variety to your workout routine",
+                    "Can be easily modified for different fitness levels, as the weight can be adjusted and the exercise can be done with or without a bench"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cable Pulldown Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Latissimus dorsi",
+                    "Trapezius",
+                    "Rhomboids",
+                    "Biceps",
+                    "Forearms"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cable Pulldown Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Reverse grip cable pulldown",
+                    "Wide grip cable pulldown",
+                    "Narrow grip cable pulldown",
+                    "Single arm cable pulldown",
+                    "Behind the neck cable pulldown",
+                    "Close grip cable pulldown",
+                    "Assisted cable pulldown",
+                    "Isometric cable pulldown"
+                ]
+            }
+        }
+    ]
+}

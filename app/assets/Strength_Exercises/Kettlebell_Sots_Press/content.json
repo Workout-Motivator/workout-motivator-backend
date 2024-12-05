@@ -1,0 +1,76 @@
+{
+    "title": "Kettlebell Sots Press",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Sots Press Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by standing with your feet shoulder-width apart and holding a kettlebell in front of your chest with both hands.",
+                    "Lower your body into a squat position, keeping your back straight and your chest up.",
+                    "Press the kettlebell overhead, extending your arms fully and keeping your core engaged.",
+                    "Lower the kettlebell back down to your chest and repeat for the desired number of reps.",
+                    "Make sure to keep your elbows close to your body and your wrists straight throughout the exercise.",
+                    "As you become more comfortable with the movement, you can increase the weight of the kettlebell or add more reps to challenge yourself."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Sots Press Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Sots Press Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves shoulder mobility and stability",
+                    "Strengthens the upper back and core muscles",
+                    "Increases overall body strength and power",
+                    "Improves posture and alignment",
+                    "Challenges balance and coordination"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Sots Press Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Shoulders (deltoids)",
+                    "Triceps",
+                    "Chest (pectoralis major)",
+                    "Upper back (trapezius and rhomboids)",
+                    "Core (abdominals and lower back)",
+                    "Legs (quadriceps and glutes)"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Sots Press Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Kettlebell Sots Press with single arm",
+                    "Kettlebell Sots Press with double kettlebells",
+                    "Kettlebell Sots Press with a pause at the bottom",
+                    "Kettlebell Sots Press with a squat in between each press",
+                    "Kettlebell Sots Press with a push press at the top"
+                ]
+            }
+        }
+    ]
+}

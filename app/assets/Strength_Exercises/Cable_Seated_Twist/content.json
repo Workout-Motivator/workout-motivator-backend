@@ -1,0 +1,74 @@
+{
+    "title": "Cable Seated Twist",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Cable Seated Twist Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by sitting on the floor with your legs extended in front of you.",
+                    "Grab a cable handle with both hands and hold it at chest height.",
+                    "Engage your core and twist your torso to the right, pulling the cable with you.",
+                    "Hold the twist for a few seconds, then slowly return to the starting position.",
+                    "Repeat the twist to the left side, again holding for a few seconds before returning to the starting position.",
+                    "Continue alternating twists for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Cable Seated Twist Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Cable Seated Twist Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets glutes, hamstrings, and quads",
+                    "Improves hip mobility and stability",
+                    "Increases lower body strength and power",
+                    "Can be modified for different fitness levels",
+                    "Engages core muscles for added stability"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cable Seated Twist Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Obliques",
+                    "Rectus Abdominis",
+                    "Erector Spinae",
+                    "Transverse Abdominis"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cable Seated Twist Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "cable standing twist",
+                    "medicine ball seated twist",
+                    "weighted russian twist",
+                    "seated barbell twist",
+                    "standing barbell twist"
+                ]
+            }
+        }
+    ]
+}

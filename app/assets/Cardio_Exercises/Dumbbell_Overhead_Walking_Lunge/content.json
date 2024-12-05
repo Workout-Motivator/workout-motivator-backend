@@ -1,0 +1,76 @@
+{
+    "title": "Dumbbell Overhead Walking Lunge",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Overhead Walking Lunge Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart, holding a dumbbell in each hand at shoulder height.",
+                    "Step forward with your right foot and lower your body into a lunge, keeping your back straight and your front knee over your ankle.",
+                    "As you lower your body, press the dumbbells overhead until your arms are fully extended.",
+                    "Push off your right foot and bring it back to the starting position, lowering the dumbbells back to shoulder height.",
+                    "Repeat the lunge with your left foot and continue alternating legs for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Overhead Walking Lunge Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Overhead Walking Lunge Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the legs, glutes, and core muscles",
+                    "Improves balance and stability",
+                    "Increases cardiovascular endurance",
+                    "Targets multiple muscle groups at once",
+                    "Can be modified for different fitness levels and goals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Overhead Walking Lunge Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Core",
+                    "Shoulders",
+                    "Triceps"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Overhead Walking Lunge Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Reverse Lunge",
+                    "Dumbbell Front Rack Walking Lunge",
+                    "Dumbbell Goblet Walking Lunge",
+                    "Dumbbell Farmer’s Walk Lunge",
+                    "Dumbbell Step-Up Lunge"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "title": "Prone Cervical Extension",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Prone Cervical Extension Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying face down on a comfortable surface, such as a yoga mat or exercise mat.",
+                    "Place your hands at your sides, palms facing down.",
+                    "Slowly lift your head and chest off the ground, keeping your neck in a neutral position.",
+                    "Hold this position for 5-10 seconds, focusing on the stretch in your neck and upper back.",
+                    "Slowly lower your head and chest back down to the ground.",
+                    "Repeat this exercise for 10-15 repetitions, or as recommended by your healthcare provider."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Prone Cervical Extension Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Prone Cervical Extension Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves posture by strengthening the muscles in the neck and upper back",
+                    "Reduces neck pain and stiffness by increasing flexibility in the cervical spine",
+                    "Helps prevent future neck injuries by improving the stability of the neck muscles",
+                    "Can be done anywhere without any equipment",
+                    "May also improve breathing and reduce tension headaches"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Prone Cervical Extension Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Erector spinae",
+                    "Splenius capitis",
+                    "Splenius cervicis",
+                    "Semispinalis capitis",
+                    "Semispinalis cervicis",
+                    "Multifidus",
+                    "Rotatores",
+                    "Longissimus thoracis"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Prone Cervical Extension Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Prone Cervical Retraction",
+                    "Prone Cervical Rotation",
+                    "Prone Cervical Flexion",
+                    "Prone Cervical Lateral Flexion",
+                    "Prone Cervical Isometric Extension"
+                ]
+            }
+        }
+    ]
+}

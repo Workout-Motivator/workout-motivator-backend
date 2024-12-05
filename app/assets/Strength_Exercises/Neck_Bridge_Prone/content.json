@@ -1,0 +1,77 @@
+{
+    "title": "Neck Bridge Prone",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Neck Bridge Prone Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying face down on a mat or soft surface.",
+                    "Place your hands by your sides, palms facing down.",
+                    "Slowly lift your head and chest off the ground, keeping your neck in a neutral position.",
+                    "Hold this position for a few seconds, then slowly lower your head and chest back down to the ground.",
+                    "Repeat for several repetitions, gradually increasing the amount of time you hold the position.",
+                    "Be sure to keep your neck in a neutral position throughout the exercise, and avoid any jerky or sudden movements."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_0.webp"
+        },
+        {
+            "type": "section",
+            "title": "Neck Bridge Prone Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Neck Bridge Prone Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the muscles in the neck, shoulders, and upper back",
+                    "Improves posture and alignment of the spine",
+                    "Increases flexibility and range of motion in the neck",
+                    "Can help alleviate neck and shoulder pain",
+                    "May improve athletic performance in sports that require strong neck muscles, such as wrestling or football"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Neck Bridge Prone Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Trapezius",
+                    "Rhomboids",
+                    "Erector spinae",
+                    "Gluteus maximus",
+                    "Hamstrings"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Neck Bridge Prone Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Neck Bridge Supine",
+                    "Neck Bridge with Leg Lifts",
+                    "Neck Bridge with Arm Reach",
+                    "Neck Bridge with Shoulder Taps",
+                    "Neck Bridge with Hip Lifts",
+                    "Neck Bridge with Leg Crossovers",
+                    "Neck Bridge with Knee Tucks"
+                ]
+            }
+        }
+    ]
+}

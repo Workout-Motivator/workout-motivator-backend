@@ -1,0 +1,74 @@
+{
+    "title": "Elevated Single Leg Hip Thrust",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Elevated Single Leg Hip Thrust Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Begin by lying on your back with your knees bent and feet flat on the ground.",
+                    "Extend one leg straight up towards the ceiling, keeping the other foot planted on the ground.",
+                    "Place your arms out to the side for balance.",
+                    "Engage your glutes and lift your hips up towards the ceiling, keeping your extended leg straight.",
+                    "Pause at the top of the movement, then slowly lower your hips back down to the ground.",
+                    "Repeat for the desired number of reps, then switch legs and repeat on the other side."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Elevated Single Leg Hip Thrust Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Elevated Single Leg Hip Thrust Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the glutes, hamstrings, and lower back muscles",
+                    "Improves hip stability and balance",
+                    "Increases hip extension strength and power",
+                    "Can help alleviate lower back pain by strengthening the muscles that support the spine",
+                    "Can be modified to increase or decrease difficulty by adjusting the height of the elevated surface"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Elevated Single Leg Hip Thrust Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Gluteus Maximus",
+                    "Hamstrings",
+                    "Erector Spinae",
+                    "Abdominals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Elevated Single Leg Hip Thrust Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single Leg Hip Thrust",
+                    "Elevated Double Leg Hip Thrust",
+                    "Weighted Single Leg Hip Thrust",
+                    "Single Leg Hip Thrust with Resistance Band",
+                    "Single Leg Hip Thrust with Medicine Ball"
+                ]
+            }
+        }
+    ]
+}

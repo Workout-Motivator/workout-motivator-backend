@@ -1,0 +1,75 @@
+{
+    "title": "Single Leg Stand",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Single Leg Stand Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet hip-width apart and your arms at your sides.",
+                    "Lift one foot off the ground and balance on the other foot.",
+                    "Hold the position for 30 seconds.",
+                    "Switch legs and repeat for another 30 seconds.",
+                    "For an added challenge, try closing your eyes or standing on a pillow or unstable surface."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Single Leg Stand Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Single Leg Stand Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves balance and stability",
+                    "Strengthens the muscles in the legs, particularly the glutes, quadriceps, and calves",
+                    "Increases ankle and foot strength",
+                    "Improves proprioception (the body’s awareness of its position in space)",
+                    "Can be done anywhere without equipment",
+                    "Can be modified to increase difficulty by adding weights or closing eyes"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Single Leg Stand Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Glutes",
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Calf muscles",
+                    "Core muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Single Leg Stand Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single Leg Stand with Knee Raise",
+                    "Single Leg Stand with Toe Touch",
+                    "Single Leg Stand with Arm Reach",
+                    "Single Leg Stand with Medicine Ball Toss",
+                    "Single Leg Stand with Resistance Band"
+                ]
+            }
+        }
+    ]
+}

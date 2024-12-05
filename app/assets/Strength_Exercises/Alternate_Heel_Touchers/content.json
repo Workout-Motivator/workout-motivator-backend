@@ -1,0 +1,74 @@
+{
+    "title": "Alternate Heel Touchers",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Alternate Heel Touchers Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying flat on your back with your knees bent and your feet flat on the ground.",
+                    "Place your arms by your sides with your palms facing down.",
+                    "Engage your core muscles and lift your shoulders off the ground, keeping your lower back pressed into the floor.",
+                    "Bring your right hand up to touch your right heel, then lower your shoulder blades back down to the ground.",
+                    "Repeat on the other side, bringing your left hand up to touch your left heel.",
+                    "Continue alternating sides, keeping your core engaged and your shoulder blades lifted off the ground throughout the exercise.",
+                    "Complete 2-3 sets of 10-15 repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Alternate Heel Touchers Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Alternate Heel Touchers Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the abdominal muscles",
+                    "Improves core stability",
+                    "Increases flexibility in the lower back",
+                    "Helps to reduce lower back pain",
+                    "Improves overall balance and coordination"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Alternate Heel Touchers Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus abdominis",
+                    "Obliques",
+                    "Hip flexors"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Alternate Heel Touchers Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Criss-cross crunches",
+                    "Oblique V-ups",
+                    "Russian twists",
+                    "Side plank dips",
+                    "Side plank with hip dips"
+                ]
+            }
+        }
+    ]
+}

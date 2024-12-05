@@ -1,0 +1,79 @@
+{
+    "title": "Kettlebell Single Arm Swing",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Single Arm Swing Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold the kettlebell in one hand.",
+                    "Bend your knees slightly and hinge at the hips, keeping your back straight.",
+                    "Swing the kettlebell back between your legs, keeping your arm straight.",
+                    "Drive your hips forward and swing the kettlebell up to shoulder height, using the momentum from your hips.",
+                    "Let the kettlebell swing back down between your legs and repeat for desired number of reps.",
+                    "Switch arms and repeat the exercise on the other side."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Single Arm Swing Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Single Arm Swing Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Full body workout",
+                    "Improves strength and power",
+                    "Increases cardiovascular endurance",
+                    "Enhances core stability and balance",
+                    "Targets multiple muscle groups including shoulders, legs, and core",
+                    "Can be modified for different fitness levels",
+                    "Improves coordination and agility",
+                    "Can be done with minimal equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Single Arm Swing Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Glutes",
+                    "Hamstrings",
+                    "Quadriceps",
+                    "Core",
+                    "Shoulders",
+                    "Back"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Single Arm Swing Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "kettlebell double arm swing",
+                    "kettlebell alternating arm swing",
+                    "kettlebell high pull",
+                    "kettlebell snatch",
+                    "kettlebell clean and press"
+                ]
+            }
+        }
+    ]
+}

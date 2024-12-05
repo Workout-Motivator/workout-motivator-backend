@@ -1,0 +1,74 @@
+{
+    "title": "Lever Lateral Raise",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Lever Lateral Raise Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a dumbbell in each hand.",
+                    "Extend your arms out to the sides, parallel to the floor, with your palms facing down.",
+                    "Bend your elbows slightly and engage your shoulder blades to lift the dumbbells up and out to the sides, keeping your arms straight.",
+                    "Pause at the top of the movement, then slowly lower the dumbbells back down to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Lever Lateral Raise Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Lever Lateral Raise Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the lateral deltoid muscle, which helps to widen the shoulders and create a more defined look",
+                    "Improves shoulder stability and mobility",
+                    "Can be done with lighter weights, making it a good exercise for beginners or those with shoulder injuries",
+                    "Allows for a greater range of motion compared to traditional dumbbell lateral raises",
+                    "Engages the core muscles for added stability and balance"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Lever Lateral Raise Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Deltoid (shoulder)",
+                    "Trapezius (upper back)",
+                    "Supraspinatus (rotator cuff)",
+                    "Infraspinatus (rotator cuff)",
+                    "Teres minor (rotator cuff)"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Lever Lateral Raise Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Standing Lever Lateral Raise",
+                    "Seated Lever Lateral Raise",
+                    "Bent-Over Lever Lateral Raise",
+                    "One-Arm Lever Lateral Raise",
+                    "Reverse-Grip Lever Lateral Raise"
+                ]
+            }
+        }
+    ]
+}

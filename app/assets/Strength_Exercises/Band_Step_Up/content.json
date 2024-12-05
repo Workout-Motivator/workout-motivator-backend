@@ -1,0 +1,79 @@
+{
+    "title": "Band Step Up",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Band Step Up Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your arms at your sides.",
+                    "Step your right foot out to the side, keeping your left foot in place.",
+                    "Bring your left foot to meet your right foot.",
+                    "Step your left foot out to the side, keeping your right foot in place.",
+                    "Bring your right foot to meet your left foot.",
+                    "Repeat steps 2-5 for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Band Step Up Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Band Step Up Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the lower body muscles, including the glutes, quads, and hamstrings",
+                    "Improves balance and stability",
+                    "Increases cardiovascular endurance",
+                    "Can be modified to target different muscle groups by adjusting the height of the step or using different resistance bands",
+                    "Low-impact exercise that is easy on the joints"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Band Step Up Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calf muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Band Step Up Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Box step up",
+                    "Lateral step up",
+                    "Weighted step up",
+                    "Single-leg step up",
+                    "Reverse step up",
+                    "Curtsy step up",
+                    "High step up",
+                    "Side step up",
+                    "Split squat step up",
+                    "Jump step up"
+                ]
+            }
+        }
+    ]
+}

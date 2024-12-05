@@ -1,0 +1,73 @@
+{
+    "title": "Cable Seated Chest Fly",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Cable Seated Chest Fly Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Adjust the cable machine so that the handles are at chest height.",
+                    "Sit on the bench with your back straight and your feet flat on the ground.",
+                    "Grasp the handles with your palms facing each other and your arms extended out to the sides.",
+                    "Slowly bring the handles together in front of your chest, squeezing your chest muscles as you do so.",
+                    "Pause for a moment at the top of the movement, then slowly release back to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Cable Seated Chest Fly Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Cable Seated Chest Fly Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the chest muscles, specifically the pectoralis major and minor",
+                    "Helps to improve upper body strength and muscle definition",
+                    "Allows for a greater range of motion compared to traditional chest fly exercises",
+                    "Can be easily adjusted to target different areas of the chest by changing the angle of the cables",
+                    "Provides a low-impact exercise option for those with shoulder or joint pain"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cable Seated Chest Fly Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Pectoralis Major",
+                    "Anterior Deltoids",
+                    "Serratus Anterior"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cable Seated Chest Fly Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Seated Chest Fly",
+                    "Machine Seated Chest Fly",
+                    "Resistance Band Seated Chest Fly",
+                    "Barbell Seated Chest Fly",
+                    "Single Arm Seated Chest Fly"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "title": "Standing Side Crunch",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Standing Side Crunch Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your arms at your sides.",
+                    "Place your right hand on your right hip and extend your left arm straight up towards the ceiling.",
+                    "Engage your core and lift your left leg off the ground, bending it at a 90-degree angle.",
+                    "Bring your left elbow down towards your left knee, crunching your side.",
+                    "Return to the starting position and repeat for 10-12 reps on one side before switching to the other side."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Standing Side Crunch Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Standing Side Crunch Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the oblique muscles, which are responsible for twisting and rotating the torso",
+                    "Improves core stability and balance",
+                    "Can help reduce waistline fat and improve overall body composition",
+                    "Can be done without equipment and in a small space",
+                    "Can be modified for different fitness levels by adjusting the range of motion or adding weights"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Standing Side Crunch Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Obliques",
+                    "Abdominals",
+                    "Hip flexors",
+                    "Quadriceps"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Standing Side Crunch Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Standing Oblique Crunch",
+                    "Standing Bicycle Crunch",
+                    "Standing Knee to Elbow Crunch",
+                    "Standing Russian Twist",
+                    "Standing Woodchopper"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,87 @@
+{
+    "title": "Walking on Treadmill",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Walking on Treadmill Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Put on comfortable workout clothes and athletic shoes.",
+                    "Approach the treadmill and turn it on.",
+                    "Step onto the treadmill and position yourself in the center of the belt.",
+                    "Press the start button and begin walking at a slow pace.",
+                    "Gradually increase the speed and incline to your desired level.",
+                    "Keep your posture upright and engage your core muscles.",
+                    "Continue walking for your desired amount of time.",
+                    "When finished, gradually decrease the speed and incline to a stop.",
+                    "Step off the treadmill and stretch your legs and back.",
+                    "Clean the treadmill with a disinfectant wipe or spray."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Walking on Treadmill Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Walking on Treadmill Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves cardiovascular health",
+                    "Burns calories and aids in weight loss",
+                    "Strengthens leg muscles",
+                    "Reduces stress and improves mood",
+                    "Can be done indoors regardless of weather conditions",
+                    "Can be adjusted for different fitness levels and goals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Walking on Treadmill Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Gastrocnemius",
+                    "Soleus",
+                    "Glutes",
+                    "Abdominals",
+                    "Obliques"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Walking on Treadmill Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Walking on Incline Treadmill",
+                    "Walking on Decline Treadmill",
+                    "Walking on Treadmill with Weights",
+                    "Walking on Treadmill with Resistance Bands",
+                    "Walking on Treadmill with High Knees",
+                    "Walking on Treadmill with Side Shuffles",
+                    "Walking on Treadmill with Backward Steps",
+                    "Walking on Treadmill with Lunges",
+                    "Walking on Treadmill with Jogging Intervals",
+                    "Walking on Treadmill with Sprinting Intervals"
+                ]
+            }
+        }
+    ]
+}

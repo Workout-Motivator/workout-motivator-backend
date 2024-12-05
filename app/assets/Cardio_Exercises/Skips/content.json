@@ -1,0 +1,79 @@
+{
+    "title": "Skips",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Skips Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your arms at your sides.",
+                    "Jump up and bring your left knee up towards your chest while simultaneously swinging your right arm forward.",
+                    "Land on your right foot and immediately jump up again, bringing your right knee up towards your chest while swinging your left arm forward.",
+                    "Continue alternating legs and arms, jumping as quickly as possible.",
+                    "Try to keep your movements light and bouncy, landing softly on the balls of your feet.",
+                    "Repeat for 30-60 seconds, or until you feel fatigued."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Skips Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Skips Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves cardiovascular health",
+                    "Increases endurance and stamina",
+                    "Burns calories and aids in weight loss",
+                    "Strengthens leg muscles",
+                    "Improves coordination and balance",
+                    "Can be done anywhere with minimal equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Skips Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Calves",
+                    "Glutes",
+                    "Abdominals",
+                    "Obliques",
+                    "Hip flexors"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Skips Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single leg skips",
+                    "Double leg skips",
+                    "Side-to-side skips",
+                    "High knee skips",
+                    "Butt kick skips",
+                    "Jump rope skips"
+                ]
+            }
+        }
+    ]
+}

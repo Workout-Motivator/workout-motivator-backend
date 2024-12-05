@@ -1,0 +1,79 @@
+{
+    "title": "Dumbbell Decline Bench Press",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Decline Bench Press Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Set up a decline bench at a 30-45 degree angle.",
+                    "Choose a pair of dumbbells that you can comfortably lift for 8-12 reps.",
+                    "Lie down on the bench with your feet secured at the end of the bench.",
+                    "Hold the dumbbells with an overhand grip and extend your arms straight up above your chest.",
+                    "Inhale and slowly lower the dumbbells towards your chest, keeping your elbows at a 45-degree angle.",
+                    "Pause for a moment at the bottom of the movement, then exhale and push the dumbbells back up to the starting position.",
+                    "Repeat for the desired number of reps.",
+                    "When finished, carefully place the dumbbells on the floor and sit up."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Decline Bench Press Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Decline Bench Press Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the lower portion of the chest muscles",
+                    "Increases strength and muscle mass in the chest, shoulders, and triceps",
+                    "Improves overall upper body pushing strength",
+                    "Engages the core muscles for stability and balance",
+                    "Allows for a greater range of motion compared to a flat bench press",
+                    "Can be modified for different fitness levels by adjusting the weight and angle of the bench"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Decline Bench Press Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Pectoralis major (lower fibers)",
+                    "Triceps brachii",
+                    "Anterior deltoids"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Decline Bench Press Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Incline Bench Press",
+                    "Dumbbell Flat Bench Press",
+                    "Barbell Decline Bench Press",
+                    "Barbell Incline Bench Press",
+                    "Barbell Flat Bench Press",
+                    "Machine Decline Press",
+                    "Machine Incline Press",
+                    "Machine Chest Press"
+                ]
+            }
+        }
+    ]
+}

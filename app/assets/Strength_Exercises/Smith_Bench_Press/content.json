@@ -1,0 +1,78 @@
+{
+    "title": "Smith Bench Press",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Smith Bench Press Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying flat on a bench with your feet firmly planted on the ground.",
+                    "Grasp the barbell with an overhand grip, hands slightly wider than shoulder-width apart.",
+                    "Lift the barbell off the rack and hold it directly above your chest with your arms fully extended.",
+                    "Slowly lower the barbell down towards your chest, keeping your elbows tucked in close to your body.",
+                    "Pause for a moment when the barbell touches your chest, then push it back up to the starting position.",
+                    "Repeat for the desired number of repetitions.",
+                    "When finished, carefully rack the barbell back onto the rack."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Smith Bench Press Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Smith Bench Press Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens chest muscles",
+                    "Improves upper body pushing strength",
+                    "Engages triceps and shoulders as secondary muscles",
+                    "Can be modified for different variations and muscle targeting",
+                    "Assists in building overall upper body mass and definition"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Smith Bench Press Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Pectoralis major (chest)",
+                    "Anterior deltoids (front shoulders)",
+                    "Triceps brachii (back of upper arms)",
+                    "Coracobrachialis (upper arm muscle)"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Smith Bench Press Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Incline Smith Bench Press",
+                    "Decline Smith Bench Press",
+                    "Close-Grip Smith Bench Press",
+                    "Wide-Grip Smith Bench Press",
+                    "Reverse-Grip Smith Bench Press",
+                    "Paused Smith Bench Press",
+                    "Smith Floor Press",
+                    "Smith Machine Push-Up"
+                ]
+            }
+        }
+    ]
+}

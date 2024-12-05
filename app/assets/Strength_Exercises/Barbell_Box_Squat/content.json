@@ -1,0 +1,82 @@
+{
+    "title": "Barbell Box Squat",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Barbell Box Squat Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Set up a barbell on a squat rack at a height that allows you to sit on a box or bench with your thighs parallel to the ground when you squat down.",
+                    "Load the barbell with an appropriate weight for your fitness level and goals.",
+                    "Stand in front of the barbell with your feet shoulder-width apart and your toes pointing slightly outward.",
+                    "Step forward and position yourself under the barbell so that it rests on your upper back, just below your neck.",
+                    "Grasp the barbell with an overhand grip that is slightly wider than shoulder-width apart.",
+                    "Take a deep breath and brace your core muscles.",
+                    "Squat down until your buttocks touch the box or bench, keeping your knees in line with your toes and your back straight.",
+                    "Pause briefly at the bottom of the squat, then push through your heels to stand back up to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Barbell Box Squat Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Barbell Box Squat Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the quadriceps, hamstrings, glutes, and lower back muscles",
+                    "Allows for a greater range of motion compared to traditional squats",
+                    "Reduces stress on the knees and lower back",
+                    "Improves overall lower body strength and power",
+                    "Can be used as a variation to traditional squats for added variety in a workout routine"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Barbell Box Squat Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Lower back",
+                    "Abdominals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Barbell Box Squat Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Barbell Back Squat",
+                    "Barbell Front Squat",
+                    "Dumbbell Box Squat",
+                    "Kettlebell Box Squat",
+                    "Single Leg Box Squat",
+                    "Sumo Box Squat",
+                    "Paused Box Squat",
+                    "Box Jump Squat",
+                    "Box Pistol Squat"
+                ]
+            }
+        }
+    ]
+}

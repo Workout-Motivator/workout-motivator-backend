@@ -1,0 +1,74 @@
+{
+    "title": "Reverse Chest Stretch",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Reverse Chest Stretch Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your arms extended behind you.",
+                    "Clasp your hands together behind your back.",
+                    "Gently lift your arms up and away from your body, keeping them straight.",
+                    "Hold the stretch for 10-15 seconds.",
+                    "Release and repeat as desired."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Reverse Chest Stretch Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Reverse Chest Stretch Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Relieves tension and tightness in the chest muscles",
+                    "Improves posture by opening up the chest and shoulders",
+                    "Increases flexibility in the chest and upper back",
+                    "Can help alleviate pain and discomfort in the neck and shoulders",
+                    "May improve breathing and lung capacity"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Reverse Chest Stretch Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Pectoralis Major",
+                    "Pectoralis Minor",
+                    "Anterior Deltoids",
+                    "Coracobrachialis",
+                    "Biceps Brachii"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Reverse Chest Stretch Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Reverse Chest Stretch with Wall",
+                    "Reverse Chest Stretch with Resistance Band",
+                    "Reverse Chest Stretch with Foam Roller",
+                    "Reverse Chest Stretch with Yoga Block",
+                    "Reverse Chest Stretch with Dumbbells"
+                ]
+            }
+        }
+    ]
+}

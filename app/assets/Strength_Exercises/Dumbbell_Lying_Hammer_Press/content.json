@@ -1,0 +1,80 @@
+{
+    "title": "Dumbbell Lying Hammer Press",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Lying Hammer Press Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying flat on a bench with a dumbbell in each hand.",
+                    "Hold the dumbbells with your palms facing each other and your elbows bent at a 90-degree angle.",
+                    "Slowly lower the dumbbells towards your chest, keeping your elbows close to your body.",
+                    "Pause for a moment at the bottom of the movement, then press the dumbbells back up to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Lying Hammer Press Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Lying Hammer Press Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the chest, triceps, and shoulders",
+                    "Helps to build upper body strength and muscle mass",
+                    "Improves stability and balance in the chest and shoulder muscles",
+                    "Allows for a greater range of motion compared to traditional bench press exercises",
+                    "Can be performed with a variety of weights and equipment, making it accessible for all fitness levels"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Lying Hammer Press Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Chest muscles (pectoralis major and minor)",
+                    "Triceps brachii",
+                    "Anterior deltoids"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Lying Hammer Press Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Lying Hammer Press",
+                    "Dumbbell Lying Neutral Grip Press",
+                    "Dumbbell Lying Pronation Press",
+                    "Dumbbell Lying Supination Press",
+                    "Dumbbell Floor Press",
+                    "Dumbbell Incline Hammer Press",
+                    "Dumbbell Incline Neutral Grip Press",
+                    "Dumbbell Incline Pronation Press",
+                    "Dumbbell Incline Supination Press",
+                    "Dumbbell Decline Hammer Press",
+                    "Dumbbell Decline Neutral Grip Press",
+                    "Dumbbell Decline Pronation Press",
+                    "Dumbbell Decline Supination Press"
+                ]
+            }
+        }
+    ]
+}

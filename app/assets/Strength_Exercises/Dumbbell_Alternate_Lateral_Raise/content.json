@@ -1,0 +1,74 @@
+{
+    "title": "Dumbbell Alternate Lateral Raise",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Alternate Lateral Raise Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a dumbbell in each hand.",
+                    "Keep your arms straight and lift one dumbbell out to the side until it reaches shoulder height.",
+                    "Lower the dumbbell back down to your side and repeat with the other arm.",
+                    "Continue alternating arms for the desired number of repetitions.",
+                    "Make sure to keep your core engaged and avoid swinging your body to lift the weights."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Alternate Lateral Raise Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Alternate Lateral Raise Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the lateral deltoid muscles, which are responsible for shoulder abduction and help create a wider shoulder appearance",
+                    "Improves shoulder stability and mobility",
+                    "Can be done with light weights, making it a great exercise for beginners or those with shoulder injuries",
+                    "Can be easily modified by changing the weight or angle of the raise to increase or decrease difficulty",
+                    "Helps to balance out the upper body and prevent muscle imbalances"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Alternate Lateral Raise Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Deltoids (shoulders)",
+                    "Trapezius (upper back)",
+                    "Supraspinatus (upper back)",
+                    "Infraspinatus (upper back)",
+                    "Terres Minor (upper back)"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Alternate Lateral Raise Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Lateral Raise",
+                    "Cable Lateral Raise",
+                    "Machine Lateral Raise",
+                    "Bent-Over Lateral Raise",
+                    "Seated Lateral Raise"
+                ]
+            }
+        }
+    ]
+}

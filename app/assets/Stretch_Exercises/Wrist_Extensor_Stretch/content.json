@@ -1,0 +1,75 @@
+{
+    "title": "Wrist Extensor Stretch",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Wrist Extensor Stretch Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by standing or sitting with your back straight and your arms at your sides.",
+                    "Extend your right arm out in front of you with your palm facing down.",
+                    "Use your left hand to gently pull your right hand back towards your wrist until you feel a stretch in your forearm.",
+                    "Hold the stretch for 15-30 seconds, then release.",
+                    "Repeat on the other side by extending your left arm out in front of you with your palm facing down and using your right hand to gently pull your left hand back towards your wrist.",
+                    "Repeat the stretch on both sides 2-3 times."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Wrist Extensor Stretch Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Wrist Extensor Stretch Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Helps to improve flexibility and range of motion in the wrist extensor muscles",
+                    "Reduces the risk of injury to the wrist and forearm muscles",
+                    "Relieves tension and tightness in the wrist and forearm muscles",
+                    "May help to alleviate symptoms of conditions such as tennis elbow and carpal tunnel syndrome",
+                    "Can be done anywhere, anytime, without the need for equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Wrist Extensor Stretch Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Wrist extensor muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Wrist Extensor Stretch Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Wrist Flexor Stretch",
+                    "Wrist Pronator Stretch",
+                    "Forearm Supinator Stretch",
+                    "Forearm Pronator Stretch",
+                    "Wrist Flexor and Extensor Stretch",
+                    "Wrist Circles",
+                    "Wrist Rotations",
+                    "Wrist Flexor and Extensor Isometric Holds",
+                    "Wrist Roller Exercises"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "title": "Cable Standing Shoulder External Rotation",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Cable Standing Shoulder External Rotation Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Attach a cable to a low pulley and stand with your left side facing the machine.",
+                    "Grasp the handle with your right hand and bring your elbow to your side, bent at a 90-degree angle.",
+                    "Keeping your elbow at your side, rotate your arm outward as far as you can without moving your upper arm.",
+                    "Slowly return to the starting position and repeat for the desired number of repetitions.",
+                    "Switch sides and repeat the exercise with your left arm."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Cable Standing Shoulder External Rotation Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Cable Standing Shoulder External Rotation Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the lower abs",
+                    "Strengthens the core muscles",
+                    "Improves balance and stability",
+                    "Increases flexibility in the hips and lower back",
+                    "Can be modified for different fitness levels",
+                    "Can be done with minimal equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cable Standing Shoulder External Rotation Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rotator cuff muscles (supraspinatus, infraspinatus, teres minor, subscapularis)",
+                    "Deltoid muscle (posterior fibers)"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cable Standing Shoulder External Rotation Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Cable standing shoulder internal rotation",
+                    "Dumbbell standing shoulder external rotation",
+                    "Resistance band standing shoulder external rotation",
+                    "Seated dumbbell shoulder external rotation",
+                    "Prone dumbbell shoulder external rotation"
+                ]
+            }
+        }
+    ]
+}

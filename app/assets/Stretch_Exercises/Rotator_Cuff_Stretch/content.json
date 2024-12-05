@@ -1,0 +1,77 @@
+{
+    "title": "Rotator Cuff Stretch",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Rotator Cuff Stretch Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your arms at your sides.",
+                    "Bring your right arm across your chest, holding it with your left hand just above the elbow.",
+                    "Gently pull your right arm towards your left shoulder until you feel a stretch in your right shoulder.",
+                    "Hold the stretch for 15-30 seconds, then release.",
+                    "Repeat on the other side by bringing your left arm across your chest and holding it with your right hand."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Rotator Cuff Stretch Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Rotator Cuff Stretch Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves flexibility and range of motion in the shoulder joint",
+                    "Reduces the risk of rotator cuff injuries",
+                    "Relieves shoulder pain and discomfort",
+                    "Helps to correct poor posture and alignment",
+                    "Can be done anywhere without the need for equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Rotator Cuff Stretch Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Supraspinatus muscle",
+                    "Infraspinatus muscle",
+                    "Subscapularis muscle",
+                    "Teres minor muscle"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Rotator Cuff Stretch Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Standing Rotator Cuff Stretch",
+                    "Seated Rotator Cuff Stretch",
+                    "Doorway Rotator Cuff Stretch",
+                    "Wall Angels",
+                    "External Rotation with Resistance Band",
+                    "Internal Rotation with Resistance Band",
+                    "Prone Horizontal Abduction",
+                    "Prone External Rotation",
+                    "YTWL Shoulder Exercise"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "title": "High Knee Jump Rope",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "High Knee Jump Rope Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by standing with your feet shoulder-width apart and holding the jump rope handles in each hand.",
+                    "Begin jumping rope, keeping your arms close to your sides and using your wrists to turn the rope.",
+                    "As you jump, lift your knees up towards your chest, alternating between left and right knees.",
+                    "Continue jumping and lifting your knees for 30 seconds to 1 minute, or until you feel fatigued.",
+                    "Rest for 30 seconds to 1 minute, then repeat the exercise for 2-3 sets."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "High Knee Jump Rope Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "High Knee Jump Rope Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Increases cardiovascular endurance",
+                    "Improves coordination and balance",
+                    "Strengthens lower body muscles, including quadriceps, hamstrings, and calves",
+                    "Engages core muscles for stability and balance",
+                    "Burns calories and aids in weight loss",
+                    "Can be modified for different fitness levels and goals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "High Knee Jump Rope Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Calves",
+                    "Glutes",
+                    "Abdominals",
+                    "Obliques"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "High Knee Jump Rope Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "High knee jump rope",
+                    "Jump rope with high knees",
+                    "Jump rope knee lifts",
+                    "High knee skips with jump rope",
+                    "Jump rope knee tucks"
+                ]
+            }
+        }
+    ]
+}

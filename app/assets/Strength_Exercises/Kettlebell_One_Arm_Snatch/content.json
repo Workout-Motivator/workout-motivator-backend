@@ -1,0 +1,80 @@
+{
+    "title": "Kettlebell One Arm Snatch",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell One Arm Snatch Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and the kettlebell on the ground in front of you.",
+                    "Grab the kettlebell with one hand and swing it back between your legs.",
+                    "As you swing the kettlebell forward, use your hips and legs to generate momentum and pull the kettlebell up to shoulder height.",
+                    "At the top of the movement, punch your arm straight up overhead, locking out your elbow and keeping your core tight.",
+                    "Lower the kettlebell back down to the starting position and repeat for the desired number of reps.",
+                    "Switch hands and repeat the exercise with the other arm."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell One Arm Snatch Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell One Arm Snatch Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Full body workout",
+                    "Improves cardiovascular endurance",
+                    "Increases strength and power",
+                    "Enhances coordination and balance",
+                    "Burns calories and promotes weight loss",
+                    "Targets multiple muscle groups including shoulders, back, legs, and core",
+                    "Can be modified for different fitness levels",
+                    "Improves grip strength"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell One Arm Snatch Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Glutes",
+                    "Hamstrings",
+                    "Quadriceps",
+                    "Core",
+                    "Shoulders",
+                    "Triceps",
+                    "Forearms"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell One Arm Snatch Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Kettlebell One Arm Clean and Press",
+                    "Kettlebell One Arm Swing",
+                    "Kettlebell One Arm High Pull",
+                    "Kettlebell One Arm Jerk",
+                    "Kettlebell One Arm Long Cycle"
+                ]
+            }
+        }
+    ]
+}

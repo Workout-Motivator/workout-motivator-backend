@@ -1,0 +1,76 @@
+{
+    "title": "L-Pull-Up",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "L-Pull-Up Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Find a sturdy horizontal bar that can support your weight.",
+                    "Stand underneath the bar and reach up to grab it with both hands, palms facing away from you.",
+                    "Hang from the bar with your arms fully extended and your feet off the ground.",
+                    "Engage your shoulder blades and pull your chest towards the bar, keeping your elbows close to your body.",
+                    "Continue pulling until your chin is above the bar.",
+                    "Lower yourself back down to the starting position with control.",
+                    "Repeat for desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "L-Pull-Up Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "L-Pull-Up Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens core muscles",
+                    "Improves balance and stability",
+                    "Increases upper body and arm strength",
+                    "Improves flexibility in hamstrings and hip flexors",
+                    "Enhances overall body control and coordination"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "L-Pull-Up Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Lats",
+                    "Biceps",
+                    "Forearms",
+                    "Shoulders",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "L-Pull-Up Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Wide-grip pull-up",
+                    "Close-grip pull-up",
+                    "Assisted pull-up",
+                    "Chin-up",
+                    "Neutral-grip pull-up"
+                ]
+            }
+        }
+    ]
+}

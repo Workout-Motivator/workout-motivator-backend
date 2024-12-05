@@ -1,0 +1,74 @@
+{
+    "title": "Resistance Band Standing Hip Abduction",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Resistance Band Standing Hip Abduction Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Attach a resistance band to a sturdy object at hip height.",
+                    "Stand facing the anchor point with feet shoulder-width apart.",
+                    "Loop the resistance band around one ankle and step away from the anchor point to create tension in the band.",
+                    "Shift your weight onto the opposite leg and engage your core.",
+                    "Keeping your leg straight, lift the banded leg out to the side as far as you can while maintaining control.",
+                    "Pause briefly at the top of the movement, then slowly lower the leg back down to the starting position.",
+                    "Complete the desired number of repetitions on one side before switching to the other leg."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Resistance Band Standing Hip Abduction Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Resistance Band Standing Hip Abduction Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the hip abductor muscles, which are important for stabilizing the pelvis and maintaining balance",
+                    "Improves hip mobility and flexibility",
+                    "Can help prevent injuries to the hips, knees, and lower back",
+                    "Can be done anywhere with a resistance band, making it a convenient exercise for travel or at-home workouts",
+                    "Can be easily modified for different fitness levels by adjusting the resistance of the band"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Resistance Band Standing Hip Abduction Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Gluteus medius",
+                    "Gluteus minimus",
+                    "Tensor fasciae latae"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Resistance Band Standing Hip Abduction Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Resistance Band Standing Hip Adduction",
+                    "Resistance Band Standing Hip Extension",
+                    "Resistance Band Standing Hip Flexion",
+                    "Resistance Band Standing Hip Internal Rotation",
+                    "Resistance Band Standing Hip External Rotation"
+                ]
+            }
+        }
+    ]
+}

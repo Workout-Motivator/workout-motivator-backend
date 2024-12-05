@@ -1,0 +1,74 @@
+{
+    "title": "Standing Side Bend",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Standing Side Bend Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your arms at your sides.",
+                    "Place your right hand on your right hip and raise your left arm straight up above your head.",
+                    "Slowly bend your upper body to the right, keeping your left arm straight and your right hand on your hip.",
+                    "Hold the stretch for 10-15 seconds, feeling the stretch in your left side.",
+                    "Return to the starting position and repeat on the other side."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Standing Side Bend Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Standing Side Bend Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the shoulders and upper back muscles",
+                    "Improves posture and alignment",
+                    "Increases shoulder mobility and flexibility",
+                    "Helps prevent shoulder injuries",
+                    "Can be done with or without weights, making it accessible for all fitness levels"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Standing Side Bend Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Obliques",
+                    "Quadratus Lumborum"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Standing Side Bend Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "standing-side-bend with dumbbell",
+                    "seated-side-bend",
+                    "kneeling-side-bend",
+                    "standing-twist",
+                    "seated-twist",
+                    "standing-oblique-crunch",
+                    "side-plank",
+                    "side-plank-with-hip-dip"
+                ]
+            }
+        }
+    ]
+}

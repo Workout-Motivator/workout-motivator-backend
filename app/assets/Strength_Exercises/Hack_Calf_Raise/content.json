@@ -1,0 +1,72 @@
+{
+    "title": "Hack Calf Raise",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Hack Calf Raise Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your toes pointing forward.",
+                    "Place a block or step under the balls of your feet.",
+                    "Place your hands on your hips or hold onto a stable surface for balance.",
+                    "Raise your heels off the ground as high as you can, keeping your toes on the block or step.",
+                    "Hold the position for a few seconds, then lower your heels back down to the ground.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Hack Calf Raise Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Hack Calf Raise Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens and tones the calf muscles",
+                    "Improves ankle stability and balance",
+                    "Can help prevent injuries such as ankle sprains",
+                    "Can be done with minimal equipment and in a small space",
+                    "Can be easily modified for different fitness levels"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Hack Calf Raise Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Gastrocnemius",
+                    "Soleus"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Hack Calf Raise Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single Leg Hack Calf Raise",
+                    "Seated Hack Calf Raise",
+                    "Standing Hack Calf Raise",
+                    "Donkey Hack Calf Raise",
+                    "Smith Machine Hack Calf Raise"
+                ]
+            }
+        }
+    ]
+}

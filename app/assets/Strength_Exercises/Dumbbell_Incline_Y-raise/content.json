@@ -1,0 +1,74 @@
+{
+    "title": "Dumbbell Incline Y-raise",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Incline Y-raise Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on an incline bench with your chest facing up and your feet firmly planted on the ground.",
+                    "Hold a dumbbell in each hand with your palms facing down and your arms extended straight out in front of you.",
+                    "Slowly raise your arms up and out to the sides, forming a “Y” shape with your body.",
+                    "Pause for a moment at the top of the movement, then slowly lower your arms back down to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Incline Y-raise Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Incline Y-raise Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens glutes and hamstrings",
+                    "Improves hip mobility and stability",
+                    "Targets lower back muscles",
+                    "Can help alleviate lower back pain",
+                    "Increases overall core strength",
+                    "Can be modified for different fitness levels"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Incline Y-raise Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Anterior deltoid",
+                    "Medial deltoid",
+                    "Upper trapezius",
+                    "Rotator cuff muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Incline Y-raise Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "dumbbell incline T-raise",
+                    "dumbbell incline W-raise",
+                    "dumbbell incline Y-raise (original exercise)",
+                    "dumbbell incline L-raise",
+                    "dumbbell incline O-raise"
+                ]
+            }
+        }
+    ]
+}

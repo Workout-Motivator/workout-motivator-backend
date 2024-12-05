@@ -1,0 +1,77 @@
+{
+    "title": "Cable Single Arm High Row",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Cable Single Arm High Row Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Attach a cable to a high pulley and select the desired weight.",
+                    "Stand facing the cable machine with your feet shoulder-width apart and knees slightly bent.",
+                    "Grasp the handle with one hand and step back to create tension in the cable.",
+                    "Keep your elbow close to your body and pull the handle towards your chest, squeezing your shoulder blades together.",
+                    "Pause for a moment at the top of the movement and then slowly lower the handle back to the starting position.",
+                    "Repeat for the desired number of repetitions and then switch sides."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Cable Single Arm High Row Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Cable Single Arm High Row Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the upper back muscles, specifically the rhomboids and trapezius",
+                    "Improves posture and shoulder stability",
+                    "Helps to prevent shoulder injuries",
+                    "Can be easily modified to target different areas of the back",
+                    "Allows for a greater range of motion compared to traditional row exercises"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cable Single Arm High Row Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rhomboids",
+                    "Trapezius",
+                    "Deltoids",
+                    "Biceps",
+                    "Forearms"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cable Single Arm High Row Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Cable Double Arm High Row",
+                    "Cable Reverse Grip Single Arm High Row",
+                    "Cable Reverse Grip Double Arm High Row",
+                    "Cable Wide Grip Single Arm High Row",
+                    "Cable Wide Grip Double Arm High Row",
+                    "Cable Close Grip Single Arm High Row",
+                    "Cable Close Grip Double Arm High Row"
+                ]
+            }
+        }
+    ]
+}

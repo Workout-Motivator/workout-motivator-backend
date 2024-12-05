@@ -1,0 +1,79 @@
+{
+    "title": "Push to Run",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Push to Run Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start in a plank position with your hands shoulder-width apart and your feet hip-width apart.",
+                    "Lower your body down towards the ground by bending your elbows, keeping your body in a straight line.",
+                    "Push your body back up to the starting position by straightening your arms.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Push to Run Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Push to Run Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves cardiovascular health",
+                    "Strengthens leg muscles",
+                    "Increases endurance and stamina",
+                    "Burns calories and aids in weight loss",
+                    "Can be done anywhere with no equipment needed",
+                    "Low impact and easy on joints"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Push to Run Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Chest muscles (pectoralis major and minor)",
+                    "Shoulder muscles (deltoids)",
+                    "Triceps",
+                    "Core muscles (abdominals and lower back)",
+                    "Leg muscles (quadriceps, hamstrings, and glutes)"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Push to Run Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Push to Run",
+                    "Push to Start",
+                    "Press to Begin",
+                    "Press to Start",
+                    "Tap to Run",
+                    "Tap to Start",
+                    "Click to Run",
+                    "Click to Start",
+                    "Activate to Run",
+                    "Activate to Start"
+                ]
+            }
+        }
+    ]
+}

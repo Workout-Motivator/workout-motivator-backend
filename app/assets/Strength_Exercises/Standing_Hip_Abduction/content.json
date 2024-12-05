@@ -1,0 +1,76 @@
+{
+    "title": "Standing Hip Abduction",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Standing Hip Abduction Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your hands on your hips.",
+                    "Shift your weight onto your left leg and lift your right leg out to the side, keeping it straight.",
+                    "Hold for a few seconds, then lower your leg back down.",
+                    "Repeat on the other side.",
+                    "Complete 2-3 sets of 10-15 repetitions on each leg."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Standing Hip Abduction Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Standing Hip Abduction Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the hip abductor muscles, which are important for stabilizing the pelvis and maintaining balance",
+                    "Improves hip mobility and flexibility",
+                    "Can help alleviate hip pain and discomfort",
+                    "May improve athletic performance in activities that require lateral movement, such as running, jumping, and dancing",
+                    "Can be done with minimal equipment and in a variety of settings, making it a convenient exercise option"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Standing Hip Abduction Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Gluteus medius",
+                    "Tensor fasciae latae"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Standing Hip Abduction Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Standing Hip Adduction",
+                    "Side-Lying Hip Abduction",
+                    "Clamshell",
+                    "Fire Hydrant",
+                    "Resistance Band Hip Abduction",
+                    "Single-Leg Deadlift",
+                    "Single-Leg Squat",
+                    "Step-Up",
+                    "Lateral Band Walk",
+                    "Skater Hops"
+                ]
+            }
+        }
+    ]
+}

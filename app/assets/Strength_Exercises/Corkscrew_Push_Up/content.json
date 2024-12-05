@@ -1,0 +1,73 @@
+{
+    "title": "Corkscrew Push Up",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Corkscrew Push Up Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start in a high plank position with your hands shoulder-width apart and your core engaged.",
+                    "Lower your body down towards the ground, bending your elbows and keeping them close to your body.",
+                    "As you push back up, twist your body to the right and lift your right arm up towards the ceiling.",
+                    "Lower your body back down and repeat, this time twisting to the left and lifting your left arm up towards the ceiling.",
+                    "Continue alternating sides with each repetition."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Corkscrew Push Up Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Corkscrew Push Up Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets multiple muscle groups including chest, triceps, shoulders, and core",
+                    "Improves upper body strength and stability",
+                    "Increases range of motion in shoulders",
+                    "Challenges balance and coordination",
+                    "Variation of traditional push up for added challenge and variety in workout routine"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Corkscrew Push Up Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Chest muscles (pectoralis major and minor)",
+                    "Shoulder muscles (deltoids)",
+                    "Triceps",
+                    "Core muscles (abdominals and obliques)"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Corkscrew Push Up Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single Leg Corkscrew Push up",
+                    "Decline Corkscrew Push up",
+                    "Spiderman Corkscrew Push up",
+                    "Close Grip Corkscrew Push up",
+                    "Explosive Corkscrew Push up"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "title": "Kipping Handstand Push-up",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Kipping Handstand Push-up Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start in a push-up position with your hands slightly wider than shoulder-width apart and your feet together.",
+                    "Kick your feet up towards the wall behind you, keeping your legs straight and your toes pointed.",
+                    "As your feet reach the wall, push your hips up towards the ceiling and allow your head to come down towards the ground.",
+                    "Bend your elbows and lower your head towards the ground, keeping your body in a straight line.",
+                    "Push back up to the starting position, straightening your arms and returning your head to the starting position.",
+                    "As you come back down, kick your feet back towards the wall and repeat the exercise for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Kipping Handstand Push-up Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Kipping Handstand Push-up Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Increases upper body strength and endurance",
+                    "Improves shoulder stability and mobility",
+                    "Develops core strength and stability",
+                    "Enhances overall body control and coordination",
+                    "Challenges and improves cardiovascular fitness",
+                    "Can be modified to accommodate different fitness levels and abilities"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Kipping Handstand Push-up Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Deltoids",
+                    "Triceps",
+                    "Pectoralis major",
+                    "Trapezius",
+                    "Rhomboids",
+                    "Latissimus dorsi",
+                    "Abdominals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Kipping Handstand Push-up Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strict Handstand Push-up",
+                    "Deficit Handstand Push-up",
+                    "Freestanding Handstand Push-up",
+                    "Wall Walk Handstand Push-up",
+                    "Pike Push-up",
+                    "Box Handstand Push-up",
+                    "Handstand Push-up with Bands",
+                    "Handstand Push-up Negatives"
+                ]
+            }
+        }
+    ]
+}

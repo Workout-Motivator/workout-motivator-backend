@@ -1,0 +1,84 @@
+{
+    "title": "Kettlebell Swing",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Swing Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and place the kettlebell on the ground in front of you.",
+                    "Bend your knees slightly and hinge at the hips to grab the kettlebell with both hands.",
+                    "Engage your core and swing the kettlebell back between your legs.",
+                    "Drive your hips forward and swing the kettlebell up to shoulder height, keeping your arms straight.",
+                    "Allow the kettlebell to swing back down between your legs and repeat for desired number of reps.",
+                    "When finished, gently place the kettlebell back on the ground in front of you."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Swing Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Swing Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Full body workout",
+                    "Improves cardiovascular endurance",
+                    "Increases strength and power in the hips, glutes, and core",
+                    "Improves posture and balance",
+                    "Low impact exercise",
+                    "Can be done with minimal equipment",
+                    "Burns a high number of calories",
+                    "Can be modified for different fitness levels"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Swing Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Glutes",
+                    "Hamstrings",
+                    "Quadriceps",
+                    "Core muscles",
+                    "Shoulders",
+                    "Back muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Kettlebell Swing Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single-arm kettlebell swing",
+                    "Double kettlebell swing",
+                    "Kettlebell clean and swing",
+                    "Kettlebell snatch",
+                    "Alternating kettlebell swing",
+                    "Bottoms-up kettlebell swing",
+                    "One-handed kettlebell swing",
+                    "Kettlebell high pull",
+                    "Kettlebell figure-eight swing",
+                    "Kettlebell deadlift"
+                ]
+            }
+        }
+    ]
+}

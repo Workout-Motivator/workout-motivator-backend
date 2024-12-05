@@ -1,0 +1,72 @@
+{
+    "title": "Band Hyperextension",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Band Hyperextension Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying face down on a hyperextension bench with your hips resting on the pad and your feet secured under the footpads.",
+                    "Place your hands behind your head or across your chest.",
+                    "Slowly lift your upper body up until your back is straight.",
+                    "Hold for a second, then slowly lower your body back down to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Band Hyperextension Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Band Hyperextension Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens lower back muscles",
+                    "Improves posture",
+                    "Increases flexibility in the spine",
+                    "Helps prevent lower back pain and injury",
+                    "Targets glutes and hamstrings as secondary muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Band Hyperextension Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Erector spinae",
+                    "Gluteus maximus",
+                    "Hamstrings"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Band Hyperextension Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single-leg band hyperextension",
+                    "Weighted band hyperextension",
+                    "Band hyperextension with a twist",
+                    "Band hyperextension with a row",
+                    "Band hyperextension with a bicep curl"
+                ]
+            }
+        }
+    ]
+}

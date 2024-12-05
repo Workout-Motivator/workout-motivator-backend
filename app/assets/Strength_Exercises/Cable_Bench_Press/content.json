@@ -1,0 +1,74 @@
+{
+    "title": "Cable Bench Press",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Cable Bench Press Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying flat on a bench with your feet firmly planted on the ground.",
+                    "Grasp the barbell with an overhand grip, hands slightly wider than shoulder-width apart.",
+                    "Slowly lower the barbell towards your chest, keeping your elbows close to your body.",
+                    "Pause for a moment when the barbell is just above your chest.",
+                    "Push the barbell back up to the starting position, fully extending your arms.",
+                    "Repeat for desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Cable Bench Press Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Cable Bench Press Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the chest muscles, specifically the pectoralis major and minor",
+                    "Allows for a greater range of motion compared to traditional bench press",
+                    "Provides constant tension throughout the movement, leading to increased muscle activation",
+                    "Engages the triceps and shoulders as secondary muscles",
+                    "Can be easily adjusted to target different areas of the chest by changing the angle of the cables",
+                    "Less strain on the wrists and shoulders compared to barbell bench press"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cable Bench Press Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Pectoralis major",
+                    "Triceps brachii",
+                    "Anterior deltoid"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cable Bench Press Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Incline Cable Bench Press",
+                    "Decline Cable Bench Press",
+                    "Single Arm Cable Bench Press",
+                    "Cable Flyes",
+                    "Cable Crossover"
+                ]
+            }
+        }
+    ]
+}

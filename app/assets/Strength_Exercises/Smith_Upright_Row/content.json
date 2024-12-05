@@ -1,0 +1,73 @@
+{
+    "title": "Smith Upright Row",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Smith Upright Row Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a barbell with an overhand grip, hands slightly wider than shoulder-width apart.",
+                    "Keep your back straight and your core engaged as you lift the barbell towards your chin, keeping your elbows pointed out to the sides.",
+                    "Pause at the top of the movement, then slowly lower the barbell back down to the starting position.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Smith Upright Row Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Smith Upright Row Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the shoulders, specifically the deltoids and traps",
+                    "Helps to improve posture and upper body strength",
+                    "Can be done with a variety of equipment, including dumbbells, barbells, and resistance bands",
+                    "Can be modified to target different areas of the shoulders by adjusting grip width and hand placement",
+                    "Can be incorporated into a full body workout or used as a standalone exercise"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Smith Upright Row Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Trapezius",
+                    "Deltoids",
+                    "Rotator Cuff",
+                    "Biceps"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Smith Upright Row Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Smith Machine Upright Row",
+                    "Barbell Upright Row",
+                    "Dumbbell Upright Row",
+                    "Cable Upright Row",
+                    "Kettlebell Upright Row",
+                    "Resistance Band Upright Row"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "title": "Lever Seated Row",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Lever Seated Row Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Adjust the seat height so that the handles are at chest level.",
+                    "Sit on the machine with your feet flat on the footrests and your knees slightly bent.",
+                    "Grasp the handles with an overhand grip, keeping your elbows close to your sides.",
+                    "Slowly pull the handles towards your chest, squeezing your shoulder blades together as you do so.",
+                    "Pause for a moment at the top of the movement, then slowly release the handles back to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Lever Seated Row Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Lever Seated Row Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the back muscles, including the latissimus dorsi, rhomboids, and trapezius",
+                    "Improves posture and spinal alignment",
+                    "Increases grip strength and forearm muscles",
+                    "Can be modified to target different areas of the back",
+                    "Low impact exercise that is easy on the joints"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Lever Seated Row Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rhomboids",
+                    "Trapezius",
+                    "Latissimus dorsi",
+                    "Erector spinae",
+                    "Biceps"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Lever Seated Row Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Close-grip seated row",
+                    "Wide-grip seated row",
+                    "Reverse-grip seated row",
+                    "One-arm seated row",
+                    "T-bar row",
+                    "Bent-over barbell row",
+                    "Bent-over dumbbell row",
+                    "Cable seated row",
+                    "Machine seated row"
+                ]
+            }
+        }
+    ]
+}

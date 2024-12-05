@@ -1,0 +1,79 @@
+{
+    "title": "Brachialis Pull Up",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Brachialis Pull Up Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Find a pull-up bar and grip it with your palms facing towards you, shoulder-width apart.",
+                    "Hang from the bar with your arms fully extended.",
+                    "Engage your core and pull your shoulder blades down and back.",
+                    "Bend your elbows and pull your body up towards the bar, keeping your elbows close to your body.",
+                    "As you pull up, focus on contracting your brachialis muscle, which is located on the front of your upper arm.",
+                    "Continue pulling until your chin is above the bar.",
+                    "Pause for a moment at the top of the movement, then slowly lower yourself back down to the starting position.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Brachialis Pull Up Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Brachialis Pull Up Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the brachialis muscle, which is located underneath the biceps and helps to increase arm size and strength",
+                    "Improves grip strength and overall upper body strength",
+                    "Engages multiple muscle groups including the back, shoulders, and core",
+                    "Variation of traditional pull ups, adding variety to a workout routine",
+                    "Can be modified for different fitness levels by adjusting the grip width or using assistance bands"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Brachialis Pull Up Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Biceps brachii",
+                    "Brachialis",
+                    "Brachioradialis",
+                    "Trapezius",
+                    "Rhomboids",
+                    "Lats"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Brachialis Pull Up Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Chin-up",
+                    "Neutral-grip pull-up",
+                    "Wide-grip pull-up",
+                    "Close-grip pull-up",
+                    "Assisted pull-up",
+                    "Weighted pull-up"
+                ]
+            }
+        }
+    ]
+}

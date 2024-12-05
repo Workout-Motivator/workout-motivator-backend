@@ -1,0 +1,80 @@
+{
+    "title": "Machine Inner Chest Press",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Machine Inner Chest Press Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Adjust the seat height so that the handles are at chest level.",
+                    "Sit on the machine with your back flat against the pad and your feet flat on the floor.",
+                    "Grasp the handles with an overhand grip and push them forward until your arms are fully extended.",
+                    "Slowly bring the handles back towards your chest, keeping your elbows close to your body.",
+                    "Pause for a moment when the handles are close to your chest, then push them forward again to complete one repetition.",
+                    "Repeat for the desired number of repetitions.",
+                    "When finished, release the handles and carefully stand up from the machine."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Machine Inner Chest Press Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Machine Inner Chest Press Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the chest muscles, specifically the pectoralis major and minor",
+                    "Helps to build strength and muscle mass in the chest area",
+                    "Can be adjusted to target different areas of the chest, such as the upper or lower chest",
+                    "Provides a controlled and stable movement, reducing the risk of injury",
+                    "Allows for a greater range of motion compared to traditional bench press exercises",
+                    "Can be used by individuals of all fitness levels, as the weight can be adjusted to suit individual needs"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Machine Inner Chest Press Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Pectoralis major (inner chest)",
+                    "Anterior deltoids (front of shoulders)",
+                    "Triceps brachii (back of upper arms)"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Machine Inner Chest Press Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Free weight chest press",
+                    "Resistance band chest press",
+                    "Push-up",
+                    "Dumbbell chest press",
+                    "Barbell chest press",
+                    "Smith machine chest press",
+                    "Cable chest press",
+                    "Decline chest press",
+                    "Incline chest press",
+                    "Close-grip chest press"
+                ]
+            }
+        }
+    ]
+}

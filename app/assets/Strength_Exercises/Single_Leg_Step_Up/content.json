@@ -1,0 +1,79 @@
+{
+    "title": "Single Leg Step Up",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Single Leg Step Up Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand in front of a sturdy bench or step.",
+                    "Place one foot on the bench or step, keeping your knee in line with your toes.",
+                    "Engage your core and glutes, and lift your body up onto the bench or step by straightening your leg.",
+                    "Slowly lower your body back down to the starting position, keeping your foot on the bench or step.",
+                    "Repeat for the desired number of reps on one leg before switching to the other leg."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Single Leg Step Up Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Single Leg Step Up Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves balance and stability",
+                    "Strengthens the lower body, including the glutes, quads, and hamstrings",
+                    "Increases hip mobility and flexibility",
+                    "Helps prevent knee and ankle injuries by strengthening the surrounding muscles",
+                    "Can be modified to increase or decrease difficulty based on fitness level"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Single Leg Step Up Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calf muscles",
+                    "Core muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Single Leg Step Up Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single Leg Box Step Up",
+                    "Single Leg Bench Step Up",
+                    "Single Leg Dumbbell Step Up",
+                    "Single Leg Barbell Step Up",
+                    "Single Leg Kettlebell Step Up",
+                    "Single Leg Resistance Band Step Up",
+                    "Single Leg Cable Step Up",
+                    "Single Leg Plyometric Step Up",
+                    "Single Leg Lateral Step Up",
+                    "Single Leg Reverse Step Up"
+                ]
+            }
+        }
+    ]
+}

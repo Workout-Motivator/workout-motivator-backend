@@ -74,5 +74,4 @@ dmypy.json
 docker-compose.override.yml
 
 # Assets
-app/assets/
-assets/
+# Removing these lines to include assets in git

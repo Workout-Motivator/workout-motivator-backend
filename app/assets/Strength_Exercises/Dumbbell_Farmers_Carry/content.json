@@ -1,0 +1,76 @@
+{
+    "title": "Dumbbell Farmers Carry",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Farmers Carry Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a dumbbell in each hand.",
+                    "Keep your shoulders down and back, and engage your core.",
+                    "Walk forward, taking small steps, while keeping your arms straight and your shoulders level.",
+                    "Continue walking for a set distance or time, then turn around and walk back to your starting point.",
+                    "Repeat for the desired number of sets."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.gif"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Farmers Carry Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Farmers Carry Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves grip strength",
+                    "Strengthens forearms, shoulders, and core muscles",
+                    "Improves posture and stability",
+                    "Increases cardiovascular endurance",
+                    "Can be done with minimal equipment and space"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Farmers Carry Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Trapezius",
+                    "Rhomboids",
+                    "Deltoids",
+                    "Forearms",
+                    "Abdominals",
+                    "Glutes",
+                    "Quadriceps"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Farmers Carry Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Suitcase Carry",
+                    "Dumbbell Waiter’s Carry",
+                    "Dumbbell Overhead Carry",
+                    "Dumbbell Rack Carry",
+                    "Dumbbell Zercher Carry"
+                ]
+            }
+        }
+    ]
+}

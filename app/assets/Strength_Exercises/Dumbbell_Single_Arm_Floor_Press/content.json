@@ -1,0 +1,74 @@
+{
+    "title": "Dumbbell Single Arm Floor Press",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Single Arm Floor Press Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on your back on the floor with your knees bent and feet flat on the ground.",
+                    "Hold a dumbbell in one hand with your palm facing towards your feet.",
+                    "Extend your arm straight up towards the ceiling, keeping your elbow locked out.",
+                    "Slowly lower the dumbbell towards your chest, keeping your elbow close to your body.",
+                    "Pause when your elbow touches the ground, then press the dumbbell back up to the starting position.",
+                    "Repeat for the desired number of reps, then switch arms and repeat on the other side."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Single Arm Floor Press Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Single Arm Floor Press Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets chest, triceps, and shoulders",
+                    "Improves upper body strength and stability",
+                    "Can be done with minimal equipment (just a dumbbell and a floor)",
+                    "Allows for unilateral training, which can help correct muscle imbalances",
+                    "Engages core muscles for added stability and balance"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Single Arm Floor Press Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Chest muscles (pectoralis major and minor)",
+                    "Triceps brachii",
+                    "Anterior deltoid",
+                    "Core muscles (rectus abdominis, obliques)"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Dumbbell Single Arm Floor Press Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Single Arm Bench Press",
+                    "Dumbbell Single Arm Incline Press",
+                    "Dumbbell Single Arm Decline Press",
+                    "Dumbbell Single Arm Fly",
+                    "Dumbbell Single Arm Pullover"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "title": "Cable Rear Delt Row",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_0.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Cable Rear Delt Row Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Attach a cable to a low pulley and select the desired weight.",
+                    "Stand facing the cable machine with your feet shoulder-width apart and your knees slightly bent.",
+                    "Grasp the cable handle with both hands and extend your arms in front of you.",
+                    "Keeping your back straight, pull the cable towards your chest by squeezing your shoulder blades together.",
+                    "Pause for a moment at the top of the movement, then slowly release the cable back to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Cable Rear Delt Row Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Cable Rear Delt Row Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the rear deltoid muscles, which are often neglected in traditional back exercises",
+                    "Improves posture by strengthening the upper back muscles",
+                    "Helps prevent shoulder injuries by strengthening the rotator cuff muscles",
+                    "Can be easily modified to target different areas of the back and shoulders",
+                    "Allows for a full range of motion and better muscle activation compared to other rear deltoid exercises"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cable Rear Delt Row Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rear Deltoids",
+                    "Trapezius",
+                    "Rhomboids",
+                    "Latissimus Dorsi"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Cable Rear Delt Row Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single Arm Cable Rear Delt Row",
+                    "Standing Cable Rear Delt Row",
+                    "Seated Cable Rear Delt Row",
+                    "Wide Grip Cable Rear Delt Row",
+                    "Narrow Grip Cable Rear Delt Row",
+                    "Low Cable Rear Delt Row",
+                    "High Cable Rear Delt Row",
+                    "Reverse Grip Cable Rear Delt Row",
+                    "Neutral Grip Cable Rear Delt Row"
+                ]
+            }
+        }
+    ]
+}

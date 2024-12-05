@@ -1,0 +1,80 @@
+{
+    "title": "Safety Bar Front Squat",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Safety Bar Front Squat Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by setting up the safety bar on a squat rack at chest height.",
+                    "Step under the bar and position it on your shoulders, making sure the safety handles are in front of you.",
+                    "Take a deep breath and brace your core.",
+                    "Slowly lower your body by bending at the knees and hips, keeping your chest up and your back straight.",
+                    "Lower yourself until your thighs are parallel to the ground or lower.",
+                    "Pause for a moment at the bottom of the squat, then push through your heels to stand back up.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Safety Bar Front Squat Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Safety Bar Front Squat Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the quadriceps, hamstrings, glutes, and core muscles",
+                    "Reduces stress on the shoulders and wrists compared to traditional front squats",
+                    "Allows for a more upright torso position, which can improve posture and reduce lower back strain",
+                    "Increases overall strength and muscle mass in the lower body",
+                    "Can be used as a variation to traditional back squats for added variety in a workout routine"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Safety Bar Front Squat Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Core",
+                    "Upper back"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Safety Bar Front Squat Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "High Bar Back Squat",
+                    "Low Bar Back Squat",
+                    "Front Squat with Barbell",
+                    "Zercher Squat",
+                    "Goblet Squat",
+                    "Overhead Squat",
+                    "Bulgarian Split Squat",
+                    "Lunge",
+                    "Step-Up"
+                ]
+            }
+        }
+    ]
+}

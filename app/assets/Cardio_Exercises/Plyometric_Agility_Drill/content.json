@@ -1,0 +1,78 @@
+{
+    "title": "Plyometric Agility Drill",
+    "content": [
+        {
+            "type": "image",
+            "path": "images/image_0_1.jpg"
+        },
+        {
+            "type": "section",
+            "title": "Plyometric Agility Drill Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by standing with your feet shoulder-width apart and your knees slightly bent.",
+                    "Jump forward as far as you can, landing softly on the balls of your feet.",
+                    "Immediately jump back to your starting position, again landing softly on the balls of your feet.",
+                    "Next, jump to your right as far as you can, landing softly on the balls of your feet.",
+                    "Jump back to your starting position, again landing softly on the balls of your feet.",
+                    "Finally, jump to your left as far as you can, landing softly on the balls of your feet.",
+                    "Jump back to your starting position, again landing softly on the balls of your feet.",
+                    "Repeat this sequence for 30 seconds to 1 minute, rest for 30 seconds, and then repeat for 2-3 sets."
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "path": "images/image_2_1.webp"
+        },
+        {
+            "type": "section",
+            "title": "Plyometric Agility Drill Form & Visual",
+            "content": ""
+        },
+        {
+            "type": "section",
+            "title": "Plyometric Agility Drill Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Increases lower body strength and power",
+                    "Improves cardiovascular endurance",
+                    "Targets multiple muscle groups including quads, glutes, hamstrings, calves, and core",
+                    "Can be used for sport-specific training for athletes",
+                    "Low-impact exercise that is easy on the joints",
+                    "Can be modified for different fitness levels and goals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Plyometric Agility Drill Muscles Worked",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Calves",
+                    "Glutes",
+                    "Core muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Plyometric Agility Drill Variations & Alternatives",
+            "content": {
+                "type": "list",
+                "items": [
+                    "plyometric-agility-drill with cones",
+                    "plyometric-agility-drill with hurdles",
+                    "plyometric-agility-drill with ladders",
+                    "plyometric-agility-drill with agility rings",
+                    "plyometric-agility-drill with resistance bands"
+                ]
+            }
+        }
+    ]
+}
