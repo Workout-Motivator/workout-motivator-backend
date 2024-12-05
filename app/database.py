@@ -4,16 +4,20 @@ from sqlalchemy.orm import sessionmaker
 import os
 import logging
 import psycopg2
+from urllib.parse import urlparse
 
 # Create a logger
 logger = logging.getLogger(__name__)
 
 SQLALCHEMY_DATABASE_URL = os.getenv("DATABASE_URL", "postgresql://postgres:postgres@workout-motivator-db:5432/workout_motivator")
-DB_NAME = "workout_motivator"
-DB_USER = "postgres"
-DB_PASSWORD = "postgres"
-DB_HOST = "workout-motivator-db"
-DB_PORT = 5432
+
+# Parse database URL for connection parameters
+url = urlparse(SQLALCHEMY_DATABASE_URL)
+DB_NAME = url.path[1:]  # Remove leading '/'
+DB_USER = url.username
+DB_PASSWORD = url.password
+DB_HOST = url.hostname
+DB_PORT = url.port or 5432
 
 engine = create_engine(SQLALCHEMY_DATABASE_URL)
 SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)
