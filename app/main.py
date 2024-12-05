@@ -14,8 +14,8 @@ import os
 from pathlib import Path
 
 # Configure logging
-logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
+logging.basicConfig(level=logging.INFO)
 
 # Create FastAPI app
 app = FastAPI(title="Workout Tracker API")
@@ -35,12 +35,12 @@ app.add_middleware(
 # Include routers
 app.include_router(workouts.router, prefix="/workouts", tags=["workouts"])
 
-# Mount the exercises directory for serving static files if it exists
+# Mount assets directory only if it exists
 ASSETS_DIR = Path(__file__).parent / "assets"
 if ASSETS_DIR.exists():
     app.mount("/assets", StaticFiles(directory=str(ASSETS_DIR), html=True), name="assets")
 else:
-    logger.warning("Assets directory not found at %s. Static file serving will be disabled.", ASSETS_DIR)
+    logger.warning(f"Assets directory {ASSETS_DIR} does not exist. Static file serving is disabled.")
 
 @app.on_event("startup")
 async def startup_event():
