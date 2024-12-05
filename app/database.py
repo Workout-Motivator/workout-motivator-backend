@@ -4,6 +4,7 @@ from sqlalchemy.orm import sessionmaker
 import os
 import logging
 import psycopg2
+from urllib.parse import quote_plus
 
 # Create a logger
 logger = logging.getLogger(__name__)
@@ -15,8 +16,8 @@ DB_PASSWORD = os.getenv("POSTGRES_PASSWORD", "postgres")
 DB_HOST = "workout-motivator-db"
 DB_PORT = 5432
 
-# Construct SQLAlchemy URL
-SQLALCHEMY_DATABASE_URL = f"postgresql://{DB_USER}:{DB_PASSWORD}@{DB_HOST}:{DB_PORT}/{DB_NAME}"
+# Construct SQLAlchemy URL with proper URL encoding for special characters
+SQLALCHEMY_DATABASE_URL = f"postgresql://{DB_USER}:{quote_plus(DB_PASSWORD)}@{DB_HOST}:{DB_PORT}/{DB_NAME}"
 
 engine = create_engine(SQLALCHEMY_DATABASE_URL)
 SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)
