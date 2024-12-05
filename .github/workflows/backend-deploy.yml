@@ -39,7 +39,7 @@ jobs:
     - name: Build and push backend image
       uses: docker/build-push-action@v4
       with:
-        context: ./workout-motivator-backend
+        context: .
         push: true
         tags: ${{ env.AZURE_CONTAINER_REGISTRY }}/${{ env.BACKEND_IMAGE_NAME }}:${{ github.sha }},${{ env.AZURE_CONTAINER_REGISTRY }}/${{ env.BACKEND_IMAGE_NAME }}:latest
 
