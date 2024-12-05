@@ -83,7 +83,7 @@ jobs:
 
     - name: Deploy database
       run: |
-        kubectl apply -f workout-motivator-backend/kubernetes/database/
+        kubectl apply -f kubernetes/database/
 
     - name: Update backend deployment image
       run: |
