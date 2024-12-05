@@ -19,13 +19,6 @@ spec:
   - host: fitfocusapp.com
     http:
       paths:
-      - path: /.well-known/acme-challenge/(.*)
-        pathType: ImplementationSpecific
-        backend:
-          service:
-            name: workout-motivator-ingress-acme-solver
-            port:
-              number: 80
       - path: /api(/|$)(.*)
         pathType: ImplementationSpecific
         backend:
@@ -43,13 +36,6 @@ spec:
   - host: www.fitfocusapp.com
     http:
       paths:
-      - path: /.well-known/acme-challenge/(.*)
-        pathType: ImplementationSpecific
-        backend:
-          service:
-            name: workout-motivator-ingress-acme-solver
-            port:
-              number: 80
       - path: /api(/|$)(.*)
         pathType: ImplementationSpecific
         backend:
