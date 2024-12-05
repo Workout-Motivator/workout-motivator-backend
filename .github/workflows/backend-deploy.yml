@@ -42,8 +42,6 @@ jobs:
         context: ./workout-motivator-backend
         push: true
         tags: ${{ env.AZURE_CONTAINER_REGISTRY }}/${{ env.BACKEND_IMAGE_NAME }}:${{ github.sha }},${{ env.AZURE_CONTAINER_REGISTRY }}/${{ env.BACKEND_IMAGE_NAME }}:latest
-        cache-from: type=registry,ref=${{ env.AZURE_CONTAINER_REGISTRY }}/${{ env.BACKEND_IMAGE_NAME }}:buildcache
-        cache-to: type=registry,ref=${{ env.AZURE_CONTAINER_REGISTRY }}/${{ env.BACKEND_IMAGE_NAME }}:buildcache,mode=max
 
     - name: Set up kubelogin for non-interactive login
       uses: azure/use-kubelogin@v1
