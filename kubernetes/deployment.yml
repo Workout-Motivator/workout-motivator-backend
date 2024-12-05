@@ -29,11 +29,21 @@ spec:
             cpu: "500m"
             memory: "512Mi"
         env:
-        - name: DATABASE_URL
+        - name: POSTGRES_DB
           valueFrom:
             secretKeyRef:
               name: db-config
-              key: DATABASE_URL
+              key: POSTGRES_DB
+        - name: POSTGRES_USER
+          valueFrom:
+            secretKeyRef:
+              name: db-config
+              key: POSTGRES_USER
+        - name: POSTGRES_PASSWORD
+          valueFrom:
+            secretKeyRef:
+              name: db-config
+              key: POSTGRES_PASSWORD
         - name: JWT_SECRET
           valueFrom:
             secretKeyRef:
