@@ -7,7 +7,10 @@ metadata:
     nginx.ingress.kubernetes.io/use-regex: "true"
     nginx.ingress.kubernetes.io/ssl-redirect: "false"
     cert-manager.io/cluster-issuer: "letsencrypt-staging"
-    nginx.ingress.kubernetes.io/rewrite-target: /$2
+    nginx.ingress.kubernetes.io/configuration-snippet: |
+      location ~ ^/(?!.well-known/acme-challenge/) {
+        try_files $uri $uri/ /index.html;
+      }
 spec:
   ingressClassName: nginx
   tls:
