@@ -7,10 +7,6 @@ metadata:
     nginx.ingress.kubernetes.io/use-regex: "true"
     nginx.ingress.kubernetes.io/ssl-redirect: "false"
     cert-manager.io/cluster-issuer: "letsencrypt-staging"
-    nginx.ingress.kubernetes.io/configuration-snippet: |
-      location ~ ^/(?!.well-known/acme-challenge/) {
-        try_files $uri $uri/ /index.html;
-      }
 spec:
   ingressClassName: nginx
   tls:
@@ -22,6 +18,14 @@ spec:
   - host: fitfocusapp.com
     http:
       paths:
+      - path: /.well-known/acme-challenge/.*
+        pathType: Prefix
+        backend:
+          # This will be replaced by cert-manager
+          service:
+            name: cm-acme-http-solver
+            port:
+              number: 80
       - path: /api(/|$)(.*)
         pathType: Prefix
         backend:
@@ -29,7 +33,7 @@ spec:
             name: workout-motivator-backend
             port:
               number: 8000
-      - path: /(?!.well-known/acme-challenge/)(.*)
+      - path: /(.*)
         pathType: ImplementationSpecific
         backend:
           service:
@@ -39,6 +43,14 @@ spec:
   - host: www.fitfocusapp.com
     http:
       paths:
+      - path: /.well-known/acme-challenge/.*
+        pathType: Prefix
+        backend:
+          # This will be replaced by cert-manager
+          service:
+            name: cm-acme-http-solver
+            port:
+              number: 80
       - path: /api(/|$)(.*)
         pathType: Prefix
         backend:
@@ -46,7 +58,7 @@ spec:
             name: workout-motivator-backend
             port:
               number: 8000
-      - path: /(?!.well-known/acme-challenge/)(.*)
+      - path: /(.*)
         pathType: ImplementationSpecific
         backend:
           service:
