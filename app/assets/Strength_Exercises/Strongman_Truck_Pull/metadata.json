@@ -1,0 +1,70 @@
+{
+    "title": "Strongman Truck Pull",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Find a strongman truck or sled that is designed for pulling.",
+                    "Attach a harness or rope to the truck/sled and secure it tightly around your waist.",
+                    "Get into a low squatting position with your hands on the rope/harness and your feet shoulder-width apart.",
+                    "Begin pulling the truck/sled towards you by using your legs, hips, and back muscles.",
+                    "Take short, quick steps backwards while maintaining a steady pulling motion.",
+                    "Continue pulling the truck/sled until you have reached the designated distance or time limit.",
+                    "Release the rope/harness and carefully stand up to avoid any injuries.",
+                    "Rest and repeat the exercise for desired number of sets and reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves overall strength and power",
+                    "Targets multiple muscle groups including the legs, back, and core",
+                    "Increases cardiovascular endurance",
+                    "Enhances grip strength",
+                    "Provides a unique and challenging workout experience"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Glutes",
+                    "Calves",
+                    "Core muscles (abdominals, obliques, lower back)",
+                    "Forearms",
+                    "Trapezius",
+                    "Rhomboids",
+                    "Deltoids"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "StrongMan Sled Pull",
+                    "StrongMan Tire Flip",
+                    "StrongMan Farmer\u2019s Walk",
+                    "StrongMan Atlas Stones",
+                    "StrongMan Log Press"
+                ]
+            }
+        }
+    ]
+}

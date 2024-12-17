@@ -1,0 +1,69 @@
+{
+    "title": "Barbell Straight Leg Deadlift",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your toes pointing forward.",
+                    "Place the barbell on the floor in front of you and stand with your shins touching the bar.",
+                    "Grab the bar with an overhand grip, hands shoulder-width apart.",
+                    "Lower your hips and bend your knees slightly, keeping your back straight and your chest up.",
+                    "Take a deep breath and lift the bar off the floor by straightening your legs and standing up.",
+                    "As you stand up, keep the bar close to your body and squeeze your glutes at the top of the movement.",
+                    "Lower the bar back down to the floor by bending your hips and knees, keeping your back straight.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the hamstrings, glutes, and lower back muscles",
+                    "Improves posture and balance",
+                    "Increases overall lower body strength",
+                    "Can help prevent lower back pain and injury",
+                    "Engages the core muscles for added stability and strength",
+                    "Can be modified for different fitness levels and goals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Erector Spinae",
+                    "Glutes",
+                    "Hamstrings",
+                    "Quadriceps",
+                    "Adductors",
+                    "Soleus",
+                    "Gastrocnemius"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single Leg Barbell Straight Leg Deadlift",
+                    "Sumo Barbell Straight Leg Deadlift",
+                    "Romanian Barbell Straight Leg Deadlift",
+                    "Trap Bar Deadlift",
+                    "Kettlebell Straight Leg Deadlift"
+                ]
+            }
+        }
+    ]
+}

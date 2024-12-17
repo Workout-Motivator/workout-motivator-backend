@@ -1,0 +1,68 @@
+{
+    "title": "Lever Seated Leg Press",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Adjust the seat height so that your feet are flat on the footplate and your knees are at a 90-degree angle.",
+                    "Place your feet shoulder-width apart on the footplate.",
+                    "Grasp the handles on either side of the seat.",
+                    "Push the footplate away from you by extending your legs.",
+                    "Slowly lower the footplate back towards you by bending your knees.",
+                    "Repeat for desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets multiple muscle groups including quadriceps, hamstrings, glutes, and calves",
+                    "Allows for a controlled and safe movement",
+                    "Can be adjusted to accommodate different fitness levels and goals",
+                    "Provides a low-impact option for those with joint pain or injuries",
+                    "Can help improve overall lower body strength and power"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single Leg Lever Seated Leg Press",
+                    "Wide Stance Lever Seated Leg Press",
+                    "Narrow Stance Lever Seated Leg Press",
+                    "Reverse Lever Seated Leg Press",
+                    "One and a Half Rep Lever Seated Leg Press",
+                    "Paused Rep Lever Seated Leg Press",
+                    "Drop Set Lever Seated Leg Press",
+                    "Pyramid Set Lever Seated Leg Press",
+                    "Superset Lever Seated Leg Press with Leg Extension",
+                    "Superset Lever Seated Leg Press with Leg Curl"
+                ]
+            }
+        }
+    ]
+}

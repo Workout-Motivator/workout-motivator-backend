@@ -1,0 +1,66 @@
+{
+    "title": "Strongman Wheelbarrow",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Load the StrongMan Wheelbarrow with weights or other heavy objects.",
+                    "Stand behind the wheelbarrow with your feet shoulder-width apart.",
+                    "Bend your knees and grip the handles of the wheelbarrow with both hands.",
+                    "Lift the wheelbarrow by straightening your legs and pushing through your heels.",
+                    "Walk forward while pushing the wheelbarrow, keeping your back straight and your core engaged.",
+                    "Continue walking for a set distance or time, or until you feel fatigued.",
+                    "To stop, slowly lower the wheelbarrow back to the ground and release your grip on the handles."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves grip strength",
+                    "Develops core stability and strength",
+                    "Targets the upper and lower body muscles, including the shoulders, back, legs, and glutes",
+                    "Enhances cardiovascular endurance",
+                    "Increases overall functional strength and power"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Glutes",
+                    "Core muscles (abdominals and lower back)",
+                    "Forearms",
+                    "Shoulders"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single Arm StrongMan Wheelbarrow",
+                    "Partner StrongMan Wheelbarrow",
+                    "Farmer\u2019s Walk StrongMan Wheelbarrow",
+                    "Backward StrongMan Wheelbarrow",
+                    "Obstacle Course StrongMan Wheelbarrow"
+                ]
+            }
+        }
+    ]
+}

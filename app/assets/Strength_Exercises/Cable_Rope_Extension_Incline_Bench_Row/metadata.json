@@ -1,0 +1,76 @@
+{
+    "title": "Cable Rope Extension Incline Bench Row",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start with the cable machine. Attach a rope to the high pulley.",
+                    "Stand facing the machine and grab the rope with both hands. Your palms should be facing each other.",
+                    "Step back a few feet to create tension in the rope.",
+                    "Keeping your arms straight, pull the rope down towards your thighs. Your elbows should stay close to your body.",
+                    "Slowly release the rope back up to the starting position.",
+                    "Next, move to the row machine. Adjust the incline bench to a 45-degree angle.",
+                    "Place your chest on the bench and grab the handles with both hands.",
+                    "Pull the handles towards your chest, squeezing your shoulder blades together.",
+                    "Slowly release the handles back to the starting position."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the rotator cuff muscles",
+                    "Improves shoulder stability",
+                    "Increases range of motion in the shoulder joint",
+                    "Helps prevent shoulder injuries",
+                    "Can be done with minimal equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Triceps",
+                    "Lats",
+                    "Rhomboids",
+                    "Trapezius",
+                    "Biceps"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "cable rope extension",
+                    "incline bench row",
+                    "cable rope extension",
+                    "incline bench row",
+                    "incline cable row",
+                    "cable rope extension",
+                    "incline bench row",
+                    "incline cable row",
+                    "seated cable row",
+                    "cable rope extension",
+                    "incline bench row",
+                    "incline cable row",
+                    "seated cable row",
+                    "single-arm cable row"
+                ]
+            }
+        }
+    ]
+}

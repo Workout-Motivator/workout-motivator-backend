@@ -1,0 +1,61 @@
+{
+    "title": "Resistance Band Triceps Pushdown",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Attach the resistance band to a sturdy anchor point above your head.",
+                    "Grab the band with both hands and stand with your feet shoulder-width apart.",
+                    "Extend your arms straight down towards the floor, keeping your elbows close to your sides.",
+                    "Engage your triceps and push the band down towards your thighs, keeping your elbows stationary.",
+                    "Pause for a moment at the bottom of the movement, then slowly release back to the starting position.",
+                    "Repeat for desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the triceps muscles, helping to tone and strengthen them",
+                    "Can be done with a resistance band, making it a convenient exercise to do at home or while traveling",
+                    "Helps to improve overall arm strength and definition",
+                    "Can be modified to increase or decrease resistance, making it suitable for all fitness levels",
+                    "Is a low-impact exercise, making it a good option for those with joint pain or injuries"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Triceps brachii",
+                    "Anconeus"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single Arm Resistance Band Triceps Pushdown",
+                    "Reverse Grip Resistance Band Triceps Pushdown",
+                    "Overhead Resistance Band Triceps Extension",
+                    "Close Grip Resistance Band Pushup",
+                    "Resistance Band Triceps Kickback"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "title": "Cable Seated Rear Lateral Raise",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Adjust the cable machine to the appropriate height and attach a D-handle to the cable.",
+                    "Sit on the bench facing the cable machine with your feet flat on the ground.",
+                    "Grasp the D-handle with one hand and place your other hand on the bench for support.",
+                    "Keeping your arm straight, lift the D-handle out to the side until your arm is parallel to the ground.",
+                    "Slowly lower the D-handle back down to the starting position.",
+                    "Repeat for the desired number of repetitions and then switch arms."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the rear deltoids, which are often neglected in traditional shoulder exercises",
+                    "Improves posture by strengthening the muscles responsible for pulling the shoulders back",
+                    "Increases shoulder stability and reduces the risk of injury",
+                    "Allows for a greater range of motion compared to dumbbell or barbell exercises",
+                    "Can be easily adjusted to accommodate different fitness levels and goals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rear Deltoids",
+                    "Trapezius",
+                    "Rhomboids"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Cable Standing Rear Lateral Raise",
+                    "Dumbbell Seated Rear Lateral Raise",
+                    "Dumbbell Standing Rear Lateral Raise",
+                    "Resistance Band Seated Rear Lateral Raise",
+                    "Resistance Band Standing Rear Lateral Raise",
+                    "Machine Seated Rear Lateral Raise",
+                    "Machine Standing Rear Lateral Raise"
+                ]
+            }
+        }
+    ]
+}

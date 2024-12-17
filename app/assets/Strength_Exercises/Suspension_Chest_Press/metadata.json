@@ -1,0 +1,70 @@
+{
+    "title": "Suspension Chest Press",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Adjust the suspension trainer to chest height.",
+                    "Stand facing away from the anchor point with your feet shoulder-width apart.",
+                    "Grasp the handles with an overhand grip and walk forward until your body is at a 45-degree angle to the floor.",
+                    "Engage your core and keep your body in a straight line from head to heels.",
+                    "Bend your elbows and lower your chest towards the handles, keeping your elbows close to your sides.",
+                    "Push back up to the starting position, straightening your arms.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets multiple muscle groups including chest, shoulders, triceps, and core",
+                    "Improves upper body strength and stability",
+                    "Engages stabilizer muscles for a more complete workout",
+                    "Allows for adjustable resistance and difficulty by changing body angle and position",
+                    "Can be easily modified for different fitness levels and abilities",
+                    "Provides a low-impact exercise option for those with joint pain or injuries"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Pectoralis major (chest muscles)",
+                    "Triceps brachii (back of upper arm muscles)",
+                    "Anterior deltoids (front of shoulder muscles)",
+                    "Stabilizer muscles in the core, shoulders, and arms"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Incline Suspension Chest Press",
+                    "Decline Suspension Chest Press",
+                    "Single Arm Suspension Chest Press",
+                    "Close Grip Suspension Chest Press",
+                    "Wide Grip Suspension Chest Press",
+                    "Explosive Suspension Chest Press",
+                    "Slow and Controlled Suspension Chest Press",
+                    "Paused Suspension Chest Press",
+                    "Alternating Suspension Chest Press",
+                    "Isometric Suspension Chest Press"
+                ]
+            }
+        }
+    ]
+}

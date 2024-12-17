@@ -1,0 +1,62 @@
+{
+    "title": "Chaturanga Pose",
+    "description": "A stretch exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start in a plank position with your shoulders over your wrists and your body in a straight line.",
+                    "Lower your body down towards the ground, keeping your elbows close to your sides.",
+                    "Stop when your arms are at a 90-degree angle and your body is hovering just above the ground.",
+                    "Hold this position for a few breaths, then push back up into plank pose.",
+                    "Repeat for several repetitions, making sure to engage your core and keep your body in a straight line throughout the movement."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Relieves tension in the chest and front of the shoulders",
+                    "Improves posture by opening up the chest and shoulders",
+                    "Increases flexibility in the chest and shoulders",
+                    "May help alleviate upper back pain",
+                    "Can be done anywhere without equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Triceps",
+                    "Chest",
+                    "Shoulders",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Chaturanga push-up",
+                    "Chaturanga with knee taps",
+                    "Chaturanga with leg lifts",
+                    "Chaturanga with mountain climbers",
+                    "Chaturanga with side plank"
+                ]
+            }
+        }
+    ]
+}

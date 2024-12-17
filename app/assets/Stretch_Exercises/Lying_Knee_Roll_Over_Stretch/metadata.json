@@ -1,0 +1,63 @@
+{
+    "title": "Lying Knee Roll Over Stretch",
+    "description": "A stretch exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying flat on your back with your arms extended out to the sides.",
+                    "Bend your knees and bring them up towards your chest.",
+                    "Slowly lower both knees to one side, keeping your shoulders flat on the ground.",
+                    "Hold the stretch for 10-15 seconds, feeling the stretch in your lower back and hips.",
+                    "Slowly bring your knees back up to center and repeat on the other side.",
+                    "Repeat the stretch 2-3 times on each side."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves flexibility in the hips and lower back",
+                    "Relieves tension and tightness in the muscles surrounding the hips and lower back",
+                    "Can help alleviate lower back pain",
+                    "Stretches the inner thighs and groin muscles",
+                    "Can improve posture and alignment of the spine"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Abdominal muscles",
+                    "Lower back muscles",
+                    "Hip muscles",
+                    "Thigh muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Standing Knee Roll Over Stretch",
+                    "Seated Knee Roll Over Stretch",
+                    "Supine Knee Roll Over Stretch",
+                    "Wall Knee Roll Over Stretch",
+                    "Partner Knee Roll Over Stretch"
+                ]
+            }
+        }
+    ]
+}

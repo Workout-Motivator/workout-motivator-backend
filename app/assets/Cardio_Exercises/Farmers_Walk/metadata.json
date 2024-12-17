@@ -1,0 +1,72 @@
+{
+    "title": "Farmers Walk",
+    "description": "A cardio exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your arms at your sides.",
+                    "Pick up a heavy weight in each hand, such as dumbbells or kettlebells.",
+                    "Keep your shoulders down and your core engaged as you walk forward, taking small, quick steps.",
+                    "Try to keep your posture upright and avoid leaning to one side or the other.",
+                    "Walk for a set distance or time, then carefully set the weights down.",
+                    "Rest for a minute or two, then repeat for several sets."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves grip strength",
+                    "Increases overall body strength",
+                    "Improves posture and balance",
+                    "Engages multiple muscle groups including the core, back, shoulders, and legs",
+                    "Can be done with various weights and distances to challenge different fitness levels",
+                    "Can be incorporated into a full body workout or used as a standalone exercise"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Trapezius",
+                    "Rhomboids",
+                    "Deltoids",
+                    "Forearms",
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single-arm farmers walk",
+                    "Double-kettlebell farmers walk",
+                    "Overhead farmers walk",
+                    "Waiter\u2019s walk",
+                    "Bottoms-up carry",
+                    "Offset farmers walk",
+                    "Yoke carry",
+                    "Sandbag carry",
+                    "Trap bar carry"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "title": "Superman",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Lie face down on a comfortable surface, such as a mat or carpet, with your legs fully extended and arms stretched out overhead.",
+                    "Keep your neck in a neutral position by looking down at the floor, ensuring your head is aligned with your spine.",
+                    "Engage your lower back, glutes, and hamstrings to simultaneously lift your arms, chest, and legs off the ground. Aim to lift them as high as comfortably possible without straining your neck or back.",
+                    "Hold the raised position, resembling a flying Superman, for a few seconds, focusing on maintaining proper form and engaging your posterior chain muscles.",
+                    "Slowly and controlled, lower your arms, chest, and legs back down to the starting position.",
+                    "Repeat the Superman exercise for the desired number of repetitions or sets, ensuring proper form and control throughout the movement.",
+                    "Rest and recover between sets as needed, and consider incorporating this exercise into a well-rounded core or lower back strengthening workout routine."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the upper body muscles, including the chest, shoulders, and arms",
+                    "Improves posture and spinal alignment",
+                    "Engages the core muscles for stability and balance",
+                    "Increases overall body awareness and coordination",
+                    "Can be modified for different fitness levels and abilities"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Erector spinae",
+                    "Gluteus maximus",
+                    "Hamstrings",
+                    "Gastrocnemius"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Superman Legs-Only",
+                    "Superman Arms-Only"
+                ]
+            }
+        }
+    ]
+}

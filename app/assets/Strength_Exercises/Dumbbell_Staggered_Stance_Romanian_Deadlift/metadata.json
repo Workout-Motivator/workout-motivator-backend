@@ -1,0 +1,63 @@
+{
+    "title": "Dumbbell Staggered Stance Romanian Deadlift",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart, holding a dumbbell in each hand.",
+                    "Take a step forward with your left foot, keeping your right foot in place.",
+                    "Shift your weight onto your left foot and hinge forward at the hips, lowering the dumbbells towards the ground while keeping your back straight.",
+                    "Lower the dumbbells as far as you can while maintaining good form, then return to the starting position by squeezing your glutes and hamstrings.",
+                    "Repeat for the desired number of reps, then switch sides and repeat with your right foot forward."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the hamstrings, glutes, and lower back muscles",
+                    "Improves balance and stability",
+                    "Increases hip mobility and flexibility",
+                    "Targets the posterior chain muscles, which are important for overall strength and athletic performance",
+                    "Can be modified for different fitness levels and goals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Hamstrings",
+                    "Glutes",
+                    "Lower back",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Romanian Deadlift",
+                    "Barbell Staggered Stance Romanian Deadlift",
+                    "Kettlebell Staggered Stance Romanian Deadlift",
+                    "Single Leg Dumbbell Romanian Deadlift",
+                    "Single Leg Barbell Romanian Deadlift",
+                    "Sumo Stance Romanian Deadlift"
+                ]
+            }
+        }
+    ]
+}

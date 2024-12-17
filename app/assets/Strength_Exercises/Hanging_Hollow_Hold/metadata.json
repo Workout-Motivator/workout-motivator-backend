@@ -1,0 +1,66 @@
+{
+    "title": "Hanging Hollow Hold",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Find a sturdy bar or set of rings to hang from.",
+                    "Jump up and grab the bar or rings with an overhand grip.",
+                    "Engage your core and lift your legs up until they are parallel to the ground.",
+                    "Hold this position for as long as you can, aiming for at least 30 seconds.",
+                    "Lower your legs back down to the starting position and rest for a few seconds.",
+                    "Repeat steps 3-5 for a total of 3-5 sets."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the core muscles",
+                    "Improves hip mobility and flexibility",
+                    "Targets the lower abs and hip flexors",
+                    "Helps to improve posture and balance",
+                    "Can be done with minimal equipment",
+                    "Can be modified to increase or decrease difficulty"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus abdominis",
+                    "Transverse abdominis",
+                    "Obliques",
+                    "Erector spinae",
+                    "Latissimus dorsi",
+                    "Shoulder stabilizers"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "hanging knee raises",
+                    "hanging leg raises",
+                    "hollow body hold",
+                    "hollow body rock",
+                    "hollow body flutter kicks"
+                ]
+            }
+        }
+    ]
+}

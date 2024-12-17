@@ -1,0 +1,66 @@
+{
+    "title": "Dumbbell One Arm Bent Over Row",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a dumbbell in your right hand.",
+                    "Bend forward at the waist, keeping your back straight and your left hand resting on your left thigh.",
+                    "Bring the dumbbell up towards your chest, keeping your elbow close to your body.",
+                    "Lower the dumbbell back down to the starting position.",
+                    "Repeat for the desired number of repetitions.",
+                    "Switch sides and repeat the exercise with your left hand."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the triceps muscles for increased strength and definition",
+                    "Improves overall arm and shoulder stability",
+                    "Can be done with minimal equipment, making it a convenient exercise to do at home or while traveling",
+                    "Allows for unilateral training, which can help correct muscle imbalances between the left and right arms",
+                    "Engages the core muscles for added stability and balance"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Latissimus dorsi",
+                    "Trapezius",
+                    "Rhomboids",
+                    "Erector spinae",
+                    "Biceps brachii",
+                    "Brachialis",
+                    "Brachioradialis"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "dumbbell two-arm bent-over row",
+                    "dumbbell renegade row",
+                    "dumbbell single-arm row",
+                    "barbell bent-over row",
+                    "inverted row"
+                ]
+            }
+        }
+    ]
+}

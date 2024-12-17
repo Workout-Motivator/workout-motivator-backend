@@ -1,0 +1,69 @@
+{
+    "title": "Bench Pull-ups",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Find a sturdy bench or chair that can support your weight.",
+                    "Place the bench or chair in front of a sturdy horizontal bar that is high enough for you to hang from.",
+                    "Stand on the bench or chair and grip the bar with your palms facing away from you and your hands shoulder-width apart.",
+                    "Lower yourself down until your arms are fully extended and your feet are off the bench or chair.",
+                    "Pull yourself up towards the bar until your chin is above the bar.",
+                    "Lower yourself back down to the starting position with control.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the upper back muscles, including the latissimus dorsi, rhomboids, and trapezius",
+                    "Improves grip strength and forearm muscles",
+                    "Targets the biceps and improves arm strength",
+                    "Can be done with minimal equipment, making it a convenient exercise to do at home or while traveling",
+                    "Can be modified to increase or decrease difficulty by adjusting the height of the bench or adding weight"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Latissimus dorsi",
+                    "Trapezius",
+                    "Rhomboids",
+                    "Biceps brachii",
+                    "Forearm muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Wide-grip pull-ups",
+                    "Close-grip pull-ups",
+                    "Chin-ups",
+                    "Neutral-grip pull-ups",
+                    "Weighted pull-ups",
+                    "L-sit pull-ups",
+                    "Behind-the-neck pull-ups",
+                    "Commando pull-ups",
+                    "One-arm pull-ups"
+                ]
+            }
+        }
+    ]
+}

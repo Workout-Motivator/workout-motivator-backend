@@ -1,0 +1,63 @@
+{
+    "title": "Cable Y Raise",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by attaching a cable to a low pulley machine.",
+                    "Stand facing the machine with your feet shoulder-width apart and your knees slightly bent.",
+                    "Grasp the handle with both hands and extend your arms straight out in front of you at shoulder height.",
+                    "Keeping your arms straight, lift the cable up and out to the sides until they are parallel with the floor.",
+                    "Hold for a second, then slowly lower the cable back down to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the rear deltoids, which are often neglected in traditional shoulder exercises",
+                    "Improves shoulder stability and posture",
+                    "Can help prevent shoulder injuries",
+                    "Allows for a greater range of motion compared to dumbbell or barbell exercises",
+                    "Can be easily modified for different fitness levels by adjusting the weight or cable height"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Deltoids (shoulders)",
+                    "Trapezius (upper back)",
+                    "Rhomboids (upper back)",
+                    "Rotator cuff muscles (shoulders)"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Cable T raise",
+                    "Cable W raise",
+                    "Cable V raise",
+                    "Cable L raise",
+                    "Cable I raise"
+                ]
+            }
+        }
+    ]
+}

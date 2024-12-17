@@ -1,0 +1,65 @@
+{
+    "title": "Incline Twisting Situp",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on your back on an incline bench with your feet secured under the foot pads.",
+                    "Place your hands behind your head with your elbows out to the sides.",
+                    "Engage your core and lift your upper body off the bench, twisting your torso to the right as you do so.",
+                    "Lower your upper body back down to the bench and then repeat the movement, this time twisting your torso to the left.",
+                    "Continue alternating twists for the desired number of repetitions.",
+                    "Remember to keep your core engaged throughout the exercise and to exhale as you lift your upper body off the bench."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the abdominal muscles, specifically the rectus abdominis and obliques",
+                    "Improves core strength and stability",
+                    "Increases flexibility in the spine and hips",
+                    "Enhances rotational power and agility",
+                    "Can be modified to increase or decrease difficulty level",
+                    "Can be done with or without weights",
+                    "Can be incorporated into a full body workout or ab-specific routine"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus Abdominis",
+                    "Obliques",
+                    "Transverse Abdominis",
+                    "Hip Flexors"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Decline Twisting Situp",
+                    "Weighted Incline Twisting Situp",
+                    "Medicine Ball Incline Twisting Situp",
+                    "Side-to-Side Incline Twisting Situp",
+                    "Reverse Incline Twisting Situp"
+                ]
+            }
+        }
+    ]
+}

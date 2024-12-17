@@ -1,0 +1,64 @@
+{
+    "title": "Twisted Leg Raise",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on your back with your legs straight out in front of you.",
+                    "Bend your right knee and bring it towards your chest, keeping your left leg straight on the ground.",
+                    "Place your right hand on your right knee and your left hand on your right ankle.",
+                    "Slowly lift your right leg up towards the ceiling, keeping it bent at a 90-degree angle.",
+                    "As you lift your leg, twist your torso to the left, bringing your right knee towards your left shoulder.",
+                    "Hold for a few seconds, then slowly lower your leg and torso back down to the starting position.",
+                    "Repeat on the other side, bending your left knee and twisting your torso to the right.",
+                    "Continue alternating sides for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the core muscles, including the lower abs, obliques, and hip flexors",
+                    "Improves balance and stability",
+                    "Increases flexibility in the hips and lower back",
+                    "Engages the glutes and thighs for a full lower body workout",
+                    "Can be modified for different fitness levels by adjusting the range of motion or adding weights"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus Abdominis",
+                    "Obliques",
+                    "Hip Flexors"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Twisted Knee Raise",
+                    "Twisted Bicycle Crunch",
+                    "Twisted Mountain Climber",
+                    "Twisted Plank",
+                    "Twisted Russian Twist"
+                ]
+            }
+        }
+    ]
+}

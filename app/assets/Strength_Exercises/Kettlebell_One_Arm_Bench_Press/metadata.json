@@ -1,0 +1,63 @@
+{
+    "title": "Kettlebell One Arm Bench Press",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on a bench with your feet flat on the ground and your knees bent.",
+                    "Hold a kettlebell in one hand with your arm extended straight up towards the ceiling.",
+                    "Slowly lower the kettlebell towards your chest while keeping your elbow close to your body.",
+                    "Pause for a moment when the kettlebell is just above your chest.",
+                    "Push the kettlebell back up to the starting position, fully extending your arm.",
+                    "Repeat for the desired number of repetitions before switching to the other arm."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets chest, triceps, and shoulders",
+                    "Improves upper body strength and stability",
+                    "Engages core muscles for added stability",
+                    "Allows for unilateral training, addressing muscle imbalances",
+                    "Can be modified for different fitness levels and goals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Chest muscles (pectoralis major and minor)",
+                    "Shoulder muscles (anterior deltoid)",
+                    "Triceps brachii",
+                    "Core muscles (rectus abdominis, obliques)"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Kettlebell One Arm Floor Press",
+                    "Kettlebell One Arm Incline Bench Press",
+                    "Kettlebell One Arm Decline Bench Press",
+                    "Kettlebell One Arm Push Press",
+                    "Kettlebell One Arm Overhead Press"
+                ]
+            }
+        }
+    ]
+}

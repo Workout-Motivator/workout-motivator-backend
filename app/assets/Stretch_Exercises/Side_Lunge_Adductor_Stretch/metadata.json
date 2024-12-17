@@ -1,0 +1,65 @@
+{
+    "title": "Side Lunge Adductor Stretch",
+    "description": "A stretch exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet hip-width apart and your hands on your hips.",
+                    "Take a big step to the right with your right foot, keeping your left foot in place.",
+                    "Bend your right knee and push your hips back as you lower your body into a lunge position.",
+                    "Keep your left leg straight and your left foot firmly planted on the ground.",
+                    "Hold the stretch for 10-15 seconds, feeling the stretch in your inner thigh and groin area.",
+                    "Slowly return to the starting position and repeat on the other side.",
+                    "Complete 2-3 sets of 10-15 repetitions on each side."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Increases flexibility in the inner thighs and groin area",
+                    "Improves hip mobility and range of motion",
+                    "Helps to prevent injury in the lower body",
+                    "Can alleviate lower back pain by stretching the muscles in the hips and glutes",
+                    "Can be modified to target different areas of the legs and hips"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Adductor muscles",
+                    "Gluteus maximus",
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Calves"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Side Lunge Adductor Stretch with Twist",
+                    "Side Lunge Adductor Stretch with Arm Reach",
+                    "Side Lunge Adductor Stretch with Overhead Reach",
+                    "Side Lunge Adductor Stretch with Calf Raise",
+                    "Side Lunge Adductor Stretch with Hip Opener"
+                ]
+            }
+        }
+    ]
+}

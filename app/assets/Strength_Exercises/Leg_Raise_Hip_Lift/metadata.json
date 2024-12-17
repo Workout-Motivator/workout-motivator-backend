@@ -1,0 +1,66 @@
+{
+    "title": "Leg Raise Hip Lift",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying flat on your back on a mat or comfortable surface.",
+                    "Place your hands by your sides, palms facing down.",
+                    "Engage your core muscles by pulling your belly button towards your spine.",
+                    "Lift both legs up towards the ceiling, keeping them straight and together.",
+                    "Slowly lower your legs back down towards the ground, stopping just before they touch the floor.",
+                    "Lift your hips up towards the ceiling, squeezing your glutes at the top of the movement.",
+                    "Lower your hips back down to the ground.",
+                    "Repeat the leg raise and hip lift movements for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the lower abdominal muscles",
+                    "Improves hip mobility and flexibility",
+                    "Helps to stabilize the lower back and improve posture",
+                    "Can be done without equipment and in a small space",
+                    "Can be modified for different fitness levels"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus Abdominis",
+                    "Transverse Abdominis",
+                    "Obliques",
+                    "Hip Flexors",
+                    "Erector Spinae"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Leg Raise Hip Lift",
+                    "Reverse Crunch",
+                    "Flutter Kicks",
+                    "Scissor Kicks",
+                    "Toe Touches"
+                ]
+            }
+        }
+    ]
+}

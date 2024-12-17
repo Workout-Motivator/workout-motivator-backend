@@ -1,0 +1,64 @@
+{
+    "title": "Dumbbell Rear Fly",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a dumbbell in each hand.",
+                    "Bend your knees slightly and hinge forward at the hips, keeping your back straight.",
+                    "Extend your arms straight down towards the floor, palms facing each other.",
+                    "Engage your shoulder blades and lift your arms out to the sides, keeping a slight bend in your elbows.",
+                    "Pause at the top of the movement, then slowly lower the weights back down to the starting position.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the muscles of the upper back, specifically the rear deltoids and rhomboids",
+                    "Improves posture by pulling the shoulders back and down",
+                    "Helps prevent shoulder injuries by strengthening the rotator cuff muscles",
+                    "Increases shoulder mobility and flexibility",
+                    "Can be done with light weights and minimal equipment, making it a convenient exercise to do at home or while traveling"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rhomboids",
+                    "Trapezius",
+                    "Posterior deltoids",
+                    "Infraspinatus",
+                    "Terres minor"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Rear Delt Fly",
+                    "Seated Rear Delt Fly",
+                    "Bent Over Rear Delt Fly",
+                    "Cable Rear Delt Fly",
+                    "Reverse Pec Deck Fly"
+                ]
+            }
+        }
+    ]
+}

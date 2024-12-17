@@ -1,0 +1,70 @@
+{
+    "title": "Dumbbell Floor Wiper",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Lie flat on your back with your legs straight and hold a dumbbell in each hand.",
+                    "Lift your legs up so they are perpendicular to the floor and your hips are at a 90-degree angle.",
+                    "Slowly lower your legs to one side, keeping them straight and maintaining the 90-degree angle at your hips.",
+                    "Bring your legs back up to the starting position and then lower them to the other side.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets multiple muscle groups including the abs, obliques, and shoulders",
+                    "Improves core stability and balance",
+                    "Increases upper body strength and endurance",
+                    "Can be modified for different fitness levels by adjusting weight and reps",
+                    "Requires minimal equipment and can be done at home or in the gym"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus Abdominis",
+                    "Obliques",
+                    "Transverse Abdominis",
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Lower Back"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Floor Press",
+                    "Dumbbell Bench Press",
+                    "Dumbbell Flyes",
+                    "Dumbbell Pullover",
+                    "Dumbbell Skull Crusher",
+                    "Dumbbell Tricep Extension",
+                    "Dumbbell Kickback",
+                    "Dumbbell Row",
+                    "Dumbbell Deadlift",
+                    "Dumbbell Squat"
+                ]
+            }
+        }
+    ]
+}

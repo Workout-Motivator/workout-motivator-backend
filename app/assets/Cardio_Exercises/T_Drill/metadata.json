@@ -1,0 +1,68 @@
+{
+    "title": "T Drill",
+    "description": "A cardio exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your knees slightly bent.",
+                    "Hold the t-drill in your right hand with your arm extended straight out in front of you.",
+                    "Step forward with your left foot and simultaneously twist your torso to the left.",
+                    "Bring the t-drill down and across your body to your left hip.",
+                    "Step back with your left foot and simultaneously twist your torso to the right.",
+                    "Bring the t-drill up and across your body to your right shoulder.",
+                    "Repeat steps 3-6 for 10-15 repetitions on each side."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens core muscles",
+                    "Improves balance and stability",
+                    "Increases flexibility in the hips and spine",
+                    "Engages the glutes, hamstrings, and lower back muscles",
+                    "Can help alleviate lower back pain",
+                    "Improves posture",
+                    "Can be modified for different fitness levels"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Glutes",
+                    "Calves",
+                    "Abdominals",
+                    "Obliques"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "lateral t-drill",
+                    "forward-backward t-drill",
+                    "zig-zag t-drill",
+                    "single-leg t-drill",
+                    "partner-resistance t-drill"
+                ]
+            }
+        }
+    ]
+}

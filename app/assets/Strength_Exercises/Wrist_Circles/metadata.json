@@ -1,0 +1,62 @@
+{
+    "title": "Wrist Circles",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by standing or sitting with your back straight and your arms extended in front of you.",
+                    "Make a fist with your right hand and rotate your wrist in a circular motion, moving your hand clockwise.",
+                    "Complete 10 rotations in one direction, then switch to counterclockwise and complete 10 rotations in the opposite direction.",
+                    "Repeat the exercise with your left hand.",
+                    "For a deeper stretch, you can also extend your arm out to the side and perform the same circular motion with your wrist.",
+                    "Repeat the exercise for 2-3 sets on each hand."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves wrist mobility and flexibility",
+                    "Reduces stiffness and pain in the wrists",
+                    "Strengthens the muscles in the wrists and forearms",
+                    "Increases blood flow to the hands and fingers",
+                    "Helps prevent injuries such as carpal tunnel syndrome"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Forearm muscles",
+                    "Wrist flexors and extensors",
+                    "Hand muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Wrist Flexion and Extension",
+                    "Wrist Pronation and Supination",
+                    "Wrist Radial and Ulnar Deviation",
+                    "Wrist Extension with Resistance Band",
+                    "Wrist Curls with Dumbbells"
+                ]
+            }
+        }
+    ]
+}

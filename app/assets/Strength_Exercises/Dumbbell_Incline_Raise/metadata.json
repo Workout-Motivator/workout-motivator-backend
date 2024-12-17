@@ -1,0 +1,61 @@
+{
+    "title": "Dumbbell Incline Raise",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on an incline bench with your feet firmly planted on the ground and your back flat against the bench.",
+                    "Hold a dumbbell in each hand with your palms facing each other and your arms extended straight up towards the ceiling.",
+                    "Slowly lower the dumbbells down towards your chest, keeping your elbows slightly bent.",
+                    "Pause for a moment at the bottom of the movement, then slowly raise the dumbbells back up to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the upper chest muscles, specifically the clavicular head of the pectoralis major",
+                    "Helps to improve overall chest definition and shape",
+                    "Can help to improve shoulder stability and strength",
+                    "Allows for a greater range of motion compared to traditional flat bench exercises",
+                    "Can be easily modified by adjusting the angle of the bench or using different weights"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Anterior deltoid",
+                    "Upper pectoralis major",
+                    "Triceps brachii"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Incline Fly",
+                    "Dumbbell Incline Press",
+                    "Dumbbell Incline Bench Row",
+                    "Dumbbell Incline Curl",
+                    "Dumbbell Incline Tricep Extension"
+                ]
+            }
+        }
+    ]
+}

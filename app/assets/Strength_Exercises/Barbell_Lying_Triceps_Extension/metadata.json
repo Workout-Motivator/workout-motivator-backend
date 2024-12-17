@@ -1,0 +1,61 @@
+{
+    "title": "Barbell Lying Triceps Extension",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying flat on a bench with your feet firmly planted on the ground and your head at the end of the bench.",
+                    "Grasp the barbell with an overhand grip, with your hands shoulder-width apart.",
+                    "Extend your arms straight up above your chest, keeping your elbows close to your head.",
+                    "Slowly lower the barbell towards your forehead, bending your elbows and keeping your upper arms stationary.",
+                    "Pause when the barbell is just above your forehead, then slowly raise it back up to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the triceps muscles, helping to build strength and size in the arms",
+                    "Improves overall upper body strength and stability",
+                    "Can be performed with a variety of weights and variations to challenge the muscles in different ways",
+                    "Helps to improve range of motion in the elbow joint",
+                    "Can be easily incorporated into a full body workout routine"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Triceps brachii",
+                    "Anconeus"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Lying Triceps Extension",
+                    "EZ-Bar Lying Triceps Extension",
+                    "Cable Lying Triceps Extension",
+                    "Close-Grip Bench Press",
+                    "Skull Crushers"
+                ]
+            }
+        }
+    ]
+}

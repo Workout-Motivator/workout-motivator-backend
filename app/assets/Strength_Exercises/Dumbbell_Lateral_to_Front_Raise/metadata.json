@@ -1,0 +1,63 @@
+{
+    "title": "Dumbbell Lateral to Front Raise",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a dumbbell in each hand.",
+                    "Start with your arms at your sides and palms facing your body.",
+                    "Slowly lift the dumbbells out to the sides until they reach shoulder height.",
+                    "Pause for a moment, then slowly bring the dumbbells in front of your body until they meet at chest level.",
+                    "Pause again, then slowly lower the dumbbells back to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets multiple muscle groups including the shoulders, upper back, and arms",
+                    "Improves shoulder stability and mobility",
+                    "Helps to correct muscle imbalances in the shoulders",
+                    "Can be modified for different fitness levels by adjusting the weight of the dumbbells",
+                    "Can be done at home or in the gym with minimal equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Deltoids (shoulders)",
+                    "Trapezius (upper back)",
+                    "Rotator cuff muscles (stabilizers of the shoulder joint)",
+                    "Biceps (front of upper arm)"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Lateral Raise",
+                    "Dumbbell Front Raise",
+                    "Dumbbell Lateral to Front Raise with Twist",
+                    "Cable Lateral to Front Raise",
+                    "Resistance Band Lateral to Front Raise"
+                ]
+            }
+        }
+    ]
+}

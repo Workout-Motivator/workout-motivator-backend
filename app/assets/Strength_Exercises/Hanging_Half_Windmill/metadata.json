@@ -1,0 +1,63 @@
+{
+    "title": "Hanging Half Windmill",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by hanging from a pull-up bar with your hands shoulder-width apart and palms facing away from you.",
+                    "Engage your core and lift your legs up to a 90-degree angle, keeping them straight.",
+                    "Slowly rotate your legs to the right, keeping them together and straight, until they are parallel to the ground.",
+                    "Pause for a moment, then slowly rotate your legs back to the starting position.",
+                    "Repeat the rotation to the left side, keeping your legs straight and together.",
+                    "Continue alternating sides for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves shoulder mobility and flexibility",
+                    "Strengthens the core and oblique muscles",
+                    "Increases stability and balance",
+                    "Improves grip strength",
+                    "Can help alleviate lower back pain"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Obliques",
+                    "Abdominals",
+                    "Shoulders",
+                    "Forearms"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Full Hanging Windmill",
+                    "Single Arm Hanging Windmill",
+                    "Weighted Hanging Windmill",
+                    "Reverse Hanging Windmill",
+                    "Alternating Hanging Windmill"
+                ]
+            }
+        }
+    ]
+}

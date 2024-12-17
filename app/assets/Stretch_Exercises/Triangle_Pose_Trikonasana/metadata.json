@@ -1,0 +1,70 @@
+{
+    "title": "Triangle Pose Trikonasana",
+    "description": "A stretch exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Begin in a standing position with your feet about 3-4 feet apart.",
+                    "Turn your right foot out 90 degrees and your left foot in slightly.",
+                    "Extend your arms out to the sides at shoulder height.",
+                    "Reach your right hand forward and place it on your right shin or ankle.",
+                    "Extend your left arm straight up towards the ceiling.",
+                    "Keep your gaze towards your left hand.",
+                    "Hold the pose for 5-10 breaths.",
+                    "Repeat on the other side."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Stretches and strengthens the legs, hips, and spine",
+                    "Improves balance and stability",
+                    "Stimulates the abdominal organs and aids in digestion",
+                    "Relieves stress and anxiety",
+                    "Can help alleviate back pain"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Glutes",
+                    "Abdominals",
+                    "Obliques",
+                    "Back muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Triangle Pose",
+                    "Trikonasana",
+                    "Downward Facing Dog",
+                    "Adho Mukha Svanasana",
+                    "Warrior II",
+                    "Virabhadrasana II",
+                    "Tree Pose",
+                    "Vrksasana"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "title": "Dead Bug With Stability Ball",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on your back with your arms extended towards the ceiling and your legs bent at a 90-degree angle, with your calves resting on top of the stability ball.",
+                    "Engage your core muscles and press your lower back into the ground.",
+                    "Slowly extend your right leg out straight, while simultaneously lowering your left arm overhead towards the ground.",
+                    "Pause for a moment, then return to the starting position.",
+                    "Repeat on the other side, extending your left leg out straight while lowering your right arm overhead.",
+                    "Continue alternating sides for the desired number of repetitions or time."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves core stability and strength",
+                    "Targets the rectus abdominis, obliques, and transverse abdominis muscles",
+                    "Helps to improve posture and balance",
+                    "Can be modified for different fitness levels and abilities",
+                    "Requires minimal equipment and can be done at home or in the gym"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus abdominis",
+                    "Obliques",
+                    "Transverse abdominis",
+                    "Erector spinae",
+                    "Glutes",
+                    "Hip flexors"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dead Bug with Dumbbells",
+                    "Dead Bug with Resistance Bands",
+                    "Dead Bug with Medicine Ball",
+                    "Reverse Dead Bug",
+                    "Single Leg Dead Bug",
+                    "Dead Bug with Leg Extension"
+                ]
+            }
+        }
+    ]
+}

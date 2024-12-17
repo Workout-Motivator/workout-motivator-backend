@@ -1,0 +1,63 @@
+{
+    "title": "Barbell Reverse Preacher Curl",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by sitting on a preacher bench with your chest against the pad and your arms extended over the bench, holding a barbell with an overhand grip.",
+                    "Slowly lower the barbell towards your forearms, keeping your elbows stationary and close to the bench.",
+                    "Pause for a moment at the bottom of the movement, then slowly raise the barbell back up to the starting position.",
+                    "Repeat for the desired number of repetitions.",
+                    "Make sure to keep your upper arms and elbows stationary throughout the exercise, and focus on using your biceps to lift the weight."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the brachialis muscle, which is located underneath the biceps and helps to increase arm thickness and overall arm size",
+                    "Helps to improve grip strength and forearm development",
+                    "Allows for a greater range of motion compared to traditional bicep curls",
+                    "Can be performed with heavier weights, leading to greater muscle activation and strength gains",
+                    "Provides variation to bicep workouts, preventing plateau and promoting muscle growth"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Brachioradialis",
+                    "Biceps brachii",
+                    "Brachialis"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Reverse Preacher Curl",
+                    "Cable Reverse Preacher Curl",
+                    "Machine Reverse Preacher Curl",
+                    "Barbell Preacher Curl",
+                    "Dumbbell Preacher Curl",
+                    "Cable Preacher Curl",
+                    "Machine Preacher Curl"
+                ]
+            }
+        }
+    ]
+}

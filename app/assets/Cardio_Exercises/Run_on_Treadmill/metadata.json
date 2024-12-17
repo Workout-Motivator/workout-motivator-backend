@@ -1,0 +1,75 @@
+{
+    "title": "Run on Treadmill",
+    "description": "A cardio exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Put on appropriate workout clothes and shoes.",
+                    "Approach the treadmill and turn it on.",
+                    "Step onto the treadmill and position yourself in the center of the belt.",
+                    "Press the \u201cStart\u201d button to begin the workout.",
+                    "Begin running at a comfortable pace.",
+                    "Gradually increase the speed and incline as desired.",
+                    "Continue running for the desired amount of time.",
+                    "When finished, gradually decrease the speed and incline.",
+                    "Press the \u201cStop\u201d button to end the workout.",
+                    "Step off the treadmill and cool down with some stretching exercises."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens lower back muscles",
+                    "Improves hip mobility",
+                    "Increases core stability",
+                    "Develops hamstring and glute muscles",
+                    "Can be used as a warm-up exercise for squats and deadlifts",
+                    "Can be modified for different fitness levels",
+                    "Helps prevent lower back injuries"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Calves",
+                    "Glutes",
+                    "Core muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "run on elliptical",
+                    "run outside",
+                    "run on track",
+                    "run on stairs",
+                    "run on incline treadmill",
+                    "run on decline treadmill",
+                    "run with resistance bands",
+                    "run with ankle weights",
+                    "run with weighted vest",
+                    "run with medicine ball"
+                ]
+            }
+        }
+    ]
+}

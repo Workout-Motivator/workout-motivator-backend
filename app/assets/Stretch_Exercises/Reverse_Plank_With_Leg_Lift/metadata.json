@@ -1,0 +1,63 @@
+{
+    "title": "Reverse Plank With Leg Lift",
+    "description": "A stretch exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by sitting on the floor with your legs extended in front of you and your hands placed behind your hips, fingers pointing towards your feet.",
+                    "Press into your hands and lift your hips off the ground, creating a straight line from your shoulders to your heels.",
+                    "Engage your core and lift one leg off the ground, keeping it straight and parallel to the floor.",
+                    "Hold for a few seconds, then lower your leg back down and repeat on the other side.",
+                    "Continue alternating legs for the desired number of repetitions or time.",
+                    "To release, lower your hips back down to the ground and relax."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the core muscles",
+                    "Improves balance and stability",
+                    "Tones the glutes, hamstrings, and lower back muscles",
+                    "Increases flexibility in the hips and legs",
+                    "Helps to prevent lower back pain"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Triceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Reverse Plank with Leg Lift and Knee Tuck",
+                    "Reverse Plank with Leg Lift and Hip Dip",
+                    "Reverse Plank with Leg Lift and Toe Tap",
+                    "Reverse Plank with Leg Lift and Scissor Kick",
+                    "Reverse Plank with Leg Lift and Bicycle Crunch"
+                ]
+            }
+        }
+    ]
+}

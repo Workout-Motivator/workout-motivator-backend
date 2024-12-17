@@ -1,0 +1,64 @@
+{
+    "title": "Frog Squat",
+    "description": "A cardio exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your toes pointing slightly outward.",
+                    "Lower your body into a squat position by bending your knees and pushing your hips back.",
+                    "As you squat down, bring your hands together in front of your chest.",
+                    "Once you reach the bottom of the squat, jump up explosively while extending your arms and legs.",
+                    "As you jump, bring your feet together and land softly on the balls of your feet.",
+                    "Lower your body back into the squat position and repeat the exercise for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets multiple muscle groups including quads, glutes, hamstrings, and calves",
+                    "Improves lower body strength and power",
+                    "Increases flexibility and mobility in the hips and ankles",
+                    "Can be modified for different fitness levels by adjusting depth and weight",
+                    "Engages the core for added stability and balance"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Jump Squats",
+                    "Sumo Squats",
+                    "Single-Leg Squats",
+                    "Wall Squats",
+                    "Goblet Squats"
+                ]
+            }
+        }
+    ]
+}

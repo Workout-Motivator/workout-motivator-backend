@@ -1,0 +1,70 @@
+{
+    "title": "Barbell Single Leg Squat",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by standing with your feet shoulder-width apart and your toes pointing forward.",
+                    "Place a barbell across your shoulders, holding it with both hands and keeping your elbows close to your body.",
+                    "Lift one foot off the ground and extend it forward, keeping your knee slightly bent.",
+                    "Bend your standing leg and lower your body down into a squat, keeping your back straight and your chest up.",
+                    "Lower your body until your thigh is parallel to the ground, then push back up to the starting position.",
+                    "Repeat the exercise for the desired number of repetitions, then switch legs and repeat on the other side."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves balance and stability",
+                    "Strengthens the legs, glutes, and core",
+                    "Increases flexibility in the hips and ankles",
+                    "Helps prevent injuries by improving joint stability",
+                    "Can be modified for different fitness levels by adjusting weight and depth of squat"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Single Leg Squat",
+                    "Kettlebell Single Leg Squat",
+                    "Bodyweight Single Leg Squat",
+                    "Barbell Bulgarian Split Squat",
+                    "Dumbbell Bulgarian Split Squat",
+                    "Kettlebell Bulgarian Split Squat",
+                    "Bodyweight Bulgarian Split Squat",
+                    "Barbell Step-Up",
+                    "Dumbbell Step-Up",
+                    "Kettlebell Step-Up",
+                    "Bodyweight Step-Up"
+                ]
+            }
+        }
+    ]
+}

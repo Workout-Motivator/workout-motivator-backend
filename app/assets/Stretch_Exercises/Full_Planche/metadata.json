@@ -1,0 +1,69 @@
+{
+    "title": "Full Planche",
+    "description": "A stretch exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start in a push-up position with your hands shoulder-width apart and your feet together.",
+                    "Slowly shift your weight forward until your shoulders are over your hands and your feet are off the ground.",
+                    "Engage your core and slowly lower your body until your arms are straight and your body is parallel to the ground.",
+                    "Hold this position for as long as you can, aiming for at least 10 seconds.",
+                    "To come out of the full planche, slowly lower your feet back to the ground and return to the starting push-up position."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the entire upper body, including the shoulders, chest, back, and arms",
+                    "Improves core stability and balance",
+                    "Increases wrist and forearm strength",
+                    "Develops body control and coordination",
+                    "Challenges the mind and builds mental toughness",
+                    "Can be used as a progression towards more advanced gymnastics skills"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Pectoralis major",
+                    "Deltoids",
+                    "Triceps",
+                    "Abdominals",
+                    "Obliques",
+                    "Quadriceps",
+                    "Glutes"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Straddle planche",
+                    "Half lay planche",
+                    "Tuck planche",
+                    "Adv tuck planche",
+                    "Open tuck planche",
+                    "Full planche push-ups",
+                    "Planche leans",
+                    "Planche press"
+                ]
+            }
+        }
+    ]
+}

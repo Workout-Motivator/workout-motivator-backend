@@ -1,0 +1,68 @@
+{
+    "title": "Kettlebell Two Arm Clean",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and the kettlebell on the ground in front of you.",
+                    "Bend your knees and hinge at the hips to reach down and grab the kettlebell with both hands.",
+                    "Engage your core and lift the kettlebell off the ground, swinging it back between your legs.",
+                    "As you swing the kettlebell forward, use the momentum to lift it up to your chest, keeping your elbows close to your body.",
+                    "Lower the kettlebell back down to the ground, swinging it back between your legs.",
+                    "Repeat for desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Full body workout",
+                    "Improves grip strength",
+                    "Increases power and explosiveness",
+                    "Works multiple muscle groups including shoulders, back, legs, and core",
+                    "Improves cardiovascular endurance",
+                    "Can be modified for different fitness levels"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Abdominals",
+                    "Lower back",
+                    "Shoulders",
+                    "Forearms"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Kettlebell One Arm Clean",
+                    "Kettlebell Clean and Press",
+                    "Kettlebell Clean and Jerk",
+                    "Kettlebell Swing",
+                    "Kettlebell Snatch"
+                ]
+            }
+        }
+    ]
+}

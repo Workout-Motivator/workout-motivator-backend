@@ -1,0 +1,62 @@
+{
+    "title": "Dumbbell Decline Sit Up",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on a decline bench with your feet securely locked in place.",
+                    "Hold a dumbbell with both hands and extend your arms straight up towards the ceiling.",
+                    "Engage your core and slowly lift your upper body towards your knees, keeping the dumbbell above your chest.",
+                    "Pause at the top of the movement and then slowly lower your upper body back down to the starting position.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the rectus abdominis, obliques, and hip flexors for a stronger core",
+                    "Increases upper body strength and stability",
+                    "Improves posture and balance",
+                    "Can be modified for different fitness levels by adjusting the weight of the dumbbell or the angle of the decline bench",
+                    "Engages multiple muscle groups for a more efficient workout"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus abdominis",
+                    "Obliques",
+                    "Transverse abdominis",
+                    "Hip flexors"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Decline Russian Twist",
+                    "Dumbbell Decline Crunch",
+                    "Dumbbell Decline Reverse Crunch",
+                    "Dumbbell Decline Oblique Crunch",
+                    "Dumbbell Decline Leg Raise"
+                ]
+            }
+        }
+    ]
+}

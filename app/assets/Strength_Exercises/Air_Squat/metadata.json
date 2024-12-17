@@ -1,0 +1,64 @@
+{
+    "title": "Air Squat",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your toes pointing slightly outward.",
+                    "Engage your core and keep your chest up as you lower your hips down and back as if you were sitting in a chair.",
+                    "Lower yourself until your thighs are parallel to the ground or as low as you can go while maintaining proper form.",
+                    "Pause briefly at the bottom of the squat before pushing through your heels to stand back up to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the back muscles, particularly the latissimus dorsi",
+                    "Improves posture and spinal alignment",
+                    "Increases upper body strength and endurance",
+                    "Targets multiple muscle groups, including the shoulders and biceps",
+                    "Can be modified for different fitness levels and goals",
+                    "Helps prevent injuries by strengthening the muscles that support the spine"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Jump squat",
+                    "Sumo squat",
+                    "Pistol squat",
+                    "Wall squat",
+                    "Goblet squat"
+                ]
+            }
+        }
+    ]
+}

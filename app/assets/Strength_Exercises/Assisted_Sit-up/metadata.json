@@ -1,0 +1,67 @@
+{
+    "title": "Assisted Sit-up",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying flat on your back with your knees bent and your feet flat on the ground.",
+                    "Have a partner or use a resistance band to anchor your feet to the ground.",
+                    "Place your hands behind your head with your elbows out to the sides.",
+                    "Engage your core and lift your upper body off the ground, bringing your elbows towards your knees.",
+                    "Lower your upper body back down to the ground with control.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens triceps muscles",
+                    "Improves upper body strength",
+                    "Targets the chest and shoulders as well",
+                    "Can be modified for different fitness levels",
+                    "Assisted version allows for proper form and reduces risk of injury"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus abdominis",
+                    "Obliques",
+                    "Hip flexors"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "weighted sit-up",
+                    "decline sit-up",
+                    "medicine ball sit-up",
+                    "Russian twist",
+                    "crunches",
+                    "reverse crunches",
+                    "bicycle crunches",
+                    "plank",
+                    "side plank",
+                    "mountain climbers"
+                ]
+            }
+        }
+    ]
+}

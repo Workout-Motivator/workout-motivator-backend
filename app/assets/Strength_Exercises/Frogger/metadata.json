@@ -1,0 +1,66 @@
+{
+    "title": "Frogger",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by standing with your feet shoulder-width apart and your arms at your sides.",
+                    "Jump forward as far as you can, landing on both feet at the same time.",
+                    "Immediately jump back to your starting position, again landing on both feet at the same time.",
+                    "Next, jump to the right, landing on your right foot first and then your left foot.",
+                    "Jump back to the starting position, landing on both feet at the same time.",
+                    "Now jump to the left, landing on your left foot first and then your right foot.",
+                    "Jump back to the starting position, landing on both feet at the same time.",
+                    "Repeat these movements, jumping forward, back, right, and left, for a total of 10-15 repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves cardiovascular health",
+                    "Increases lower body strength and endurance",
+                    "Improves coordination and balance",
+                    "Can be done anywhere with minimal equipment",
+                    "Provides a fun and challenging workout"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Core muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Frogger: Jumping, dodging, and crossing the road",
+                    "Frogger: Avoiding obstacles and reaching the other side",
+                    "Frogger: A classic arcade game of frog survival",
+                    "Frogger: Hop to it and beat the high score",
+                    "Frogger: Test your reflexes and timing in this fun game"
+                ]
+            }
+        }
+    ]
+}

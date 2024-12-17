@@ -1,0 +1,63 @@
+{
+    "title": "Exercise Ball Lat Stretch",
+    "description": "A stretch exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by sitting on an exercise ball with your feet flat on the ground.",
+                    "Slowly walk your feet forward, rolling the ball underneath you until your lower back is supported by the ball.",
+                    "Place your hands behind your head and gently lean back, allowing your upper back and shoulders to stretch over the ball.",
+                    "Hold the stretch for 10-15 seconds, then slowly return to the starting position.",
+                    "Repeat the stretch for 2-3 sets of 10-15 repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens hamstrings",
+                    "Improves balance and stability",
+                    "Engages core muscles",
+                    "Increases flexibility in hips and legs",
+                    "Can be modified for different fitness levels"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Latissimus dorsi",
+                    "Teres major",
+                    "Rhomboids",
+                    "Trapezius",
+                    "Deltoids"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Exercise ball lat stretch",
+                    "Standing lat stretch",
+                    "Seated lat stretch",
+                    "Doorway lat stretch",
+                    "Wall lat stretch"
+                ]
+            }
+        }
+    ]
+}

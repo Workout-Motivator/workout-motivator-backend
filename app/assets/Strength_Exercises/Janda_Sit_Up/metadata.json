@@ -1,0 +1,64 @@
+{
+    "title": "Janda Sit Up",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on your back with your knees bent and feet flat on the ground.",
+                    "Place your hands behind your head, with your elbows pointing out to the sides.",
+                    "Engage your core muscles by pulling your belly button towards your spine.",
+                    "Slowly lift your head, neck, and shoulders off the ground, while keeping your lower back pressed into the floor.",
+                    "Pause at the top of the movement, then slowly lower back down to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the rectus abdominis muscle (the \u201csix-pack\u201d muscle)",
+                    "Improves core stability and balance",
+                    "Targets the hip flexors and lower back muscles",
+                    "Can be modified for different fitness levels and abilities",
+                    "Helps improve posture and reduce lower back pain"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus abdominis",
+                    "Obliques",
+                    "Transverse abdominis",
+                    "Erector spinae",
+                    "Quadratus lumborum"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Reverse Janda Sit up",
+                    "Weighted Janda Sit up",
+                    "Decline Janda Sit up",
+                    "Single Leg Janda Sit up",
+                    "Medicine Ball Janda Sit up"
+                ]
+            }
+        }
+    ]
+}

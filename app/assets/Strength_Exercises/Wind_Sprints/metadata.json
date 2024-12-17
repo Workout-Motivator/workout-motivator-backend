@@ -1,0 +1,69 @@
+{
+    "title": "Wind Sprints",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Find a flat, open area to run in.",
+                    "Start with a light warm-up jog for 5-10 minutes.",
+                    "Choose a starting point and a finishing point that are about 40-50 yards apart.",
+                    "Run as fast as you can from the starting point to the finishing point.",
+                    "Walk back to the starting point to recover.",
+                    "Repeat for a total of 6-8 sprints.",
+                    "Cool down with a light jog or walk for 5-10 minutes."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves cardiovascular endurance",
+                    "Increases speed and agility",
+                    "Builds lower body strength",
+                    "Burns calories and aids in weight loss",
+                    "Boosts metabolism",
+                    "Enhances mental toughness and discipline",
+                    "Can be done anywhere with minimal equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Glutes",
+                    "Calf muscles",
+                    "Abdominals",
+                    "Obliques",
+                    "Lower back muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Interval sprints",
+                    "Hill sprints",
+                    "Stair sprints",
+                    "Partner sprints",
+                    "Resistance sprints"
+                ]
+            }
+        }
+    ]
+}

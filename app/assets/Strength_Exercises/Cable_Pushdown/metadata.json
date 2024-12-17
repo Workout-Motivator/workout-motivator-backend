@@ -1,0 +1,67 @@
+{
+    "title": "Cable Pushdown",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Attach a straight bar to the high pulley of a cable machine.",
+                    "Stand facing the machine with your feet shoulder-width apart and your knees slightly bent.",
+                    "Grasp the bar with an overhand grip, with your hands shoulder-width apart.",
+                    "Keeping your elbows close to your sides, exhale and push the bar down until your arms are fully extended.",
+                    "Hold for a moment, then inhale and slowly return the bar to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the triceps muscles, helping to build strength and size in the arms",
+                    "Can be easily adjusted to target different areas of the triceps by changing the grip or the angle of the cable",
+                    "Isolation exercise that helps to prevent other muscles from compensating for weak triceps",
+                    "Can be performed with a variety of equipment, including cables, bands, or a machine",
+                    "Can be easily modified for different fitness levels by adjusting the weight or reps",
+                    "Helps to improve overall upper body strength and stability"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Triceps brachii",
+                    "Anconeus"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Reverse Grip Cable Pushdown",
+                    "Single Arm Cable Pushdown",
+                    "Overhead Cable Tricep Extension",
+                    "V-Bar Cable Pushdown",
+                    "Rope Cable Pushdown",
+                    "Close Grip Cable Pushdown",
+                    "Underhand Cable Pushdown",
+                    "Wide Grip Cable Pushdown",
+                    "Standing Cable Tricep Extension",
+                    "Seated Cable Tricep Extension"
+                ]
+            }
+        }
+    ]
+}

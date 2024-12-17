@@ -1,0 +1,63 @@
+{
+    "title": "Seated Glute Stretch",
+    "description": "A stretch exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Sit on the floor with your legs extended in front of you.",
+                    "Bend your right knee and place your right foot on the floor, crossing it over your left leg.",
+                    "Place your left elbow on the outside of your right knee and gently twist your torso to the right.",
+                    "Hold the stretch for 15-30 seconds, feeling the stretch in your glutes and lower back.",
+                    "Release the stretch and repeat on the other side."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Helps to improve flexibility and range of motion in the hips and glutes",
+                    "Can alleviate lower back pain by releasing tension in the glutes",
+                    "May improve posture by loosening tight hip muscles",
+                    "Can be done anywhere, without any equipment",
+                    "May help to prevent injury by improving hip mobility"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Gluteus Maximus",
+                    "Gluteus Medius",
+                    "Gluteus Minimus",
+                    "Piriformis",
+                    "Tensor Fasciae Latae"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Standing Glute Stretch",
+                    "Lying Glute Stretch",
+                    "Pigeon Pose",
+                    "Butterfly Stretch",
+                    "Seated Figure Four Stretch"
+                ]
+            }
+        }
+    ]
+}

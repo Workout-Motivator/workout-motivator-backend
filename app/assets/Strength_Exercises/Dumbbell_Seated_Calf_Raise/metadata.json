@@ -1,0 +1,65 @@
+{
+    "title": "Dumbbell Seated Calf Raise",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by sitting on a bench with your feet flat on the ground and a dumbbell resting on your knees.",
+                    "Place the balls of your feet on a raised surface, such as a block or step, with your heels hanging off the edge.",
+                    "Hold the dumbbell against your knees with your hands to keep it in place.",
+                    "Slowly raise your heels as high as you can, squeezing your calf muscles at the top of the movement.",
+                    "Lower your heels back down to the starting position, feeling a stretch in your calves.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the calf muscles specifically, helping to build strength and definition in the lower legs",
+                    "Can be done with relatively light weights, making it accessible to beginners or those with limited equipment",
+                    "Can be done seated, which can be more comfortable for those with back or balance issues",
+                    "Helps to improve ankle stability and mobility",
+                    "Can be easily modified by changing the weight or number of reps to increase or decrease intensity"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Gastrocnemius",
+                    "Soleus"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Barbell Seated Calf Raise",
+                    "Machine Seated Calf Raise",
+                    "Smith Machine Seated Calf Raise",
+                    "Standing Dumbbell Calf Raise",
+                    "Standing Barbell Calf Raise",
+                    "Donkey Calf Raise",
+                    "Leg Press Calf Raise",
+                    "Single Leg Dumbbell Calf Raise",
+                    "Single Leg Barbell Calf Raise"
+                ]
+            }
+        }
+    ]
+}

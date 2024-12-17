@@ -1,0 +1,61 @@
+{
+    "title": "Hamstring Stretch",
+    "description": "A stretch exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by sitting on the floor with your legs straight out in front of you.",
+                    "Bend your right knee and place the sole of your right foot against your left inner thigh.",
+                    "Reach forward with both hands and try to touch your left foot.",
+                    "Hold the stretch for 15-30 seconds, feeling the stretch in the back of your left leg.",
+                    "Repeat on the other side by switching the position of your legs."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Increases flexibility and range of motion in the hamstrings",
+                    "Reduces risk of injury in the hamstrings and lower back",
+                    "Improves posture and alignment of the pelvis and spine",
+                    "Relieves tension and tightness in the hamstrings",
+                    "May help alleviate lower back pain"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Semimembranosus",
+                    "Semitendinosus",
+                    "Biceps femoris"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Standing Hamstring Stretch",
+                    "Seated Hamstring Stretch",
+                    "Lying Hamstring Stretch",
+                    "Partner Hamstring Stretch",
+                    "Dynamic Hamstring Stretch"
+                ]
+            }
+        }
+    ]
+}

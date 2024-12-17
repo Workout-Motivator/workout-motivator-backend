@@ -1,0 +1,67 @@
+{
+    "title": "Rolling Bridge",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on your back with your arms by your sides and your knees bent.",
+                    "Lift your hips up towards the ceiling, keeping your feet and shoulders on the ground.",
+                    "Roll onto your left shoulder, keeping your hips lifted.",
+                    "Extend your left arm out to the side and reach it towards the ground behind you.",
+                    "Roll back onto your back, keeping your hips lifted.",
+                    "Repeat on the other side by rolling onto your right shoulder and extending your right arm out to the side.",
+                    "Continue rolling back and forth, alternating sides each time.",
+                    "Complete 10-15 repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the core muscles",
+                    "Improves balance and stability",
+                    "Stretches the chest, shoulders, and neck",
+                    "Relieves tension in the upper back and neck",
+                    "Can help alleviate symptoms of stress and anxiety"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus Abdominis",
+                    "Obliques",
+                    "Erector Spinae",
+                    "Glutes",
+                    "Hamstrings",
+                    "Quadriceps"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single Leg Rolling Bridge",
+                    "Weighted Rolling Bridge",
+                    "Side-to-Side Rolling Bridge",
+                    "Rolling Bridge with Leg Lift",
+                    "Rolling Bridge with Knee Tuck"
+                ]
+            }
+        }
+    ]
+}

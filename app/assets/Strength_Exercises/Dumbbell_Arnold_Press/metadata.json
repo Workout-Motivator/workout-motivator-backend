@@ -1,0 +1,62 @@
+{
+    "title": "Dumbbell Arnold Press",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a dumbbell in each hand at shoulder height with your palms facing your body.",
+                    "Rotate your palms so they are facing forward.",
+                    "As you press the dumbbells overhead, rotate your palms so they are facing away from your body.",
+                    "Lower the dumbbells back to shoulder height while rotating your palms back to the starting position.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets multiple muscle groups including the shoulders, chest, and triceps",
+                    "Improves shoulder mobility and stability",
+                    "Increases upper body strength and muscle definition",
+                    "Can be modified for different fitness levels by adjusting weight and reps",
+                    "Engages the core muscles for added stability and balance"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Deltoids (shoulders)",
+                    "Triceps (back of upper arm)",
+                    "Trapezius (upper back)",
+                    "Rotator cuff muscles (shoulder stabilizers)"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Shoulder Press",
+                    "Barbell Arnold Press",
+                    "Seated Arnold Press",
+                    "Single Arm Arnold Press",
+                    "Resistance Band Arnold Press"
+                ]
+            }
+        }
+    ]
+}

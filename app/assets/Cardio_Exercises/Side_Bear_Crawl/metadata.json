@@ -1,0 +1,66 @@
+{
+    "title": "Side Bear Crawl",
+    "description": "A cardio exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start in a plank position with your hands and feet shoulder-width apart.",
+                    "Engage your core and lift your knees off the ground, keeping your back straight.",
+                    "Begin moving to the side by taking a step with your right hand and right foot, followed by your left hand and left foot.",
+                    "Continue moving to the side for a set distance or number of steps.",
+                    "Reverse the movement and crawl back to your starting position.",
+                    "Repeat for the desired number of sets and reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves core stability and strength",
+                    "Increases shoulder and hip mobility",
+                    "Enhances coordination and balance",
+                    "Targets multiple muscle groups including the shoulders, arms, core, and legs",
+                    "Can be done anywhere with no equipment needed",
+                    "Provides a cardiovascular workout"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Abdominal muscles",
+                    "Oblique muscles",
+                    "Shoulder muscles",
+                    "Triceps muscles",
+                    "Quadriceps muscles",
+                    "Gluteal muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Forward Side Bear Crawl",
+                    "Backward Side Bear Crawl",
+                    "Lateral Side Bear Crawl",
+                    "Diagonal Side Bear Crawl",
+                    "Weighted Side Bear Crawl"
+                ]
+            }
+        }
+    ]
+}

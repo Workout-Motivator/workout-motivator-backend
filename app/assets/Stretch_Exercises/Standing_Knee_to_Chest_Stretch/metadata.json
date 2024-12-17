@@ -1,0 +1,63 @@
+{
+    "title": "Standing Knee to Chest Stretch",
+    "description": "A stretch exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet hip-width apart and your arms at your sides.",
+                    "Lift your right knee up towards your chest, using your hands to pull it in as close as you can.",
+                    "Hold the stretch for 15-30 seconds, feeling the stretch in your hip and lower back.",
+                    "Release your right leg and repeat the stretch with your left leg.",
+                    "Alternate between legs for 3-5 repetitions on each side."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves flexibility and range of motion in the hips and lower back",
+                    "Stretches the hamstrings, glutes, and lower back muscles",
+                    "Helps to relieve tension and tightness in the lower body",
+                    "Can improve posture and balance",
+                    "May help to alleviate lower back pain"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Hamstrings",
+                    "Glutes",
+                    "Hip flexors",
+                    "Lower back"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Standing Quad Stretch",
+                    "Standing Hamstring Stretch",
+                    "Standing Calf Stretch",
+                    "Standing Figure Four Stretch",
+                    "Standing IT Band Stretch",
+                    "Standing Glute Stretch"
+                ]
+            }
+        }
+    ]
+}

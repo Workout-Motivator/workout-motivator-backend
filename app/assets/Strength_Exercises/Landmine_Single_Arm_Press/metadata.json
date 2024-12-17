@@ -1,0 +1,65 @@
+{
+    "title": "Landmine Single Arm Press",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by placing a landmine attachment into a landmine base or securely anchoring a barbell into a corner.",
+                    "Load weight onto the barbell if desired.",
+                    "Stand facing the landmine or barbell with your feet shoulder-width apart.",
+                    "Grasp the end of the barbell with one hand, keeping your elbow close to your body.",
+                    "Press the barbell up and away from your body until your arm is fully extended.",
+                    "Lower the barbell back down to your starting position, keeping your elbow close to your body throughout the movement.",
+                    "Repeat for desired number of reps, then switch sides and repeat with the other arm."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the shoulders, triceps, and core muscles",
+                    "Improves upper body strength and stability",
+                    "Can be done with minimal equipment (just a barbell and weight plates)",
+                    "Allows for unilateral training, which can help correct muscle imbalances",
+                    "Engages the core muscles for added stability and balance",
+                    "Can be modified for different fitness levels by adjusting the weight and reps"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Shoulder (deltoids)",
+                    "Triceps",
+                    "Chest (pectoralis major)",
+                    "Core (abdominals and obliques)"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Landmine Single Arm Press with Rotation",
+                    "Landmine Single Arm Push Press",
+                    "Landmine Single Arm Half-Kneeling Press",
+                    "Landmine Single Arm Standing Press",
+                    "Landmine Single Arm Bottoms Up Press"
+                ]
+            }
+        }
+    ]
+}

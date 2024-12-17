@@ -1,0 +1,62 @@
+{
+    "title": "Close Grip Push Up",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start in a plank position with your hands shoulder-width apart and your fingers pointing forward.",
+                    "Bring your hands closer together so that your thumbs and index fingers touch to form a diamond shape.",
+                    "Lower your body towards the ground, keeping your elbows close to your sides.",
+                    "Push back up to the starting position, keeping your core engaged and your body in a straight line.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the triceps, chest, and shoulders",
+                    "Improves upper body strength and endurance",
+                    "Engages the core muscles for stability",
+                    "Can be done anywhere without equipment",
+                    "Variations can be added to increase difficulty and target different muscle groups"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Triceps",
+                    "Chest",
+                    "Shoulders",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Decline Close Grip Push up",
+                    "Spiderman Close Grip Push up",
+                    "One Arm Close Grip Push up",
+                    "Explosive Close Grip Push up",
+                    "Weighted Close Grip Push up"
+                ]
+            }
+        }
+    ]
+}

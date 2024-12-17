@@ -1,0 +1,61 @@
+{
+    "title": "Cross Over Shoulder Stretch",
+    "description": "A stretch exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your arms at your sides.",
+                    "Take your right arm and bring it across your chest, holding it at the elbow with your left hand.",
+                    "Use your left hand to gently pull your right arm closer to your chest, feeling a stretch in your shoulder and upper back.",
+                    "Hold the stretch for 15-30 seconds, then release and repeat on the other side."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Relieves tension and tightness in the shoulders and upper back",
+                    "Improves flexibility and range of motion in the shoulders",
+                    "Stretches the chest muscles, which can become tight from poor posture or sitting for long periods of time",
+                    "Can help alleviate headaches and neck pain caused by tension in the shoulders and upper back",
+                    "Can be done anywhere, without the need for equipment or a gym membership"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rhomboids",
+                    "Trapezius",
+                    "Deltoids",
+                    "Pectoralis major"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Standing cross over shoulder stretch",
+                    "Seated cross over shoulder stretch",
+                    "Wall cross over shoulder stretch",
+                    "Partner cross over shoulder stretch",
+                    "Dynamic cross over shoulder stretch"
+                ]
+            }
+        }
+    ]
+}

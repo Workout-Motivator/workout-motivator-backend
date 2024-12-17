@@ -1,0 +1,67 @@
+{
+    "title": "Outside Leg Kick Push Up",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start in a plank position with your hands shoulder-width apart and your feet hip-width apart.",
+                    "Perform a push-up by lowering your body until your chest touches the ground.",
+                    "As you push yourself back up, lift your right leg off the ground and swing it out to the side, performing an outside leg kick.",
+                    "Lower your leg back down and perform another push-up.",
+                    "As you push yourself back up, lift your left leg off the ground and swing it out to the side, performing another outside leg kick.",
+                    "Lower your leg back down and perform another push-up.",
+                    "Continue alternating between outside leg kicks and push-ups for the desired number of repetitions or time."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves shoulder mobility and flexibility",
+                    "Strengthens the upper back and shoulder muscles",
+                    "Increases heart rate and improves cardiovascular health",
+                    "Can be done anywhere without equipment",
+                    "Can be modified for different fitness levels"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Core muscles (abdominals, obliques)",
+                    "Chest muscles (pectoralis major, minor)",
+                    "Triceps",
+                    "Shoulder muscles (deltoids)"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "outside-leg-kick-push-up with knee tuck",
+                    "outside-leg-kick-push-up with shoulder tap",
+                    "outside-leg-kick-push-up with clap",
+                    "outside-leg-kick-push-up with spiderman crawl",
+                    "outside-leg-kick-push-up with mountain climber"
+                ]
+            }
+        }
+    ]
+}

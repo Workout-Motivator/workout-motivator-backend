@@ -1,0 +1,64 @@
+{
+    "title": "Inverted Row on Bench",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Find a sturdy bench or low bar that can support your weight.",
+                    "Lie on your back underneath the bench or bar, with your feet flat on the ground and your knees bent.",
+                    "Reach up and grab the bar or bench with an overhand grip, with your hands shoulder-width apart.",
+                    "Engage your core and glutes, and lift your hips off the ground until your body forms a straight line from your shoulders to your knees.",
+                    "Pull your chest up towards the bar or bench, keeping your elbows close to your body and squeezing your shoulder blades together.",
+                    "Lower yourself back down to the starting position with control, and repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the upper back muscles, including the rhomboids, trapezius, and latissimus dorsi",
+                    "Improves posture by correcting rounded shoulders and forward head posture",
+                    "Engages the core muscles for stability and balance",
+                    "Can be modified for different fitness levels by adjusting the angle of the bench",
+                    "Requires minimal equipment and can be done at home or in a gym"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rhomboids",
+                    "Trapezius",
+                    "Biceps",
+                    "Forearms",
+                    "Latissimus Dorsi"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Inverted Row on Rings",
+                    "Inverted Row on TRX",
+                    "Inverted Row on Barbell",
+                    "Inverted Row on Smith Machine",
+                    "Inverted Row with Resistance Bands"
+                ]
+            }
+        }
+    ]
+}

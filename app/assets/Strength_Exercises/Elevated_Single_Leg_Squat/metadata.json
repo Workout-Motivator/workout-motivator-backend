@@ -1,0 +1,65 @@
+{
+    "title": "Elevated Single Leg Squat",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet hip-width apart and your arms at your sides.",
+                    "Place your left foot on a raised surface, such as a step or bench, with your toes pointing forward.",
+                    "Shift your weight onto your left foot and lift your right foot off the ground.",
+                    "Bend your left knee and lower your body down towards the ground, keeping your right foot lifted.",
+                    "Lower your body as far as you can while maintaining good form and balance.",
+                    "Push through your left heel to stand back up to the starting position.",
+                    "Repeat for the desired number of repetitions before switching to the other leg."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves balance and stability",
+                    "Strengthens the quadriceps, glutes, and core muscles",
+                    "Increases hip mobility and flexibility",
+                    "Challenges the body in a functional movement pattern",
+                    "Can be modified to increase or decrease difficulty"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single Leg Squat",
+                    "Bulgarian Split Squat",
+                    "Pistol Squat",
+                    "Step-Up",
+                    "Lunge"
+                ]
+            }
+        }
+    ]
+}

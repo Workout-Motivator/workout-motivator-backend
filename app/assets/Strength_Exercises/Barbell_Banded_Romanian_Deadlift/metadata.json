@@ -1,0 +1,63 @@
+{
+    "title": "Barbell Banded Romanian Deadlift",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Place a barbell on the ground and add resistance bands to each end of the bar.",
+                    "Stand in front of the bar with your feet shoulder-width apart and your toes pointing forward.",
+                    "Bend down and grip the bar with an overhand grip, keeping your hands shoulder-width apart.",
+                    "Engage your core and lift the bar off the ground, straightening your legs and standing up tall.",
+                    "Slowly lower the bar back down to the ground, keeping your back straight and your core engaged.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the posterior chain muscles including the hamstrings, glutes, and lower back",
+                    "Improves hip hinge movement pattern and strengthens the core",
+                    "Increases overall strength and power for other exercises such as squats and deadlifts",
+                    "Helps to prevent injury by improving flexibility and stability in the lower body",
+                    "The addition of bands adds resistance throughout the entire range of motion, increasing the difficulty and effectiveness of the exercise"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Hamstrings",
+                    "Glutes",
+                    "Lower back",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single-leg Barbell Banded Romanian Deadlift",
+                    "Sumo Barbell Banded Romanian Deadlift",
+                    "Barbell Banded Romanian Deadlift with Chains",
+                    "Barbell Banded Romanian Deadlift with Resistance Bands",
+                    "Barbell Banded Romanian Deadlift with Pause"
+                ]
+            }
+        }
+    ]
+}

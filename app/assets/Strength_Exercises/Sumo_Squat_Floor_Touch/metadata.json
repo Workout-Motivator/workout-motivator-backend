@@ -1,0 +1,70 @@
+{
+    "title": "Sumo Squat Floor Touch",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet wider than shoulder-width apart and your toes pointing slightly outward.",
+                    "Hold your hands together in front of your chest.",
+                    "Lower your body down into a squat position, keeping your back straight and your knees in line with your toes.",
+                    "Touch the floor with your hands, keeping your chest up and your weight in your heels.",
+                    "Push through your heels to stand back up to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets multiple muscle groups including the glutes, quads, hamstrings, and inner thighs",
+                    "Improves lower body strength and power",
+                    "Increases hip mobility and flexibility",
+                    "Helps to improve balance and stability",
+                    "Can be modified to increase or decrease difficulty",
+                    "Can be done with or without weights",
+                    "Can be incorporated into a full body workout or lower body focused workout"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Glutes",
+                    "Calves",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Sumo Squat with Dumbbell",
+                    "Sumo Squat with Kettlebell",
+                    "Sumo Squat with Barbell",
+                    "Sumo Squat with Resistance Band",
+                    "Sumo Squat with Medicine Ball",
+                    "Sumo Squat with TRX Suspension Trainer",
+                    "Sumo Squat with Bosu Ball",
+                    "Sumo Squat with Stability Ball",
+                    "Sumo Squat with Jump"
+                ]
+            }
+        }
+    ]
+}

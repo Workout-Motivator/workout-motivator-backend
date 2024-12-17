@@ -1,0 +1,59 @@
+{
+    "title": "Quadriceps Stretch",
+    "description": "A stretch exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet hip-width apart and your hands on your hips.",
+                    "Step forward with your left foot, keeping your right foot in place.",
+                    "Bend your left knee and lower your body until your left thigh is parallel to the ground.",
+                    "Keep your right leg straight and your right foot firmly planted on the ground.",
+                    "Hold the stretch for 15-30 seconds, then switch sides and repeat."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Increases flexibility and range of motion in the quadriceps muscles",
+                    "Helps to prevent injury by improving muscle elasticity",
+                    "Reduces muscle tension and soreness in the quadriceps",
+                    "Improves posture and balance by stretching the front of the thighs",
+                    "May help to alleviate lower back pain by releasing tension in the hip flexors"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Standing quadriceps stretch",
+                    "Lying quadriceps stretch",
+                    "Seated quadriceps stretch",
+                    "Wall quadriceps stretch",
+                    "Chair quadriceps stretch"
+                ]
+            }
+        }
+    ]
+}

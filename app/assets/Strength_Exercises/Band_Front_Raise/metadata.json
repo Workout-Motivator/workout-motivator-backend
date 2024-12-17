@@ -1,0 +1,61 @@
+{
+    "title": "Band Front Raise",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a resistance band with both hands, palms facing down.",
+                    "Extend your arms straight out in front of you, keeping a slight bend in your elbows.",
+                    "Slowly raise your arms up to shoulder height, keeping them straight and parallel to the ground.",
+                    "Hold for a second, then slowly lower your arms back down to the starting position.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the anterior deltoids, which are responsible for lifting the arms in front of the body",
+                    "Helps to improve shoulder stability and mobility",
+                    "Can be done with resistance bands, making it a convenient exercise to do at home or while traveling",
+                    "Allows for a greater range of motion compared to traditional dumbbell front raises",
+                    "Can be easily modified by changing the resistance band or adjusting the grip"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Deltoids (anterior)",
+                    "Upper Trapezius",
+                    "Clavicular head of Pectoralis Major"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single arm band front raise",
+                    "Band lateral raise",
+                    "Band reverse fly",
+                    "Band shoulder press",
+                    "Band upright row"
+                ]
+            }
+        }
+    ]
+}

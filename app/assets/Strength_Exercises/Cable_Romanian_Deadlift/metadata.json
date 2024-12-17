@@ -1,0 +1,63 @@
+{
+    "title": "Cable Romanian Deadlift",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and place a cable attachment at the lowest setting on a cable machine.",
+                    "Grab the cable attachment with both hands and step back until there is tension on the cable.",
+                    "Keeping your back straight and your core engaged, hinge at the hips and lower the cable attachment towards the ground.",
+                    "Lower the cable attachment as far as you can while maintaining proper form and feeling a stretch in your hamstrings.",
+                    "Slowly raise the cable attachment back up to the starting position, squeezing your glutes and hamstrings at the top of the movement.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets multiple muscle groups including back, shoulders, and arms",
+                    "Improves upper body strength and endurance",
+                    "Increases muscle definition and tone",
+                    "Improves posture and spinal alignment",
+                    "Can be modified for different fitness levels and goals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Hamstrings",
+                    "Glutes",
+                    "Erector spinae",
+                    "Core muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "cable Romanian deadlift",
+                    "single-leg cable Romanian deadlift",
+                    "cable stiff-legged deadlift",
+                    "cable straight-legged deadlift",
+                    "cable RDL with knee raise"
+                ]
+            }
+        }
+    ]
+}

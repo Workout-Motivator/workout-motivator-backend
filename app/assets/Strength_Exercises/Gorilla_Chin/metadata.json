@@ -1,0 +1,72 @@
+{
+    "title": "Gorilla Chin",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Find a sturdy pull-up bar that can support your body weight without any risk of falling or bending.",
+                    "Stand below the pull-up bar and jump or reach up to grab it with an underhand (supinated) grip, with your hands positioned shoulder-width apart.",
+                    "Hang from the bar with your arms fully extended, ensuring your feet are off the ground and your body is in a straight line.",
+                    "Begin to pull your body upwards by engaging your lats and biceps, while simultaneously raising your knees towards your chest or elbows.",
+                    "Continue pulling yourself up until your chin is above the bar, and your knees or thighs are as close to your chest or elbows as possible.",
+                    "Hold the top position briefly, focusing on maintaining proper form and engaging your core.",
+                    "Slowly lower your body back down to the starting position, extending your arms fully and lowering your knees back down.",
+                    "Repeat the Gorilla Chin exercise for the desired number of repetitions or sets, ensuring proper form and control throughout the movement.",
+                    "Rest and recover between sets as needed, and consider incorporating this exercise into a well-rounded upper body or full-body workout routine."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the biceps and forearms",
+                    "Improves grip strength",
+                    "Targets the upper back muscles",
+                    "Engages the core for stability",
+                    "Can be modified for different fitness levels"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Biceps",
+                    "Forearms",
+                    "Upper back",
+                    "Trapezius",
+                    "Rhomboids"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Gorilla Chin-Up",
+                    "Chin-Up with Resistance Band",
+                    "Weighted Chin-Up",
+                    "Close-Grip Chin-Up",
+                    "Assisted Chin-Up",
+                    "One-Arm Chin-Up",
+                    "Commando Chin-Up",
+                    "Chin-Up with Knee Raise",
+                    "Chin-Up with Leg Raise",
+                    "Chin-Up with Twist"
+                ]
+            }
+        }
+    ]
+}

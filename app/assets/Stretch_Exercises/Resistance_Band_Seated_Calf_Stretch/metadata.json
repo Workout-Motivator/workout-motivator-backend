@@ -1,0 +1,60 @@
+{
+    "title": "Resistance Band Seated Calf Stretch",
+    "description": "A stretch exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Begin by sitting on the floor with your legs straight out in front of you.",
+                    "Loop a resistance band around the ball of your foot and hold onto the ends of the band with both hands.",
+                    "Slowly flex your foot back towards your body, using the resistance band to gently pull your foot towards you.",
+                    "Hold the stretch for 15-30 seconds, feeling the stretch in your calf muscle.",
+                    "Release the stretch and repeat on the other leg."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the shoulder muscles",
+                    "Improves shoulder stability",
+                    "Helps prevent shoulder injuries",
+                    "Can improve posture",
+                    "Can improve overall upper body strength"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Gastrocnemius",
+                    "Soleus"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Resistance band standing calf stretch",
+                    "Resistance band donkey calf raise",
+                    "Resistance band calf raise",
+                    "Resistance band seated toe raise",
+                    "Resistance band ankle inversion and eversion"
+                ]
+            }
+        }
+    ]
+}

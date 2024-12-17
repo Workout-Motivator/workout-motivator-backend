@@ -1,0 +1,68 @@
+{
+    "title": "Jack Burpee",
+    "description": "A cardio exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start in a standing position with your feet shoulder-width apart.",
+                    "Squat down and place your hands on the ground in front of you.",
+                    "Jump your feet back into a plank position.",
+                    "Lower your body down to the ground, keeping your elbows close to your body.",
+                    "Push your body back up into a plank position.",
+                    "Jump your feet back towards your hands.",
+                    "Stand up and jump into the air, reaching your hands above your head.",
+                    "Repeat for desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves cardiovascular endurance",
+                    "Strengthens the chest, shoulders, triceps, and core muscles",
+                    "Increases overall body strength and power",
+                    "Can be modified for different fitness levels and goals",
+                    "Can be done anywhere without equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Chest",
+                    "Triceps",
+                    "Shoulders",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Jack Burpee Jump",
+                    "Jack Burpee with Push-up",
+                    "Jack Burpee with Tuck Jump",
+                    "Jack Burpee with Mountain Climber",
+                    "Jack Burpee with Plank Jack"
+                ]
+            }
+        }
+    ]
+}

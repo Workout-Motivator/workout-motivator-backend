@@ -1,0 +1,73 @@
+{
+    "title": "Barbell Overhead Lunge",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by standing with your feet shoulder-width apart and holding a barbell with both hands, palms facing up.",
+                    "Lift the barbell overhead, keeping your arms straight and your core engaged.",
+                    "Take a large step forward with your right foot, bending your right knee and lowering your body until your right thigh is parallel to the ground.",
+                    "Push off your right foot and return to the starting position.",
+                    "Repeat the lunge on the left side, stepping forward with your left foot.",
+                    "Continue alternating lunges for the desired number of repetitions.",
+                    "Lower the barbell back down to your shoulders and then to the ground to finish the exercise."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the legs, glutes, and core muscles",
+                    "Improves balance and stability",
+                    "Increases shoulder and upper back mobility",
+                    "Engages multiple muscle groups for a full-body workout",
+                    "Can be modified for different fitness levels and goals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Core",
+                    "Shoulders",
+                    "Triceps"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Overhead Lunge",
+                    "Kettlebell Overhead Lunge",
+                    "Barbell Front Rack Lunge",
+                    "Dumbbell Front Rack Lunge",
+                    "Kettlebell Front Rack Lunge",
+                    "Barbell Reverse Lunge",
+                    "Dumbbell Reverse Lunge",
+                    "Kettlebell Reverse Lunge",
+                    "Barbell Walking Lunge",
+                    "Dumbbell Walking Lunge",
+                    "Kettlebell Walking Lunge"
+                ]
+            }
+        }
+    ]
+}

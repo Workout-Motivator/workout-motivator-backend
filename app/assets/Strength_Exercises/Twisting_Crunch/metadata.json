@@ -1,0 +1,63 @@
+{
+    "title": "Twisting Crunch",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on your back with your knees bent and feet flat on the ground.",
+                    "Place your hands behind your head, with your elbows pointing out to the sides.",
+                    "Engage your core muscles by pulling your belly button towards your spine.",
+                    "Slowly lift your head, shoulders, and upper back off the ground, while twisting your torso to the right.",
+                    "Hold for a few seconds, then lower back down to the starting position.",
+                    "Repeat the movement, this time twisting your torso to the left.",
+                    "Continue alternating sides for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the oblique muscles, which are responsible for twisting and rotating movements of the torso",
+                    "Strengthens the core muscles, including the rectus abdominis and transverse abdominis",
+                    "Improves spinal mobility and flexibility",
+                    "Can help alleviate lower back pain by strengthening the muscles that support the spine",
+                    "Can be modified to increase or decrease the intensity, making it suitable for all fitness levels"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus abdominis",
+                    "Obliques",
+                    "Transverse abdominis"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Twisting Bicycle Crunch",
+                    "Twisting Russian Twist",
+                    "Twisting Plank",
+                    "Twisting Mountain Climber",
+                    "Twisting Leg Lifts"
+                ]
+            }
+        }
+    ]
+}

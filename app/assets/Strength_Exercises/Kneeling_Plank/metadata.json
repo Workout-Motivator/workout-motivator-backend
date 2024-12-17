@@ -1,0 +1,65 @@
+{
+    "title": "Kneeling Plank",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by getting into a kneeling position on the ground.",
+                    "Place your forearms on the ground in front of you, with your elbows directly under your shoulders.",
+                    "Extend your legs behind you, so that your body forms a straight line from your head to your knees.",
+                    "Engage your core muscles and hold this position for the desired amount of time.",
+                    "To release, slowly lower your knees back down to the ground."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens chest, shoulders, triceps, and core muscles",
+                    "Can be modified for beginners or those with wrist or shoulder injuries",
+                    "Improves overall upper body strength and endurance",
+                    "Can be done anywhere without equipment",
+                    "Helps improve posture and alignment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus abdominis",
+                    "Transverse abdominis",
+                    "Obliques",
+                    "Erector spinae",
+                    "Glutes",
+                    "Quadriceps",
+                    "Hamstrings"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Side plank",
+                    "Plank with leg lift",
+                    "Plank with shoulder taps",
+                    "Plank with knee taps",
+                    "Plank with hip dips"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "title": "Standing Hip Flexor Stretch",
+    "description": "A stretch exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet hip-width apart and your hands on your hips.",
+                    "Step forward with your right foot, keeping your left foot in place.",
+                    "Bend your right knee and lower your left knee towards the ground.",
+                    "Keep your back straight and your hips facing forward.",
+                    "Hold the stretch for 20-30 seconds.",
+                    "Release the stretch and switch sides, stepping forward with your left foot."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves flexibility and range of motion in the hip flexors",
+                    "Reduces tightness and discomfort in the hip flexors",
+                    "Helps to alleviate lower back pain by releasing tension in the hip flexors",
+                    "Improves posture by lengthening the hip flexors and reducing the tendency to slouch",
+                    "Can be done anywhere without any equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus femoris",
+                    "Iliopsoas",
+                    "Sartorius"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Kneeling Hip Flexor Stretch",
+                    "Lunge Hip Flexor Stretch",
+                    "Seated Hip Flexor Stretch",
+                    "Supine Hip Flexor Stretch",
+                    "Wall Hip Flexor Stretch"
+                ]
+            }
+        }
+    ]
+}

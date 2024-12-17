@@ -1,0 +1,64 @@
+{
+    "title": "High Knee Squat",
+    "description": "A cardio exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your arms at your sides.",
+                    "Lift your right knee up towards your chest while simultaneously lowering your hips into a squat position.",
+                    "Make sure your knee is in line with your toes and your weight is evenly distributed between both feet.",
+                    "Hold the squat position for a few seconds before standing back up and lowering your right leg back down to the ground.",
+                    "Repeat the exercise with your left leg.",
+                    "Continue alternating legs for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the quadriceps, hamstrings, and glutes",
+                    "Improves cardiovascular endurance",
+                    "Increases hip mobility and flexibility",
+                    "Engages the core muscles for stability and balance",
+                    "Can be modified for different fitness levels and goals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Glutes",
+                    "Calves",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Jumping High Knee Squat",
+                    "Weighted High Knee Squat",
+                    "Single Leg High Knee Squat",
+                    "High Knee Squat with Resistance Bands",
+                    "High Knee Squat with Medicine Ball"
+                ]
+            }
+        }
+    ]
+}

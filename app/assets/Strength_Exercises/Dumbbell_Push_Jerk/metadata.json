@@ -1,0 +1,65 @@
+{
+    "title": "Dumbbell Push Jerk",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart, holding a dumbbell in each hand at shoulder height.",
+                    "Bend your knees slightly and dip your hips down.",
+                    "As you straighten your legs, press the dumbbells overhead, extending your arms fully.",
+                    "Lower the dumbbells back to shoulder height and repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets multiple muscle groups including shoulders, triceps, chest, and legs",
+                    "Improves overall strength and power",
+                    "Increases cardiovascular endurance",
+                    "Helps with coordination and balance",
+                    "Can be modified for different fitness levels and goals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Shoulders",
+                    "Triceps",
+                    "Chest",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Split Jerk",
+                    "Dumbbell Thruster",
+                    "Dumbbell Clean and Jerk",
+                    "Dumbbell Power Jerk",
+                    "Dumbbell Squat Jerk"
+                ]
+            }
+        }
+    ]
+}

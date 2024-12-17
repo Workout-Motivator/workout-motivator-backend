@@ -1,0 +1,63 @@
+{
+    "title": "Lying Crossover Stretch",
+    "description": "A stretch exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on your back with your arms out to the sides, palms facing up.",
+                    "Bend your knees and bring your feet flat on the ground, hip-width apart.",
+                    "Keeping your shoulders on the ground, slowly lower both knees to one side, aiming to touch the ground with your knees.",
+                    "Hold the stretch for 10-15 seconds, feeling the stretch in your lower back and hips.",
+                    "Slowly bring your knees back to center and repeat on the other side.",
+                    "Repeat the stretch 2-3 times on each side."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Stretches the chest muscles",
+                    "Improves posture",
+                    "Relieves tension in the shoulders and upper back",
+                    "Increases flexibility in the shoulders",
+                    "May help alleviate pain in the neck and shoulders"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Pectoralis Major",
+                    "Pectoralis Minor",
+                    "Anterior Deltoids",
+                    "Serratus Anterior"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Standing Crossover Stretch",
+                    "Seated Crossover Stretch",
+                    "Wall Crossover Stretch",
+                    "Doorway Crossover Stretch",
+                    "Partner Crossover Stretch"
+                ]
+            }
+        }
+    ]
+}

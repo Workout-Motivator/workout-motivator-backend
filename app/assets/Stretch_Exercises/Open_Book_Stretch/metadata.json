@@ -1,0 +1,67 @@
+{
+    "title": "Open Book Stretch",
+    "description": "A stretch exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by sitting on the floor with your legs extended in front of you.",
+                    "Place your hands behind your hips, fingers pointing towards your feet.",
+                    "Slowly lean back, keeping your hands in place to support your weight.",
+                    "As you lean back, lift your legs off the ground and bring them towards your chest.",
+                    "Hold this position for a few seconds, feeling the stretch in your lower back and hamstrings.",
+                    "Slowly release and return to the starting position with your legs extended in front of you.",
+                    "Repeat for several repetitions, gradually increasing the duration of the hold."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves posture by stretching the chest and shoulders",
+                    "Increases flexibility in the spine and hips",
+                    "Relieves tension in the lower back",
+                    "Stretches the hip flexors and quadriceps",
+                    "Can help alleviate neck and shoulder pain"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "External obliques",
+                    "Rectus abdominis",
+                    "Transverse abdominis",
+                    "Erector spinae",
+                    "Trapezius",
+                    "Rhomboids",
+                    "Deltoids"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Seated Open Book Stretch",
+                    "Standing Open Book Stretch",
+                    "Kneeling Open Book Stretch",
+                    "Partner Open Book Stretch",
+                    "Modified Open Book Stretch with Resistance Band"
+                ]
+            }
+        }
+    ]
+}

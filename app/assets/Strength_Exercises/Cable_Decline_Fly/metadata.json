@@ -1,0 +1,65 @@
+{
+    "title": "Cable Decline Fly",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Adjust the decline bench to the desired angle.",
+                    "Attach the cable handles to the low pulleys on either side of the bench.",
+                    "Lie face up on the bench with your head at the lower end and your feet at the higher end.",
+                    "Grasp the cable handles with your palms facing each other and your arms extended above your chest.",
+                    "Lower your arms out to the sides in a wide arc, keeping a slight bend in your elbows.",
+                    "Stop when your hands are level with your shoulders or slightly below.",
+                    "Slowly return your arms to the starting position, squeezing your chest muscles as you go.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the lower portion of the chest muscles",
+                    "Increases chest strength and definition",
+                    "Improves overall upper body stability and balance",
+                    "Allows for a greater range of motion compared to traditional decline bench press",
+                    "Can be easily adjusted to target different areas of the chest by changing the angle of the cables"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Pectoralis Major (lower fibers)",
+                    "Pectoralis Minor",
+                    "Serratus Anterior"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Cable Incline Fly",
+                    "Cable Fly",
+                    "Dumbbell Decline Fly",
+                    "Dumbbell Incline Fly",
+                    "Dumbbell Fly",
+                    "Pec Deck Fly"
+                ]
+            }
+        }
+    ]
+}

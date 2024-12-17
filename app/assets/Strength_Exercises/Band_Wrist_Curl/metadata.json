@@ -1,0 +1,60 @@
+{
+    "title": "Band Wrist Curl",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by sitting on a bench or chair with your forearms resting on a flat surface, such as a table or bench.",
+                    "Wrap a resistance band around your wrists, making sure it is snug but not too tight.",
+                    "Hold onto the ends of the resistance band with your hands, keeping your palms facing up.",
+                    "Slowly curl your wrists upwards, bringing the resistance band towards your forearms.",
+                    "Hold the position for a few seconds, then slowly lower your wrists back down to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the wrist flexor muscles",
+                    "Improves grip strength",
+                    "Helps prevent wrist injuries",
+                    "Can be done anywhere with a resistance band",
+                    "Targets a specific muscle group for isolation training"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Forearm flexors"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Reverse band wrist curl",
+                    "One-arm band wrist curl",
+                    "Seated band wrist curl",
+                    "Standing band wrist curl",
+                    "Behind-the-back band wrist curl"
+                ]
+            }
+        }
+    ]
+}

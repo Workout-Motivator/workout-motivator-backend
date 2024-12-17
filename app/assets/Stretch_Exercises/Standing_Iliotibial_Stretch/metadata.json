@@ -1,0 +1,61 @@
+{
+    "title": "Standing Iliotibial Stretch",
+    "description": "A stretch exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet hip-width apart and cross your right leg behind your left.",
+                    "Extend your right arm overhead and lean to the left, feeling a stretch along the right side of your body.",
+                    "Hold for 30 seconds and then switch sides, crossing your left leg behind your right and extending your left arm overhead.",
+                    "Repeat on each side 2-3 times."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Helps to stretch and lengthen the iliotibial band, which can become tight and cause pain in the knee, hip, or lower back",
+                    "Improves flexibility and range of motion in the hip and knee joints",
+                    "Can help prevent injuries in the lower body, especially for runners and athletes who engage in activities that involve repetitive movements",
+                    "May also help alleviate pain and discomfort associated with conditions such as IT band syndrome, patellofemoral pain syndrome, and hip bursitis",
+                    "Can be done anywhere, without the need for any equipment or special clothing"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Tensor fasciae latae",
+                    "Gluteus medius",
+                    "Gluteus maximus",
+                    "Quadriceps"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Seated Iliotibial Stretch",
+                    "Lying Iliotibial Stretch",
+                    "Standing Quad Stretch with Iliotibial Band Focus",
+                    "Standing Hip Flexor Stretch with Iliotibial Band Focus",
+                    "Wall Iliotibial Stretch"
+                ]
+            }
+        }
+    ]
+}

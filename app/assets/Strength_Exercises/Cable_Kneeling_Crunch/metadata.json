@@ -1,0 +1,61 @@
+{
+    "title": "Cable Kneeling Crunch",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by kneeling on the floor with a cable machine behind you.",
+                    "Grab the cable with both hands and place it behind your head, keeping your elbows bent.",
+                    "Engage your core and slowly lean forward, bringing your elbows towards your knees.",
+                    "Pause for a moment at the bottom of the movement, then slowly return to the starting position.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the rectus abdominis, obliques, and hip flexors",
+                    "Allows for resistance to be added and adjusted for progressive overload",
+                    "Engages the core stabilizer muscles for improved balance and posture",
+                    "Can be modified for different fitness levels by adjusting the weight and cable height",
+                    "Provides a low-impact exercise option for those with joint pain or injuries"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus Abdominis",
+                    "Obliques",
+                    "Transverse Abdominis"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Cable Standing Crunch",
+                    "Cable Woodchopper",
+                    "Cable Russian Twist",
+                    "Cable Pallof Press",
+                    "Cable Oblique Twist"
+                ]
+            }
+        }
+    ]
+}

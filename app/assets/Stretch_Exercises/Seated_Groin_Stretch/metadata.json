@@ -1,0 +1,61 @@
+{
+    "title": "Seated Groin Stretch",
+    "description": "A stretch exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by sitting on the floor with your legs extended in front of you.",
+                    "Bend your knees and bring the soles of your feet together, allowing your knees to fall out to the sides.",
+                    "Use your hands to gently pull your heels in towards your body until you feel a stretch in your groin area.",
+                    "Keep your back straight and try to relax your hips and thighs as you hold the stretch for 30 seconds to 1 minute.",
+                    "Release the stretch and repeat as desired."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Increases flexibility in the groin and inner thigh muscles",
+                    "Improves range of motion in the hips",
+                    "Reduces tension and tightness in the lower body",
+                    "Can help alleviate lower back pain",
+                    "Can be modified for different levels of flexibility"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Adductor muscles",
+                    "Hamstrings",
+                    "Glutes"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Standing Groin Stretch",
+                    "Butterfly Stretch",
+                    "Wide-Legged Forward Fold",
+                    "Happy Baby Pose",
+                    "Reclining Bound Angle Pose"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "title": "Side Lying Leg Raise",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on your side with your legs straight and stacked on top of each other.",
+                    "Place your bottom arm out in front of you for support and stability.",
+                    "Engage your core and lift your top leg up towards the ceiling, keeping it straight.",
+                    "Pause at the top of the movement and then slowly lower your leg back down to the starting position.",
+                    "Repeat for the desired number of repetitions and then switch sides."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the hip abductor muscles",
+                    "Improves hip stability and balance",
+                    "Helps prevent hip and knee injuries",
+                    "Can be done with minimal equipment",
+                    "Targets the gluteus medius muscle, which is often neglected in traditional leg exercises"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Gluteus medius",
+                    "Gluteus minimus",
+                    "Tensor fasciae latae",
+                    "Obliques",
+                    "Rectus abdominis"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Side Lying Leg Raise with Resistance Band",
+                    "Side Lying Leg Raise with Dumbbell",
+                    "Side Lying Leg Raise with Ankle Weights",
+                    "Side Lying Leg Raise with Stability Ball",
+                    "Side Lying Leg Raise with Medicine Ball"
+                ]
+            }
+        }
+    ]
+}

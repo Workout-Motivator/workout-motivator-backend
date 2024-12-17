@@ -1,0 +1,66 @@
+{
+    "title": "Lying Toe Tap",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying flat on your back with your arms by your sides.",
+                    "Lift your legs up so that they are perpendicular to the ground.",
+                    "Slowly lower your right foot towards the ground, tapping your toes on the floor.",
+                    "Bring your right foot back up to the starting position.",
+                    "Repeat the same movement with your left foot.",
+                    "Continue alternating between your right and left foot for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves explosive power in the upper body",
+                    "Targets the back, shoulders, and arms",
+                    "Enhances core stability and balance",
+                    "Increases coordination and reaction time",
+                    "Can be used for sport-specific training, such as throwing sports",
+                    "Provides a full-body workout",
+                    "Can be done alone or with a partner",
+                    "Can be modified for different fitness levels"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Abdominal muscles",
+                    "Oblique muscles",
+                    "Hip flexor muscles",
+                    "Quadriceps muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "standing-toe-tap",
+                    "seated-toe-tap",
+                    "lying-leg-raise",
+                    "standing-leg-raise",
+                    "seated-leg-raise"
+                ]
+            }
+        }
+    ]
+}

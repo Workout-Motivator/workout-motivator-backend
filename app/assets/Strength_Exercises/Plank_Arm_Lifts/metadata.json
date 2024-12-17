@@ -1,0 +1,64 @@
+{
+    "title": "Plank Arm Lifts",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start in a plank position with your forearms on the ground and your body in a straight line from head to heels.",
+                    "Engage your core and lift your right arm off the ground, extending it straight out in front of you.",
+                    "Hold for a few seconds, then lower your right arm back down to the ground.",
+                    "Repeat with your left arm, lifting it off the ground and holding for a few seconds before lowering it back down.",
+                    "Continue alternating arms for the desired number of repetitions or time."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the core muscles",
+                    "Improves posture and balance",
+                    "Tones the arms and shoulders",
+                    "Increases overall body stability",
+                    "Helps prevent lower back pain"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus abdominis",
+                    "Transverse abdominis",
+                    "Obliques",
+                    "Erector spinae",
+                    "Shoulder stabilizers",
+                    "Triceps"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Plank with leg lifts",
+                    "Side plank with arm lift",
+                    "Plank with alternating arm and leg lifts",
+                    "Plank with shoulder taps",
+                    "Plank with hip dips"
+                ]
+            }
+        }
+    ]
+}

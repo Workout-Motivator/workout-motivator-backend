@@ -1,0 +1,63 @@
+{
+    "title": "Side Lying Floor Stretch",
+    "description": "A stretch exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on your side on the floor with your legs straight out.",
+                    "Place your bottom arm straight out in front of you and use it as a pillow for your head.",
+                    "Bend your top knee and bring it towards your chest, keeping your foot in line with your hip.",
+                    "Use your top hand to gently push your knee towards the floor, feeling a stretch in your hip and outer thigh.",
+                    "Hold the stretch for 20-30 seconds, breathing deeply and relaxing your body.",
+                    "Release the stretch and switch sides, repeating the same steps on the opposite side."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Relieves tension in the hips and lower back",
+                    "Stretches the glutes and outer thighs",
+                    "Improves flexibility and range of motion in the hips",
+                    "Can help alleviate sciatic nerve pain",
+                    "Can be done at home without any equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Gluteus medius",
+                    "Gluteus minimus",
+                    "Piriformis",
+                    "Tensor fasciae latae"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Side Lying Quad Stretch",
+                    "Side Lying Hamstring Stretch",
+                    "Side Lying Glute Stretch",
+                    "Side Lying IT Band Stretch",
+                    "Side Lying Calf Stretch"
+                ]
+            }
+        }
+    ]
+}

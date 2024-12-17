@@ -1,0 +1,71 @@
+{
+    "title": "Ez Bar Reverse Grip Bent Over Row",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your knees slightly bent.",
+                    "Grasp the EZ bar with an underhand grip, with your hands shoulder-width apart.",
+                    "Bend forward at the waist, keeping your back straight and your head up.",
+                    "Keep your elbows close to your body and pull the bar up towards your chest.",
+                    "Pause for a moment at the top of the movement, squeezing your shoulder blades together.",
+                    "Lower the bar back down to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets multiple muscle groups including the back, biceps, and shoulders",
+                    "Improves posture and strengthens the upper back muscles",
+                    "Increases overall strength and muscle mass in the upper body",
+                    "Can be modified for different fitness levels by adjusting weight and reps",
+                    "Helps to prevent injury by strengthening the muscles that support the spine"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Biceps",
+                    "Forearms",
+                    "Middle back",
+                    "Lats",
+                    "Rhomboids"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "EZ Bar Wide Grip Bent Over Row",
+                    "EZ Bar Close Grip Bent Over Row",
+                    "EZ Bar Underhand Grip Bent Over Row",
+                    "Dumbbell Reverse Grip Bent Over Row",
+                    "Dumbbell Wide Grip Bent Over Row",
+                    "Dumbbell Close Grip Bent Over Row",
+                    "Dumbbell Underhand Grip Bent Over Row",
+                    "Barbell Reverse Grip Bent Over Row",
+                    "Barbell Wide Grip Bent Over Row",
+                    "Barbell Close Grip Bent Over Row",
+                    "Barbell Underhand Grip Bent Over Row"
+                ]
+            }
+        }
+    ]
+}

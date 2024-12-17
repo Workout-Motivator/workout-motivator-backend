@@ -1,0 +1,62 @@
+{
+    "title": "Smith Seated Shoulder Press",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by sitting on a bench with your back straight and your feet flat on the ground.",
+                    "Hold a dumbbell in each hand at shoulder level with your palms facing forward.",
+                    "Press the dumbbells up above your head until your arms are fully extended.",
+                    "Lower the dumbbells back down to shoulder level and repeat for the desired number of repetitions.",
+                    "Make sure to keep your core engaged and your back straight throughout the exercise."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the shoulder muscles, specifically the anterior and medial deltoids",
+                    "Improves shoulder strength and stability",
+                    "Can help improve posture and reduce risk of shoulder injuries",
+                    "Allows for a controlled and isolated movement, reducing the risk of using momentum to lift the weight",
+                    "Can be modified to target different areas of the shoulder by adjusting the angle of the bench or grip on the weights"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Deltoids",
+                    "Triceps",
+                    "Trapezius",
+                    "Rotator Cuff"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Smith Seated Shoulder Press with dumbbells",
+                    "Smith Seated Shoulder Press with barbell",
+                    "Smith Seated Shoulder Press with resistance bands",
+                    "Smith Seated Shoulder Press with kettlebells",
+                    "Smith Seated Shoulder Press with medicine ball"
+                ]
+            }
+        }
+    ]
+}

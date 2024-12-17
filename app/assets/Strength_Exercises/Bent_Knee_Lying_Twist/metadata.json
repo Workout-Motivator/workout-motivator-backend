@@ -1,0 +1,64 @@
+{
+    "title": "Bent Knee Lying Twist",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on your back with your knees bent and feet flat on the floor.",
+                    "Extend your arms out to the sides, palms facing down.",
+                    "Keeping your shoulders on the ground, slowly lower both knees to one side, twisting your lower body.",
+                    "Hold the stretch for 10-15 seconds, feeling the stretch in your lower back and hips.",
+                    "Slowly bring your knees back to center and repeat on the other side.",
+                    "Repeat for 10-15 repetitions on each side."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Stretches the lower back muscles",
+                    "Improves spinal mobility and flexibility",
+                    "Relieves tension in the hips and glutes",
+                    "Can help alleviate lower back pain",
+                    "May improve digestion and reduce bloating"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus Abdominis",
+                    "Obliques",
+                    "Transverse Abdominis",
+                    "Erector Spinae",
+                    "Quadratus Lumborum"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Straight leg lying twist",
+                    "Seated twist",
+                    "Standing twist",
+                    "Supine twist with leg extension",
+                    "Twisted lunge"
+                ]
+            }
+        }
+    ]
+}

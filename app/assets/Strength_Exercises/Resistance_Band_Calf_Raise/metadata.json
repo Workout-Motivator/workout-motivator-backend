@@ -1,0 +1,61 @@
+{
+    "title": "Resistance Band Calf Raise",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Place the resistance band around a sturdy object, such as a pole or door handle, at ankle height.",
+                    "Stand facing the object with your feet hip-width apart and the band around the balls of your feet.",
+                    "Hold onto a nearby surface for balance if needed.",
+                    "Raise your heels off the ground, keeping your toes on the ground and your legs straight.",
+                    "Hold the raised position for a few seconds, then slowly lower your heels back down to the ground.",
+                    "Repeat for desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the calf muscles",
+                    "Improves ankle stability and balance",
+                    "Can be done anywhere with a resistance band",
+                    "Targets the gastrocnemius and soleus muscles",
+                    "Can be easily modified for different levels of resistance"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Gastrocnemius",
+                    "Soleus"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single-leg Resistance Band Calf Raise",
+                    "Seated Resistance Band Calf Raise",
+                    "Standing Resistance Band Calf Raise with Toe Raise",
+                    "Resistance Band Calf Raise with Squat",
+                    "Resistance Band Calf Raise with Lunge"
+                ]
+            }
+        }
+    ]
+}

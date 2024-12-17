@@ -1,0 +1,66 @@
+{
+    "title": "Kettlebell Deck Squat",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a kettlebell by the horns with both hands at chest level.",
+                    "Squat down, keeping your weight on your heels and your chest up.",
+                    "Lower your hips until your butt touches the ground.",
+                    "Roll onto your back and extend your legs straight out in front of you.",
+                    "Roll back onto your feet and stand up, using the momentum to swing the kettlebell up to shoulder level.",
+                    "Repeat for desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves lower body strength and power",
+                    "Targets the glutes, quads, hamstrings, and calves",
+                    "Increases core stability and balance",
+                    "Improves mobility and flexibility in the hips and ankles",
+                    "Can be modified for different fitness levels and goals",
+                    "Provides a full-body workout in one exercise",
+                    "Can be done with minimal equipment and space"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Kettlebell Goblet Squat",
+                    "Kettlebell Front Squat",
+                    "Kettlebell Sumo Squat",
+                    "Kettlebell Bulgarian Split Squat",
+                    "Kettlebell Overhead Squat"
+                ]
+            }
+        }
+    ]
+}

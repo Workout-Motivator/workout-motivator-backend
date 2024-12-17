@@ -1,0 +1,71 @@
+{
+    "title": "Smith Rack Pull",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Set up a Smith machine with the bar at knee height.",
+                    "Stand with your feet shoulder-width apart and your toes pointing forward.",
+                    "Grasp the bar with an overhand grip, hands slightly wider than shoulder-width apart.",
+                    "Engage your core and lift the bar by extending your hips and knees.",
+                    "As you lift the bar, keep your back straight and your shoulders pulled back.",
+                    "Pause at the top of the movement, then slowly lower the bar back down to knee height.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the upper back, traps, and rear delts",
+                    "Helps improve posture and spinal erector strength",
+                    "Can increase grip strength and forearm development",
+                    "Allows for heavier weight to be lifted compared to traditional deadlifts",
+                    "Can be used as a variation to traditional deadlifts for variety in training"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Trapezius",
+                    "Rhomboids",
+                    "Erector Spinae",
+                    "Glutes",
+                    "Hamstrings",
+                    "Quadriceps",
+                    "Gastrocnemius"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Smith Rack Pull",
+                    "Sumo Smith Rack Pull",
+                    "Deficit Smith Rack Pull",
+                    "Paused Smith Rack Pull",
+                    "Single-Leg Smith Rack Pull",
+                    "Wide-Grip Smith Rack Pull",
+                    "Narrow-Grip Smith Rack Pull",
+                    "Reverse-Grip Smith Rack Pull",
+                    "Block Pull on Smith Machine"
+                ]
+            }
+        }
+    ]
+}

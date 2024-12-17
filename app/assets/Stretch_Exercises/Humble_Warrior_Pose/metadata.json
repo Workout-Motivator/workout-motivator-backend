@@ -1,0 +1,73 @@
+{
+    "title": "Humble Warrior Pose",
+    "description": "A stretch exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start in a standing position with your feet hip-width apart.",
+                    "Step your left foot back about 3-4 feet and turn it out at a 45-degree angle.",
+                    "Bend your right knee and sink your hips down towards the ground.",
+                    "Bring your hands to your heart center and press your palms together.",
+                    "Take a deep breath in and as you exhale, twist your torso to the left.",
+                    "Hook your left elbow over your right thigh and press your palms together.",
+                    "Hold for 5-10 breaths, then release and repeat on the other side."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves cardiovascular health",
+                    "Increases endurance and stamina",
+                    "Burns calories and aids in weight loss",
+                    "Strengthens leg muscles",
+                    "Improves balance and coordination",
+                    "Reduces stress and anxiety",
+                    "Can be done indoors or outdoors",
+                    "Requires no equipment",
+                    "Can be modified for different fitness levels"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Glutes",
+                    "Calves",
+                    "Abdominals",
+                    "Obliques",
+                    "Back muscles",
+                    "Chest muscles",
+                    "Shoulder muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Low lunge with a twist",
+                    "Warrior II with a bind",
+                    "Reverse warrior with a side bend",
+                    "Half moon pose",
+                    "Revolved triangle pose"
+                ]
+            }
+        }
+    ]
+}

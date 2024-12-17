@@ -1,0 +1,63 @@
+{
+    "title": "Reverse Push-up",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on your back with your knees bent and feet flat on the ground.",
+                    "Place your hands on the ground beside your head, with your fingers pointing towards your shoulders.",
+                    "Press into your hands and lift your hips off the ground, coming into a reverse tabletop position.",
+                    "Lower your hips back down to the ground and repeat for desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the triceps, shoulders, and chest muscles",
+                    "Improves posture and upper body stability",
+                    "Increases flexibility in the shoulders and upper back",
+                    "Engages the core muscles for added stability and balance",
+                    "Can be done anywhere without any equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Triceps",
+                    "Deltoids",
+                    "Pectoralis major",
+                    "Rhomboids",
+                    "Trapezius",
+                    "Erector spinae"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single-leg reverse push-up",
+                    "Decline reverse push-up",
+                    "Weighted reverse push-up",
+                    "Assisted reverse push-up",
+                    "One-arm reverse push-up"
+                ]
+            }
+        }
+    ]
+}

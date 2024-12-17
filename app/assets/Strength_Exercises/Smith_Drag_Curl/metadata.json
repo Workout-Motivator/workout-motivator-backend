@@ -1,0 +1,62 @@
+{
+    "title": "Smith Drag Curl",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a barbell with an underhand grip, hands shoulder-width apart.",
+                    "Start with the barbell at your thighs, palms facing up.",
+                    "Bend your elbows and curl the barbell up towards your chest, keeping your elbows close to your body.",
+                    "As you curl the barbell up, lift your elbows up and back, squeezing your shoulder blades together.",
+                    "Pause at the top of the curl, then slowly lower the barbell back down to your thighs.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the biceps brachii muscle",
+                    "Allows for a greater range of motion compared to traditional bicep curls",
+                    "Engages the brachialis muscle, which can help increase overall arm size and strength",
+                    "Can be performed with heavier weights due to the support of the Smith machine",
+                    "Helps improve grip strength and forearm endurance"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Biceps brachii",
+                    "Brachialis",
+                    "Brachioradialis"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Reverse Smith Drag Curl",
+                    "Smith Preacher Curl",
+                    "Smith Close-Grip Curl",
+                    "Smith Wide-Grip Curl",
+                    "Smith Incline Curl"
+                ]
+            }
+        }
+    ]
+}

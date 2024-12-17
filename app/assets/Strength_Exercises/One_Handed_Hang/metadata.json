@@ -1,0 +1,63 @@
+{
+    "title": "One Handed Hang",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Find a sturdy pull-up bar or ledge that can support your body weight.",
+                    "Stand facing the bar and reach up with one hand to grab onto it.",
+                    "Engage your core and lift your feet off the ground, hanging from the bar with only one hand.",
+                    "Hold this position for as long as you can, aiming for at least 10-15 seconds.",
+                    "Lower yourself back down to the ground and switch hands, repeating the exercise on the other side.",
+                    "Repeat for several sets, gradually increasing the amount of time you can hold the one-handed hang."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves grip strength",
+                    "Increases forearm and bicep strength",
+                    "Develops shoulder stability and mobility",
+                    "Enhances overall upper body strength",
+                    "Challenges core stability and balance"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Forearm muscles",
+                    "Grip strength muscles",
+                    "Shoulder muscles",
+                    "Back muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "One Handed Hang with Towel",
+                    "One Handed Hang with Weight",
+                    "One Handed Hang on a Sloping Edge",
+                    "One Handed Hang with Offset Grip",
+                    "One Handed Hang with Pinch Grip"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "title": "Couch Stretch",
+    "description": "A stretch exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by kneeling on the ground with your back facing a wall or couch.",
+                    "Place one foot on the wall or couch behind you, with your knee bent at a 90-degree angle.",
+                    "Slowly shift your weight forward onto your front leg, keeping your back straight and your core engaged.",
+                    "You should feel a stretch in your hip flexor and quadriceps of your back leg.",
+                    "Hold the stretch for 30 seconds to 2 minutes, then switch legs and repeat.",
+                    "Repeat the stretch on each leg 2-3 times."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves hip mobility and flexibility",
+                    "Stretches the quadriceps, hip flexors, and psoas muscles",
+                    "Can help alleviate lower back pain",
+                    "Improves posture and balance",
+                    "Can be done anywhere with a wall or sturdy surface to lean against"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Hip flexors",
+                    "Glutes"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Half Kneeling Hip Flexor Stretch",
+                    "Standing Quad Stretch",
+                    "Seated Butterfly Stretch",
+                    "Pigeon Pose",
+                    "Deep Lunge with Twist"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "title": "Smith Squat",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by standing with your feet shoulder-width apart and your toes pointing slightly outward.",
+                    "Hold a barbell across your upper back, resting it on your traps.",
+                    "Engage your core and keep your chest up as you begin to lower your body down into a squat.",
+                    "Bend your knees and push your hips back as if you were sitting down in a chair.",
+                    "Lower your body until your thighs are parallel to the ground.",
+                    "Pause for a moment, then push through your heels to stand back up to the starting position.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets multiple muscle groups including quads, glutes, hamstrings, and calves",
+                    "Allows for a controlled range of motion and proper form with the assistance of the Smith machine",
+                    "Can be easily modified for different fitness levels by adjusting the weight or depth of the squat",
+                    "Improves overall lower body strength and power",
+                    "May also improve core stability and balance"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Front Squat",
+                    "Back Squat",
+                    "Overhead Squat",
+                    "Zercher Squat",
+                    "Goblet Squat",
+                    "Bulgarian Split Squat",
+                    "Box Squat",
+                    "Sumo Squat",
+                    "Paused Squat",
+                    "Single Leg Squat"
+                ]
+            }
+        }
+    ]
+}

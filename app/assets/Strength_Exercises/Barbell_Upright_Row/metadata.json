@@ -1,0 +1,62 @@
+{
+    "title": "Barbell Upright Row",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and grasp the barbell with an overhand grip, hands slightly wider than shoulder-width apart.",
+                    "Hold the barbell in front of your thighs with your arms fully extended.",
+                    "Keeping your elbows close to your body, lift the barbell straight up towards your chin, leading with your elbows.",
+                    "Pause at the top of the movement, then slowly lower the barbell back down to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the shoulders, specifically the deltoids and traps",
+                    "Improves shoulder strength and stability",
+                    "Can help improve posture by strengthening the upper back muscles",
+                    "Engages the biceps and forearms as secondary muscles",
+                    "Can be modified with different grip widths to target different areas of the shoulders"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Deltoids (shoulders)",
+                    "Trapezius (upper back)",
+                    "Biceps (front of upper arms)",
+                    "Forearms (grip strength)"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Upright Row",
+                    "Cable Upright Row",
+                    "Smith Machine Upright Row",
+                    "Kettlebell Upright Row",
+                    "Resistance Band Upright Row"
+                ]
+            }
+        }
+    ]
+}

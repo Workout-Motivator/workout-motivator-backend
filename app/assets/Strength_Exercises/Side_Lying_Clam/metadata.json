@@ -1,0 +1,60 @@
+{
+    "title": "Side Lying Clam",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on your side with your legs bent at a 90-degree angle and your feet together.",
+                    "Place your top hand on your hip and your bottom hand on the floor in front of you for support.",
+                    "Keeping your feet together, lift your top knee as high as you can without moving your pelvis or lower back.",
+                    "Hold for a few seconds at the top of the movement, then slowly lower your knee back down to the starting position.",
+                    "Repeat for the desired number of repetitions, then switch sides and repeat the exercise on the other side."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the gluteus medius muscle",
+                    "Improves hip stability and balance",
+                    "Helps prevent knee and hip injuries",
+                    "Can alleviate lower back pain",
+                    "Can be done with minimal equipment and space"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Gluteus medius",
+                    "Gluteus minimus"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Side Lying Clam with Resistance Band",
+                    "Side Lying Clam with Dumbbell",
+                    "Side Lying Clam with Ankle Weights",
+                    "Side Lying Clam with Foam Roller",
+                    "Side Lying Clam with Stability Ball"
+                ]
+            }
+        }
+    ]
+}

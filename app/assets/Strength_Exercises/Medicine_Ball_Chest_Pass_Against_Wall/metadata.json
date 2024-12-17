@@ -1,0 +1,63 @@
+{
+    "title": "Medicine Ball Chest Pass Against Wall",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand facing a wall with your feet shoulder-width apart.",
+                    "Hold a medicine ball at chest level with both hands.",
+                    "Extend your arms and forcefully throw the ball at the wall.",
+                    "Catch the ball as it bounces back towards you.",
+                    "Repeat for desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves upper body strength and power",
+                    "Targets chest, shoulders, and triceps",
+                    "Increases explosiveness and speed",
+                    "Enhances hand-eye coordination and reaction time",
+                    "Can be done alone or with a partner for added challenge",
+                    "Low impact exercise that is easy on the joints"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Chest muscles (pectoralis major and minor)",
+                    "Shoulder muscles (deltoids)",
+                    "Triceps",
+                    "Core muscles (abdominals and obliques)"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Medicine Ball Chest Pass with Partner",
+                    "Medicine Ball Overhead Slam",
+                    "Medicine Ball Rotational Throws",
+                    "Medicine Ball Plyometric Push-ups",
+                    "Medicine Ball Russian Twists"
+                ]
+            }
+        }
+    ]
+}

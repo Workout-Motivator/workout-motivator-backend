@@ -1,0 +1,65 @@
+{
+    "title": "Kettlebell Bent Press",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by standing with your feet shoulder-width apart and holding a kettlebell in your right hand.",
+                    "Press the kettlebell overhead with your arm fully extended and your palm facing forward.",
+                    "Rotate your feet to the left so that your left foot is turned out at a 45-degree angle.",
+                    "Bend your torso to the left and lower your body until your left hand can touch the ground.",
+                    "Keep your right arm extended and your eyes on the kettlebell throughout the movement.",
+                    "Slowly straighten your torso and return to the starting position.",
+                    "Repeat for the desired number of reps before switching sides."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the shoulders, back, and core muscles",
+                    "Improves mobility and flexibility in the shoulders and hips",
+                    "Increases stability and balance",
+                    "Helps to correct muscle imbalances and posture issues",
+                    "Can be a full-body workout when combined with other kettlebell exercises"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Shoulders",
+                    "Triceps",
+                    "Core",
+                    "Glutes",
+                    "Hamstrings"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Kettlebell Windmill",
+                    "Kettlebell Turkish Get-Up",
+                    "Kettlebell Clean and Press",
+                    "Kettlebell Snatch",
+                    "Kettlebell Jerk"
+                ]
+            }
+        }
+    ]
+}

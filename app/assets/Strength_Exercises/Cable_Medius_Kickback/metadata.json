@@ -1,0 +1,64 @@
+{
+    "title": "Cable Medius Kickback",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Attach a cable to a low pulley and adjust the weight according to your fitness level.",
+                    "Stand facing the machine with your feet shoulder-width apart and your knees slightly bent.",
+                    "Hold the cable handle with your right hand and place your left hand on your hip.",
+                    "Keep your back straight and your core engaged.",
+                    "Slowly kick your right leg back, keeping it straight, until your thigh is parallel to the floor.",
+                    "Pause for a moment and squeeze your glutes.",
+                    "Slowly return your leg to the starting position.",
+                    "Repeat for the desired number of repetitions and then switch sides."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the gluteus medius muscle, which helps with hip stability and balance",
+                    "Can improve overall lower body strength and power",
+                    "Can help prevent injuries, particularly in the knees and hips",
+                    "Can be easily modified to increase or decrease resistance",
+                    "Can be done with minimal equipment, making it a convenient exercise to do at home or at the gym"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Gluteus Medius",
+                    "Gluteus Maximus",
+                    "Hamstrings"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Cable Lateral Kickback",
+                    "Cable Rear Delt Fly",
+                    "Cable Glute Kickback",
+                    "Cable Tricep Kickback",
+                    "Cable Bicep Curl"
+                ]
+            }
+        }
+    ]
+}

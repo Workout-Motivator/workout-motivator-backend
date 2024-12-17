@@ -1,0 +1,65 @@
+{
+    "title": "Weighted Seated Calf Raise",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by sitting on a calf raise machine with your feet flat on the platform and your knees bent at a 90-degree angle.",
+                    "Place a weight on top of your knees, making sure it is secure and won\u2019t fall off during the exercise.",
+                    "Slowly raise your heels off the platform by extending your ankles as far as possible.",
+                    "Hold the contraction for a second, then lower your heels back down to the starting position.",
+                    "Repeat for the desired number of repetitions.",
+                    "Make sure to keep your back straight and your core engaged throughout the exercise.",
+                    "Adjust the weight as necessary to challenge yourself and continue making progress."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens and tones the calf muscles",
+                    "Improves ankle stability and balance",
+                    "Helps prevent injuries such as ankle sprains and strains",
+                    "Can improve athletic performance in activities such as running, jumping, and dancing",
+                    "Can be done with weights to increase resistance and challenge the muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Gastrocnemius",
+                    "Soleus"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Unweighted Seated Calf Raise",
+                    "Standing Calf Raise",
+                    "Donkey Calf Raise",
+                    "Single Leg Calf Raise",
+                    "Smith Machine Calf Raise",
+                    "Barbell Calf Raise",
+                    "Dumbbell Calf Raise",
+                    "Seated Calf Raise Machine"
+                ]
+            }
+        }
+    ]
+}

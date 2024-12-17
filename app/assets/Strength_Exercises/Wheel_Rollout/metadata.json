@@ -1,0 +1,66 @@
+{
+    "title": "Wheel Rollout",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Kneel on the floor and hold the wheel rollout device with both hands, placing your hands shoulder-width apart on the handles.",
+                    "Place the wheel on the floor in front of you, with your arms extended and your hands gripping the handles.",
+                    "Slowly roll the wheel forward, keeping your core engaged and your back straight.",
+                    "Continue rolling the wheel forward until your body is fully extended and your arms are overhead.",
+                    "Hold this position for a few seconds, then slowly roll the wheel back towards your knees.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the core muscles, including the abs, obliques, and lower back",
+                    "Improves stability and balance",
+                    "Increases shoulder and arm strength",
+                    "Helps to prevent lower back pain and injury",
+                    "Can be modified for different fitness levels"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus Abdominis",
+                    "Transverse Abdominis",
+                    "Obliques",
+                    "Erector Spinae",
+                    "Latissimus Dorsi",
+                    "Pectoralis Major",
+                    "Triceps"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single Arm Wheel Rollout",
+                    "Feet Elevated Wheel Rollout",
+                    "Assisted Wheel Rollout with Resistance Band",
+                    "Wide Stance Wheel Rollout",
+                    "Decline Wheel Rollout"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "title": "Barbell Standing Leg Calf Raise",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Place a barbell on the floor and load it with an appropriate weight.",
+                    "Stand with your feet shoulder-width apart and your toes pointing forward.",
+                    "Step onto the barbell with the balls of your feet, keeping your heels off the ground.",
+                    "Grasp the barbell with both hands and lift it up to your waist level.",
+                    "Slowly raise your heels as high as possible, keeping your knees straight.",
+                    "Hold the position for a few seconds, then lower your heels back down to the starting position.",
+                    "Repeat the exercise for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the biceps muscles",
+                    "Improves grip strength",
+                    "Increases upper body strength",
+                    "Helps to build bigger and stronger biceps",
+                    "Can be performed with heavy weights for progressive overload",
+                    "Engages the forearms and shoulders as secondary muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Gastrocnemius",
+                    "Soleus"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Barbell seated calf raise",
+                    "Dumbbell standing calf raise",
+                    "Smith machine standing calf raise",
+                    "Seated machine calf raise",
+                    "Donkey calf raise"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "title": "Dumbbell Deadlift",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a dumbbell in each hand with your palms facing your thighs.",
+                    "Bend your knees and hinge forward at the hips, keeping your back straight and your head up.",
+                    "Lower the dumbbells towards the ground, keeping them close to your body.",
+                    "Pause when your hands reach just below your knees.",
+                    "Slowly lift the dumbbells back up to the starting position, squeezing your glutes and hamstrings as you stand up straight.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the lower body muscles, including the glutes, hamstrings, and quadriceps",
+                    "Improves core stability and balance",
+                    "Increases grip strength",
+                    "Can be modified to target different muscle groups, such as the back and shoulders",
+                    "Can be performed with a variety of weights and equipment, making it accessible for all fitness levels"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Erector Spinae",
+                    "Glutes",
+                    "Hamstrings",
+                    "Quadriceps",
+                    "Calves",
+                    "Forearms",
+                    "Grip"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single-leg dumbbell deadlift",
+                    "Dumbbell sumo deadlift",
+                    "Dumbbell Romanian deadlift",
+                    "Dumbbell stiff-legged deadlift",
+                    "Dumbbell trap bar deadlift"
+                ]
+            }
+        }
+    ]
+}

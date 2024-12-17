@@ -1,0 +1,64 @@
+{
+    "title": "Resistance Band Bird Dog",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start on your hands and knees with your wrists directly under your shoulders and your knees directly under your hips.",
+                    "Place a resistance band around your feet and hold onto the handles with your hands.",
+                    "Engage your core and extend your right arm and left leg straight out, keeping them parallel to the ground.",
+                    "Hold for a few seconds, then return to the starting position.",
+                    "Repeat on the other side, extending your left arm and right leg.",
+                    "Continue alternating sides for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the core muscles, including the abs, lower back, and hips",
+                    "Improves balance and stability",
+                    "Targets the glutes and shoulders",
+                    "Can be modified for different fitness levels by adjusting the resistance band tension",
+                    "Can be done anywhere with minimal equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Glutes",
+                    "Hamstrings",
+                    "Lower back",
+                    "Core",
+                    "Shoulders"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Resistance Band Dead Bug",
+                    "Resistance Band Plank",
+                    "Resistance Band Glute Bridge",
+                    "Resistance Band Lateral Walk",
+                    "Resistance Band Squat"
+                ]
+            }
+        }
+    ]
+}

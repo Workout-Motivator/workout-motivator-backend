@@ -1,0 +1,64 @@
+{
+    "title": "Negative Dragon Flag",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on your back with your arms extended above your head and your legs straight up in the air.",
+                    "Engage your core and lift your hips off the ground, bringing your legs towards your head.",
+                    "Slowly lower your legs towards the ground, keeping them straight and your core engaged.",
+                    "Once your legs are parallel to the ground, pause for a moment before lifting them back up towards your head.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the core muscles, including the rectus abdominis, obliques, and lower back muscles",
+                    "Improves overall body control and stability",
+                    "Increases upper body and grip strength",
+                    "Challenges the body in a unique way, leading to greater muscle adaptation and growth",
+                    "Can be modified to suit different fitness levels and abilities"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus Abdominis",
+                    "Obliques",
+                    "Transverse Abdominis",
+                    "Erector Spinae",
+                    "Latissimus Dorsi",
+                    "Glutes"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dragon Flag",
+                    "Reverse Crunch",
+                    "Hanging Leg Raise",
+                    "Plank with Hip Dips",
+                    "Ab Wheel Rollout"
+                ]
+            }
+        }
+    ]
+}

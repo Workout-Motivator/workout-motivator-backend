@@ -1,0 +1,67 @@
+{
+    "title": "Rear Decline Bridge",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on your back with your knees bent and feet flat on the ground.",
+                    "Place your arms by your sides with your palms facing down.",
+                    "Lift your hips up towards the ceiling, squeezing your glutes and engaging your core.",
+                    "Slowly lower your hips back down to the ground.",
+                    "Next, lift your hips up again and extend one leg straight out in front of you, keeping your foot flexed.",
+                    "Lower your hips back down to the ground and repeat on the other side.",
+                    "Continue alternating between lifting your hips with both feet on the ground and lifting your hips with one leg extended.",
+                    "Perform 10-12 repetitions on each side for 2-3 sets."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves flexibility and range of motion in the hip joint",
+                    "Reduces tension and tightness in the hip muscles",
+                    "Helps alleviate lower back pain by releasing tension in the hip muscles",
+                    "Improves posture and alignment by releasing tension in the hip muscles",
+                    "May help prevent hip injuries by improving flexibility and range of motion"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Glutes",
+                    "Hamstrings",
+                    "Lower back",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "rear-foot elevated decline bridge",
+                    "single-leg rear-foot elevated decline bridge",
+                    "weighted rear-foot elevated decline bridge",
+                    "resistance band rear-foot elevated decline bridge",
+                    "stability ball rear-foot elevated decline bridge",
+                    "alternating rear-foot elevated decline bridge",
+                    "plyometric rear-foot elevated decline bridge"
+                ]
+            }
+        }
+    ]
+}

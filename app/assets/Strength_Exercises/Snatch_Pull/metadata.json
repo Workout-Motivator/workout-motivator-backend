@@ -1,0 +1,68 @@
+{
+    "title": "Snatch Pull",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start with your feet shoulder-width apart and the barbell on the ground in front of you.",
+                    "Place your hands on the barbell with a wide grip, palms facing down.",
+                    "Engage your core and lift the barbell off the ground, keeping your arms straight.",
+                    "As the barbell reaches your hips, explosively pull it up towards your chest, keeping your elbows high and wide.",
+                    "As the barbell reaches chest height, quickly drop your body underneath it and catch it in a squat position, with your arms fully extended overhead.",
+                    "Stand up with the barbell and return it to the starting position on the ground.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves explosive power and speed",
+                    "Increases strength in the upper back, shoulders, and traps",
+                    "Helps to develop proper technique for the snatch lift",
+                    "Can improve grip strength and forearm endurance",
+                    "May help to prevent injury by strengthening the muscles and connective tissues used in the snatch lift"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Trapezius",
+                    "Rhomboids",
+                    "Deltoids",
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Erector Spinae",
+                    "Abdominals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Snatch High Pull",
+                    "Power Snatch",
+                    "Hang Snatch Pull",
+                    "Snatch Grip Deadlift",
+                    "Snatch Balance"
+                ]
+            }
+        }
+    ]
+}

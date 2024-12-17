@@ -1,0 +1,62 @@
+{
+    "title": "Seated Piriformis Stretch",
+    "description": "A stretch exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Sit on a chair with your feet flat on the ground.",
+                    "Place your right ankle on your left knee.",
+                    "Place your right hand on your right knee and your left hand on your right ankle.",
+                    "Gently press your right knee towards your left shoulder while keeping your back straight.",
+                    "Hold the stretch for 15-30 seconds.",
+                    "Release and repeat on the other side."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Relieves tension and tightness in the piriformis muscle",
+                    "Helps alleviate lower back pain",
+                    "Improves flexibility and range of motion in the hips",
+                    "Reduces the risk of injury in the lower body",
+                    "Can be done anywhere, without any equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Gluteus Maximus",
+                    "Piriformis",
+                    "Other hip external rotators"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Standing Piriformis Stretch",
+                    "Lying Piriformis Stretch",
+                    "Supine Piriformis Stretch",
+                    "Modified Pigeon Pose",
+                    "Thread the Needle Pose"
+                ]
+            }
+        }
+    ]
+}

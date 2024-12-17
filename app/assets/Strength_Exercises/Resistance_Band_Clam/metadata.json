@@ -1,0 +1,60 @@
+{
+    "title": "Resistance Band Clam",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Place the resistance band around your thighs, just above your knees.",
+                    "Lie on your side with your knees bent at a 90-degree angle and your feet together.",
+                    "Keeping your feet together, lift your top knee as high as you can without moving your pelvis or lower back.",
+                    "Pause for a moment at the top of the movement, then slowly lower your knee back down to the starting position.",
+                    "Repeat for the desired number of repetitions, then switch sides and repeat the exercise with your other leg."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the gluteus medius muscle, which helps with hip stability and balance",
+                    "Improves overall lower body strength and power",
+                    "Can help alleviate lower back pain by improving hip mobility and stability",
+                    "Can be done anywhere with a resistance band, making it a convenient exercise for travel or at-home workouts",
+                    "Can be easily modified for different fitness levels by adjusting the resistance band tension"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Gluteus medius",
+                    "Gluteus minimus"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Resistance Band Lateral Walk",
+                    "Resistance Band Glute Bridge",
+                    "Resistance Band Squat",
+                    "Resistance Band Deadlift",
+                    "Resistance Band Hip Thrust"
+                ]
+            }
+        }
+    ]
+}

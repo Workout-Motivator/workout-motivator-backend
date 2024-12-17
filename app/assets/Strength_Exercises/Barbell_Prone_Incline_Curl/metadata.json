@@ -1,0 +1,67 @@
+{
+    "title": "Barbell Prone Incline Curl",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Set up a bench at a 45-degree angle.",
+                    "Grab a barbell with an underhand grip and lie face down on the bench.",
+                    "Extend your arms straight down towards the floor.",
+                    "Curl the barbell up towards your chest, keeping your elbows close to your body.",
+                    "Pause at the top of the movement and squeeze your biceps.",
+                    "Lower the barbell back down to the starting position.",
+                    "Repeat for desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the upper chest muscles",
+                    "Engages the triceps and shoulders as secondary muscles",
+                    "Improves overall upper body strength",
+                    "Increases muscle mass and definition in the chest and arms",
+                    "Helps to improve posture and upper body alignment",
+                    "Can be modified for different fitness levels and goals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Biceps brachii",
+                    "Brachialis",
+                    "Brachioradialis"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "barbell-prone-incline-curl",
+                    "barbell-preacher-curl",
+                    "ez-bar-prone-incline-curl",
+                    "ez-bar-preacher-curl",
+                    "dumbbell-prone-incline-curl",
+                    "dumbbell-preacher-curl",
+                    "cable-prone-incline-curl",
+                    "cable-preacher-curl"
+                ]
+            }
+        }
+    ]
+}

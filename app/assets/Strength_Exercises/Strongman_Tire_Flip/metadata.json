@@ -1,0 +1,67 @@
+{
+    "title": "Strongman Tire Flip",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Approach the tire with your feet shoulder-width apart and your toes pointing forward.",
+                    "Bend your knees and grab the bottom of the tire with both hands.",
+                    "Engage your core and lift the tire off the ground, keeping your back straight.",
+                    "Push the tire forward with your legs and hips, using your upper body to guide it.",
+                    "As the tire flips over, step back and reset your stance.",
+                    "Repeat for the desired number of reps or time."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Increases overall strength and power",
+                    "Targets multiple muscle groups including legs, back, shoulders, and arms",
+                    "Improves cardiovascular endurance",
+                    "Enhances functional fitness and ability to perform everyday tasks",
+                    "Provides a unique and challenging workout experience"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Glutes",
+                    "Calves",
+                    "Core muscles (abdominals, obliques, lower back)",
+                    "Shoulders",
+                    "Triceps",
+                    "Biceps"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single Arm Tire Flip",
+                    "Partner Tire Flip",
+                    "Backward Tire Flip",
+                    "Medicine Ball Tire Flip",
+                    "Jumping Tire Flip"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "title": "Kipping Muscle Up",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by hanging from a pull-up bar with your hands slightly wider than shoulder-width apart and your palms facing away from you.",
+                    "Initiate a kip swing by bringing your legs forward and then back behind you, while simultaneously pulling your shoulders down and back.",
+                    "As you swing forward, use the momentum to pull your chest towards the bar.",
+                    "As your chest reaches the bar, push down on the bar and explosively drive your hips forward to help propel your body up and over the bar.",
+                    "As you come over the bar, push down on the bar and extend your arms fully to complete the muscle up.",
+                    "Lower yourself back down to the starting position by reversing the movement, starting with pulling your hips back and then lowering your chest down towards the bar."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Develops upper body strength and power",
+                    "Improves coordination and body control",
+                    "Increases flexibility and range of motion in the shoulders",
+                    "Challenges the core muscles for stability and balance",
+                    "Provides a full body workout",
+                    "Can be used as a progression towards more advanced gymnastics movements"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Start by hanging from a pull-up bar with your hands slightly wider than shoulder-width apart and your palms facing away from you.",
+                    "Initiate a kip swing by bringing your legs forward and then back behind you, while simultaneously pulling your shoulders down and back.",
+                    "As you swing forward, use the momentum to pull your chest towards the bar.",
+                    "As your chest reaches the bar, push down on the bar and explosively drive your hips forward to help propel your body up and over the bar.",
+                    "As you come over the bar, push down on the bar and extend your arms fully to complete the muscle up.",
+                    "Lower yourself back down to the starting position by reversing the movement, starting with pulling your hips back and then lowering your chest down towards the bar."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strict Muscle Up",
+                    "Bar Muscle Up",
+                    "Ring Muscle Up",
+                    "False Grip Muscle Up",
+                    "Weighted Muscle Up"
+                ]
+            }
+        }
+    ]
+}

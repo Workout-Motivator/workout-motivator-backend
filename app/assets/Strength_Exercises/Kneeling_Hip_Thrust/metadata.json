@@ -1,0 +1,68 @@
+{
+    "title": "Kneeling Hip Thrust",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by kneeling on the ground with your hands on your hips.",
+                    "Place a resistance band around your thighs, just above your knees.",
+                    "Engage your glutes and core muscles.",
+                    "Slowly lean back, keeping your hips and core stable.",
+                    "Thrust your hips forward, squeezing your glutes at the top of the movement.",
+                    "Lower your hips back down to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens core muscles",
+                    "Improves posture",
+                    "Increases stability and balance",
+                    "Reduces risk of lower back pain",
+                    "Enhances overall body strength",
+                    "Improves flexibility",
+                    "Can be modified for different fitness levels",
+                    "Requires no equipment",
+                    "Can be done anywhere"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Glutes",
+                    "Hamstrings",
+                    "Quadriceps",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single-leg kneeling hip thrust",
+                    "Weighted kneeling hip thrust",
+                    "Band-resisted kneeling hip thrust",
+                    "Isometric hold kneeling hip thrust",
+                    "Feet-elevated kneeling hip thrust"
+                ]
+            }
+        }
+    ]
+}

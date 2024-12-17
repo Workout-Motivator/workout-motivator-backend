@@ -1,0 +1,64 @@
+{
+    "title": "Dumbbell Single Leg Split Squat",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a dumbbell in each hand.",
+                    "Place your left foot behind you on a bench or step, with your toes resting on the surface.",
+                    "Lower your body down into a lunge position, bending your right knee and keeping your left leg straight.",
+                    "As you lower your body, simultaneously curl the dumbbells up towards your shoulders.",
+                    "Push through your right heel to stand back up, lowering the dumbbells back down to your sides.",
+                    "Repeat for the desired number of reps, then switch legs and repeat on the other side."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets multiple muscle groups including quads, glutes, hamstrings, and calves",
+                    "Improves balance and stability",
+                    "Increases lower body strength and power",
+                    "Can be modified for different fitness levels by adjusting weight and depth of squat",
+                    "Engages core muscles for added abdominal strength"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Bulgarian Split Squat",
+                    "Dumbbell Reverse Lunge",
+                    "Dumbbell Step-Up",
+                    "Dumbbell Walking Lunge",
+                    "Dumbbell Curtsy Lunge"
+                ]
+            }
+        }
+    ]
+}

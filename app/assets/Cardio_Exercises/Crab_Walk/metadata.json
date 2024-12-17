@@ -1,0 +1,68 @@
+{
+    "title": "Crab Walk",
+    "description": "A cardio exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by standing with your feet shoulder-width apart and your knees slightly bent.",
+                    "Squat down and place your hands on the ground in front of you.",
+                    "Walk your hands forward until your body is in a plank position.",
+                    "Keeping your hands and feet in place, walk your right hand and left foot to the right, then your left hand and right foot to the right, so that you are moving sideways like a crab.",
+                    "Continue moving to the right for a set distance or number of steps, then reverse the movement and move to the left.",
+                    "Repeat for a set number of reps or time."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the core muscles",
+                    "Targets the lower abs and hip flexors",
+                    "Improves balance and stability",
+                    "Increases flexibility in the hips and lower back",
+                    "Can help alleviate lower back pain",
+                    "Can be modified for different fitness levels",
+                    "Can be done without equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Glutes",
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Calves",
+                    "Abdominals",
+                    "Shoulders",
+                    "Triceps"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Crab crawl",
+                    "Crab walk with resistance band",
+                    "Crab walk with medicine ball",
+                    "Crab walk with dumbbells",
+                    "Crab walk with kettlebells"
+                ]
+            }
+        }
+    ]
+}

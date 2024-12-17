@@ -1,0 +1,68 @@
+{
+    "title": "Abdominal Stretch",
+    "description": "A stretch exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by sitting on the floor with your legs extended in front of you.",
+                    "Bend your knees and place your feet flat on the floor.",
+                    "Place your hands behind your hips with your fingers pointing towards your feet.",
+                    "Slowly lean back onto your hands and forearms, keeping your elbows close to your body.",
+                    "As you lean back, lift your chest towards the ceiling and arch your back.",
+                    "Hold the stretch for 10-15 seconds, then release and return to the starting position.",
+                    "Repeat the stretch 2-3 times."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves agility and coordination",
+                    "Increases cardiovascular endurance",
+                    "Enhances reaction time and reflexes",
+                    "Develops balance and stability",
+                    "Strengthens leg muscles",
+                    "Provides a fun and engaging workout"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus abdominis",
+                    "Obliques",
+                    "Erector spinae"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Abdominal crunches",
+                    "Reverse crunches",
+                    "Plank",
+                    "Side plank",
+                    "Russian twists",
+                    "Bicycle crunches",
+                    "Leg raises",
+                    "Mountain climbers",
+                    "Flutter kicks"
+                ]
+            }
+        }
+    ]
+}

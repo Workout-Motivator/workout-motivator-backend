@@ -1,0 +1,67 @@
+{
+    "title": "Front to Side Plank",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start in a high plank position with your hands directly under your shoulders and your feet hip-width apart.",
+                    "Shift your weight onto your left hand and rotate your body to the right, stacking your right foot on top of your left foot and extending your right arm towards the ceiling to come into a side plank.",
+                    "Hold the side plank for a few seconds, engaging your core and keeping your hips lifted.",
+                    "Lower your right arm back down to the ground and rotate your body back to the starting high plank position.",
+                    "Repeat on the other side, shifting your weight onto your right hand and rotating your body to the left to come into a side plank on your left hand and left foot.",
+                    "Hold the side plank for a few seconds, engaging your core and keeping your hips lifted.",
+                    "Lower your left arm back down to the ground and rotate your body back to the starting high plank position.",
+                    "Continue alternating between the two sides for the desired number of repetitions or time."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Garland pose helps to stretch the hips, groin, and ankles",
+                    "Malasana strengthens the lower body and improves flexibility in the hips and ankles",
+                    "Together, these poses can improve overall posture and balance",
+                    "They can also help to relieve tension and stress in the body",
+                    "Regular practice of these poses can lead to increased mobility and range of motion in the hips and lower body"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus abdominis",
+                    "Obliques",
+                    "Transverse abdominis",
+                    "Erector spinae",
+                    "Glutes",
+                    "Shoulder stabilizers"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "front-to-back plank",
+                    "side-to-side plank",
+                    "plank with leg lifts",
+                    "plank with shoulder taps",
+                    "plank with hip dips"
+                ]
+            }
+        }
+    ]
+}

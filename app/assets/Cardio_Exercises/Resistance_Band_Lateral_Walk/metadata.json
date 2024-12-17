@@ -1,0 +1,66 @@
+{
+    "title": "Resistance Band Lateral Walk",
+    "description": "A cardio exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Place the resistance band around your ankles and stand with your feet hip-width apart.",
+                    "Bend your knees slightly and engage your core.",
+                    "Take a step to the right with your right foot, keeping tension on the band.",
+                    "Bring your left foot to meet your right foot, maintaining tension on the band.",
+                    "Repeat the movement to the right for 10-12 steps.",
+                    "Then, take 10-12 steps to the left, leading with your left foot.",
+                    "Repeat for 2-3 sets."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the hip abductor muscles, which are important for stabilizing the pelvis and maintaining proper alignment during movement",
+                    "Improves hip mobility and flexibility",
+                    "Helps to prevent injuries, particularly in the knees and hips",
+                    "Can be done anywhere with minimal equipment",
+                    "Can be easily modified to increase or decrease resistance"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Gluteus medius",
+                    "Gluteus minimus",
+                    "Tensor fasciae latae",
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Abductors"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Resistance Band Lateral Shuffle",
+                    "Resistance Band Lateral Step",
+                    "Resistance Band Lateral Gait",
+                    "Resistance Band Lateral Monster Walk",
+                    "Resistance Band Lateral Crab Walk"
+                ]
+            }
+        }
+    ]
+}

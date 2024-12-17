@@ -1,0 +1,64 @@
+{
+    "title": "Handstand",
+    "description": "A stretch exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Find an open space with a wall nearby.",
+                    "Place your hands on the ground shoulder-width apart and kick your legs up against the wall.",
+                    "Engage your core and hold the position for as long as you can.",
+                    "When you\u2019re ready to come down, slowly lower your legs back to the ground.",
+                    "Repeat for desired number of sets and reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the upper body, including the shoulders, arms, and core muscles",
+                    "Improves balance and body control",
+                    "Increases blood flow to the brain, improving focus and concentration",
+                    "Can help alleviate stress and anxiety",
+                    "Challenges the body and mind, promoting overall fitness and well-being"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Shoulders",
+                    "Triceps",
+                    "Core",
+                    "Back",
+                    "Glutes",
+                    "Legs"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Handstand push-ups",
+                    "Handstand walks",
+                    "One-arm handstand",
+                    "Handstand hold with shoulder taps",
+                    "Handstand to forward roll"
+                ]
+            }
+        }
+    ]
+}

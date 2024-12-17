@@ -1,0 +1,66 @@
+{
+    "title": "Weighted Sissy Squat",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a weight plate against your chest with both hands.",
+                    "Place your heels on a raised surface, such as a weight plate or step, and keep your toes on the ground.",
+                    "Slowly lower your body down by bending your knees and leaning back slightly, keeping your weight on your heels.",
+                    "As you lower your body, push your hips back and keep your chest up.",
+                    "Lower your body until your thighs are parallel to the ground or as low as you can comfortably go.",
+                    "Pause for a moment at the bottom of the squat, then push through your heels to return to the starting position.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the quadriceps, hamstrings, and glutes",
+                    "Improves knee stability and balance",
+                    "Increases lower body strength and endurance",
+                    "Can be done with minimal equipment",
+                    "Allows for a greater range of motion compared to traditional squats",
+                    "Can be modified to target different muscle groups by adjusting foot placement and weight distribution"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Unweighted Sissy Squat",
+                    "Weighted Squat",
+                    "Weighted Bulgarian Split Squat",
+                    "Weighted Pistol Squat",
+                    "Weighted Step-up"
+                ]
+            }
+        }
+    ]
+}

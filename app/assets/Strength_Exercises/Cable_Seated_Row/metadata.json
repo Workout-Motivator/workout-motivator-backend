@@ -1,0 +1,69 @@
+{
+    "title": "Cable Seated Row",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Adjust the cable machine to the appropriate height and attach a V-bar handle to the cable.",
+                    "Sit on the bench with your feet flat on the floor and your knees slightly bent.",
+                    "Grab the V-bar handle with an overhand grip and extend your arms in front of you.",
+                    "Keep your back straight and your chest up as you pull the handle towards your torso.",
+                    "Squeeze your shoulder blades together at the end of the movement.",
+                    "Slowly release the handle back to the starting position.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets multiple muscle groups including the back, shoulders, and arms",
+                    "Improves posture and spinal alignment",
+                    "Increases upper body strength and muscle definition",
+                    "Can be easily modified for different fitness levels and goals",
+                    "Provides a low-impact workout option for those with joint pain or injuries"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rhomboids",
+                    "Trapezius",
+                    "Latissimus dorsi",
+                    "Erector spinae",
+                    "Biceps"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Close grip cable seated row",
+                    "Wide grip cable seated row",
+                    "Reverse grip cable seated row",
+                    "Single arm cable seated row",
+                    "Low cable seated row",
+                    "High cable seated row",
+                    "Alternating cable seated row",
+                    "One and a half cable seated row",
+                    "Isometric cable seated row"
+                ]
+            }
+        }
+    ]
+}

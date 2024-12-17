@@ -1,0 +1,63 @@
+{
+    "title": "Dumbbell Rear Lunge",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart, holding a dumbbell in each hand with your arms at your sides.",
+                    "Take a big step backward with your right foot, lowering your body until your right knee nearly touches the ground and your left thigh is parallel to the ground.",
+                    "Pause for a moment, then push through your left heel to return to the starting position.",
+                    "Repeat on the other side, stepping back with your left foot.",
+                    "Continue alternating legs for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the quadriceps, hamstrings, glutes, and calves",
+                    "Improves balance and stability",
+                    "Targets the muscles in the lower body more effectively than traditional lunges",
+                    "Increases overall lower body strength and power",
+                    "Can be modified to increase or decrease difficulty based on fitness level"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Front Lunge",
+                    "Dumbbell Walking Lunge",
+                    "Dumbbell Side Lunge",
+                    "Dumbbell Curtsy Lunge",
+                    "Dumbbell Bulgarian Split Squat"
+                ]
+            }
+        }
+    ]
+}

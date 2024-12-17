@@ -1,0 +1,63 @@
+{
+    "title": "Chin to Chest Stretch",
+    "description": "A stretch exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand or sit with your back straight and shoulders relaxed.",
+                    "Slowly lower your chin towards your chest, keeping your back straight and shoulders relaxed.",
+                    "You should feel a stretch in the back of your neck and upper back.",
+                    "Hold the stretch for 15-30 seconds.",
+                    "Gently lift your head back up to the starting position.",
+                    "Repeat the stretch 2-3 times."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Relieves tension in the neck and upper back muscles",
+                    "Improves flexibility in the neck and spine",
+                    "Reduces headaches and neck pain",
+                    "Helps improve posture",
+                    "Can be done anywhere, anytime, without any equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Neck flexors",
+                    "Trapezius",
+                    "Splenius capitis",
+                    "Semispinalis capitis"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Chin to chest stretch with rotation",
+                    "Chin to chest stretch with shoulder rolls",
+                    "Chin to chest stretch with arm reach",
+                    "Chin to chest stretch with neck circles",
+                    "Chin to chest stretch with seated twist"
+                ]
+            }
+        }
+    ]
+}

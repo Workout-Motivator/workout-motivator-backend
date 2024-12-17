@@ -1,0 +1,61 @@
+{
+    "title": "Band Hip Abduction",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Begin by lying on your side with your legs straight and stacked on top of each other.",
+                    "Place a resistance band around your ankles and hold onto something stable with your top hand for balance.",
+                    "Engage your core and glutes to lift your top leg up as high as you can while keeping it straight.",
+                    "Hold for a few seconds at the top of the movement, then slowly lower your leg back down to the starting position.",
+                    "Repeat for the desired number of reps, then switch sides and repeat the exercise with your other leg."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the hip abductor muscles",
+                    "Improves hip stability and balance",
+                    "Helps prevent injuries in the hips, knees, and lower back",
+                    "Can be done anywhere with a resistance band",
+                    "Can be modified for different fitness levels"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Gluteus medius",
+                    "Gluteus minimus",
+                    "Tensor fasciae latae"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Standing band hip abduction",
+                    "Seated band hip abduction",
+                    "Lateral band walk",
+                    "Clamshell with band",
+                    "Fire hydrant with band"
+                ]
+            }
+        }
+    ]
+}

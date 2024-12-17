@@ -1,0 +1,61 @@
+{
+    "title": "Elbow Push Up",
+    "description": "A stretch exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start in a plank position with your hands directly under your shoulders and your elbows bent at a 90-degree angle.",
+                    "Lower your body down towards the ground by bending your elbows out to the sides, keeping them close to your body.",
+                    "Push yourself back up to the starting position by straightening your arms.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves flexibility in the latissimus dorsi muscles",
+                    "Reduces tension and tightness in the upper back and shoulders",
+                    "Increases range of motion in the shoulders",
+                    "Improves posture and alignment",
+                    "May help alleviate back pain",
+                    "Engages core muscles for added stability and strength"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Triceps",
+                    "Chest",
+                    "Shoulders"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Tricep push-up",
+                    "Spiderman push-up",
+                    "Decline push-up",
+                    "Diamond push-up",
+                    "Wide push-up"
+                ]
+            }
+        }
+    ]
+}

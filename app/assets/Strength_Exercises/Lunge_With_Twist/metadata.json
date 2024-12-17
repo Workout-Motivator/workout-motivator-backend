@@ -1,0 +1,67 @@
+{
+    "title": "Lunge With Twist",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by standing with your feet hip-width apart and your arms at your sides.",
+                    "Take a big step forward with your right foot, bending your right knee to a 90-degree angle. Your left leg should be extended behind you.",
+                    "As you lunge forward, twist your torso to the right, bringing your left elbow to your right knee.",
+                    "Hold the twist for a few seconds, then return to the starting position.",
+                    "Repeat on the other side, stepping forward with your left foot and twisting your torso to the left.",
+                    "Continue alternating sides for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the legs, glutes, and core muscles",
+                    "Improves balance and stability",
+                    "Increases flexibility in the hips and spine",
+                    "Engages the muscles of the upper body, including the shoulders and back",
+                    "Helps to improve posture and alignment",
+                    "Can be modified to increase or decrease intensity",
+                    "Can be done with or without weights"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Obliques",
+                    "Abdominals",
+                    "Lower back"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Reverse Lunge with Twist",
+                    "Walking Lunge with Twist",
+                    "Curtsy Lunge with Twist",
+                    "Jumping Lunge with Twist",
+                    "Side Lunge with Twist"
+                ]
+            }
+        }
+    ]
+}

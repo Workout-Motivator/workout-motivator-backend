@@ -1,0 +1,62 @@
+{
+    "title": "Hip Raise Bridge",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on your back with your knees bent and feet flat on the ground.",
+                    "Place your arms at your sides with your palms facing down.",
+                    "Engage your core and glutes to lift your hips off the ground until your body forms a straight line from your shoulders to your knees.",
+                    "Hold this position for a few seconds, then slowly lower your hips back down to the ground.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the glutes and hamstrings",
+                    "Improves core stability and balance",
+                    "Helps alleviate lower back pain",
+                    "Increases hip mobility and flexibility",
+                    "Can be modified for different fitness levels"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Glutes",
+                    "Hamstrings",
+                    "Lower back",
+                    "Abdominals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single Leg Hip Raise Bridge",
+                    "Weighted Hip Raise Bridge",
+                    "Reverse Hip Raise Bridge",
+                    "Side Hip Raise Bridge",
+                    "Marching Hip Raise Bridge"
+                ]
+            }
+        }
+    ]
+}

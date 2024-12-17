@@ -1,0 +1,62 @@
+{
+    "title": "Push Up Medicine Ball",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start in a plank position with your hands on the medicine ball, shoulder-width apart.",
+                    "Lower your body towards the ball by bending your elbows, keeping your body in a straight line.",
+                    "Push back up to the starting position, using your chest and triceps to lift your body.",
+                    "Roll the medicine ball to your other hand and repeat the push up.",
+                    "Continue alternating sides for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens chest, shoulders, triceps, and core muscles",
+                    "Improves upper body endurance and stability",
+                    "Increases range of motion in shoulders",
+                    "Engages multiple muscle groups for a full body workout",
+                    "Can be modified for different fitness levels and goals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Chest muscles (pectoralis major and minor)",
+                    "Shoulder muscles (deltoids)",
+                    "Triceps",
+                    "Core muscles (abdominals and lower back)"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Push Up Medicine Ball with one hand",
+                    "Push Up Medicine Ball with alternating hands",
+                    "Push Up Medicine Ball with feet elevated",
+                    "Push Up Medicine Ball with hands on medicine ball",
+                    "Push Up Medicine Ball with clap"
+                ]
+            }
+        }
+    ]
+}

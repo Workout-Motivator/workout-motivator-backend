@@ -1,0 +1,71 @@
+{
+    "title": "Archer Push-up",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start in a plank position with your hands shoulder-width apart and your feet hip-width apart.",
+                    "Place one hand on a medicine ball or other elevated surface.",
+                    "Lower your body towards the ground, bending your elbows and keeping your core engaged.",
+                    "As you push back up, rotate your body towards the hand on the elevated surface, extending your arm and reaching towards the ceiling.",
+                    "Return to the starting position and repeat on the other side.",
+                    "Continue alternating sides for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets multiple muscle groups including chest, shoulders, triceps, and core",
+                    "Increases upper body strength and stability",
+                    "Improves balance and coordination",
+                    "Engages the serratus anterior muscle, which is important for shoulder health and stability",
+                    "Can be modified for different fitness levels by adjusting the range of motion or using knee push-ups"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Pectoralis major",
+                    "Triceps brachii",
+                    "Deltoids",
+                    "Rectus abdominis",
+                    "Obliques",
+                    "Quadriceps",
+                    "Glutes"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Spiderman Push-up",
+                    "Clap Push-up",
+                    "One-Arm Push-up",
+                    "Diamond Push-up",
+                    "Staggered Push-up",
+                    "Explosive Push-up",
+                    "Plyometric Push-up",
+                    "Decline Push-up",
+                    "Incline Push-up",
+                    "Wide Grip Push-up"
+                ]
+            }
+        }
+    ]
+}

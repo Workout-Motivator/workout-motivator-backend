@@ -1,0 +1,61 @@
+{
+    "title": "Lying Floor Hyperextension",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying face down on the floor with your arms extended in front of you.",
+                    "Engage your glutes and lower back muscles to lift your legs and upper body off the ground.",
+                    "Hold this position for a few seconds, making sure to keep your neck in a neutral position.",
+                    "Slowly lower your legs and upper body back down to the ground.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens lower back muscles",
+                    "Improves posture",
+                    "Reduces risk of lower back pain and injury",
+                    "Engages glutes and hamstrings for added strength and stability",
+                    "Can be done with minimal equipment and in a small space"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Erector Spinae",
+                    "Gluteus Maximus",
+                    "Hamstrings"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Standing Hyperextension",
+                    "Swiss Ball Hyperextension",
+                    "Weighted Hyperextension",
+                    "Reverse Hyperextension",
+                    "Single Leg Hyperextension"
+                ]
+            }
+        }
+    ]
+}

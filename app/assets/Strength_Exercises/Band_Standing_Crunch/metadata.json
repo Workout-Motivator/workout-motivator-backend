@@ -1,0 +1,68 @@
+{
+    "title": "Band Standing Crunch",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your arms extended straight out in front of you at shoulder height.",
+                    "Engage your core and lift your right knee up towards your chest while simultaneously bringing your left elbow down to meet it.",
+                    "Return to the starting position and repeat on the other side, lifting your left knee up towards your chest while bringing your right elbow down to meet it.",
+                    "Continue alternating sides for the desired number of repetitions or time."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the core muscles, including the rectus abdominis, obliques, and lower back muscles",
+                    "Improves balance and stability",
+                    "Increases flexibility in the hips and lower back",
+                    "Engages the glutes and leg muscles for a full-body workout",
+                    "Can be modified for different fitness levels by adjusting the resistance of the band"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus abdominis",
+                    "Obliques",
+                    "Transverse abdominis",
+                    "Erector spinae",
+                    "Quadriceps",
+                    "Glutes"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Reverse crunch",
+                    "Oblique crunch",
+                    "Double crunch",
+                    "Toe touch crunch",
+                    "Side plank crunch",
+                    "Plank with knee tuck",
+                    "Mountain climber twist",
+                    "Spiderman plank crunch",
+                    "Flutter kicks",
+                    "Bicycle crunch"
+                ]
+            }
+        }
+    ]
+}

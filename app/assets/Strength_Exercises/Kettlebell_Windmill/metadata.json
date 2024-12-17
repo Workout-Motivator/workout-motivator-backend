@@ -1,0 +1,67 @@
+{
+    "title": "Kettlebell Windmill",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by standing with your feet shoulder-width apart and holding a kettlebell in your right hand.",
+                    "Extend your right arm straight up towards the ceiling, keeping your eyes on the kettlebell.",
+                    "Rotate your left foot outwards at a 45-degree angle and shift your weight onto your left foot.",
+                    "Slowly hinge at your hips and lower your torso towards the left, keeping your right arm extended upwards.",
+                    "As you lower your torso, slide your left hand down your left leg towards your ankle.",
+                    "Pause when you feel a stretch in your hamstrings and then slowly return to the starting position.",
+                    "Repeat for the desired number of reps and then switch sides."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves flexibility and mobility in the hips, shoulders, and spine",
+                    "Strengthens the core, glutes, and shoulders",
+                    "Increases stability and balance",
+                    "Can help alleviate lower back pain",
+                    "Engages multiple muscle groups for a full-body workout"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Obliques",
+                    "Glutes",
+                    "Hamstrings",
+                    "Quadriceps",
+                    "Shoulders",
+                    "Triceps",
+                    "Forearms"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Kettlebell Windmill with one arm",
+                    "Kettlebell Windmill with two arms",
+                    "Kettlebell Windmill with a squat",
+                    "Kettlebell Windmill with a lunge",
+                    "Kettlebell Windmill with a twist"
+                ]
+            }
+        }
+    ]
+}

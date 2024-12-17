@@ -1,0 +1,66 @@
+{
+    "title": "Reverse Plank on Elbows",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by sitting on the floor with your legs extended in front of you.",
+                    "Place your hands on the floor behind you, fingers pointing towards your feet.",
+                    "Press your hands and feet into the ground, lifting your hips up towards the ceiling.",
+                    "Bend your elbows and lower your forearms to the ground, keeping your shoulders down and away from your ears.",
+                    "Engage your core and glutes to keep your body in a straight line from your head to your heels.",
+                    "Hold the position for 30-60 seconds, breathing deeply.",
+                    "To release, lower your hips back down to the ground and come back to a seated position."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the core muscles",
+                    "Improves posture",
+                    "Increases flexibility in the shoulders and hips",
+                    "Stretches the chest and shoulders",
+                    "Improves balance and stability",
+                    "Can help alleviate lower back pain"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Triceps",
+                    "Shoulders",
+                    "Core",
+                    "Glutes",
+                    "Hamstrings"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Reverse Plank on Hands",
+                    "Reverse Plank with Leg Lifts",
+                    "Reverse Plank with Knee Tucks",
+                    "Reverse Plank with Arm Reach",
+                    "Reverse Plank with Leg and Arm Lifts"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "title": "Air Twisting Crunch",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying flat on your back with your knees bent and your feet flat on the ground.",
+                    "Place your hands behind your head, with your elbows pointing out to the sides.",
+                    "Engage your core muscles by pulling your belly button in towards your spine.",
+                    "Lift your shoulders off the ground, keeping your chin tucked towards your chest.",
+                    "Twist your torso to the right, bringing your left elbow towards your right knee.",
+                    "Pause for a moment, then return to the starting position.",
+                    "Repeat the twist to the left, bringing your right elbow towards your left knee.",
+                    "Pause for a moment, then return to the starting position.",
+                    "Continue alternating twists for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the abdominal muscles",
+                    "Improves core stability and balance",
+                    "Targets the obliques for a toned waistline",
+                    "Increases flexibility in the spine",
+                    "Improves posture and reduces lower back pain",
+                    "Can be modified for different fitness levels"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus Abdominis",
+                    "Obliques",
+                    "Transverse Abdominis"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Reverse Air Twisting Crunch",
+                    "Weighted Air Twisting Crunch",
+                    "Side Air Twisting Crunch",
+                    "Single Leg Air Twisting Crunch",
+                    "Decline Air Twisting Crunch"
+                ]
+            }
+        }
+    ]
+}

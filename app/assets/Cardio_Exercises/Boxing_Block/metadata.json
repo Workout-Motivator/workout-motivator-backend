@@ -1,0 +1,74 @@
+{
+    "title": "Boxing Block",
+    "description": "A cardio exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your knees slightly bent.",
+                    "Hold the boxing block in front of your chest with both hands.",
+                    "Extend your right arm out in front of you, keeping your elbow slightly bent.",
+                    "Bring your arm back to your chest and then extend your left arm out in front of you.",
+                    "Continue alternating arms for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves hand-eye coordination",
+                    "Increases cardiovascular endurance",
+                    "Builds upper body strength",
+                    "Enhances overall body coordination and balance",
+                    "Relieves stress and improves mental focus",
+                    "Provides a full-body workout",
+                    "Boosts self-confidence and self-esteem",
+                    "Teaches self-defense skills"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Deltoids",
+                    "Triceps",
+                    "Pectorals",
+                    "Abdominals",
+                    "Obliques",
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Boxing Block with Jab",
+                    "Boxing Block with Cross",
+                    "Boxing Block with Hook",
+                    "Boxing Block with Uppercut",
+                    "Boxing Block with Jab-Cross Combo",
+                    "Boxing Block with Hook-Uppercut Combo",
+                    "Boxing Block with Slip and Counter",
+                    "Boxing Block with Bob and Weave",
+                    "Boxing Block with Pivot and Counter"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "title": "Barbell Single Leg Split Squat",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by standing with your feet shoulder-width apart and holding a barbell across your upper back.",
+                    "Take a large step forward with one foot and place it firmly on the ground.",
+                    "Slowly lower your body down by bending your front knee and keeping your back leg straight.",
+                    "Lower your body until your front thigh is parallel to the ground.",
+                    "Push through your front foot to return to the starting position.",
+                    "Repeat the exercise for the desired number of repetitions before switching legs."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves balance and stability",
+                    "Targets the glutes, quads, and hamstrings",
+                    "Increases lower body strength",
+                    "Helps to correct muscle imbalances between legs",
+                    "Can be modified for different fitness levels",
+                    "Engages the core for added stability and strength"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Single Leg Split Squat",
+                    "Kettlebell Single Leg Split Squat",
+                    "Bodyweight Single Leg Split Squat",
+                    "Barbell Bulgarian Split Squat",
+                    "Dumbbell Bulgarian Split Squat",
+                    "Kettlebell Bulgarian Split Squat",
+                    "Bodyweight Bulgarian Split Squat"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "title": "Step Up on Chair",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Place a sturdy chair in front of you.",
+                    "Stand facing the chair with your feet hip-width apart.",
+                    "Step up onto the chair with your right foot, pressing through your heel to lift your body up.",
+                    "Bring your left foot up to meet your right foot on the chair.",
+                    "Step back down with your right foot, followed by your left foot.",
+                    "Repeat the exercise, starting with your left foot this time."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens leg muscles, including quadriceps, hamstrings, and glutes",
+                    "Improves balance and stability",
+                    "Increases cardiovascular endurance",
+                    "Can be modified for different fitness levels by adjusting the height of the chair",
+                    "Requires minimal equipment and can be done at home or in a gym"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calf muscles",
+                    "Core muscles (abdominals and lower back)"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Step up on bench",
+                    "Step up with knee raise",
+                    "Step up with dumbbells",
+                    "Step up with resistance bands",
+                    "Step up with medicine ball"
+                ]
+            }
+        }
+    ]
+}

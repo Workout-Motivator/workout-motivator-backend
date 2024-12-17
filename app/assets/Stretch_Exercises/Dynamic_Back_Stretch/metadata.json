@@ -1,0 +1,68 @@
+{
+    "title": "Dynamic Back Stretch",
+    "description": "A stretch exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by standing with your feet shoulder-width apart and your arms at your sides.",
+                    "Slowly bend forward at the waist, keeping your knees slightly bent and your back straight.",
+                    "Reach your hands towards the ground and let your head hang down.",
+                    "Hold this position for 10-15 seconds, feeling the stretch in your lower back and hamstrings.",
+                    "Slowly rise back up to a standing position, keeping your back straight.",
+                    "Repeat this stretch 3-5 times, taking deep breaths and relaxing your muscles with each repetition."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves flexibility and range of motion in the back muscles",
+                    "Relieves tension and tightness in the back muscles",
+                    "Helps to prevent back pain and injury",
+                    "Increases blood flow and oxygen to the back muscles",
+                    "Can be done anywhere without any equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Latissimus dorsi",
+                    "Trapezius",
+                    "Rhomboids",
+                    "Erector spinae",
+                    "Gluteus maximus",
+                    "Hamstrings"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Standing Dynamic Back Stretch",
+                    "Seated Dynamic Back Stretch",
+                    "Supine Dynamic Back Stretch",
+                    "Quadruped Dynamic Back Stretch",
+                    "Standing Side Bend Stretch",
+                    "Seated Side Bend Stretch",
+                    "Supine Twist Stretch",
+                    "Child\u2019s Pose Stretch"
+                ]
+            }
+        }
+    ]
+}

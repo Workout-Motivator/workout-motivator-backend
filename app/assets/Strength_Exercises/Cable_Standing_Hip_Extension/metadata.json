@@ -1,0 +1,64 @@
+{
+    "title": "Cable Standing Hip Extension",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Attach a cable to a low pulley and stand facing the machine.",
+                    "Place the ankle cuff around your right ankle and step back a few feet to create tension in the cable.",
+                    "Place your hands on your hips and stand with your feet hip-width apart.",
+                    "Engage your core and glutes and lift your right leg straight back behind you, keeping it in line with your body.",
+                    "Pause at the top of the movement and squeeze your glutes.",
+                    "Lower your leg back down to the starting position and repeat for the desired number of reps.",
+                    "Switch sides and repeat the exercise with your left leg."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the gluteus maximus muscle, which is the largest muscle in the buttocks and responsible for hip extension and external rotation.",
+                    "Improves hip stability and balance, which can help prevent injuries and improve athletic performance.",
+                    "Can be easily modified by adjusting the weight and cable height to accommodate different fitness levels and goals.",
+                    "Engages the core muscles, including the rectus abdominis and obliques, to maintain proper form and stability during the exercise.",
+                    "Can be performed in a variety of settings, including at home or in a gym, using a cable machine or resistance band."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Gluteus Maximus",
+                    "Hamstrings",
+                    "Erector Spinae",
+                    "Quadriceps"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Cable Standing Hip Abduction",
+                    "Cable Standing Leg Curl",
+                    "Cable Standing Leg Extension",
+                    "Cable Standing Leg Press",
+                    "Cable Standing Leg Raise"
+                ]
+            }
+        }
+    ]
+}

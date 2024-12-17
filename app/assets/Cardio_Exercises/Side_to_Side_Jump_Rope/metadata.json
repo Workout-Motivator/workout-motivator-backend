@@ -1,0 +1,65 @@
+{
+    "title": "Side to Side Jump Rope",
+    "description": "A cardio exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Hold the jump rope handles in each hand and stand with your feet shoulder-width apart.",
+                    "Swing the rope to the right and jump to the right side of the rope as it passes your feet.",
+                    "As the rope swings back to the left, jump to the left side of the rope.",
+                    "Continue jumping side to side as the rope swings back and forth.",
+                    "Try to maintain a steady rhythm and keep your feet together as you jump.",
+                    "Repeat for desired amount of time or number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves hip mobility and flexibility",
+                    "Stretches the inner and outer thighs",
+                    "Activates the glutes and hip muscles",
+                    "Helps to prevent injury in the hips and lower back",
+                    "Can be done as a warm-up or cool-down exercise"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Calves",
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Glutes",
+                    "Abdominals",
+                    "Obliques"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Side-to-side jump without rope",
+                    "Side-to-side jump with high knees",
+                    "Side-to-side jump with double unders",
+                    "Side-to-side jump with criss-cross feet",
+                    "Side-to-side jump with one foot"
+                ]
+            }
+        }
+    ]
+}

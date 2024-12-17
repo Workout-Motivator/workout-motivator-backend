@@ -1,0 +1,63 @@
+{
+    "title": "Lying Lower Back Stretch",
+    "description": "A stretch exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying flat on your back on a comfortable surface, such as a yoga mat or carpeted floor.",
+                    "Bend your knees and place your feet flat on the ground, hip-width apart.",
+                    "Extend your arms out to the sides, palms facing up.",
+                    "Slowly lower both knees to one side, keeping your shoulders and arms flat on the ground.",
+                    "Hold the stretch for 10-15 seconds, feeling the stretch in your lower back and hips.",
+                    "Slowly bring your knees back to center and repeat on the other side.",
+                    "Repeat the stretch on each side 2-3 times, or as desired."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the core muscles",
+                    "Improves hip mobility and flexibility",
+                    "Increases stability and balance",
+                    "Targets the glutes, hamstrings, and inner thighs",
+                    "Can help alleviate lower back pain"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Lower back muscles",
+                    "Gluteus maximus muscles",
+                    "Hamstring muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "sitting-lower-back-stretch",
+                    "standing-lower-back-stretch",
+                    "seated-spinal-twist",
+                    "cat-cow-stretch",
+                    "child\u2019s-pose"
+                ]
+            }
+        }
+    ]
+}

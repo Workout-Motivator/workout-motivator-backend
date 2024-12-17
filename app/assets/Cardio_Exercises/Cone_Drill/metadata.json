@@ -1,0 +1,64 @@
+{
+    "title": "Cone Drill",
+    "description": "A cardio exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold the cone-drill in your hands.",
+                    "Extend your arms straight out in front of you, holding the cone-drill at chest height.",
+                    "Rotate your torso to the right, bringing the cone-drill to your right side.",
+                    "Return to the starting position and then rotate your torso to the left, bringing the cone-drill to your left side.",
+                    "Repeat this movement for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves core strength and stability",
+                    "Enhances balance and coordination",
+                    "Increases body awareness and proprioception",
+                    "Helps prevent falls and injuries",
+                    "Can be modified for different fitness levels and abilities",
+                    "Can be done anywhere without equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Calves",
+                    "Glutes",
+                    "Core muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "cone shuffle",
+                    "cone weave",
+                    "cone serpentine",
+                    "cone hop",
+                    "cone sprint"
+                ]
+            }
+        }
+    ]
+}

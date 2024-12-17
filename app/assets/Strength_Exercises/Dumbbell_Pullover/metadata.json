@@ -1,0 +1,68 @@
+{
+    "title": "Dumbbell Pullover",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying flat on a bench with your feet firmly planted on the ground and your head hanging slightly off the edge of the bench.",
+                    "Hold a dumbbell with both hands and extend your arms straight up above your chest.",
+                    "Slowly lower the dumbbell behind your head, keeping your arms straight and your elbows slightly bent.",
+                    "Pause for a moment, then slowly raise the dumbbell back up to the starting position.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets multiple muscle groups including the chest, back, and triceps",
+                    "Improves upper body strength and endurance",
+                    "Increases flexibility in the shoulders and chest",
+                    "Can help improve posture by strengthening the upper back muscles",
+                    "Can be performed with a variety of equipment, including dumbbells, barbells, and cables",
+                    "Can be modified to target specific muscle groups or accommodate different fitness levels"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Pectoralis Major",
+                    "Latissimus Dorsi",
+                    "Triceps Brachii",
+                    "Rhomboids",
+                    "Trapezius",
+                    "Serratus Anterior"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Barbell Pullover",
+                    "Cable Pullover",
+                    "Machine Pullover",
+                    "Single Arm Dumbbell Pullover",
+                    "Decline Dumbbell Pullover",
+                    "Seated Dumbbell Pullover",
+                    "Standing Dumbbell Pullover",
+                    "Swiss Ball Dumbbell Pullover"
+                ]
+            }
+        }
+    ]
+}

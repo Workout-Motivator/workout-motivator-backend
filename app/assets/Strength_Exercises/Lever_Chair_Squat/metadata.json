@@ -1,0 +1,69 @@
+{
+    "title": "Lever Chair Squat",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by sitting on a chair with your feet flat on the ground and your knees at a 90-degree angle.",
+                    "Place a lever or resistance band around your thighs, just above your knees.",
+                    "Engage your core and stand up from the chair, pushing through your heels and keeping your knees in line with your toes.",
+                    "As you stand up, push your knees out against the resistance of the lever or band.",
+                    "Lower yourself back down to the chair, keeping your weight in your heels and your knees in line with your toes.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the chest muscles",
+                    "Improves upper body strength",
+                    "Increases range of motion in the shoulders",
+                    "Helps to improve posture",
+                    "Can be modified for different fitness levels"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "lever-chair-squat",
+                    "chair squat",
+                    "lever squat",
+                    "lever chair squat",
+                    "single leg chair squat",
+                    "single leg lever squat",
+                    "single leg lever chair squat",
+                    "weighted chair squat",
+                    "weighted lever squat",
+                    "weighted lever chair squat"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "title": "Dumbbell Split Squat",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a dumbbell in each hand.",
+                    "Take a large step forward with your right foot and lower your body until your right thigh is parallel to the ground.",
+                    "Make sure your left knee is hovering just above the ground.",
+                    "Push through your right heel to return to the starting position.",
+                    "Repeat on the other side by stepping forward with your left foot.",
+                    "Complete 3 sets of 10-12 reps on each leg."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets multiple muscle groups including quadriceps, hamstrings, glutes, and calves",
+                    "Improves balance and stability",
+                    "Increases lower body strength and power",
+                    "Can be modified for different fitness levels by adjusting weight and depth of squat",
+                    "Can be done with minimal equipment and in a small space"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Bulgarian Split Squat",
+                    "Dumbbell Reverse Lunge",
+                    "Dumbbell Walking Lunge",
+                    "Dumbbell Step-Up",
+                    "Dumbbell Goblet Squat"
+                ]
+            }
+        }
+    ]
+}

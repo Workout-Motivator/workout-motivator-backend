@@ -1,0 +1,66 @@
+{
+    "title": "Lying Elbow to Knee",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying flat on your back with your arms extended above your head.",
+                    "Bend your left knee and bring it towards your chest.",
+                    "At the same time, lift your head and shoulders off the ground and bring your right elbow towards your left knee.",
+                    "Hold this position for a few seconds, then return to the starting position.",
+                    "Repeat on the other side, bringing your left elbow towards your right knee while lifting your head and shoulders off the ground.",
+                    "Continue alternating sides for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens glute muscles",
+                    "Improves hip stability",
+                    "Helps prevent lower back pain",
+                    "Can improve posture",
+                    "Can be done anywhere without equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus abdominis",
+                    "Obliques",
+                    "Hip flexors"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "lying elbow-to-knee with twist",
+                    "standing elbow-to-knee",
+                    "seated elbow-to-knee",
+                    "plank elbow-to-knee",
+                    "side plank elbow-to-knee",
+                    "reverse plank elbow-to-knee",
+                    "lying bicycle crunches",
+                    "standing bicycle crunches",
+                    "seated bicycle crunches"
+                ]
+            }
+        }
+    ]
+}

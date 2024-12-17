@@ -1,0 +1,65 @@
+{
+    "title": "Cable Incline Fly",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Adjust the bench to a 30-45 degree incline.",
+                    "Grab a pair of dumbbells and sit on the bench with your feet firmly planted on the ground.",
+                    "Slowly lay back on the bench, keeping your core engaged and your back flat against the bench.",
+                    "Extend your arms out to the sides, with a slight bend in your elbows.",
+                    "Bring the dumbbells together above your chest, squeezing your chest muscles as you do so.",
+                    "Slowly lower the dumbbells back to the starting position, keeping a slight bend in your elbows.",
+                    "Repeat for desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the upper chest muscles",
+                    "Helps to improve chest definition and shape",
+                    "Allows for a greater range of motion compared to traditional dumbbell flys",
+                    "Provides constant tension throughout the movement",
+                    "Can be easily adjusted to target different areas of the chest"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Chest muscles (pectoralis major)",
+                    "Shoulder muscles (anterior deltoids)"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Incline Fly",
+                    "Machine Incline Fly",
+                    "Cable Decline Fly",
+                    "Dumbbell Decline Fly",
+                    "Machine Decline Fly",
+                    "Cable Crossover",
+                    "Dumbbell Crossover",
+                    "Machine Crossover"
+                ]
+            }
+        }
+    ]
+}

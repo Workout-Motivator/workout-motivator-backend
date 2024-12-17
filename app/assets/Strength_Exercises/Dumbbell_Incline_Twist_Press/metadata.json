@@ -1,0 +1,63 @@
+{
+    "title": "Dumbbell Incline Twist Press",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on an incline bench with a dumbbell in each hand.",
+                    "Hold the dumbbells at chest level with your palms facing each other.",
+                    "Slowly lower the dumbbells towards your chest while twisting your torso to one side.",
+                    "Pause for a moment at the bottom of the movement.",
+                    "Press the dumbbells back up to the starting position while twisting your torso to the opposite side.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the chest, shoulders, and triceps",
+                    "Engages the core muscles for stability and balance",
+                    "Improves upper body strength and muscle definition",
+                    "Increases range of motion in the shoulders",
+                    "Can be modified for different fitness levels and goals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Chest muscles (pectoralis major and minor)",
+                    "Shoulder muscles (anterior deltoids)",
+                    "Triceps",
+                    "Core muscles (obliques and rectus abdominis)"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Incline Press",
+                    "Dumbbell Twist Press",
+                    "Incline Dumbbell Flye",
+                    "Dumbbell Bench Press",
+                    "Dumbbell Pullover"
+                ]
+            }
+        }
+    ]
+}

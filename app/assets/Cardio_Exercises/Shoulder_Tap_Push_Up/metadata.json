@@ -1,0 +1,66 @@
+{
+    "title": "Shoulder Tap Push Up",
+    "description": "A cardio exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start in a high plank position with your hands shoulder-width apart and your feet hip-width apart.",
+                    "Lower your body down towards the ground, keeping your elbows close to your body.",
+                    "As you push back up, lift your right hand off the ground and tap your left shoulder.",
+                    "Return your right hand to the ground and lower your body back down towards the ground.",
+                    "As you push back up, lift your left hand off the ground and tap your right shoulder.",
+                    "Return your left hand to the ground and lower your body back down towards the ground.",
+                    "Repeat this movement, alternating shoulder taps with each push up.",
+                    "Complete 10-12 reps for 3-4 sets."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Engages multiple muscle groups including chest, shoulders, triceps, and core",
+                    "Improves upper body strength and stability",
+                    "Increases shoulder mobility and flexibility",
+                    "Challenges balance and coordination",
+                    "Can be modified for different fitness levels",
+                    "Provides a cardiovascular workout"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Chest muscles",
+                    "Shoulder muscles",
+                    "Triceps muscles",
+                    "Core muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Spiderman Push up",
+                    "Single Leg Push up",
+                    "Decline Shoulder Tap Push up",
+                    "Clap Push up",
+                    "Wide Grip Push up"
+                ]
+            }
+        }
+    ]
+}

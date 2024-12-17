@@ -1,0 +1,63 @@
+{
+    "title": "Dumbbell Larsen Press",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by sitting on a bench with a dumbbell in each hand.",
+                    "Bring the dumbbells up to shoulder height, with your palms facing each other.",
+                    "Slowly lower the dumbbells down to your sides, keeping your elbows tucked in and your palms facing forward.",
+                    "Pause for a moment at the bottom of the movement, then press the dumbbells back up to shoulder height.",
+                    "As you press the dumbbells up, rotate your wrists so that your palms are facing each other again.",
+                    "Repeat the movement for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens leg muscles, including quadriceps, hamstrings, and glutes",
+                    "Improves balance and stability",
+                    "Increases cardiovascular endurance",
+                    "Targets the core muscles for added stability and strength",
+                    "Can be modified for different fitness levels and goals",
+                    "Can be done with minimal equipment and space"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Triceps",
+                    "Shoulders",
+                    "Chest"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "barbell-larsen-press",
+                    "dumbbell-incline-press",
+                    "single-arm-dumbbell-press",
+                    "machine-larsen-press",
+                    "resistance-band-larsen-press"
+                ]
+            }
+        }
+    ]
+}

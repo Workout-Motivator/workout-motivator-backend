@@ -1,0 +1,65 @@
+{
+    "title": "Table Top Bridge",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Place the Table Top Bridge on a flat surface, such as a table or countertop.",
+                    "Stand facing the bridge with your feet shoulder-width apart.",
+                    "Place your hands on the bridge, with your fingers pointing towards your body.",
+                    "Slowly lower your body towards the bridge, bending at the elbows and keeping your back straight.",
+                    "Pause when your chest is just above the bridge, then push back up to the starting position.",
+                    "Repeat for 10-15 repetitions, or as many as you can comfortably do."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the muscles in the back, shoulders, and arms",
+                    "Improves posture and spinal alignment",
+                    "Stretches the chest, neck, and spine",
+                    "Increases flexibility in the hips and thighs",
+                    "Can help alleviate lower back pain",
+                    "Improves balance and stability",
+                    "Can be modified for different fitness levels and abilities"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Glutes",
+                    "Hamstrings",
+                    "Lower back",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Table Top Push-Up",
+                    "Table Top Tricep Dip",
+                    "Table Top Leg Lift",
+                    "Table Top Knee Tuck",
+                    "Table Top Mountain Climber"
+                ]
+            }
+        }
+    ]
+}

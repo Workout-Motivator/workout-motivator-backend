@@ -1,0 +1,64 @@
+{
+    "title": "Kick Side Jump",
+    "description": "A cardio exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your arms at your sides.",
+                    "Take a step to the side with your right foot and lift your left leg off the ground.",
+                    "As you bring your left leg down, jump off your right foot and kick your left leg out to the side.",
+                    "Land on your right foot and immediately jump off it, bringing your left foot back to the starting position.",
+                    "Repeat the exercise, alternating sides with each jump."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves cardiovascular endurance",
+                    "Increases lower body strength and power",
+                    "Enhances agility and coordination",
+                    "Burns calories and aids in weight loss",
+                    "Can be modified for different fitness levels"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Glutes",
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Calves",
+                    "Abdominals",
+                    "Obliques"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Kick Front Jump",
+                    "Kick Back Jump",
+                    "Side Kick",
+                    "Jumping Jacks",
+                    "High Knees"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "title": "Smith Stiff Legged Deadlift",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your knees slightly bent.",
+                    "Place the barbell on the Smith machine at about hip height.",
+                    "Step under the bar and position it so that it rests on the back of your shoulders.",
+                    "Grasp the bar with an overhand grip, slightly wider than shoulder-width apart.",
+                    "Keeping your back straight and your core engaged, slowly hinge forward at the hips, lowering the bar towards the ground.",
+                    "Lower the bar as far as you can while maintaining a straight back and without rounding your shoulders.",
+                    "Pause for a moment at the bottom of the movement, then slowly raise the bar back up to the starting position.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the hamstrings, glutes, and lower back muscles",
+                    "Improves hip mobility and flexibility",
+                    "Helps to prevent lower back pain and injury",
+                    "Increases overall lower body strength and power",
+                    "Can be modified to target specific muscle groups or accommodate different fitness levels"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Hamstrings",
+                    "Glutes",
+                    "Lower back",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Smith Romanian Deadlift",
+                    "Smith Sumo Deadlift",
+                    "Smith Trap Bar Deadlift",
+                    "Smith Single Leg Deadlift",
+                    "Smith Good Morning"
+                ]
+            }
+        }
+    ]
+}

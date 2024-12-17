@@ -1,0 +1,68 @@
+{
+    "title": "Sled 45 Leg Press",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Adjust the seat of the sled 45 leg press to a comfortable position.",
+                    "Place your feet on the platform shoulder-width apart.",
+                    "Release the safety handles and slowly lower the platform until your knees are at a 90-degree angle.",
+                    "Push the platform back up to the starting position, making sure to keep your back straight and your feet flat on the platform.",
+                    "Repeat for the desired number of repetitions.",
+                    "When finished, re-engage the safety handles and carefully exit the machine."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the quadriceps, hamstrings, and glutes",
+                    "Allows for a greater range of motion compared to traditional leg press machines",
+                    "Provides a low-impact workout for those with knee or back issues",
+                    "Can be easily adjusted to accommodate different fitness levels and goals",
+                    "Helps improve overall lower body strength and power"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Sled 45 Leg Press",
+                    "Sled Leg Press",
+                    "Leg Press",
+                    "Seated Leg Press",
+                    "Vertical Leg Press",
+                    "Horizontal Leg Press",
+                    "45 Degree Leg Press",
+                    "Single Leg Press",
+                    "Smith Machine Leg Press",
+                    "Hack Squat Machine"
+                ]
+            }
+        }
+    ]
+}

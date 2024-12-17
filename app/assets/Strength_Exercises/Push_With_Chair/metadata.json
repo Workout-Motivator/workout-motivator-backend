@@ -1,0 +1,63 @@
+{
+    "title": "Push With Chair",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Place a sturdy chair against a wall or other stable surface.",
+                    "Stand facing the chair with your feet shoulder-width apart.",
+                    "Place your hands on the seat of the chair, shoulder-width apart.",
+                    "Step back with your feet until your body is at a slight angle.",
+                    "Lower your chest towards the chair by bending your elbows, keeping your body in a straight line.",
+                    "Push back up to the starting position by straightening your arms.",
+                    "Repeat for desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens chest, shoulders, and triceps",
+                    "Improves upper body stability and balance",
+                    "Can be done anywhere with a sturdy chair or surface",
+                    "Can be modified for different fitness levels by adjusting the angle of the body",
+                    "Helps to improve posture and reduce risk of shoulder injuries"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Chest muscles (pectoralis major and minor)",
+                    "Shoulder muscles (anterior deltoids)",
+                    "Triceps brachii"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Push with Wall",
+                    "Push with Table",
+                    "Push with Resistance Band",
+                    "Push with Dumbbells",
+                    "Push with Kettlebells"
+                ]
+            }
+        }
+    ]
+}

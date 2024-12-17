@@ -1,0 +1,64 @@
+{
+    "title": "Bench Hip Extension",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying face down on a bench with your hips at the edge of the bench and your legs hanging off the end.",
+                    "Engage your glutes and lift your legs up towards the ceiling, keeping them straight.",
+                    "Pause at the top of the movement and squeeze your glutes.",
+                    "Lower your legs back down towards the floor, but do not let them touch the ground.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens glutes and hamstrings",
+                    "Improves hip stability and mobility",
+                    "Helps prevent lower back pain and injury",
+                    "Can be done with minimal equipment",
+                    "Can be modified for different fitness levels"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Gluteus Maximus",
+                    "Hamstrings",
+                    "Erector Spinae"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single Leg Bench Hip Extension",
+                    "Weighted Bench Hip Extension",
+                    "Bench Hip Extension with Resistance Band",
+                    "Bench Hip Extension with Dumbbell",
+                    "Bench Hip Extension with Barbell",
+                    "Bench Hip Extension with Medicine Ball",
+                    "Bench Hip Extension with Stability Ball",
+                    "Bench Hip Extension with Cable Machine"
+                ]
+            }
+        }
+    ]
+}

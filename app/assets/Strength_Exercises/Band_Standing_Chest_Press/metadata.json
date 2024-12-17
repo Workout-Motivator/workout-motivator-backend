@@ -1,0 +1,68 @@
+{
+    "title": "Band Standing Chest Press",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Adjust the height of the resistance band by attaching it to a sturdy anchor point at chest height.",
+                    "Stand facing away from the anchor point with your feet shoulder-width apart.",
+                    "Grasp the resistance band handles with both hands and bring them to your chest, keeping your elbows bent and close to your sides.",
+                    "Push the handles away from your chest, extending your arms fully.",
+                    "Slowly bring the handles back to your chest, keeping your elbows bent and close to your sides.",
+                    "Repeat for desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the chest muscles, specifically the pectoralis major and minor",
+                    "Engages the triceps and shoulders as secondary muscles",
+                    "Improves upper body strength and muscle definition",
+                    "Allows for a greater range of motion compared to traditional bench press",
+                    "Can be performed with resistance bands, making it a convenient and portable exercise",
+                    "May be a safer alternative for those with shoulder or wrist injuries"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Pectoralis major (chest muscles)",
+                    "Anterior deltoids (front shoulder muscles)",
+                    "Triceps brachii (back of upper arm muscles)"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Incline bench chest press",
+                    "Decline bench chest press",
+                    "Dumbbell chest press",
+                    "Push-up",
+                    "Cable chest press",
+                    "Machine chest press",
+                    "Close-grip chest press",
+                    "Wide-grip chest press",
+                    "Single-arm chest press",
+                    "Explosive chest press"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "title": "Ab Roller Crunch",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by kneeling on the floor and placing the ab roller in front of you.",
+                    "Grasp the handles of the ab roller with both hands and place them on the floor in front of you.",
+                    "Slowly roll the ab roller forward, keeping your arms straight and your core engaged.",
+                    "Continue rolling forward until your body is fully extended and your arms are overhead.",
+                    "Hold this position for a few seconds, then slowly roll back to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the abdominal muscles",
+                    "Improves core stability and balance",
+                    "Helps to reduce lower back pain",
+                    "Increases flexibility in the spine",
+                    "Can be done at home with minimal equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus Abdominis",
+                    "Obliques",
+                    "Transverse Abdominis",
+                    "Erector Spinae",
+                    "Hip Flexors"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Ab Roller Twist",
+                    "Ab Roller Pike",
+                    "Ab Roller Plank",
+                    "Ab Roller Knee Tuck",
+                    "Ab Roller Rollout"
+                ]
+            }
+        }
+    ]
+}

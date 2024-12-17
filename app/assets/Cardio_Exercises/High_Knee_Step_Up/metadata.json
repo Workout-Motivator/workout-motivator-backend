@@ -1,0 +1,63 @@
+{
+    "title": "High Knee Step Up",
+    "description": "A cardio exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand in front of a bench or step with your feet hip-width apart.",
+                    "Step up onto the bench with your right foot, bringing your left knee up towards your chest.",
+                    "Step down with your left foot, returning to the starting position.",
+                    "Repeat on the other side, stepping up with your left foot and bringing your right knee up towards your chest.",
+                    "Continue alternating sides for the desired number of repetitions or time."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves cardiovascular endurance",
+                    "Strengthens lower body muscles, including quadriceps, hamstrings, and glutes",
+                    "Improves balance and coordination",
+                    "Increases hip mobility and flexibility",
+                    "Burns calories and aids in weight loss"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calf muscles",
+                    "Core muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "High Knee Lateral Step up",
+                    "High Knee Reverse Lunge",
+                    "High Knee Jog in Place",
+                    "High Knee March",
+                    "High Knee Skips"
+                ]
+            }
+        }
+    ]
+}

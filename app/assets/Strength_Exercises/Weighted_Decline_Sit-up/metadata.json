@@ -1,0 +1,63 @@
+{
+    "title": "Weighted Decline Sit-up",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on a decline bench with your feet secured at the top and your knees bent at a 90-degree angle.",
+                    "Hold a weight plate or dumbbell against your chest with both hands.",
+                    "Engage your core and slowly lift your upper body off the bench, curling your torso towards your knees.",
+                    "Pause at the top of the movement and squeeze your abs.",
+                    "Slowly lower your upper body back down to the starting position.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the rectus abdominis muscle, which is responsible for creating the \u201csix-pack\u201d appearance",
+                    "Increases core strength and stability",
+                    "Improves overall abdominal endurance",
+                    "Can be easily modified by adjusting the weight or angle of the decline bench",
+                    "Helps to prevent lower back pain by strengthening the core muscles that support the spine"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus Abdominis",
+                    "External Obliques",
+                    "Internal Obliques",
+                    "Transverse Abdominis"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Decline Sit-up with Medicine Ball",
+                    "Decline Sit-up with Dumbbell",
+                    "Decline Sit-up with Barbell",
+                    "Decline Sit-up with Resistance Band",
+                    "Decline Sit-up with Cable Machine"
+                ]
+            }
+        }
+    ]
+}

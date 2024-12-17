@@ -1,0 +1,65 @@
+{
+    "title": "Weighted Svend Press",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by standing with your feet shoulder-width apart and holding a dumbbell in each hand at shoulder height.",
+                    "Lower your body into a squat position, keeping your back straight and your knees behind your toes.",
+                    "As you rise up from the squat, press the dumbbells overhead, extending your arms fully.",
+                    "Lower the dumbbells back to shoulder height as you lower your body back into the squat position.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the chest, shoulders, and triceps",
+                    "Improves upper body strength and stability",
+                    "Can help improve posture and reduce shoulder pain",
+                    "Allows for variation in weight and resistance to challenge the muscles",
+                    "Can be modified for different fitness levels and abilities"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Pectoralis major",
+                    "Anterior deltoids",
+                    "Triceps brachii"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Unweighted Svend Press",
+                    "Single Arm Svend Press",
+                    "Alternating Arm Svend Press",
+                    "Double Arm Svend Press",
+                    "Resistance Band Svend Press",
+                    "Kettlebell Svend Press",
+                    "Dumbbell Svend Press",
+                    "Barbell Svend Press",
+                    "Medicine Ball Svend Press"
+                ]
+            }
+        }
+    ]
+}

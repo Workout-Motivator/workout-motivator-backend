@@ -1,0 +1,66 @@
+{
+    "title": "Double Under Jump Rope",
+    "description": "A cardio exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Hold the jump rope handles in each hand and stand with your feet shoulder-width apart.",
+                    "Swing the jump rope over your head and jump off the ground as it reaches your feet.",
+                    "As you jump, quickly rotate your wrists to spin the rope twice under your feet before landing.",
+                    "Land softly on the balls of your feet and immediately prepare to jump again.",
+                    "Repeat the double under jump rope motion for the desired number of repetitions or time."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves cardiovascular endurance",
+                    "Increases coordination and agility",
+                    "Burns calories and aids in weight loss",
+                    "Strengthens leg muscles",
+                    "Improves bone density",
+                    "Can be done anywhere with a jump rope"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Calves",
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Glutes",
+                    "Abdominals",
+                    "Shoulders",
+                    "Forearms"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single Under Jump Rope",
+                    "High Knee Jump Rope",
+                    "Criss-Cross Jump Rope",
+                    "Side Swing Jump Rope",
+                    "Double Dutch Jump Rope"
+                ]
+            }
+        }
+    ]
+}

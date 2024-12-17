@@ -1,0 +1,61 @@
+{
+    "title": "Lever Lying Leg Curl",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Adjust the machine to fit your body size and lie face down on the bench with your knees just off the end.",
+                    "Place your legs under the padded lever bar, making sure that the bar is resting comfortably above your ankles.",
+                    "Grasp the side handles of the machine and ensure that your body is flat and straight on the bench.",
+                    "Keeping your hips flat on the bench, exhale and curl your legs up towards your buttocks as far as possible.",
+                    "Hold the contraction for a second and then inhale as you slowly lower your legs back to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the hamstrings, which are important for knee stability and athletic performance",
+                    "Isolates the hamstrings, allowing for a more focused and intense workout",
+                    "Can be adjusted to target different areas of the hamstrings by changing foot placement",
+                    "Helps to improve flexibility and range of motion in the hamstrings",
+                    "Can be done with minimal equipment, making it a convenient exercise to do at home or in a gym"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Hamstrings",
+                    "Glutes"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Seated Leg Curl",
+                    "Standing Leg Curl",
+                    "Prone Leg Curl",
+                    "Single Leg Curl",
+                    "Hamstring Curl on Stability Ball"
+                ]
+            }
+        }
+    ]
+}

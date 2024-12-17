@@ -1,0 +1,61 @@
+{
+    "title": "Shoulder Tap",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start in a high plank position with your hands shoulder-width apart and your feet hip-width apart.",
+                    "Engage your core and keep your hips level.",
+                    "Lift your right hand off the ground and tap your left shoulder.",
+                    "Return your right hand to the ground and repeat with your left hand tapping your right shoulder.",
+                    "Continue alternating shoulder taps for the desired number of repetitions or time."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves core stability and balance",
+                    "Strengthens the shoulders, arms, and upper back",
+                    "Engages the abdominal muscles for a full-body workout",
+                    "Increases shoulder mobility and flexibility",
+                    "Can be done anywhere without equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Shoulder muscles (deltoids)",
+                    "Core muscles (abdominals and obliques)",
+                    "Arm muscles (triceps and biceps)"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Plank Shoulder Tap",
+                    "Push-up Shoulder Tap",
+                    "Mountain Climber Shoulder Tap",
+                    "Bear Crawl Shoulder Tap",
+                    "Renegade Row Shoulder Tap"
+                ]
+            }
+        }
+    ]
+}

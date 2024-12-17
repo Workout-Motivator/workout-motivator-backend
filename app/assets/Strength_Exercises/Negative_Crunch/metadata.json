@@ -1,0 +1,62 @@
+{
+    "title": "Negative Crunch",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying flat on your back with your knees bent and feet flat on the ground.",
+                    "Place your hands behind your head, with your elbows pointing out to the sides.",
+                    "Engage your core muscles by pulling your belly button towards your spine.",
+                    "Slowly lift your shoulders off the ground, keeping your lower back pressed into the floor.",
+                    "Hold the crunch for a few seconds, then slowly lower your shoulders back down to the ground.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the rectus abdominis muscle, which is responsible for the \u201csix-pack\u201d look",
+                    "Increases core strength and stability",
+                    "Improves posture and balance",
+                    "Can be done without any equipment",
+                    "Can be modified to increase or decrease difficulty"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus abdominis",
+                    "Obliques",
+                    "Transverse abdominis"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Reverse Crunch",
+                    "Decline Reverse Crunch",
+                    "Reverse Crunch with Leg Extension",
+                    "Reverse Crunch with Resistance Band",
+                    "Reverse Crunch with Stability Ball"
+                ]
+            }
+        }
+    ]
+}

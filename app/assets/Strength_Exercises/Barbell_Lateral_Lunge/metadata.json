@@ -1,0 +1,66 @@
+{
+    "title": "Barbell Lateral Lunge",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by standing with your feet shoulder-width apart and holding a barbell with both hands in front of your chest.",
+                    "Take a big step to the side with your right foot, keeping your left foot planted and your torso upright.",
+                    "Bend your right knee and lower your body down into a lunge, keeping your left leg straight.",
+                    "Push off with your right foot and return to the starting position.",
+                    "Repeat on the other side, stepping out with your left foot and lunging to the left.",
+                    "Continue alternating sides for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets multiple muscle groups including the glutes, quads, hamstrings, and adductors",
+                    "Improves hip mobility and flexibility",
+                    "Increases overall lower body strength",
+                    "Helps to correct muscle imbalances between the left and right sides of the body",
+                    "Can be modified to increase or decrease difficulty based on fitness level"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Adductors",
+                    "Abductors",
+                    "Calves",
+                    "Core muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Lateral Lunge",
+                    "Kettlebell Lateral Lunge",
+                    "Bodyweight Lateral Lunge",
+                    "Medicine Ball Lateral Lunge",
+                    "Resistance Band Lateral Lunge"
+                ]
+            }
+        }
+    ]
+}

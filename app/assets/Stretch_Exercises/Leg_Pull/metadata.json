@@ -1,0 +1,63 @@
+{
+    "title": "Leg Pull",
+    "description": "A stretch exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on your back with your legs extended straight up towards the ceiling.",
+                    "Place your hands behind your head and engage your core muscles.",
+                    "Slowly lower one leg towards the ground, keeping it straight and maintaining control.",
+                    "As you lower your leg, simultaneously pull the other leg towards your chest, using your core muscles to lift your upper body off the ground.",
+                    "Hold this position for a few seconds, then switch legs and repeat the movement.",
+                    "Continue alternating legs for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves flexibility in the hamstrings",
+                    "Reduces risk of injury in the lower back and legs",
+                    "Increases blood flow to the legs",
+                    "Helps to alleviate lower back pain",
+                    "Can be done anywhere without equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Glutes",
+                    "Calves"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Leg pull with resistance band",
+                    "Single leg pull",
+                    "Leg pull on stability ball",
+                    "Reverse leg pull",
+                    "Leg pull with dumbbells"
+                ]
+            }
+        }
+    ]
+}

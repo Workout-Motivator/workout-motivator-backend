@@ -1,0 +1,60 @@
+{
+    "title": "Side Wrist Pull Stretch",
+    "description": "A stretch exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your arms extended in front of you.",
+                    "Extend your right arm out to the side with your palm facing down.",
+                    "Grasp your right wrist with your left hand and gently pull your right arm across your body towards your left side.",
+                    "Hold the stretch for 15-30 seconds, feeling the stretch in your right wrist and forearm.",
+                    "Release the stretch and repeat on the other side."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Increases flexibility and range of motion in the wrist and forearm",
+                    "Helps prevent wrist and forearm injuries",
+                    "Relieves tension and tightness in the wrist and forearm muscles",
+                    "Improves grip strength and dexterity",
+                    "Can be done anywhere without equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Forearm muscles",
+                    "Wrist extensor muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Wrist Flexor Stretch",
+                    "Wrist Extensor Stretch",
+                    "Forearm Pronation and Supination Stretch",
+                    "Thumb Extension Stretch",
+                    "Thumb Flexion Stretch"
+                ]
+            }
+        }
+    ]
+}

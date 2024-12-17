@@ -1,0 +1,70 @@
+{
+    "title": "Strongman Timber Carry",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Approach the timber and stand with your feet shoulder-width apart.",
+                    "Bend down and grip the timber with both hands, making sure your fingers are wrapped around the top of the timber.",
+                    "Stand up and lift the timber off the ground, keeping your back straight and your core engaged.",
+                    "Begin walking forward, taking small, quick steps.",
+                    "Make sure to keep your shoulders back and your chest up.",
+                    "Continue walking until you reach the designated finish line.",
+                    "Lower the timber back to the ground and release your grip.",
+                    "Rest and repeat for the desired number of sets and repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Increases flexibility and strength in the entire body",
+                    "Improves circulation and cardiovascular health",
+                    "Reduces stress and anxiety",
+                    "Improves digestion and metabolism",
+                    "Helps with weight loss and management",
+                    "Improves focus and concentration",
+                    "Can be modified for different fitness levels and abilities",
+                    "Can be done anywhere with no equipment needed"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Forearms",
+                    "Grip",
+                    "Upper back",
+                    "Shoulders",
+                    "Core",
+                    "Legs"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strongman farmer\u2019s carry",
+                    "Timber frame carry",
+                    "Single-arm kettlebell carry",
+                    "Sandbag carry",
+                    "Yoke carry"
+                ]
+            }
+        }
+    ]
+}

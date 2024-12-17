@@ -1,0 +1,64 @@
+{
+    "title": "Cobra Yoga Pose",
+    "description": "A stretch exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying flat on your stomach with your legs extended behind you and your hands placed on the ground next to your shoulders.",
+                    "As you inhale, press your hands into the ground and lift your chest and head off the ground, keeping your elbows close to your body.",
+                    "Keep your shoulders relaxed and away from your ears, and gaze forward or slightly upward.",
+                    "Hold the pose for a few breaths, then exhale and release back down to the ground.",
+                    "Repeat the pose for several rounds of breath, focusing on lengthening your spine and opening your chest."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the muscles in the back, arms, and shoulders",
+                    "Stretches the chest, lungs, shoulders, and abdomen",
+                    "Improves flexibility in the spine",
+                    "Relieves stress and fatigue",
+                    "Helps improve posture",
+                    "Can help alleviate symptoms of sciatica and asthma"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Erector spinae",
+                    "Gluteus maximus",
+                    "Hamstrings",
+                    "Triceps",
+                    "Deltoids"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Low Cobra Pose",
+                    "High Cobra Pose",
+                    "Upward Facing Dog Pose",
+                    "Sphinx Pose",
+                    "Locust Pose"
+                ]
+            }
+        }
+    ]
+}

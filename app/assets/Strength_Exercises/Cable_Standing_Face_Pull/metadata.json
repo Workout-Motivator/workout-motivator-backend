@@ -1,0 +1,65 @@
+{
+    "title": "Cable Standing Face Pull",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Attach a rope or handle to a cable machine at chest height.",
+                    "Stand facing the machine with your feet shoulder-width apart.",
+                    "Grasp the rope or handle with both hands, palms facing each other.",
+                    "Retract your shoulder blades and pull the rope or handle towards your face, keeping your elbows high and out to the sides.",
+                    "Pause at the top of the movement and squeeze your shoulder blades together.",
+                    "Slowly lower the rope or handle back to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the upper back muscles, including the rhomboids, traps, and rear deltoids",
+                    "Improves posture by pulling the shoulders back and down",
+                    "Reduces the risk of shoulder injuries by strengthening the rotator cuff muscles",
+                    "Increases shoulder mobility and flexibility",
+                    "Can be modified to target different areas of the upper back and shoulders"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rhomboids",
+                    "Trapezius",
+                    "Rear Deltoids",
+                    "Rotator Cuff",
+                    "Biceps"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Cable Seated Face Pull",
+                    "Cable Face Pull with External Rotation",
+                    "Cable Face Pull with Rope",
+                    "Cable Face Pull with Band",
+                    "Cable Face Pull with Overhead Press"
+                ]
+            }
+        }
+    ]
+}

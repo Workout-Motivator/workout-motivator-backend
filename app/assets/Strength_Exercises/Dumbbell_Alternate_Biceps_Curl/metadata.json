@@ -1,0 +1,61 @@
+{
+    "title": "Dumbbell Alternate Biceps Curl",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a dumbbell in each hand with your palms facing forward.",
+                    "Keep your elbows close to your sides and curl one dumbbell up towards your shoulder while keeping your forearm vertical.",
+                    "Pause at the top of the movement and squeeze your bicep.",
+                    "Lower the dumbbell back down to the starting position and repeat with the other arm.",
+                    "Continue alternating arms for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the biceps muscles, helping to increase strength and size",
+                    "Improves grip strength and forearm muscles",
+                    "Allows for unilateral training, helping to correct muscle imbalances",
+                    "Can be performed with a variety of weights and equipment, making it accessible for all fitness levels",
+                    "Engages the core muscles for stability and balance"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Biceps brachii",
+                    "Brachialis",
+                    "Brachioradialis"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Hammer Curl",
+                    "Dumbbell Concentration Curl",
+                    "Dumbbell Preacher Curl",
+                    "Dumbbell Spider Curl",
+                    "Dumbbell Zottman Curl"
+                ]
+            }
+        }
+    ]
+}

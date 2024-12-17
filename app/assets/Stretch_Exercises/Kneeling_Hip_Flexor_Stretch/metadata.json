@@ -1,0 +1,61 @@
+{
+    "title": "Kneeling Hip Flexor Stretch",
+    "description": "A stretch exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by kneeling on the ground with one leg in front of you and the other leg behind you.",
+                    "Make sure your front knee is directly above your ankle and your back knee is directly below your hip.",
+                    "Engage your core and shift your weight forward, keeping your back straight.",
+                    "You should feel a stretch in the front of your hip and thigh.",
+                    "Hold the stretch for 20-30 seconds, then switch legs and repeat.",
+                    "Repeat the stretch 2-3 times on each leg."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves flexibility and range of motion in the hip flexors",
+                    "Reduces tightness and discomfort in the hip flexors",
+                    "Helps to alleviate lower back pain",
+                    "Improves posture and alignment of the pelvis",
+                    "May improve athletic performance in activities that require hip flexor strength and mobility"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus femoris",
+                    "Iliopsoas"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Standing Hip Flexor Stretch",
+                    "Lunge Hip Flexor Stretch",
+                    "Seated Hip Flexor Stretch",
+                    "Supine Hip Flexor Stretch",
+                    "Runner\u2019s Lunge Hip Flexor Stretch"
+                ]
+            }
+        }
+    ]
+}

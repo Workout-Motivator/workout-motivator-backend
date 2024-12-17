@@ -1,0 +1,70 @@
+{
+    "title": "Standing Lateral Side Stretch",
+    "description": "A stretch exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet hip-width apart and your arms at your sides.",
+                    "Take a deep breath in and raise your left arm straight up overhead.",
+                    "Exhale and bend your torso to the right, sliding your right hand down your right leg.",
+                    "Hold the stretch for 10-15 seconds, feeling the stretch along the left side of your body.",
+                    "Inhale and slowly return to the starting position.",
+                    "Repeat on the other side by raising your right arm and bending to the left.",
+                    "Complete 2-3 sets of 10-15 repetitions on each side."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Stretches the muscles in the sides of the torso, including the obliques and intercostal muscles",
+                    "Improves flexibility and range of motion in the spine",
+                    "Relieves tension in the shoulders and neck",
+                    "Can help alleviate lower back pain",
+                    "Increases circulation and oxygen flow to the muscles",
+                    "Can be done anywhere without any equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Obliques",
+                    "Latissimus dorsi",
+                    "Quadratus lumborum",
+                    "Gluteus medius",
+                    "Tensor fasciae latae"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Seated Lateral Side Stretch",
+                    "Standing Forward Fold",
+                    "Seated Forward Fold",
+                    "Standing Cat-Cow Stretch",
+                    "Seated Cat-Cow Stretch",
+                    "Standing Quadriceps Stretch",
+                    "Seated Quadriceps Stretch",
+                    "Standing Hamstring Stretch",
+                    "Seated Hamstring Stretch"
+                ]
+            }
+        }
+    ]
+}

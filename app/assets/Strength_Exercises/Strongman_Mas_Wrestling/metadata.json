@@ -1,0 +1,67 @@
+{
+    "title": "Strongman Mas Wrestling",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Find a partner who is willing to participate in the StrongMan MAS Wrestling exercise with you.",
+                    "Set up the MAS Wrestling board by placing it on a flat surface and securing it in place.",
+                    "Stand facing your partner on opposite sides of the board, with your feet shoulder-width apart and your hands on the stick in the center of the board.",
+                    "On the count of three, both partners should try to pull the stick towards themselves, attempting to make their opponent lose their balance and fall off the board.",
+                    "The winner is the person who remains on the board while their opponent falls off.",
+                    "Repeat the exercise for a set number of rounds or until one partner is too fatigued to continue.",
+                    "Cool down by stretching your muscles and hydrating with water."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves grip strength",
+                    "Increases overall body strength and power",
+                    "Enhances balance and coordination",
+                    "Boosts cardiovascular endurance",
+                    "Provides a full-body workout",
+                    "Can be adapted for all fitness levels",
+                    "Offers a unique and fun way to exercise"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Forearm muscles",
+                    "Grip strength muscles",
+                    "Back muscles",
+                    "Leg muscles",
+                    "Core muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "StrongMan MAS Wrestling with weighted sleds",
+                    "StrongMan MAS Wrestling with sandbags",
+                    "StrongMan MAS Wrestling with kegs",
+                    "StrongMan MAS Wrestling with tires",
+                    "StrongMan MAS Wrestling with logs"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "title": "Smith Single Leg Split Squat",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet hip-width apart and your hands on your hips.",
+                    "Place your left foot behind you on a bench or step, with your toes pointing down.",
+                    "Hold onto the bar of a Smith machine with your right hand, and position it at shoulder height.",
+                    "Bend your right knee and lower your body down into a lunge, keeping your left foot on the bench.",
+                    "Make sure your right knee is directly above your ankle, and your left knee is hovering just above the ground.",
+                    "Push through your right heel to stand back up to the starting position.",
+                    "Repeat for the desired number of reps, then switch legs and repeat on the other side."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves balance and stability",
+                    "Targets the glutes, quads, and hamstrings",
+                    "Helps to correct muscle imbalances between legs",
+                    "Increases lower body strength and power",
+                    "Can be modified for different fitness levels"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Smith Single Leg Split Squat",
+                    "Dumbbell Single Leg Split Squat",
+                    "Barbell Single Leg Split Squat",
+                    "Bulgarian Split Squat",
+                    "Reverse Lunge",
+                    "Walking Lunge",
+                    "Curtsy Lunge",
+                    "Side Lunge",
+                    "Jumping Lunge"
+                ]
+            }
+        }
+    ]
+}

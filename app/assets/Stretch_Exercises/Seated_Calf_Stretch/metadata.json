@@ -1,0 +1,60 @@
+{
+    "title": "Seated Calf Stretch",
+    "description": "A stretch exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by sitting on the floor with your legs extended in front of you.",
+                    "Place a rolled-up towel or yoga block under the balls of your feet.",
+                    "Flex your feet so that your toes are pointing towards your shins.",
+                    "Slowly lean forward, keeping your back straight, until you feel a stretch in your calves.",
+                    "Hold the stretch for 15-30 seconds, then release and repeat as desired."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves flexibility and range of motion in the spine",
+                    "Stretches the muscles in the back, shoulders, and chest",
+                    "Relieves tension and stiffness in the upper body",
+                    "May help alleviate back pain",
+                    "Can be done anywhere, even at a desk or in a chair"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Gastrocnemius",
+                    "Soleus"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "standing-calf-stretch",
+                    "donkey-calf-raise",
+                    "single-leg-calf-raise",
+                    "toe-walking",
+                    "heel-walking"
+                ]
+            }
+        }
+    ]
+}

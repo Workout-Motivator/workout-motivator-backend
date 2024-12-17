@@ -1,0 +1,64 @@
+{
+    "title": "Cable Reverse Grip Pushdown",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Attach a straight bar to the cable machine at the highest setting.",
+                    "Stand facing the machine and grasp the bar with an underhand grip (palms facing up).",
+                    "Stand with your feet shoulder-width apart and your knees slightly bent.",
+                    "Keep your elbows close to your sides and your upper arms stationary.",
+                    "Exhale and push the bar down towards your thighs, contracting your triceps.",
+                    "Pause for a moment at the bottom of the movement.",
+                    "Inhale and slowly return the bar to the starting position, keeping your elbows close to your sides.",
+                    "Repeat for desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the triceps muscles, specifically the lateral head",
+                    "Helps to improve overall arm strength and definition",
+                    "Can be easily modified to target different areas of the triceps by adjusting grip and cable attachment height",
+                    "Isolation exercise that minimizes involvement of other muscle groups",
+                    "Can be performed with relatively light weights, making it a good option for beginners or those with joint pain"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Triceps brachii",
+                    "Brachialis",
+                    "Forearm extensors"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Cable Overhead Tricep Extension",
+                    "Cable Tricep Pushdown",
+                    "Cable Rope Overhead Tricep Extension",
+                    "Cable Rope Tricep Pushdown",
+                    "Cable V-Bar Pushdown"
+                ]
+            }
+        }
+    ]
+}

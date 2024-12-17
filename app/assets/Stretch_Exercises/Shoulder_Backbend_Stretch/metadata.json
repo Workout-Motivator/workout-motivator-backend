@@ -1,0 +1,70 @@
+{
+    "title": "Shoulder Backbend Stretch",
+    "description": "A stretch exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet hip-width apart and your arms at your sides.",
+                    "Roll your shoulders back and down, squeezing your shoulder blades together.",
+                    "Interlace your fingers behind your back, with your palms facing inward.",
+                    "Slowly lift your arms up and away from your body, keeping your shoulders relaxed and your chest open.",
+                    "Hold the stretch for 10-15 seconds, breathing deeply.",
+                    "Release your hands and slowly lower your arms back down to your sides."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves posture by opening up the chest and shoulders",
+                    "Relieves tension and pain in the upper back and neck",
+                    "Increases flexibility and range of motion in the shoulders",
+                    "Stimulates the respiratory system and improves breathing",
+                    "Can help alleviate symptoms of anxiety and stress"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Trapezius",
+                    "Rhomboids",
+                    "Deltoids",
+                    "Pectoralis Major",
+                    "Latissimus Dorsi",
+                    "Erector Spinae"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Shoulder Extension Stretch",
+                    "Shoulder Flexion Stretch",
+                    "Shoulder Rotation Stretch",
+                    "Shoulder Blade Squeeze",
+                    "Shoulder Circles",
+                    "Wall Angels",
+                    "Thread the Needle Pose",
+                    "Cow Face Pose",
+                    "Eagle Arms Pose",
+                    "Reverse Prayer Pose"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "title": "Smith Hip Thrust",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by sitting on the ground with your back against a bench or box and your feet flat on the floor.",
+                    "Position the barbell on your hips and hold it in place with your hands.",
+                    "Engage your glutes and lift your hips up towards the ceiling, keeping your feet flat on the ground.",
+                    "Pause at the top of the movement and squeeze your glutes.",
+                    "Lower your hips back down to the starting position and repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets glutes, hamstrings, and lower back muscles",
+                    "Improves hip extension and overall lower body strength",
+                    "Can help prevent lower back pain and injury",
+                    "Can be modified for different fitness levels and goals",
+                    "Can be done with or without weights for added resistance"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Glutes",
+                    "Hamstrings",
+                    "Quadriceps",
+                    "Erector Spinae"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single-leg Smith Hip Thrust",
+                    "Smith Hip Thrust with resistance band",
+                    "Smith Hip Thrust with barbell",
+                    "Smith Hip Thrust with dumbbells",
+                    "Smith Hip Thrust with kettlebell"
+                ]
+            }
+        }
+    ]
+}

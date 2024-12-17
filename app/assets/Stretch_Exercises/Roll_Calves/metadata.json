@@ -1,0 +1,62 @@
+{
+    "title": "Roll Calves",
+    "description": "A stretch exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet hip-width apart and place a foam roller under your calves.",
+                    "Place your hands on a wall or sturdy surface for balance.",
+                    "Slowly roll the foam roller up and down your calves, from your ankles to just below your knees.",
+                    "If you find a tender spot, pause and hold the pressure on that spot for 10-30 seconds.",
+                    "Continue rolling for 1-2 minutes, then switch to the other leg.",
+                    "Repeat the exercise daily or as needed to help relieve tightness and improve flexibility in your calves."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Stretches and strengthens the calf muscles",
+                    "Improves ankle mobility and flexibility",
+                    "Reduces the risk of injury in the lower leg and foot",
+                    "Can help alleviate plantar fasciitis and other foot conditions",
+                    "Can be done anywhere with a foam roller or similar tool"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Gastrocnemius",
+                    "Soleus"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Standing Calf Raises",
+                    "Seated Calf Raises",
+                    "Donkey Calf Raises",
+                    "Single Leg Calf Raises",
+                    "Box Jumps",
+                    "Jump Rope"
+                ]
+            }
+        }
+    ]
+}

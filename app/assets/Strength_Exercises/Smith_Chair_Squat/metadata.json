@@ -1,0 +1,63 @@
+{
+    "title": "Smith Chair Squat",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your toes pointing forward.",
+                    "Hold a chair in front of you with both hands, keeping your arms straight.",
+                    "Slowly lower your body down into a squat position, keeping your back straight and your knees behind your toes.",
+                    "Pause for a moment at the bottom of the squat, then slowly rise back up to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the lower body muscles, including the quadriceps, hamstrings, and glutes",
+                    "Improves balance and stability",
+                    "Targets the core muscles, including the abdominals and lower back",
+                    "Can be modified for different fitness levels and abilities",
+                    "Allows for proper form and technique with the assistance of the Smith machine"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Smith Machine Squat",
+                    "Chair Squat with Dumbbells",
+                    "Single Leg Smith Machine Squat",
+                    "Chair Squat with Resistance Bands",
+                    "Smith Machine Front Squat"
+                ]
+            }
+        }
+    ]
+}

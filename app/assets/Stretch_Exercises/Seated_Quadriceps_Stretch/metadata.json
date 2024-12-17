@@ -1,0 +1,65 @@
+{
+    "title": "Seated Quadriceps Stretch",
+    "description": "A stretch exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by sitting on the floor with your legs extended in front of you.",
+                    "Bend your right knee and bring your foot towards your buttocks.",
+                    "Grasp your right ankle with your right hand and hold it firmly.",
+                    "Place your left hand on your left knee for support.",
+                    "Inhale and lift your chest up towards the ceiling.",
+                    "Exhale and gently pull your right ankle towards your buttocks.",
+                    "Hold the stretch for 15-30 seconds.",
+                    "Release the stretch and repeat on the other side."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves flexibility and range of motion in the quadriceps muscles",
+                    "Reduces muscle tension and soreness in the quadriceps",
+                    "Helps prevent injury by preparing the quadriceps for physical activity",
+                    "Can be done anywhere without any equipment",
+                    "Can be modified for individuals with limited mobility or flexibility"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Standing Quadriceps Stretch",
+                    "Lying Quadriceps Stretch",
+                    "Wall Quadriceps Stretch",
+                    "Hamstring Stretch",
+                    "Butterfly Stretch",
+                    "Pigeon Pose",
+                    "Runner\u2019s Lunge",
+                    "Downward Facing Dog"
+                ]
+            }
+        }
+    ]
+}

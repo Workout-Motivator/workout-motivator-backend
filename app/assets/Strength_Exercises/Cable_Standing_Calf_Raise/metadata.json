@@ -1,0 +1,67 @@
+{
+    "title": "Cable Standing Calf Raise",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand facing a cable machine with a shoulder-width stance.",
+                    "Place the balls of your feet on a block or step, with your heels hanging off the edge.",
+                    "Grasp the cable handles and lift them up to shoulder height.",
+                    "Keep your arms straight and your core engaged.",
+                    "Raise your heels as high as possible, squeezing your calf muscles at the top of the movement.",
+                    "Lower your heels back down to the starting position, keeping tension on your calves throughout the exercise.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the calf muscles, specifically the gastrocnemius and soleus",
+                    "Helps to improve ankle stability and balance",
+                    "Can be easily adjusted to increase or decrease resistance",
+                    "Allows for a full range of motion, ensuring maximum muscle activation",
+                    "Can be performed with a variety of foot positions to target different areas of the calf muscles",
+                    "Can be done with minimal equipment, making it a convenient exercise to do at home or at the gym"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Gastrocnemius",
+                    "Soleus"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single Leg Cable Standing Calf Raise",
+                    "Seated Calf Raise",
+                    "Donkey Calf Raise",
+                    "Smith Machine Calf Raise",
+                    "Barbell Standing Calf Raise",
+                    "Dumbbell Standing Calf Raise",
+                    "Leg Press Calf Raise",
+                    "Toe Press on Leg Press Machine",
+                    "Standing Calf Raise on Leg Press Machine"
+                ]
+            }
+        }
+    ]
+}

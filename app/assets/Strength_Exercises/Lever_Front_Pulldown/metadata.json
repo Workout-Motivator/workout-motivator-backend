@@ -1,0 +1,64 @@
+{
+    "title": "Lever Front Pulldown",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Adjust the seat height so that your thighs are parallel to the ground and your feet are flat on the floor.",
+                    "Select the appropriate weight and attach the V-bar to the cable machine.",
+                    "Sit facing the machine with your knees under the pad and grasp the V-bar with an overhand grip.",
+                    "Lean back slightly and keep your chest up as you pull the V-bar down towards your chest.",
+                    "Pause briefly at the bottom of the movement and then slowly release the bar back to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the latissimus dorsi, which is the largest muscle in the back and helps with overall upper body strength and posture",
+                    "Also works the biceps, forearms, and shoulders as secondary muscles",
+                    "Can be done with different grip variations to target different areas of the back",
+                    "Using a lever machine allows for a controlled and stable movement, reducing the risk of injury",
+                    "Can be easily modified for different fitness levels by adjusting the weight or reps"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Latissimus dorsi",
+                    "Trapezius",
+                    "Rhomboids",
+                    "Biceps brachii",
+                    "Forearm muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Close-grip lever front pulldown",
+                    "Wide-grip lever front pulldown",
+                    "Reverse-grip lever front pulldown",
+                    "Single-arm lever front pulldown",
+                    "Behind-the-neck lever front pulldown"
+                ]
+            }
+        }
+    ]
+}

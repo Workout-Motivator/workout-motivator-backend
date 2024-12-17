@@ -1,0 +1,63 @@
+{
+    "title": "Resistance Band Split Squat",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Place a resistance band around your thighs, just above your knees.",
+                    "Stand with your feet hip-width apart and step your left foot back about two feet.",
+                    "Keep your chest up and your core engaged as you lower your body down into a lunge position, bending both knees to about 90 degrees.",
+                    "Pause for a moment at the bottom of the movement, then push through your front heel to return to the starting position.",
+                    "Repeat for the desired number of reps, then switch legs and repeat on the other side."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets multiple muscle groups including quadriceps, glutes, hamstrings, and calves",
+                    "Improves balance and stability",
+                    "Increases lower body strength and power",
+                    "Can be modified for different fitness levels by adjusting resistance band tension or depth of squat",
+                    "Requires minimal equipment and can be done at home or in a gym"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Resistance Band Bulgarian Split Squat",
+                    "Resistance Band Curtsy Lunge",
+                    "Resistance Band Reverse Lunge",
+                    "Resistance Band Side Lunge",
+                    "Resistance Band Walking Lunge"
+                ]
+            }
+        }
+    ]
+}

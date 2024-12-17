@@ -1,0 +1,67 @@
+{
+    "title": "Briskly Walking",
+    "description": "A cardio exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by standing up straight with your feet shoulder-width apart.",
+                    "Begin walking forward, swinging your arms naturally at your sides.",
+                    "Take quick, purposeful steps, landing on the balls of your feet and rolling through to your heels.",
+                    "Keep your core engaged and your shoulders relaxed.",
+                    "Continue walking at a brisk pace for at least 30 minutes, aiming for a heart rate of 50-70% of your maximum heart rate.",
+                    "Gradually increase your pace and distance over time to challenge yourself and improve your fitness level."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves cardiovascular health",
+                    "Increases endurance and stamina",
+                    "Helps with weight loss and weight management",
+                    "Reduces the risk of chronic diseases such as diabetes, heart disease, and stroke",
+                    "Strengthens bones and muscles",
+                    "Improves mood and reduces stress",
+                    "Can be done anywhere and requires no equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Glutes",
+                    "Calf muscles",
+                    "Abdominals",
+                    "Back muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Power Walking",
+                    "Speed Walking",
+                    "Interval Walking",
+                    "Hill Walking",
+                    "Stair Walking"
+                ]
+            }
+        }
+    ]
+}

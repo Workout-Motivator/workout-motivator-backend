@@ -1,0 +1,63 @@
+{
+    "title": "Body Saw Plank",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start in a plank position with your forearms on the ground and your body in a straight line from head to heels.",
+                    "Engage your core and glutes to maintain the plank position.",
+                    "Shift your body forward by pushing your forearms into the ground and moving your shoulders slightly past your elbows.",
+                    "Hold this position for a few seconds, then shift your body back to the starting plank position.",
+                    "Repeat the forward and backward movement for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the core muscles, including the abs, obliques, and lower back",
+                    "Improves stability and balance",
+                    "Increases shoulder and upper body strength",
+                    "Engages the glutes and hamstrings for a full body workout",
+                    "Can be modified for different fitness levels and abilities"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus Abdominis",
+                    "Transverse Abdominis",
+                    "Obliques",
+                    "Erector Spinae",
+                    "Glutes",
+                    "Quadriceps"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Body Saw Plank with Feet on Sliders",
+                    "Body Saw Plank with Forearms on Swiss Ball",
+                    "Body Saw Plank with Feet Elevated on Bench",
+                    "Body Saw Plank with Alternating Knee Tucks"
+                ]
+            }
+        }
+    ]
+}

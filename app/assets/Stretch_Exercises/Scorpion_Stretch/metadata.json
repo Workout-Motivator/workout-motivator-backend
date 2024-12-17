@@ -1,0 +1,68 @@
+{
+    "title": "Scorpion Stretch",
+    "description": "A stretch exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying face down on the ground with your arms extended out to the sides.",
+                    "Bend your right knee and bring it up towards your left hand.",
+                    "Using your left hand, grab onto your right ankle and gently pull it towards your left shoulder.",
+                    "Hold this position for 10-15 seconds, feeling a stretch in your right hip and thigh.",
+                    "Release and repeat on the other side, bending your left knee and bringing it up towards your right hand.",
+                    "Using your right hand, grab onto your left ankle and gently pull it towards your right shoulder.",
+                    "Hold this position for 10-15 seconds, feeling a stretch in your left hip and thigh.",
+                    "Repeat this stretch on each side 2-3 times, gradually increasing the duration of the hold as your flexibility improves."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves flexibility in the lower back, hips, and thighs",
+                    "Stretches the chest and shoulders",
+                    "Strengthens the core muscles",
+                    "Relieves tension and stress in the body",
+                    "Improves posture and spinal alignment",
+                    "Increases circulation and blood flow to the muscles",
+                    "Can help alleviate lower back pain"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Glutes",
+                    "Hamstrings",
+                    "Lower back",
+                    "Obliques",
+                    "Quadriceps"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Scorpion Twist",
+                    "Reverse Scorpion",
+                    "Scorpion Push-Up",
+                    "Scorpion Plank",
+                    "Scorpion Kick"
+                ]
+            }
+        }
+    ]
+}

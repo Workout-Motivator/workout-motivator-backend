@@ -1,0 +1,60 @@
+{
+    "title": "Cable One Arm Tricep Pushdown",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Attach a single handle to a cable machine at the highest setting.",
+                    "Stand facing the machine with your feet shoulder-width apart and your knees slightly bent.",
+                    "Grasp the handle with one hand and bring your elbow to your side, keeping your upper arm stationary.",
+                    "Exhale and extend your arm down until it is fully extended, feeling the contraction in your tricep.",
+                    "Inhale and slowly return to the starting position, keeping your elbow close to your side.",
+                    "Repeat for desired number of reps, then switch arms and repeat the exercise."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the triceps muscles, helping to build strength and definition in the back of the arms",
+                    "Allows for isolation of one arm at a time, helping to correct any muscle imbalances between the left and right sides of the body",
+                    "Can be easily adjusted to accommodate different fitness levels and goals by changing the weight or resistance used",
+                    "Requires minimal equipment and can be done at most gyms or fitness centers",
+                    "Can be incorporated into a larger upper body workout routine for a well-rounded and effective workout"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Triceps brachii"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single Arm Cable Tricep Pushdown",
+                    "Reverse Grip Cable Tricep Pushdown",
+                    "Overhead Cable Tricep Extension",
+                    "Standing Cable Tricep Extension",
+                    "Close Grip Cable Tricep Pushdown"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "title": "Barbell Hip Thrust With Resistance Band",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Place a resistance band around your thighs, just above your knees.",
+                    "Sit on the ground with your back against a bench or box, and place a barbell across your hips.",
+                    "Roll the barbell towards your body until it is directly above your hips.",
+                    "Place your feet flat on the ground, hip-width apart, and drive your heels into the floor.",
+                    "Engage your glutes and lift your hips up towards the ceiling, squeezing your glutes at the top of the movement.",
+                    "Lower your hips back down to the ground, keeping tension in the resistance band throughout the movement.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the glutes, hamstrings, and lower back muscles",
+                    "Increases hip thrust strength and power",
+                    "Improves hip mobility and flexibility",
+                    "Helps to prevent lower back pain and injury",
+                    "Can be easily modified to increase or decrease resistance",
+                    "Can be performed with minimal equipment",
+                    "Can be incorporated into a variety of workout routines"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Glutes",
+                    "Hamstrings",
+                    "Quadriceps",
+                    "Erector Spinae",
+                    "Abdominals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single-leg Barbell Hip Thrust with Resistance Band",
+                    "Barbell Hip Thrust with Double Resistance Bands",
+                    "Barbell Hip Thrust with Mini Resistance Bands",
+                    "Barbell Hip Thrust with Chains",
+                    "Barbell Hip Thrust with Weighted Vest"
+                ]
+            }
+        }
+    ]
+}

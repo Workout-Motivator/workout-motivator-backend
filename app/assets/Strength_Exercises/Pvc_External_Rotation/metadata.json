@@ -1,0 +1,66 @@
+{
+    "title": "Pvc External Rotation",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by standing with your feet shoulder-width apart and holding a PVC pipe with both hands.",
+                    "Hold the PVC pipe in front of your body with your palms facing down.",
+                    "Slowly rotate the PVC pipe to the right side of your body, keeping your elbows close to your sides.",
+                    "Hold the position for a few seconds, then slowly rotate the PVC pipe back to the starting position in front of your body.",
+                    "Repeat the rotation to the left side of your body, again holding the position for a few seconds before returning to the starting position.",
+                    "Continue alternating rotations to the right and left sides for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the rotator cuff muscles",
+                    "Improves shoulder stability",
+                    "Helps prevent shoulder injuries",
+                    "Increases range of motion in the shoulder joint",
+                    "Can be done with minimal equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rotator cuff muscles (supraspinatus, infraspinatus, teres minor, subscapularis)",
+                    "Deltoid muscle (posterior fibers)",
+                    "Trapezius muscle (middle fibers)",
+                    "Rhomboid muscles (major and minor)"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Standing External Rotation with Dumbbell",
+                    "Seated External Rotation with Dumbbell",
+                    "Side-Lying External Rotation with Dumbbell",
+                    "Prone External Rotation with Dumbbell",
+                    "Standing External Rotation with Resistance Band",
+                    "Seated External Rotation with Resistance Band",
+                    "Side-Lying External Rotation with Resistance Band",
+                    "Prone External Rotation with Resistance Band"
+                ]
+            }
+        }
+    ]
+}

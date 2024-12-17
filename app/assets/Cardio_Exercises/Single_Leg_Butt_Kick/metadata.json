@@ -1,0 +1,62 @@
+{
+    "title": "Single Leg Butt Kick",
+    "description": "A cardio exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet hip-width apart and your arms at your sides.",
+                    "Lift your right foot off the ground and bend your knee, bringing your heel towards your buttocks.",
+                    "Grab your ankle with your right hand and hold it in place.",
+                    "Slowly lower your foot back down to the ground, keeping your knee bent.",
+                    "Repeat the movement with your left leg.",
+                    "Continue alternating legs for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens glutes, hamstrings, and calves",
+                    "Improves balance and stability",
+                    "Increases flexibility in hip flexors and quads",
+                    "Can be done anywhere without equipment",
+                    "Helps prevent injuries by strengthening muscles used in running and jumping"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single Leg Butt Kick with Resistance Band",
+                    "Single Leg Butt Kick with Dumbbell",
+                    "Single Leg Butt Kick with Medicine Ball",
+                    "Single Leg Butt Kick with Stability Ball",
+                    "Single Leg Butt Kick with TRX Suspension Trainer"
+                ]
+            }
+        }
+    ]
+}

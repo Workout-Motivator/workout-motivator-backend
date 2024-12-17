@@ -1,0 +1,59 @@
+{
+    "title": "Overhead Triceps Stretch",
+    "description": "A stretch exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your arms at your sides.",
+                    "Reach your right arm straight up and bend it at the elbow so that your right hand is behind your head.",
+                    "Use your left hand to gently pull your right elbow toward your left shoulder until you feel a stretch in your triceps.",
+                    "Hold the stretch for 15-30 seconds, then release and repeat on the other side."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Helps to improve flexibility and range of motion in the triceps muscles",
+                    "Reduces tension and tightness in the triceps and surrounding muscles",
+                    "May help to alleviate pain and discomfort in the upper arms and shoulders",
+                    "Can be done anywhere without the need for equipment",
+                    "May improve posture and reduce the risk of injury in the upper body"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Triceps brachii",
+                    "Anconeus"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single Arm Overhead Triceps Stretch",
+                    "Double Arm Overhead Triceps Stretch",
+                    "Seated Overhead Triceps Stretch",
+                    "Standing Overhead Triceps Stretch with Resistance Band",
+                    "Overhead Triceps Stretch with Side Bend"
+                ]
+            }
+        }
+    ]
+}

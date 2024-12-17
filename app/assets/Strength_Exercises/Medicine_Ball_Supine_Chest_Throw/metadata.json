@@ -1,0 +1,63 @@
+{
+    "title": "Medicine Ball Supine Chest Throw",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on your back on a flat surface with your knees bent and feet flat on the ground.",
+                    "Hold a medicine ball with both hands at chest level.",
+                    "Engage your core and press your lower back into the ground.",
+                    "Exhale and forcefully throw the medicine ball straight up towards the ceiling, extending your arms fully.",
+                    "Catch the ball as it comes back down and immediately repeat the movement for the desired number of repetitions.",
+                    "Remember to keep your core engaged and your lower back pressed into the ground throughout the exercise."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the chest, shoulders, and triceps",
+                    "Improves upper body power and explosiveness",
+                    "Engages the core muscles for stability and balance",
+                    "Can be modified for different fitness levels and goals",
+                    "Provides a full body workout when combined with other exercises"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Pectoralis major",
+                    "Triceps brachii",
+                    "Anterior deltoids",
+                    "Core muscles (rectus abdominis, obliques)"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Medicine Ball Standing Chest Throw",
+                    "Medicine Ball Overhead Throw",
+                    "Medicine Ball Side Throw",
+                    "Medicine Ball Slam",
+                    "Medicine Ball Russian Twist"
+                ]
+            }
+        }
+    ]
+}

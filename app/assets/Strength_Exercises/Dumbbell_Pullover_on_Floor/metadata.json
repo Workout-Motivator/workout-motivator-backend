@@ -1,0 +1,66 @@
+{
+    "title": "Dumbbell Pullover on Floor",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying flat on your back on the floor with your knees bent and feet flat on the ground.",
+                    "Hold a dumbbell with both hands and extend your arms straight up towards the ceiling.",
+                    "Slowly lower the dumbbell behind your head, keeping your arms straight and your core engaged.",
+                    "Once the dumbbell is behind your head, slowly raise it back up to the starting position.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets multiple muscle groups including the chest, back, and triceps",
+                    "Improves upper body strength and stability",
+                    "Increases flexibility in the shoulders and chest",
+                    "Can help improve posture by strengthening the muscles that support the spine",
+                    "Can be modified for different fitness levels by adjusting the weight of the dumbbell"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Pectoralis major",
+                    "Latissimus dorsi",
+                    "Triceps brachii",
+                    "Rhomboids",
+                    "Trapezius",
+                    "Serratus anterior"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Pullover on bench",
+                    "Dumbbell Pullover on stability ball",
+                    "Dumbbell Pullover with one arm",
+                    "Dumbbell Pullover with alternating arms",
+                    "Cable Pullover",
+                    "Barbell Pullover",
+                    "Machine Pullover"
+                ]
+            }
+        }
+    ]
+}

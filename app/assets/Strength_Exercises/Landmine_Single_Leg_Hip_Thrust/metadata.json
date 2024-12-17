@@ -1,0 +1,64 @@
+{
+    "title": "Landmine Single Leg Hip Thrust",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Begin by lying on your back with your knees bent and feet flat on the ground.",
+                    "Place a landmine barbell on the ground next to your hip on one side.",
+                    "Extend your opposite leg straight out in front of you.",
+                    "Place your foot on top of the landmine barbell, with the barbell resting against your hip.",
+                    "Engage your glutes and lift your hips off the ground, keeping your extended leg straight.",
+                    "Lower your hips back down to the ground and repeat for the desired number of reps.",
+                    "Switch sides and repeat the exercise with your other leg."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves balance and stability",
+                    "Strengthens the glutes, hamstrings, and lower back",
+                    "Increases hip mobility",
+                    "Helps prevent injury by improving proprioception",
+                    "Can be modified for different fitness levels"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Glutes",
+                    "Hamstrings",
+                    "Quadriceps",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single-leg hip thrust with weight plate",
+                    "Single-leg hip thrust with barbell",
+                    "Single-leg hip thrust with resistance band",
+                    "Single-leg hip thrust with dumbbell",
+                    "Single-leg hip thrust with kettlebell"
+                ]
+            }
+        }
+    ]
+}

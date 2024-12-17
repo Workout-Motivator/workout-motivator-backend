@@ -1,0 +1,67 @@
+{
+    "title": "Barbell Pause Bench Press",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Set up a barbell on a bench press station, with the appropriate weight for your fitness level.",
+                    "Lie down on the bench with your feet flat on the ground and your back pressed firmly against the bench.",
+                    "Grasp the barbell with both hands, with your hands slightly wider than shoulder-width apart.",
+                    "Lower the barbell slowly towards your chest, pausing for a few seconds when the barbell is about an inch above your chest.",
+                    "Push the barbell back up to the starting position, exhaling as you lift the weight.",
+                    "Repeat the exercise for the desired number of repetitions.",
+                    "When finished, carefully rack the barbell and sit up slowly."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Increases upper body strength and muscle mass",
+                    "Improves stability and control during the bench press",
+                    "Helps to break through plateaus in bench press strength",
+                    "Develops explosive power and speed in the chest and triceps",
+                    "Improves shoulder stability and reduces risk of injury",
+                    "Increases time under tension, leading to greater muscle growth",
+                    "Improves mind-muscle connection and overall technique in the bench press"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Pectoralis major",
+                    "Triceps brachii",
+                    "Anterior deltoids",
+                    "Coracobrachialis"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Close-grip Barbell Pause Bench Press",
+                    "Incline Barbell Pause Bench Press",
+                    "Decline Barbell Pause Bench Press",
+                    "Wide-grip Barbell Pause Bench Press",
+                    "Paused Dumbbell Bench Press",
+                    "Paused Push-up"
+                ]
+            }
+        }
+    ]
+}

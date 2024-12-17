@@ -1,0 +1,62 @@
+{
+    "title": "Reverse Crunch Kick",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying flat on your back with your arms extended above your head and your legs straight out in front of you.",
+                    "Engage your core and lift your legs off the ground, bringing your knees towards your chest.",
+                    "As you lift your legs, simultaneously lift your upper body off the ground and reach your arms towards your toes.",
+                    "At the top of the movement, your body should be in a \u201cV\u201d shape with your legs bent and your arms reaching towards your toes.",
+                    "Slowly lower your upper body and legs back down to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the lower abs and hip flexors",
+                    "Improves core stability and balance",
+                    "Increases overall strength and endurance",
+                    "Can be modified for different fitness levels",
+                    "Requires no equipment and can be done anywhere"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus Abdominis",
+                    "Obliques",
+                    "Hip Flexors"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Reverse Crunch with Leg Extension",
+                    "Reverse Crunch with Knee Tuck",
+                    "Reverse Crunch with Bicycle Kick",
+                    "Reverse Crunch with Toe Touch",
+                    "Reverse Crunch with Scissor Kick"
+                ]
+            }
+        }
+    ]
+}

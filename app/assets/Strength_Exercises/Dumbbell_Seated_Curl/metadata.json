@@ -1,0 +1,62 @@
+{
+    "title": "Dumbbell Seated Curl",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by sitting on a bench with your feet flat on the ground and your back straight.",
+                    "Hold a dumbbell in each hand with your palms facing up and your arms extended down by your sides.",
+                    "Slowly curl the dumbbells up towards your shoulders, keeping your elbows close to your body.",
+                    "Pause at the top of the movement and squeeze your biceps.",
+                    "Slowly lower the dumbbells back down to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the biceps muscles, helping to increase arm strength and size",
+                    "Can be done with a variety of weights, making it accessible for beginners and advanced lifters",
+                    "Seated position helps to isolate the biceps and prevent cheating or swinging during the exercise",
+                    "Can be easily modified by changing grip or adding a twist at the top of the movement for added challenge",
+                    "Helps to improve grip strength and forearm muscles as well"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Biceps brachii",
+                    "Brachialis",
+                    "Brachioradialis"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Standing Curl",
+                    "Dumbbell Hammer Curl",
+                    "Dumbbell Preacher Curl",
+                    "Dumbbell Concentration Curl",
+                    "Dumbbell Incline Curl"
+                ]
+            }
+        }
+    ]
+}

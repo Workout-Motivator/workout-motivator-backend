@@ -1,0 +1,68 @@
+{
+    "title": "Back Lever",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by hanging from a pull-up bar with your palms facing away from you.",
+                    "Engage your shoulder blades and pull them down towards your hips.",
+                    "Slowly lift your legs up towards the bar, keeping them straight and together.",
+                    "Continue to lift your legs until your body is parallel to the ground.",
+                    "Hold this position for as long as you can, aiming for at least 10 seconds.",
+                    "To release, slowly lower your legs back down to the starting position."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the back, shoulders, and core muscles",
+                    "Improves body control and balance",
+                    "Increases flexibility in the shoulders and back",
+                    "Helps to prevent and alleviate back pain",
+                    "Challenges the mind and body to work together"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Latissimus dorsi",
+                    "Trapezius",
+                    "Rhomboids",
+                    "Erector spinae",
+                    "Glutes",
+                    "Hamstrings",
+                    "Abdominals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Advanced tuck back lever",
+                    "One leg extended back lever",
+                    "Straddle back lever",
+                    "Full back lever",
+                    "Back lever pull-ups",
+                    "Back lever raises",
+                    "Back lever holds with added weight"
+                ]
+            }
+        }
+    ]
+}

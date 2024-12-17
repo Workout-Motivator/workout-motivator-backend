@@ -1,0 +1,61 @@
+{
+    "title": "Diamond Push Up",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start in a high plank position with your hands shoulder-width apart and your fingers pointing forward.",
+                    "Place your hands in a diamond shape directly under your chest, with your thumbs and index fingers touching to form a diamond.",
+                    "Lower your body towards the ground, keeping your elbows close to your sides.",
+                    "Push back up to the starting position, keeping your core engaged and your body in a straight line.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets multiple muscle groups including chest, triceps, shoulders, and core",
+                    "Increases upper body strength and endurance",
+                    "Improves overall body stability and balance",
+                    "Variation of traditional push up, adding variety to workout routine",
+                    "Can be done anywhere without equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Chest muscles (pectoralis major and minor)",
+                    "Triceps",
+                    "Shoulders (anterior deltoids)"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Wide Diamond Push up",
+                    "Decline Diamond Push up",
+                    "One-Arm Diamond Push up",
+                    "Spiderman Diamond Push up",
+                    "Clapping Diamond Push up"
+                ]
+            }
+        }
+    ]
+}

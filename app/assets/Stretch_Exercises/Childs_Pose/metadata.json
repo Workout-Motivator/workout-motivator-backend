@@ -1,0 +1,31 @@
+{
+    "title": "Child's Pose (Balasana)",
+    "description": "A restful yoga pose that gently stretches the back, hips, thighs, and ankles while promoting relaxation and stress relief.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": []
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": []
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": []
+            }
+        }
+    ]
+}

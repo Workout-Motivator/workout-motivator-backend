@@ -1,0 +1,64 @@
+{
+    "title": "Bird Dog",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start on your hands and knees with your wrists directly under your shoulders and your knees directly under your hips.",
+                    "Extend your right arm straight out in front of you while simultaneously extending your left leg straight back behind you.",
+                    "Hold this position for a few seconds, making sure to keep your core engaged and your hips level.",
+                    "Return to the starting position and repeat on the opposite side, extending your left arm and right leg.",
+                    "Continue alternating sides for the desired number of repetitions or time."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens core muscles",
+                    "Improves balance and stability",
+                    "Targets lower back muscles",
+                    "Engages glutes and shoulder muscles",
+                    "Can help alleviate lower back pain"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Erector spinae",
+                    "Gluteus maximus",
+                    "Hamstrings",
+                    "Quadriceps",
+                    "Abdominals",
+                    "Obliques"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single Leg Bird Dog",
+                    "Weighted Bird Dog",
+                    "Bird Dog with Knee to Elbow Touch",
+                    "Bird Dog with Leg Extension",
+                    "Bird Dog with Arm Extension"
+                ]
+            }
+        }
+    ]
+}

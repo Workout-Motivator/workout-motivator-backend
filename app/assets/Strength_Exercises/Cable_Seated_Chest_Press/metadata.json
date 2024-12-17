@@ -1,0 +1,63 @@
+{
+    "title": "Cable Seated Chest Press",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Adjust the seat height so that the handles are at chest level when you are seated.",
+                    "Sit on the machine with your back flat against the pad and your feet flat on the floor.",
+                    "Grasp the handles with an overhand grip and bring them to the sides of your chest.",
+                    "Push the handles forward until your arms are fully extended, but do not lock your elbows.",
+                    "Slowly bring the handles back to the starting position, keeping your elbows slightly bent.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the chest muscles, specifically the pectoralis major and minor",
+                    "Allows for a greater range of motion compared to traditional bench press exercises",
+                    "Provides constant tension throughout the movement, leading to increased muscle activation and growth",
+                    "Engages the triceps and shoulders as secondary muscles, leading to a more well-rounded upper body workout",
+                    "Can be easily adjusted to accommodate different fitness levels and goals",
+                    "Offers a safer alternative to free weight exercises, as the cable machine provides a controlled and stable environment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Pectoralis major",
+                    "Anterior deltoids",
+                    "Triceps brachii"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Seated Chest Press",
+                    "Barbell Seated Chest Press",
+                    "Machine Seated Chest Press",
+                    "Resistance Band Seated Chest Press",
+                    "Single Arm Cable Seated Chest Press"
+                ]
+            }
+        }
+    ]
+}

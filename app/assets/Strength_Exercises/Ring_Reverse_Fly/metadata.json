@@ -1,0 +1,63 @@
+{
+    "title": "Ring Reverse Fly",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a dumbbell in each hand.",
+                    "Bend forward at the hips, keeping your back straight and your arms hanging down towards the floor.",
+                    "Bring your arms up and out to the sides, keeping them straight and parallel to the floor.",
+                    "As you lift your arms, rotate your wrists so that your palms face up and your thumbs point towards the ceiling.",
+                    "Pause at the top of the movement, then slowly lower your arms back down to the starting position.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the muscles of the upper back and shoulders",
+                    "Improves posture by pulling the shoulders back and down",
+                    "Helps prevent and alleviate shoulder pain and injury",
+                    "Increases range of motion in the shoulders",
+                    "Can be done with minimal equipment and in a variety of settings"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rhomboids",
+                    "Trapezius",
+                    "Deltoids",
+                    "Rotator Cuff"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single Arm Ring Reverse Fly",
+                    "Ring Reverse Fly with External Rotation",
+                    "Ring Reverse Fly with Scapular Retraction",
+                    "Ring Reverse Fly with Bicep Curl",
+                    "Ring Reverse Fly with Tricep Extension"
+                ]
+            }
+        }
+    ]
+}

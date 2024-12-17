@@ -1,0 +1,66 @@
+{
+    "title": "Dumbbell Plank Pass Through",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start in a high plank position with your hands on a pair of dumbbells directly under your shoulders.",
+                    "Engage your core and glutes to maintain a straight line from your head to your heels.",
+                    "Take one dumbbell in your right hand and pass it under your body to your left hand.",
+                    "Place the dumbbell on the ground and repeat with the other hand, passing the dumbbell back to your right hand.",
+                    "Continue passing the dumbbells back and forth for the desired number of reps or time.",
+                    "Make sure to keep your hips stable and avoid twisting or rotating your body.",
+                    "To make the exercise more challenging, you can add a push-up between each pass through."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the core muscles",
+                    "Improves shoulder stability and mobility",
+                    "Engages the chest, triceps, and back muscles",
+                    "Increases overall body stability and balance",
+                    "Can be modified for different fitness levels"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus Abdominis",
+                    "Transverse Abdominis",
+                    "Obliques",
+                    "Erector Spinae",
+                    "Shoulder Stabilizers",
+                    "Triceps"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Plank Row",
+                    "Dumbbell Renegade Row",
+                    "Dumbbell Push-Up Row",
+                    "Dumbbell Plank Shoulder Tap",
+                    "Dumbbell Plank Knee-to-Elbow"
+                ]
+            }
+        }
+    ]
+}

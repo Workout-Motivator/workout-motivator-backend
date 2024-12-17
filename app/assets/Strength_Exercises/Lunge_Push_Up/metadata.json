@@ -1,0 +1,67 @@
+{
+    "title": "Lunge Push Up",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start in a push-up position with your hands shoulder-width apart and your feet hip-width apart.",
+                    "Step your right foot forward and place it next to your right hand.",
+                    "Bend your right knee and lower your body into a lunge position.",
+                    "Push off your right foot and return to the starting push-up position.",
+                    "Perform a push-up.",
+                    "Repeat the lunge with your left foot and perform another push-up.",
+                    "Continue alternating between lunges and push-ups for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the lower body muscles, including the quadriceps, hamstrings, and glutes",
+                    "Improves core stability and balance",
+                    "Targets the chest, triceps, and shoulders for upper body strength",
+                    "Increases cardiovascular endurance and calorie burn",
+                    "Can be modified for different fitness levels and goals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Chest",
+                    "Triceps",
+                    "Shoulders",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Reverse Lunge Push up",
+                    "Side Lunge Push up",
+                    "Curtsy Lunge Push up",
+                    "Spiderman Lunge Push up",
+                    "Jump Lunge Push up"
+                ]
+            }
+        }
+    ]
+}

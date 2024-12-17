@@ -1,0 +1,61 @@
+{
+    "title": "Seated Ankle Stretch",
+    "description": "A stretch exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Sit on the floor with your legs straight out in front of you.",
+                    "Bend your right knee and place your right ankle on top of your left knee.",
+                    "Use your hands to gently press down on your right knee, feeling a stretch in your right ankle and calf.",
+                    "Hold for 15-30 seconds, then switch sides and repeat.",
+                    "Repeat the stretch 2-3 times on each side."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves ankle flexibility and range of motion",
+                    "Reduces the risk of ankle injuries",
+                    "Relieves tension and tightness in the ankles",
+                    "Can help alleviate foot and ankle pain",
+                    "May improve balance and stability"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Gastrocnemius",
+                    "Soleus",
+                    "Tibialis anterior"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Standing Ankle Stretch",
+                    "Wall Ankle Mobilization",
+                    "Seated Toe Stretch",
+                    "Standing Calf Stretch",
+                    "Downward Dog"
+                ]
+            }
+        }
+    ]
+}

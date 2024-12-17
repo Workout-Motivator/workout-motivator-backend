@@ -1,0 +1,66 @@
+{
+    "title": "Side Neck Stretch",
+    "description": "A stretch exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand or sit with your back straight and shoulders relaxed.",
+                    "Slowly tilt your head to the right, bringing your right ear towards your right shoulder.",
+                    "Place your right hand on the left side of your head and gently apply pressure to increase the stretch.",
+                    "Hold the stretch for 15-30 seconds, breathing deeply.",
+                    "Slowly release the stretch and return your head to center.",
+                    "Repeat on the left side, bringing your left ear towards your left shoulder and placing your left hand on the right side of your head.",
+                    "Repeat the stretch on both sides 2-3 times."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Relieves tension and stiffness in the neck muscles",
+                    "Improves range of motion in the neck",
+                    "Reduces headaches and migraines caused by tension in the neck",
+                    "Helps to prevent neck injuries",
+                    "Can be done anywhere, anytime, without any equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Sternocleidomastoid muscle",
+                    "Trapezius muscle",
+                    "Levator scapulae muscle"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Chin Tucks",
+                    "Neck Rolls",
+                    "Shoulder Shrugs",
+                    "Ear to Shoulder Stretch",
+                    "Seated Neck Release",
+                    "Thread the Needle Stretch",
+                    "Child\u2019s Pose",
+                    "Downward Facing Dog"
+                ]
+            }
+        }
+    ]
+}

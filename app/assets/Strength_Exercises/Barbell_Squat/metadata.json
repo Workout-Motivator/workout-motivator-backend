@@ -1,0 +1,66 @@
+{
+    "title": "Barbell Squat",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by standing with your feet shoulder-width apart and your toes pointing slightly outward.",
+                    "Place the barbell on your upper back, resting it on your traps and shoulders.",
+                    "Grasp the barbell with both hands, keeping your elbows pointing down and your wrists straight.",
+                    "Inhale and brace your core, then lower your body by bending at the knees and hips.",
+                    "Keep your chest up and your back straight as you descend, and make sure your knees track over your toes.",
+                    "Lower yourself until your thighs are parallel to the ground, or as low as you can comfortably go.",
+                    "Exhale and push through your heels to stand back up, keeping your core tight and your back straight.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens and tones the calf muscles",
+                    "Improves ankle stability and balance",
+                    "Increases lower leg endurance",
+                    "Can be easily modified for different fitness levels",
+                    "Targets the gastrocnemius and soleus muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "front barbell squat",
+                    "back barbell squat",
+                    "overhead barbell squat",
+                    "single-leg barbell squat",
+                    "sumo barbell squat"
+                ]
+            }
+        }
+    ]
+}

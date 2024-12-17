@@ -1,0 +1,66 @@
+{
+    "title": "Resistance Band Walk",
+    "description": "A cardio exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Place the resistance band around your ankles.",
+                    "Stand with your feet shoulder-width apart and your knees slightly bent.",
+                    "Take a step to the right with your right foot, keeping tension on the band.",
+                    "Bring your left foot to meet your right foot.",
+                    "Take a step to the left with your left foot, keeping tension on the band.",
+                    "Bring your right foot to meet your left foot.",
+                    "Repeat for 10-15 steps in each direction."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the glutes, hips, and thighs",
+                    "Improves balance and stability",
+                    "Increases endurance and cardiovascular health",
+                    "Can be done anywhere with minimal equipment",
+                    "Low-impact exercise that is easy on the joints"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Glutes",
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Hip abductors",
+                    "Hip adductors",
+                    "Calves"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Resistance Band Lateral Walk",
+                    "Resistance Band Forward Walk",
+                    "Resistance Band Backward Walk",
+                    "Resistance Band Diagonal Walk",
+                    "Resistance Band Monster Walk"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "title": "Front Plank",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by getting into a push-up position, with your hands shoulder-width apart and your feet hip-width apart.",
+                    "Lower your forearms to the ground, keeping your elbows directly under your shoulders.",
+                    "Engage your core and glutes to lift your body off the ground, creating a straight line from your head to your heels.",
+                    "Hold this position for 30-60 seconds, or as long as you can maintain proper form.",
+                    "To release, lower your knees to the ground and then lower your body back down to the ground."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens core muscles, including the abs, back, and hips",
+                    "Improves posture and stability",
+                    "Reduces risk of lower back pain and injury",
+                    "Increases overall body strength and endurance",
+                    "Can be modified for different fitness levels and goals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus abdominis",
+                    "Transverse abdominis",
+                    "Obliques",
+                    "Erector spinae",
+                    "Glutes",
+                    "Quadriceps"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Side Plank",
+                    "Reverse Plank",
+                    "Plank with Leg Lifts",
+                    "Plank with Shoulder Taps",
+                    "Plank with Knee-to-Elbow Twist"
+                ]
+            }
+        }
+    ]
+}

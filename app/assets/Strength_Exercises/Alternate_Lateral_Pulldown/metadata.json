@@ -1,0 +1,65 @@
+{
+    "title": "Alternate Lateral Pulldown",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Begin by sitting at a lat pulldown machine and adjusting the knee pad to fit snugly against your thighs.",
+                    "Grasp the bar with an overhand grip that is slightly wider than shoulder-width apart.",
+                    "Lean back slightly and engage your core muscles to maintain a stable position.",
+                    "Exhale and pull the bar down towards your chest, keeping your elbows close to your sides.",
+                    "As you pull the bar down, twist your torso to one side and bring your elbow towards your hip.",
+                    "Inhale and slowly release the bar back to the starting position while twisting your torso to the opposite side.",
+                    "Repeat the exercise for the desired number of repetitions, alternating sides with each repetition."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the lower abdominal muscles",
+                    "Improves core stability and balance",
+                    "Helps to reduce lower back pain",
+                    "Increases flexibility in the hips and lower back",
+                    "Can be done anywhere without equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Latissimus dorsi",
+                    "Trapezius",
+                    "Rhomboids",
+                    "Biceps brachii",
+                    "Forearm muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Close-grip lateral pulldown",
+                    "Wide-grip lateral pulldown",
+                    "Reverse-grip lateral pulldown",
+                    "One-arm lateral pulldown",
+                    "Kneeling lateral pulldown"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "title": "Dumbbell Reverse Preacher Curl",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by sitting on a preacher bench with a dumbbell in one hand.",
+                    "Place the back of your upper arm on the preacher bench pad, making sure your armpit is at the top of the pad.",
+                    "Extend your arm fully, letting the dumbbell hang down towards the floor.",
+                    "Slowly curl the dumbbell up towards your shoulder, keeping your upper arm stationary on the pad.",
+                    "Pause at the top of the movement and squeeze your bicep.",
+                    "Slowly lower the dumbbell back down to the starting position.",
+                    "Repeat for the desired number of reps, then switch arms and repeat the exercise."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the biceps brachii muscle",
+                    "Helps to build arm strength and size",
+                    "Improves grip strength",
+                    "Can be done with minimal equipment",
+                    "Allows for variation in grip and weight used"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Biceps brachii",
+                    "Brachialis",
+                    "Brachioradialis"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Reverse grip dumbbell preacher curl",
+                    "Barbell reverse preacher curl",
+                    "Machine reverse preacher curl",
+                    "Cable reverse preacher curl",
+                    "Hammer grip dumbbell preacher curl"
+                ]
+            }
+        }
+    ]
+}

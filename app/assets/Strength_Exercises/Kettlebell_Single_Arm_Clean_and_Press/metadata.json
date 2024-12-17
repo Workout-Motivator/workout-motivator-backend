@@ -1,0 +1,69 @@
+{
+    "title": "Kettlebell Single Arm Clean and Press",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and the kettlebell on the ground in front of you.",
+                    "Bend down and grab the kettlebell with one hand, keeping your back straight and your core engaged.",
+                    "Stand up, using your legs to lift the kettlebell off the ground and bring it up to your shoulder.",
+                    "Rotate your wrist so that your palm is facing forward and the kettlebell is resting on the back of your wrist.",
+                    "Press the kettlebell overhead, extending your arm fully and keeping your core engaged.",
+                    "Lower the kettlebell back down to your shoulder.",
+                    "Rotate your wrist back to the starting position with the kettlebell resting on the back of your wrist.",
+                    "Lower the kettlebell back down to the ground.",
+                    "Repeat for the desired number of reps, then switch to the other arm."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves cardiovascular endurance",
+                    "Increases strength and power in the hips, glutes, and core",
+                    "Enhances grip strength and forearm endurance",
+                    "Improves coordination and balance",
+                    "Burns calories and aids in weight loss",
+                    "Can be modified for different fitness levels and goals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Shoulders",
+                    "Triceps",
+                    "Core",
+                    "Glutes",
+                    "Hamstrings"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "kettlebell-single-arm-clean-and-jerk",
+                    "kettlebell-single-arm-snatch",
+                    "dumbbell-single-arm-clean-and-press",
+                    "dumbbell-single-arm-snatch",
+                    "barbell-clean-and-press",
+                    "barbell-snatch"
+                ]
+            }
+        }
+    ]
+}

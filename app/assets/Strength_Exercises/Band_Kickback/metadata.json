@@ -1,0 +1,62 @@
+{
+    "title": "Band Kickback",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by attaching an ankle cuff to a low cable pulley and strapping it around your ankle.",
+                    "Stand facing the cable machine with your feet shoulder-width apart and your knees slightly bent.",
+                    "Grab the cable with both hands and bring it towards your chest, keeping your elbows close to your body.",
+                    "Extend your right leg back, keeping it straight, until your foot is a few inches off the ground.",
+                    "Slowly kick your right foot back as far as you can, squeezing your glutes at the top of the movement.",
+                    "Lower your leg back down to the starting position and repeat for the desired number of reps.",
+                    "Switch sides and repeat the exercise with your left leg."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the glutes and hamstrings",
+                    "Helps improve hip extension and stability",
+                    "Can be done with minimal equipment (just a resistance band)",
+                    "Can be easily modified to increase or decrease resistance",
+                    "Can be incorporated into a full body workout or used as a standalone exercise"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Gluteus maximus",
+                    "Hamstrings"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single-leg band kickback",
+                    "Standing band kickback",
+                    "Seated band kickback",
+                    "Side-lying band kickback",
+                    "Reverse band kickback"
+                ]
+            }
+        }
+    ]
+}

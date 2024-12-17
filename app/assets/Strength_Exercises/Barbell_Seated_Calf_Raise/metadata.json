@@ -1,0 +1,63 @@
+{
+    "title": "Barbell Seated Calf Raise",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by sitting on a bench with your feet flat on the floor and a barbell resting on your thighs.",
+                    "Place the balls of your feet on a block or step, with your heels hanging off the edge.",
+                    "Grasp the barbell with both hands and lift it up to your knees.",
+                    "Keeping your back straight, slowly raise your heels as high as possible, contracting your calf muscles.",
+                    "Hold the contraction for a few seconds, then slowly lower your heels back down to the starting position.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the calf muscles specifically, helping to build strength and size in this area",
+                    "Can be easily adjusted to increase or decrease the weight being lifted, allowing for progression over time",
+                    "Helps to improve ankle stability and balance, which can be beneficial for athletes and those with weak ankles",
+                    "Can be performed with a barbell or dumbbells, making it a versatile exercise that can be done in a variety of settings",
+                    "Requires minimal equipment and can be done at home or in a gym setting"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Gastrocnemius",
+                    "Soleus"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Seated Calf Raise",
+                    "Machine Seated Calf Raise",
+                    "Smith Machine Seated Calf Raise",
+                    "Barbell Standing Calf Raise",
+                    "Dumbbell Standing Calf Raise",
+                    "Machine Standing Calf Raise",
+                    "Smith Machine Standing Calf Raise"
+                ]
+            }
+        }
+    ]
+}

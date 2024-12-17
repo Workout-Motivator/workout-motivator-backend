@@ -1,0 +1,67 @@
+{
+    "title": "Back Stretch",
+    "description": "A stretch exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your arms at your sides.",
+                    "Slowly bend forward at the waist, keeping your knees slightly bent and your back straight.",
+                    "Reach your hands towards the ground and hold the stretch for 10-15 seconds.",
+                    "Slowly rise back up to a standing position.",
+                    "Repeat the stretch 2-3 times."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Relieves tension and pain in the back muscles",
+                    "Improves flexibility and range of motion in the spine",
+                    "Reduces the risk of back injuries",
+                    "Helps to correct poor posture",
+                    "Can be done anywhere without any equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Erector Spinae",
+                    "Trapezius",
+                    "Rhomboids",
+                    "Latissimus Dorsi",
+                    "Hamstrings"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Standing back extension",
+                    "Seated back extension",
+                    "Cat-cow stretch",
+                    "Child\u2019s pose",
+                    "Thread the needle stretch",
+                    "Downward facing dog",
+                    "Cobra pose",
+                    "Bridge pose",
+                    "Supine twist"
+                ]
+            }
+        }
+    ]
+}

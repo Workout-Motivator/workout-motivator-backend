@@ -1,0 +1,68 @@
+{
+    "title": "Walking on Incline Treadmill",
+    "description": "A cardio exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by adjusting the incline on the treadmill to your desired level.",
+                    "Step onto the treadmill and begin walking at a slow pace.",
+                    "Keep your posture upright and engage your core muscles.",
+                    "As you walk, focus on taking long strides and landing on the balls of your feet.",
+                    "Continue walking for 20-30 minutes, gradually increasing the speed and incline as you feel comfortable.",
+                    "Once you have completed your workout, gradually decrease the speed and incline before stepping off the treadmill.",
+                    "Stretch your legs and lower back to cool down and prevent injury."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Increases cardiovascular endurance",
+                    "Burns calories and aids in weight loss",
+                    "Strengthens lower body muscles, including calves, quads, and glutes",
+                    "Improves balance and coordination",
+                    "Reduces stress and improves mood",
+                    "Low-impact exercise, making it easier on joints",
+                    "Can be adjusted to different incline levels for varying levels of intensity"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Glutes",
+                    "Calf muscles",
+                    "Abdominals",
+                    "Back muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Walking on Flat Treadmill",
+                    "Walking on Stair Climber",
+                    "Hiking on a Trail",
+                    "Walking on a Steep Hill",
+                    "Walking with a Weighted Vest"
+                ]
+            }
+        }
+    ]
+}

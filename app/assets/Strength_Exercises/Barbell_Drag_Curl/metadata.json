@@ -1,0 +1,63 @@
+{
+    "title": "Barbell Drag Curl",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a barbell with an underhand grip, hands shoulder-width apart.",
+                    "Start with the barbell at your thighs, arms fully extended.",
+                    "Keeping your elbows close to your body, curl the barbell up towards your chest.",
+                    "As you curl the barbell up, drag it along your body, keeping it in contact with your torso.",
+                    "Pause at the top of the movement, then slowly lower the barbell back down to the starting position.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the biceps brachii muscle, helping to build strength and size in the arms",
+                    "Engages the brachialis muscle, which can help to increase the overall size and definition of the upper arm",
+                    "Improves grip strength and forearm development, as the exercise requires a strong grip on the barbell",
+                    "Allows for a greater range of motion compared to traditional bicep curls, which can help to activate more muscle fibers and promote greater muscle growth",
+                    "Can be easily modified by adjusting the weight or grip width to suit individual fitness levels and goals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Biceps brachii",
+                    "Brachialis",
+                    "Brachioradialis"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Reverse Barbell Drag Curl",
+                    "Single Arm Barbell Drag Curl",
+                    "Wide Grip Barbell Drag Curl",
+                    "Narrow Grip Barbell Drag Curl",
+                    "Seated Barbell Drag Curl",
+                    "Standing Alternating Barbell Drag Curl"
+                ]
+            }
+        }
+    ]
+}

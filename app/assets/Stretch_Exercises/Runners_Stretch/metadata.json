@@ -1,0 +1,63 @@
+{
+    "title": "Runners Stretch",
+    "description": "A stretch exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet hip-width apart.",
+                    "Step your right foot forward, keeping your left foot in place.",
+                    "Bend your right knee and shift your weight forward, keeping your left leg straight.",
+                    "Place your hands on your right thigh for support.",
+                    "Hold the stretch for 30 seconds.",
+                    "Release and switch sides, stepping your left foot forward and repeating the stretch on your left leg."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Increases flexibility in the hamstrings, calves, and hips",
+                    "Improves posture and alignment",
+                    "Reduces risk of injury in the lower body",
+                    "Relieves tension in the lower back and hips",
+                    "Improves circulation and oxygen flow to the muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Hamstrings",
+                    "Calves",
+                    "Quadriceps",
+                    "Glutes"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Standing Runners Stretch",
+                    "Seated Runners Stretch",
+                    "Lunge Runners Stretch",
+                    "Wall Runners Stretch",
+                    "Partner Runners Stretch"
+                ]
+            }
+        }
+    ]
+}

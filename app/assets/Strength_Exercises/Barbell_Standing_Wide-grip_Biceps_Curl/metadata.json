@@ -1,0 +1,67 @@
+{
+    "title": "Barbell Standing Wide-grip Biceps Curl",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and grasp the barbell with a wide grip, palms facing forward.",
+                    "Keep your elbows close to your body and curl the barbell up towards your chest, contracting your biceps.",
+                    "Pause at the top of the movement and squeeze your biceps before slowly lowering the barbell back down to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens upper back muscles",
+                    "Improves posture",
+                    "Engages core muscles for stability",
+                    "Can be done with minimal equipment",
+                    "Targets multiple muscle groups including lats, rhomboids, and biceps"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Biceps brachii",
+                    "Brachialis",
+                    "Brachioradialis"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Barbell standing narrow grip biceps curl",
+                    "Barbell standing close grip biceps curl",
+                    "Barbell standing reverse grip biceps curl",
+                    "Barbell standing hammer grip biceps curl",
+                    "Dumbbell standing wide grip biceps curl",
+                    "Dumbbell standing narrow grip biceps curl",
+                    "Dumbbell standing reverse grip biceps curl",
+                    "Dumbbell standing hammer grip biceps curl",
+                    "Preacher curl with wide grip barbell",
+                    "Preacher curl with narrow grip barbell",
+                    "Preacher curl with dumbbells",
+                    "Concentration curl with dumbbell"
+                ]
+            }
+        }
+    ]
+}

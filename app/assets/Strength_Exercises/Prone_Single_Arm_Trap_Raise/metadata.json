@@ -1,0 +1,64 @@
+{
+    "title": "Prone Single Arm Trap Raise",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying face down on a bench or stability ball, with your feet firmly planted on the ground and your arms hanging down towards the floor.",
+                    "Engage your core and glutes to maintain a stable position.",
+                    "Slowly lift one arm up towards the ceiling, keeping it straight and in line with your shoulder.",
+                    "As you lift your arm, focus on squeezing your shoulder blade towards your spine.",
+                    "Hold the top position for a few seconds, then slowly lower your arm back down to the starting position.",
+                    "Repeat on the other side, alternating arms for the desired number of reps.",
+                    "Make sure to keep your neck in a neutral position throughout the exercise, and avoid arching your back or lifting your legs off the ground."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the upper back muscles, specifically the trapezius and rhomboids",
+                    "Improves posture by pulling the shoulders back and down",
+                    "Helps prevent shoulder injuries by strengthening the rotator cuff muscles",
+                    "Can be done with minimal equipment, making it a convenient exercise to do at home or while traveling",
+                    "Can be easily modified by adjusting the weight or reps to increase or decrease the difficulty"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Trapezius",
+                    "Rhomboids",
+                    "Posterior deltoid",
+                    "Erector spinae"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Prone Double Arm Trap Raise",
+                    "Prone Y Raise",
+                    "Prone T Raise",
+                    "Prone W Raise",
+                    "Prone Snow Angel"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "title": "Dumbbell Rollout",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by kneeling on the ground with a dumbbell in each hand.",
+                    "Place the dumbbells on the ground in front of you and extend your arms out in front of you, keeping your hands on the dumbbells.",
+                    "Slowly roll the dumbbells away from your body, keeping your arms straight and your core engaged.",
+                    "Pause when your arms are fully extended and your body is in a straight line from your knees to your shoulders.",
+                    "Slowly roll the dumbbells back towards your body, keeping your arms straight and your core engaged.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the core muscles, including the abs, obliques, and lower back",
+                    "Improves stability and balance",
+                    "Increases shoulder and arm strength",
+                    "Helps to prevent lower back pain and injury",
+                    "Can be modified for different fitness levels and abilities"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Abdominal muscles (rectus abdominis, transverse abdominis)",
+                    "Oblique muscles (internal and external)",
+                    "Shoulder muscles (deltoids)",
+                    "Triceps brachii"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single-arm Dumbbell Rollout",
+                    "Alternating-arm Dumbbell Rollout",
+                    "Stability Ball Dumbbell Rollout",
+                    "Barbell Rollout",
+                    "Ab Wheel Rollout"
+                ]
+            }
+        }
+    ]
+}

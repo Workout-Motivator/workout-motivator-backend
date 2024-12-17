@@ -1,0 +1,75 @@
+{
+    "title": "Walking",
+    "description": "A cardio exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by standing up straight with your feet shoulder-width apart.",
+                    "Begin walking forward by taking a step with your right foot.",
+                    "As you step forward with your right foot, swing your left arm forward and your right arm back.",
+                    "Take a step with your left foot and swing your right arm forward and your left arm back.",
+                    "Continue this alternating pattern of stepping and swinging your arms as you walk forward.",
+                    "Make sure to keep your head up and your shoulders relaxed.",
+                    "Try to maintain a brisk pace to get your heart rate up and increase the intensity of the exercise.",
+                    "You can also try walking uphill or on an incline to add more resistance to the exercise.",
+                    "Continue walking for at least 30 minutes to get a good cardiovascular workout."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves cardiovascular health",
+                    "Strengthens bones and muscles",
+                    "Helps with weight management",
+                    "Reduces risk of chronic diseases such as diabetes and heart disease",
+                    "Boosts mood and reduces stress",
+                    "Improves balance and coordination",
+                    "Can be done anywhere with no equipment needed"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Glutes",
+                    "Calf muscles",
+                    "Abdominals",
+                    "Back muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Walking uphill",
+                    "Walking downhill",
+                    "Power walking",
+                    "Brisk walking",
+                    "Interval walking",
+                    "Walking lunges",
+                    "Walking with weights",
+                    "Walking on a treadmill",
+                    "Walking on an incline treadmill",
+                    "Walking on a stair climber"
+                ]
+            }
+        }
+    ]
+}

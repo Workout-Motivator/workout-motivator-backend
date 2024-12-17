@@ -1,0 +1,62 @@
+{
+    "title": "Assisted Parallel Close Grip Pull Up",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand under the pull-up bar and reach up to grab it with a close grip, with your palms facing towards you.",
+                    "Jump up or use a step to get your chin above the bar.",
+                    "Lower yourself down slowly, keeping your elbows close to your body.",
+                    "When your arms are fully extended, pull yourself back up to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens abdominal muscles",
+                    "Improves core stability",
+                    "Assists in developing proper form for full sit-ups",
+                    "Can be modified for different fitness levels",
+                    "Can be done with minimal equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Biceps",
+                    "Forearms",
+                    "Lats",
+                    "Middle back",
+                    "Rhomboids",
+                    "Trapezius"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Assisted pull-up",
+                    "Parallel grip pull-up",
+                    "Close grip pull-up"
+                ]
+            }
+        }
+    ]
+}

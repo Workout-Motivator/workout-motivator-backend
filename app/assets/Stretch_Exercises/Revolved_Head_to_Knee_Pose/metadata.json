@@ -1,0 +1,66 @@
+{
+    "title": "Revolved Head to Knee Pose",
+    "description": "A stretch exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start in a seated position with your legs extended in front of you.",
+                    "Bend your right knee and bring the sole of your right foot to rest against your left inner thigh.",
+                    "Place your right hand on your right knee and inhale as you lengthen your spine.",
+                    "Exhale and twist your torso to the left, bringing your left hand to rest on your right foot or ankle.",
+                    "Hold the pose for several breaths, then release and repeat on the other side."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Stretches the hips, hamstrings, and groin",
+                    "Strengthens the legs and core",
+                    "Improves digestion and elimination",
+                    "Relieves lower back pain",
+                    "Stimulates the abdominal organs",
+                    "Improves balance and concentration",
+                    "Calms the mind and reduces stress"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Hamstrings",
+                    "Glutes",
+                    "Obliques",
+                    "Spinal Erectors",
+                    "Quadriceps",
+                    "Calves"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Half Revolved Head-to-Knee Pose",
+                    "Revolved Head-to-Knee Pose with Extended Leg",
+                    "Revolved Head-to-Knee Pose with Bind",
+                    "Revolved Head-to-Knee Pose with Half Lotus",
+                    "Revolved Head-to-Knee Pose with Half Lotus and Bind"
+                ]
+            }
+        }
+    ]
+}

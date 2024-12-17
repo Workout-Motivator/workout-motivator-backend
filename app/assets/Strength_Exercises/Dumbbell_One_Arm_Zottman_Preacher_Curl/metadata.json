@@ -1,0 +1,66 @@
+{
+    "title": "Dumbbell One Arm Zottman Preacher Curl",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by sitting on a preacher bench with a dumbbell in one hand.",
+                    "Place your upper arm on the bench, with your elbow bent and your palm facing up.",
+                    "Begin the exercise by curling the weight up towards your shoulder, keeping your upper arm stationary.",
+                    "As you curl the weight up, rotate your wrist so that your palm is facing down at the top of the movement.",
+                    "Pause briefly at the top of the movement, then slowly lower the weight back down to the starting position, rotating your wrist back to the starting position as you do so.",
+                    "Repeat for the desired number of repetitions, then switch arms and repeat the exercise with the other arm."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the back muscles",
+                    "Improves posture",
+                    "Increases grip strength",
+                    "Targets the biceps and forearms",
+                    "Improves shoulder stability",
+                    "Can be modified for different fitness levels"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Biceps brachii",
+                    "Brachialis",
+                    "Brachioradialis",
+                    "Forearm supinators",
+                    "Forearm pronators"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "dumbbell-one-arm-preacher-curl",
+                    "dumbbell-zottman-curl",
+                    "dumbbell-hammer-curl",
+                    "barbell-zottman-curl",
+                    "barbell-preacher-curl",
+                    "cable-one-arm-zottman-curl"
+                ]
+            }
+        }
+    ]
+}

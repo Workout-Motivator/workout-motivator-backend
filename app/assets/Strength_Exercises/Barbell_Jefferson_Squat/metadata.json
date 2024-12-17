@@ -1,0 +1,64 @@
+{
+    "title": "Barbell Jefferson Squat",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by standing with your feet shoulder-width apart and the barbell placed between your legs.",
+                    "Take a step forward with your left foot and rotate your torso to the left.",
+                    "Grab the barbell with your left hand and place your right hand on the opposite side of the barbell.",
+                    "Lower your body into a squat position, keeping your back straight and your chest up.",
+                    "Push through your heels to stand back up, keeping the barbell close to your body.",
+                    "Repeat the exercise for the desired number of repetitions before switching sides."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets multiple muscle groups including quads, glutes, hamstrings, and core",
+                    "Improves lower body strength and power",
+                    "Increases hip mobility and flexibility",
+                    "Can be modified for different fitness levels and goals",
+                    "Engages stabilizer muscles for improved balance and coordination"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Glutes",
+                    "Calves",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Jefferson Squat",
+                    "Kettlebell Jefferson Squat",
+                    "Single-leg Jefferson Squat",
+                    "Front-loaded Jefferson Squat",
+                    "Back-loaded Jefferson Squat"
+                ]
+            }
+        }
+    ]
+}

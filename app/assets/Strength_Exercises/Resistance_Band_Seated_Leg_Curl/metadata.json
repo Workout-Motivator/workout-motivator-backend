@@ -1,0 +1,61 @@
+{
+    "title": "Resistance Band Seated Leg Curl",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Attach the resistance band to a sturdy object, such as a chair or bench.",
+                    "Sit on the floor with your legs straight out in front of you and the resistance band looped around your ankles.",
+                    "Hold onto the resistance band with your hands to keep it taut.",
+                    "Bend your knees and bring your heels towards your buttocks, keeping your feet flexed.",
+                    "Slowly straighten your legs back out to the starting position.",
+                    "Repeat for desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the hamstrings, which are important for knee stability and overall lower body strength",
+                    "Can be done with a resistance band, making it a convenient exercise to do at home or while traveling",
+                    "Allows for a controlled and isolated movement, reducing the risk of injury",
+                    "Can be modified to increase or decrease resistance, making it suitable for all fitness levels",
+                    "Improves flexibility and range of motion in the hamstrings"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Hamstrings",
+                    "Glutes"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Resistance Band Standing Leg Curl",
+                    "Resistance Band Lying Leg Curl",
+                    "Resistance Band Single Leg Curl",
+                    "Resistance Band Hamstring Curl with Stability Ball",
+                    "Resistance Band Deadlift"
+                ]
+            }
+        }
+    ]
+}

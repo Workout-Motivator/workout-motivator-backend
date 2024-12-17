@@ -1,0 +1,71 @@
+{
+    "title": "Straddle Maltese",
+    "description": "A stretch exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start in a straddle position with your legs spread wide apart.",
+                    "Place your hands on the ground in front of you and lean forward, shifting your weight onto your hands.",
+                    "Lift your legs off the ground and extend them straight out in front of you.",
+                    "Keep your core engaged and your arms straight as you hold the Maltese position.",
+                    "Hold for a few seconds, then release and lower your legs back down to the ground.",
+                    "Repeat for several reps, gradually increasing the amount of time you hold the Maltese position."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the core muscles",
+                    "Improves upper body strength and stability",
+                    "Increases flexibility in the hips and hamstrings",
+                    "Enhances balance and body control",
+                    "Helps to develop the Maltese position in gymnastics"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Pectoralis major",
+                    "Deltoids",
+                    "Triceps",
+                    "Latissimus dorsi",
+                    "Rectus abdominis",
+                    "Obliques",
+                    "Erector spinae",
+                    "Glutes",
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Gastrocnemius"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Straddle Planche",
+                    "Maltese Press",
+                    "Straddle L-Sit",
+                    "Maltese Push-Up",
+                    "Straddle Handstand",
+                    "Maltese Dips"
+                ]
+            }
+        }
+    ]
+}

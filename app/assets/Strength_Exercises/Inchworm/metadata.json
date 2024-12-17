@@ -1,0 +1,68 @@
+{
+    "title": "Inchworm",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start in a plank position with your hands directly under your shoulders and your feet hip-width apart.",
+                    "Walk your feet towards your hands, keeping your legs straight, until your hips are raised high in the air.",
+                    "Take small steps with your hands forward, walking them out to a plank position again.",
+                    "Repeat steps 2 and 3 for the desired number of reps or time."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the core muscles",
+                    "Improves flexibility in the hamstrings and calves",
+                    "Increases shoulder stability and mobility",
+                    "Improves overall body coordination and balance",
+                    "Can be done anywhere without equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Abdominals",
+                    "Erector spinae",
+                    "Hamstrings",
+                    "Quadriceps",
+                    "Shoulders",
+                    "Triceps"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Walking inchworm",
+                    "Reverse inchworm",
+                    "Inchworm push-up",
+                    "Inchworm with a twist",
+                    "Side-to-side inchworm",
+                    "Inchworm with a hop",
+                    "Single-leg inchworm",
+                    "Inchworm with a reach",
+                    "Inchworm with a shoulder tap",
+                    "Inchworm with a spider crawl"
+                ]
+            }
+        }
+    ]
+}

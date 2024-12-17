@@ -1,0 +1,66 @@
+{
+    "title": "Plyo Jacks",
+    "description": "A cardio exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet together and your arms at your sides.",
+                    "Jump up and spread your feet apart while simultaneously raising your arms above your head.",
+                    "Land softly on the balls of your feet with your feet wider than shoulder-width apart and your arms still raised above your head.",
+                    "Jump up again and bring your feet back together while lowering your arms back to your sides.",
+                    "Repeat steps 2-4 for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Increases cardiovascular endurance",
+                    "Improves lower body strength and power",
+                    "Enhances coordination and agility",
+                    "Burns calories and aids in weight loss",
+                    "Can be modified for different fitness levels"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Abdominals",
+                    "Obliques",
+                    "Shoulders",
+                    "Chest"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Jumping Jacks",
+                    "Plank Jacks",
+                    "Star Jumps",
+                    "Skater Jumps",
+                    "Jump Squats"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "title": "Barbell Decline Pullover",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on a decline bench with your feet secured at the end of the bench and your head at the lower end.",
+                    "Hold a barbell with both hands, palms facing up, and extend your arms straight above your chest.",
+                    "Slowly lower the barbell behind your head, keeping your arms straight and your elbows locked in place.",
+                    "Once the barbell is behind your head, slowly raise it back up to the starting position, keeping your arms straight and your elbows locked in place.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the chest, back, and triceps muscles",
+                    "Improves upper body strength and endurance",
+                    "Increases flexibility and range of motion in the shoulders",
+                    "Helps to improve posture and reduce the risk of injury",
+                    "Can be modified to target specific muscle groups or to accommodate different fitness levels"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Pectoralis Major",
+                    "Latissimus Dorsi",
+                    "Triceps Brachii",
+                    "Rhomboids",
+                    "Trapezius",
+                    "Serratus Anterior"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Decline Pullover",
+                    "Cable Decline Pullover",
+                    "Machine Decline Pullover",
+                    "Barbell Incline Pullover",
+                    "Dumbbell Incline Pullover",
+                    "Cable Incline Pullover",
+                    "Machine Incline Pullover",
+                    "Barbell Bent Arm Pullover",
+                    "Dumbbell Bent Arm Pullover",
+                    "Cable Bent Arm Pullover",
+                    "Machine Bent Arm Pullover"
+                ]
+            }
+        }
+    ]
+}

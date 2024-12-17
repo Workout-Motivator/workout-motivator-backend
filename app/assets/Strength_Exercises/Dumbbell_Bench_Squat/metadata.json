@@ -1,0 +1,63 @@
+{
+    "title": "Dumbbell Bench Squat",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by grabbing a dumbbell in each hand and standing with your feet shoulder-width apart.",
+                    "Bring the dumbbells up to your shoulders, keeping your elbows close to your body.",
+                    "Squat down as if you were sitting in a chair, keeping your back straight and your knees behind your toes.",
+                    "As you stand back up, press the dumbbells up above your head, extending your arms fully.",
+                    "Lower the dumbbells back down to your shoulders and repeat the squat and press for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the chest, shoulders, and triceps",
+                    "Improves core stability and balance",
+                    "Targets the quadriceps, hamstrings, and glutes",
+                    "Increases overall muscle mass and definition",
+                    "Can be modified for different fitness levels and goals",
+                    "Helps improve posture and reduce risk of injury"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Core",
+                    "Chest (secondary)",
+                    "Triceps (secondary)"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Bench Press",
+                    "Dumbbell Squat"
+                ]
+            }
+        }
+    ]
+}

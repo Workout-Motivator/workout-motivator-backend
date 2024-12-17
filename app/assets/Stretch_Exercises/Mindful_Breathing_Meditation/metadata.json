@@ -1,0 +1,66 @@
+{
+    "title": "Mindful Breathing Meditation",
+    "description": "A stretch exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Find a quiet and comfortable place to sit or lie down.",
+                    "Close your eyes and take a few deep breaths to relax your body.",
+                    "Focus your attention on your breath as it enters and leaves your body.",
+                    "Notice the sensation of the air moving in and out of your nostrils or the rise and fall of your chest.",
+                    "If your mind wanders, gently bring your attention back to your breath without judgment.",
+                    "Continue to focus on your breath for a few minutes or as long as you like.",
+                    "When you are ready to end the meditation, take a few deep breaths and slowly open your eyes."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves posture and balance",
+                    "Strengthens legs, ankles, and feet",
+                    "Stretches the spine, shoulders, and hamstrings",
+                    "Relieves stress and anxiety",
+                    "Increases focus and concentration",
+                    "Improves digestion and circulation"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Diaphragm",
+                    "Intercostal muscles",
+                    "Abdominal muscles",
+                    "Back muscles",
+                    "Chest muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "mindful-body-scan-meditation",
+                    "loving-kindness-meditation",
+                    "walking-meditation",
+                    "mantra-meditation",
+                    "visualization-meditation"
+                ]
+            }
+        }
+    ]
+}

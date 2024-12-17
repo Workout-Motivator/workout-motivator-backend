@@ -1,0 +1,61 @@
+{
+    "title": "Barbell Preacher Curl",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by sitting on a preacher bench with your feet flat on the floor and your arms extended over the bench, holding the barbell with an underhand grip.",
+                    "Slowly curl the barbell towards your shoulders, keeping your elbows close to your body and your wrists straight.",
+                    "Pause at the top of the movement and squeeze your biceps.",
+                    "Lower the barbell back down to the starting position, keeping your movements slow and controlled.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the biceps brachii muscle, helping to increase arm strength and size",
+                    "Allows for a greater range of motion compared to traditional bicep curls",
+                    "Helps to isolate the bicep muscle, reducing the involvement of other muscles in the movement",
+                    "Can be performed with heavier weights, leading to greater muscle activation and growth",
+                    "Improves grip strength and forearm development"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Biceps brachii",
+                    "Brachialis",
+                    "Brachioradialis"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Preacher Curl",
+                    "Machine Preacher Curl",
+                    "Reverse Preacher Curl",
+                    "Close-Grip Preacher Curl",
+                    "Standing Preacher Curl"
+                ]
+            }
+        }
+    ]
+}

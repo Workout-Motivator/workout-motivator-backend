@@ -1,0 +1,61 @@
+{
+    "title": "Smith Seated Calf Raise",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Adjust the seat height so that your knees are at a 90-degree angle when your feet are on the platform.",
+                    "Place the balls of your feet on the platform and your thighs under the padded lever.",
+                    "Grasp the handles on the sides of the seat for stability.",
+                    "Slowly raise your heels as high as possible while keeping your knees stationary.",
+                    "Hold the contraction for a second before slowly lowering your heels back down to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the calf muscles specifically, helping to build strength and definition in the lower legs",
+                    "Can be done with a variety of weights and resistance levels, allowing for progression and continued challenge",
+                    "Can be done in a seated position, making it a good option for those with limited mobility or balance issues",
+                    "Helps to improve ankle stability and flexibility, which can be beneficial for athletes and those who are active",
+                    "Can be easily modified to target different areas of the calf muscles, such as the soleus or gastrocnemius"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Gastrocnemius",
+                    "Soleus"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Standing Calf Raise",
+                    "Donkey Calf Raise",
+                    "Single Leg Calf Raise",
+                    "Barbell Calf Raise",
+                    "Seated Single Leg Calf Raise"
+                ]
+            }
+        }
+    ]
+}

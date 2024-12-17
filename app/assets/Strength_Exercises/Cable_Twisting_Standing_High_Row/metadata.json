@@ -1,0 +1,66 @@
+{
+    "title": "Cable Twisting Standing High Row",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a cable handle in each hand.",
+                    "Extend your arms straight out in front of you, keeping your elbows slightly bent.",
+                    "Twist your torso to the right, pulling the cable handle towards your right hip.",
+                    "As you twist, lift the cable handle towards your chest, keeping your elbow close to your body.",
+                    "Pause for a moment at the top of the movement, then slowly lower the cable handle back to the starting position.",
+                    "Repeat the movement on the left side, twisting your torso to the left and pulling the cable handle towards your left hip.",
+                    "Continue alternating sides for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets multiple muscle groups including the back, shoulders, and arms",
+                    "Improves posture and upper body strength",
+                    "Increases stability and balance",
+                    "Can be modified for different fitness levels and goals",
+                    "Provides a low-impact workout option"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Latissimus dorsi",
+                    "Trapezius",
+                    "Rhomboids",
+                    "Deltoids",
+                    "Biceps",
+                    "Forearms"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Cable Twisting Seated High Row",
+                    "Cable Twisting Low Row",
+                    "Cable Twisting Single Arm Row",
+                    "Cable Twisting Wide Grip Row",
+                    "Cable Twisting Close Grip Row"
+                ]
+            }
+        }
+    ]
+}

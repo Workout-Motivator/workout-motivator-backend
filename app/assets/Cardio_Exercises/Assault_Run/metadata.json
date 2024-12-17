@@ -1,0 +1,65 @@
+{
+    "title": "Assault Run",
+    "description": "A cardio exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by standing at the starting line.",
+                    "Begin running at a moderate pace.",
+                    "After a short distance, increase your speed to a sprint.",
+                    "Continue sprinting for a set distance or time (e.g. 100 meters or 30 seconds).",
+                    "Slow down to a jog or walk for a short recovery period.",
+                    "Repeat the sprint and recovery intervals for a set number of rounds (e.g. 5 rounds).",
+                    "Finish by jogging or walking back to the starting line."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves cardiovascular endurance",
+                    "Increases leg strength and power",
+                    "Enhances mental toughness and resilience",
+                    "Burns calories and aids in weight loss",
+                    "Can be done anywhere with no equipment needed"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Glutes",
+                    "Calf muscles",
+                    "Core muscles",
+                    "Cardiovascular system"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Assault Bike",
+                    "Assault Air Runner",
+                    "Assault Rowing Machine",
+                    "Assault Ski Erg"
+                ]
+            }
+        }
+    ]
+}

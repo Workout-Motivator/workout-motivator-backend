@@ -1,0 +1,64 @@
+{
+    "title": "Cocoons",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying flat on your back with your arms at your sides.",
+                    "Lift your legs off the ground and bend your knees so that your shins are parallel to the floor.",
+                    "Bring your knees towards your chest and wrap your arms around them, hugging them close to your body.",
+                    "Take a deep breath in and as you exhale, lift your head and shoulders off the ground and bring your forehead towards your knees.",
+                    "Hold this position for a few seconds, feeling the stretch in your lower back and hips.",
+                    "Slowly release the pose by lowering your head and shoulders back down to the ground and extending your legs back out.",
+                    "Repeat the exercise for a few more repetitions, focusing on your breath and the stretch in your body."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the core muscles",
+                    "Improves flexibility in the spine and hips",
+                    "Relieves tension in the lower back",
+                    "Stretches the hamstrings and glutes",
+                    "Can help alleviate stress and anxiety"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Abdominal muscles",
+                    "Lower back muscles",
+                    "Gluteal muscles",
+                    "Hamstring muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Cocoon crunches",
+                    "Cocoon planks",
+                    "Cocoon twists",
+                    "Cocoon leg lifts",
+                    "Cocoon bicycles"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "title": "Single Leg Vertical Jump",
+    "description": "A cardio exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand on one leg with your knee slightly bent.",
+                    "Jump as high as you can, using only the strength of your standing leg.",
+                    "Land softly on the same leg, absorbing the impact with your muscles.",
+                    "Repeat for the desired number of repetitions, then switch legs and repeat."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves explosive power in the legs",
+                    "Increases vertical jump height",
+                    "Strengthens the muscles in the legs, particularly the quads, hamstrings, and calves",
+                    "Improves balance and stability",
+                    "Can help prevent injuries by strengthening the muscles and joints",
+                    "Can be done with minimal equipment and space"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Calf muscles",
+                    "Hamstrings",
+                    "Core muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single Leg Broad Jump",
+                    "Single Leg Box Jump",
+                    "Single Leg Hurdle Jump",
+                    "Single Leg Depth Jump",
+                    "Single Leg Squat Jump"
+                ]
+            }
+        }
+    ]
+}

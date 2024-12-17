@@ -1,0 +1,67 @@
+{
+    "title": "Smith Rear Delt Row",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by standing with your feet shoulder-width apart and holding a Smith machine bar with an overhand grip.",
+                    "Lean forward slightly, keeping your back straight and your core engaged.",
+                    "Bring the bar towards your chest, keeping your elbows close to your body and squeezing your shoulder blades together.",
+                    "Slowly lower the bar back down to the starting position.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the rear deltoid muscles, which are often neglected in traditional back exercises",
+                    "Improves posture by strengthening the upper back muscles",
+                    "Helps prevent shoulder injuries by strengthening the rotator cuff muscles",
+                    "Can be performed with a variety of equipment, including dumbbells, barbells, and cables",
+                    "Allows for a wide range of motion, which can help improve flexibility in the shoulders and upper back"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rhomboids",
+                    "Trapezius",
+                    "Posterior deltoids",
+                    "Erector spinae",
+                    "Biceps"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Smith Machine Rear Delt Row",
+                    "Seated Rear Delt Row",
+                    "Standing Rear Delt Row",
+                    "Cable Rear Delt Row",
+                    "Dumbbell Rear Delt Row",
+                    "Barbell Rear Delt Row",
+                    "T-Bar Rear Delt Row",
+                    "Resistance Band Rear Delt Row",
+                    "Machine Rear Delt Row"
+                ]
+            }
+        }
+    ]
+}

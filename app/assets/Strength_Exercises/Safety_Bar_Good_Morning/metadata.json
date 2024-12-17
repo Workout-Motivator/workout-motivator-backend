@@ -1,0 +1,66 @@
+{
+    "title": "Safety Bar Good Morning",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by setting up a squat rack with a safety bar at chest height.",
+                    "Stand facing the safety bar with your feet shoulder-width apart.",
+                    "Grab the safety bar with both hands, keeping your elbows tucked in close to your body.",
+                    "Take a deep breath and brace your core.",
+                    "Slowly hinge at the hips, pushing your butt back and keeping your chest up.",
+                    "Lower your torso until it is parallel to the ground.",
+                    "Pause for a moment, then drive your hips forward to stand back up to the starting position.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the muscles in the arms, shoulders, and back",
+                    "Improves grip strength",
+                    "Increases core stability and balance",
+                    "Can be done with minimal equipment",
+                    "Can be modified to target different muscle groups"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Erector spinae",
+                    "Gluteus maximus",
+                    "Hamstrings",
+                    "Quadriceps",
+                    "Abdominals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Safety bar good morning with bands",
+                    "Safety bar good morning with chains",
+                    "Safety bar good morning with pause",
+                    "Safety bar good morning with tempo",
+                    "Safety bar good morning with deficit"
+                ]
+            }
+        }
+    ]
+}

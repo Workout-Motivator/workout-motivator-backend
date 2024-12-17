@@ -1,0 +1,60 @@
+{
+    "title": "Dumbbell Lying Triceps Extension",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying flat on a bench with your feet firmly planted on the ground and your head at the end of the bench.",
+                    "Hold a dumbbell in each hand with your palms facing each other and your arms extended straight up towards the ceiling.",
+                    "Slowly lower the dumbbells towards your head by bending your elbows, keeping your upper arms stationary and close to your head.",
+                    "Stop when the dumbbells are just above your forehead, and then extend your arms back up to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the triceps muscles, helping to build strength and definition in the arms",
+                    "Can be done with a variety of weights, making it accessible for people of different fitness levels",
+                    "Helps to improve overall upper body strength and stability",
+                    "Can be done at home or in the gym with minimal equipment",
+                    "Can be modified to target different areas of the triceps muscle"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Triceps brachii",
+                    "Anconeus"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Close-grip dumbbell bench press",
+                    "Skull crushers",
+                    "Overhead dumbbell triceps extension",
+                    "Triceps kickbacks",
+                    "Triceps dips"
+                ]
+            }
+        }
+    ]
+}

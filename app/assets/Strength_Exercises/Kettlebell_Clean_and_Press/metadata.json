@@ -1,0 +1,69 @@
+{
+    "title": "Kettlebell Clean and Press",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and the kettlebell on the ground in front of you.",
+                    "Bend down and grab the kettlebell with one hand, keeping your back straight and your core engaged.",
+                    "Stand up, using your legs to lift the kettlebell to your shoulder.",
+                    "Rotate your wrist so that your palm is facing forward and the kettlebell is resting on the back of your wrist.",
+                    "Press the kettlebell overhead, keeping your core engaged and your arm straight.",
+                    "Lower the kettlebell back down to your shoulder.",
+                    "Rotate your wrist so that your palm is facing your body and the kettlebell is resting on the front of your wrist.",
+                    "Lower the kettlebell back down to the ground.",
+                    "Repeat for the desired number of reps, then switch hands and repeat on the other side."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Full body workout",
+                    "Improves strength and power in the shoulders, back, legs, and core",
+                    "Increases cardiovascular endurance",
+                    "Improves grip strength",
+                    "Enhances coordination and balance",
+                    "Can be modified for different fitness levels",
+                    "Efficient exercise that targets multiple muscle groups"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Shoulders",
+                    "Triceps",
+                    "Back",
+                    "Core",
+                    "Legs"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Kettlebell Clean and Jerk",
+                    "Kettlebell Snatch",
+                    "Double Kettlebell Clean and Press",
+                    "Single Arm Kettlebell Clean and Press",
+                    "Kettlebell Push Press"
+                ]
+            }
+        }
+    ]
+}

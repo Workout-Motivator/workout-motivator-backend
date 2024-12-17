@@ -1,0 +1,72 @@
+{
+    "title": "Bodyweight Swing",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your toes pointing slightly outward.",
+                    "Place your hands on your hips and engage your core muscles.",
+                    "Bend your knees slightly and hinge forward at the hips, keeping your back straight.",
+                    "Swing your arms back between your legs as you shift your weight onto your heels.",
+                    "Drive your hips forward and swing your arms up to shoulder height, squeezing your glutes at the top of the movement.",
+                    "Lower your arms and swing them back between your legs as you shift your weight onto your heels again.",
+                    "Repeat the movement for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves cardiovascular endurance",
+                    "Strengthens the core, glutes, and hamstrings",
+                    "Increases explosive power and speed",
+                    "Improves grip strength",
+                    "Low impact exercise that is easy on the joints",
+                    "Can be done anywhere with minimal equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Glutes",
+                    "Hamstrings",
+                    "Quadriceps",
+                    "Core muscles",
+                    "Shoulders",
+                    "Back muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Kettlebell Swing",
+                    "Dumbbell Swing",
+                    "Single Arm Swing",
+                    "Double Arm Swing",
+                    "One Handed Swing",
+                    "Two Handed Swing",
+                    "Sumo Swing",
+                    "High Pull Swing",
+                    "Clean Swing",
+                    "Snatch Swing"
+                ]
+            }
+        }
+    ]
+}

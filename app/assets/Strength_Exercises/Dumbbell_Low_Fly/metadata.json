@@ -1,0 +1,61 @@
+{
+    "title": "Dumbbell Low Fly",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on a flat bench with your feet firmly planted on the ground and your head resting at the end of the bench.",
+                    "Hold a dumbbell in each hand with your palms facing each other and your arms extended straight up above your chest.",
+                    "Slowly lower the dumbbells out to the sides of your body, keeping your arms straight and your palms facing up.",
+                    "Lower the dumbbells until your arms are parallel to the ground or until you feel a stretch in your chest muscles.",
+                    "Pause for a moment, then slowly raise the dumbbells back up to the starting position, keeping your arms straight and your palms facing each other.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the chest muscles, specifically the lower portion",
+                    "Helps to improve overall chest definition and shape",
+                    "Can be done with a variety of weights to increase or decrease intensity",
+                    "Engages the stabilizer muscles in the shoulders and arms",
+                    "Can be done at home or in the gym with minimal equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Chest muscles (pectoralis major and minor)",
+                    "Shoulder muscles (anterior deltoids)"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell High Fly",
+                    "Dumbbell Incline Fly",
+                    "Dumbbell Decline Fly",
+                    "Cable Fly",
+                    "Pec Deck Fly"
+                ]
+            }
+        }
+    ]
+}

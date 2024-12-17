@@ -1,0 +1,69 @@
+{
+    "title": "Dumbbell Clean and Press",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart, holding a dumbbell in each hand with your palms facing your thighs.",
+                    "Bend your knees and lower your hips, keeping your back straight and your chest up.",
+                    "As you stand up, pull the dumbbells up to your shoulders, keeping your elbows high and your palms facing each other.",
+                    "Once the dumbbells are at your shoulders, press them overhead, fully extending your arms.",
+                    "Lower the dumbbells back to your shoulders, then lower them back down to your thighs.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets multiple muscle groups including shoulders, back, legs, and core",
+                    "Improves overall strength and power",
+                    "Increases cardiovascular endurance",
+                    "Improves coordination and balance",
+                    "Can be modified for different fitness levels and goals",
+                    "Can be done with minimal equipment",
+                    "Can be incorporated into a full body workout routine"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Deltoids",
+                    "Trapezius",
+                    "Triceps",
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Core muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Clean and Jerk",
+                    "Dumbbell Hang Clean and Press",
+                    "Dumbbell Push Press",
+                    "Dumbbell Thruster",
+                    "Barbell Clean and Press",
+                    "Kettlebell Clean and Press"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "title": "Eagle Pose Garudasana",
+    "description": "A stretch exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand tall with your feet hip-width apart and your arms at your sides.",
+                    "Shift your weight onto your left foot and lift your right foot off the ground.",
+                    "Bend your right knee and cross your right thigh over your left thigh.",
+                    "Point your right toes toward the floor and hook your right foot behind your left calf.",
+                    "Bring your arms straight out in front of you and cross your left arm over your right arm at the elbows.",
+                    "Bend your elbows and bring your palms together in front of your face.",
+                    "Hold the pose for several breaths, then release and repeat on the other side."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the triceps, chest, and shoulders",
+                    "Improves upper body stability and balance",
+                    "Increases core strength and stability",
+                    "Can be done anywhere without equipment",
+                    "Variations can be added to increase difficulty and target specific muscle groups"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Abdominals",
+                    "Back muscles",
+                    "Shoulders",
+                    "Arms",
+                    "Wrists"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Garudasana (Eagle Pose)",
+                    "Garudasana arms",
+                    "Garudasana legs",
+                    "Garudasana twist"
+                ]
+            }
+        }
+    ]
+}

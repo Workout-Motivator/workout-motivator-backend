@@ -1,0 +1,63 @@
+{
+    "title": "Quadruped Leg Curl",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by getting down on all fours, with your hands directly under your shoulders and your knees directly under your hips.",
+                    "Extend one leg straight back behind you, keeping it parallel to the ground.",
+                    "Bend your knee and bring your heel towards your glutes, keeping your thigh parallel to the ground.",
+                    "Slowly lower your leg back down to the starting position.",
+                    "Repeat the movement with the same leg for the desired number of repetitions.",
+                    "Switch to the other leg and repeat the exercise."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the hamstrings, glutes, and lower back muscles",
+                    "Improves balance and stability",
+                    "Can be done with minimal equipment",
+                    "Targets the posterior chain, which is important for overall lower body strength and power",
+                    "Can be modified to increase or decrease difficulty based on fitness level"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Hamstrings",
+                    "Glutes",
+                    "Lower back",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single-leg Quadruped Leg Curl",
+                    "Weighted Quadruped Leg Curl",
+                    "Resistance Band Quadruped Leg Curl",
+                    "Stability Ball Quadruped Leg Curl",
+                    "TRX Quadruped Leg Curl"
+                ]
+            }
+        }
+    ]
+}

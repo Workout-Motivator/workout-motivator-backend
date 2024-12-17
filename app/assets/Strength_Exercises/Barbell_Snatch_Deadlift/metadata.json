@@ -1,0 +1,71 @@
+{
+    "title": "Barbell Snatch Deadlift",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your toes pointing forward.",
+                    "Place the barbell on the ground in front of you.",
+                    "Bend down and grip the barbell with your hands shoulder-width apart and your palms facing down.",
+                    "Engage your core and lift the barbell off the ground by extending your hips and knees.",
+                    "As the barbell reaches your knees, explosively extend your hips and knees to lift the barbell up to your shoulders.",
+                    "Lower the barbell back down to the ground by reversing the movement.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Increases overall strength and power",
+                    "Targets multiple muscle groups including the hamstrings, glutes, back, and shoulders",
+                    "Improves explosiveness and speed",
+                    "Enhances grip strength",
+                    "Can improve athletic performance in sports such as weightlifting, football, and basketball",
+                    "Can help with injury prevention by strengthening the muscles and joints"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Erector Spinae",
+                    "Glutes",
+                    "Hamstrings",
+                    "Quadriceps",
+                    "Calves",
+                    "Forearms",
+                    "Trapezius",
+                    "Rhomboids",
+                    "Deltoids",
+                    "Abdominals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single-leg Barbell Snatch Deadlift",
+                    "Sumo Barbell Snatch Deadlift",
+                    "Dumbbell Snatch Deadlift",
+                    "Kettlebell Snatch Deadlift",
+                    "Trap Bar Snatch Deadlift"
+                ]
+            }
+        }
+    ]
+}

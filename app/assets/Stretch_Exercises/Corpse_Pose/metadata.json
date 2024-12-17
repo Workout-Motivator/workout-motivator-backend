@@ -1,0 +1,67 @@
+{
+    "title": "Corpse Pose",
+    "description": "A stretch exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying flat on your back with your arms and legs extended.",
+                    "Allow your feet to fall out to the sides and your arms to rest at your sides, palms facing up.",
+                    "Close your eyes and take deep breaths, focusing on relaxing your entire body.",
+                    "Stay in this position for 5-10 minutes, or as long as you feel comfortable.",
+                    "To come out of the pose, slowly begin to wiggle your fingers and toes, then roll onto your right side and rest there for a few breaths.",
+                    "Finally, use your right hand to push yourself up into a seated position."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the quadriceps, glutes, and hamstrings",
+                    "Improves balance and stability",
+                    "Increases flexibility in the hips and ankles",
+                    "Can be done with or without weights, making it accessible for all fitness levels",
+                    "Engages the core muscles for added abdominal strength",
+                    "May improve athletic performance in sports that require explosive lower body movements"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Abdominal muscles",
+                    "Back muscles",
+                    "Gluteal muscles",
+                    "Hamstring muscles",
+                    "Calf muscles",
+                    "Shoulder muscles",
+                    "Neck muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Extended corpse pose",
+                    "Supported corpse pose",
+                    "Twisted corpse pose",
+                    "Corpse pose with legs up the wall",
+                    "Corpse pose with a bolster under the knees"
+                ]
+            }
+        }
+    ]
+}

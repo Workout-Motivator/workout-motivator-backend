@@ -1,0 +1,65 @@
+{
+    "title": "Dumbbell Full Swing",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a dumbbell with both hands in front of your body.",
+                    "Bend your knees slightly and hinge forward at the hips, keeping your back straight.",
+                    "Swing the dumbbell back between your legs, keeping your arms straight.",
+                    "Drive your hips forward and swing the dumbbell up to shoulder height, using the momentum from your hips to power the movement.",
+                    "Lower the dumbbell back down between your legs and repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Engages multiple muscle groups including the shoulders, back, hips, and legs",
+                    "Improves cardiovascular endurance and overall fitness",
+                    "Increases power and explosiveness in the upper body",
+                    "Can be modified for different fitness levels and goals",
+                    "Can be done with minimal equipment and space"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Glutes",
+                    "Hamstrings",
+                    "Quadriceps",
+                    "Lower back",
+                    "Shoulders",
+                    "Triceps",
+                    "Forearms"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Half Swing",
+                    "Dumbbell Power Clean",
+                    "Dumbbell Snatch",
+                    "Dumbbell Hang Clean",
+                    "Dumbbell Hang Snatch"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "title": "Bicycle Crunch",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying flat on your back with your hands behind your head and your knees bent.",
+                    "Lift your shoulders off the ground and bring your right elbow to your left knee while straightening your right leg.",
+                    "Switch sides by bringing your left elbow to your right knee while straightening your left leg.",
+                    "Continue alternating sides in a pedaling motion, as if you are riding a bicycle.",
+                    "Make sure to keep your core engaged and your lower back pressed into the ground throughout the exercise.",
+                    "Repeat for the desired number of repetitions or time."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves flexibility and range of motion in the back and shoulders",
+                    "Relieves tension and tightness in the upper back and neck",
+                    "Stretches the chest muscles and improves posture",
+                    "May help alleviate back pain and discomfort",
+                    "Can be done anywhere without equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus abdominis",
+                    "Obliques",
+                    "Hip flexors"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "bicycle crunches",
+                    "reverse bicycle crunches",
+                    "weighted bicycle crunches",
+                    "side-to-side bicycle crunches",
+                    "double crunches with bicycle legs"
+                ]
+            }
+        }
+    ]
+}

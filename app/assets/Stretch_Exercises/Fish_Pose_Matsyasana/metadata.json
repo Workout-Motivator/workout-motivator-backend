@@ -1,0 +1,66 @@
+{
+    "title": "Fish Pose Matsyasana",
+    "description": "A stretch exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying flat on your back with your legs extended and your arms at your sides.",
+                    "Bend your knees and bring your feet towards your hips, keeping them hip-width apart.",
+                    "Place your hands under your hips with your palms facing down.",
+                    "Press your elbows and forearms into the ground and lift your chest up towards the ceiling.",
+                    "Keep your head and neck relaxed and allow the crown of your head to rest on the ground.",
+                    "Hold the pose for 5-10 breaths, then release by lowering your chest and head back down to the ground."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Stretches the chest, neck, and shoulders",
+                    "Strengthens the upper back muscles",
+                    "Improves posture",
+                    "Relieves tension and fatigue in the neck and shoulders",
+                    "Stimulates the thyroid gland and improves metabolism",
+                    "Helps to alleviate respiratory problems",
+                    "Calms the mind and reduces stress"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Abdominal muscles",
+                    "Chest muscles",
+                    "Neck muscles",
+                    "Throat muscles",
+                    "Spinal muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Half Fish Pose Ardha Matsyendrasana",
+                    "Bound Fish Pose Baddha Matsyasana",
+                    "Reclining Fish Pose Supta Matsyasana",
+                    "Lotus in Fish Pose Padmasana Matsyasana",
+                    "Revolved Fish Pose Parivrtta Matsyasana"
+                ]
+            }
+        }
+    ]
+}

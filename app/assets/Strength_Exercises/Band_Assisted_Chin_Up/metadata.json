@@ -1,0 +1,64 @@
+{
+    "title": "Band Assisted Chin Up",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Attach a resistance band to a pull-up bar.",
+                    "Step onto the resistance band and grip the bar with your palms facing towards you.",
+                    "Hang from the bar with your arms fully extended.",
+                    "Engage your back muscles and pull your body up towards the bar.",
+                    "Pause at the top of the movement and then slowly lower yourself back down to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the chest muscles",
+                    "Improves upper body strength",
+                    "Increases muscle endurance",
+                    "Can be done with minimal equipment",
+                    "Allows for variation in resistance by using different strength bands"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Biceps",
+                    "Latissimus dorsi",
+                    "Trapezius",
+                    "Rhomboids",
+                    "Forearms"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Weighted chin-up",
+                    "Assisted chin-up machine",
+                    "Negative chin-up",
+                    "Close-grip chin-up",
+                    "Wide-grip chin-up"
+                ]
+            }
+        }
+    ]
+}

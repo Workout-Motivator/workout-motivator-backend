@@ -1,0 +1,72 @@
+{
+    "title": "Good Morning Squat",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your toes pointing slightly outward.",
+                    "Place your hands on your hips or extend them straight out in front of you.",
+                    "Engage your core and keep your chest lifted as you lower your hips down and back as if you were sitting in a chair.",
+                    "Lower until your thighs are parallel to the ground or as low as you can comfortably go.",
+                    "Push through your heels to stand back up to the starting position.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the lower body muscles, including the quadriceps, hamstrings, and glutes",
+                    "Improves balance and stability",
+                    "Increases core strength and stability",
+                    "Can help improve posture",
+                    "May improve overall athletic performance",
+                    "Can be modified to increase or decrease difficulty",
+                    "Can be done with or without weights",
+                    "May help with weight loss and body composition changes"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Erector Spinae",
+                    "Glutes",
+                    "Hamstrings",
+                    "Quadriceps",
+                    "Abdominals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Good Morning Squat",
+                    "Good Morning Deadlift",
+                    "Good Morning Romanian Deadlift",
+                    "Good Morning Barbell Row",
+                    "Good Morning Single Leg Deadlift",
+                    "Good Morning Kettlebell Swing",
+                    "Good Morning Reverse Lunge",
+                    "Good Morning Bulgarian Split Squat",
+                    "Good Morning Box Squat",
+                    "Good Morning Front Squat"
+                ]
+            }
+        }
+    ]
+}

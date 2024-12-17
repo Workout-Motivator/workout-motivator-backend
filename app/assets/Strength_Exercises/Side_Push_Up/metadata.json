@@ -1,0 +1,67 @@
+{
+    "title": "Side Push Up",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start in a plank position with your hands shoulder-width apart and your feet together.",
+                    "Shift your weight onto your left hand and rotate your body to the right, lifting your right arm up towards the ceiling.",
+                    "Lower your right arm back down and return to the plank position.",
+                    "Repeat on the other side, shifting your weight onto your right hand and rotating your body to the left, lifting your left arm up towards the ceiling.",
+                    "Continue alternating sides for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the arms, chest, and core muscles",
+                    "Improves balance and stability",
+                    "Targets the oblique muscles for a toned waistline",
+                    "Increases flexibility in the spine and hips",
+                    "Can be modified for different fitness levels"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Triceps",
+                    "Chest",
+                    "Shoulders",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Regular push up",
+                    "Wide push up",
+                    "Diamond push up",
+                    "Decline push up",
+                    "Incline push up",
+                    "One-arm push up",
+                    "Spiderman push up",
+                    "T push up",
+                    "Staggered push up",
+                    "Clapping push up"
+                ]
+            }
+        }
+    ]
+}

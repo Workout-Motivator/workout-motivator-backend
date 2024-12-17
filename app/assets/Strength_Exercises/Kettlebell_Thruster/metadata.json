@@ -1,0 +1,65 @@
+{
+    "title": "Kettlebell Thruster",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by standing with your feet shoulder-width apart and holding a kettlebell in front of your chest with both hands.",
+                    "Squat down by bending your knees and pushing your hips back, keeping your chest up and your back straight.",
+                    "As you stand back up, press the kettlebell overhead by extending your arms and pushing the weight up.",
+                    "Lower the kettlebell back down to your chest as you squat back down.",
+                    "Repeat the movement for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Full body workout: The kettlebell thruster is a compound exercise that targets multiple muscle groups including the legs, glutes, core, shoulders, and arms.",
+                    "Improves strength and power: The movement of the kettlebell thruster requires explosive power and strength, making it an effective exercise for building both.",
+                    "Increases cardiovascular endurance: The high-intensity nature of the kettlebell thruster can also improve cardiovascular endurance and burn a significant amount of calories.",
+                    "Improves mobility and flexibility: The kettlebell thruster requires a full range of motion in the hips, knees, and shoulders, which can improve mobility and flexibility over time.",
+                    "Can be modified for different fitness levels: The weight of the kettlebell can be adjusted to make the exercise easier or more challenging, making it suitable for beginners and advanced athletes alike."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Core",
+                    "Shoulders",
+                    "Triceps"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Kettlebell Squat Thruster",
+                    "Single Arm Kettlebell Thruster",
+                    "Double Kettlebell Thruster",
+                    "Kettlebell Clean and Thruster",
+                    "Kettlebell Push Press"
+                ]
+            }
+        }
+    ]
+}

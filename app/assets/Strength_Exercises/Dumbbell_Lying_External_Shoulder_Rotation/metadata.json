@@ -1,0 +1,65 @@
+{
+    "title": "Dumbbell Lying External Shoulder Rotation",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on your side on a bench or mat with a dumbbell in your top hand.",
+                    "Keep your elbow bent at a 90-degree angle and your upper arm against your side.",
+                    "Slowly rotate your forearm and the dumbbell away from your body, keeping your elbow and upper arm stationary.",
+                    "Pause at the top of the movement and then slowly lower the dumbbell back to the starting position.",
+                    "Repeat for the desired number of repetitions and then switch sides."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the rotator cuff muscles, which helps to stabilize the shoulder joint and prevent injury",
+                    "Improves shoulder mobility and range of motion",
+                    "Targets the external rotators of the shoulder, which are often neglected in traditional shoulder exercises",
+                    "Can be done with light weights and minimal equipment, making it accessible for beginners or those with limited gym access",
+                    "Can be easily modified by adjusting the weight or the angle of the arm, allowing for progression as strength improves"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rotator cuff muscles (supraspinatus, infraspinatus, teres minor, subscapularis)",
+                    "Deltoid (posterior fibers)",
+                    "Trapezius (middle and lower fibers)",
+                    "Rhomboids"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell standing external shoulder rotation",
+                    "Dumbbell seated external shoulder rotation",
+                    "Cable lying external shoulder rotation",
+                    "Cable standing external shoulder rotation",
+                    "Cable seated external shoulder rotation",
+                    "Resistance band lying external shoulder rotation",
+                    "Resistance band standing external shoulder rotation",
+                    "Resistance band seated external shoulder rotation"
+                ]
+            }
+        }
+    ]
+}

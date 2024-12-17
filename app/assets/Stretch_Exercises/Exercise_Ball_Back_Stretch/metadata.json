@@ -1,0 +1,67 @@
+{
+    "title": "Exercise Ball Back Stretch",
+    "description": "A stretch exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by sitting on the exercise ball with your feet flat on the ground.",
+                    "Slowly walk your feet forward, rolling the ball down your back until your head and shoulders are resting on the ball.",
+                    "Place your hands behind your head and gently tuck your chin towards your chest.",
+                    "Take a deep breath in and as you exhale, allow your arms to fall open to the sides, stretching your chest and shoulders.",
+                    "Hold the stretch for 10-15 seconds, breathing deeply.",
+                    "Slowly bring your arms back up to your chest and use your feet to roll the ball back up your spine to a seated position.",
+                    "Repeat the stretch 2-3 times, focusing on deep breathing and relaxation."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Relieves tension and tightness in the back muscles",
+                    "Improves flexibility and range of motion in the spine",
+                    "Stretches the chest and shoulders, which can become tight from poor posture",
+                    "Helps to improve posture by strengthening the muscles of the back",
+                    "Can be done at home with minimal equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Erector Spinae",
+                    "Latissimus Dorsi",
+                    "Rhomboids",
+                    "Trapezius",
+                    "Hamstrings"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Exercise Ball Chest Stretch",
+                    "Exercise Ball Hamstring Stretch",
+                    "Exercise Ball Hip Stretch",
+                    "Exercise Ball Quadriceps Stretch",
+                    "Exercise Ball Shoulder Stretch",
+                    "Exercise Ball Spinal Twist",
+                    "Exercise Ball Triceps Stretch"
+                ]
+            }
+        }
+    ]
+}

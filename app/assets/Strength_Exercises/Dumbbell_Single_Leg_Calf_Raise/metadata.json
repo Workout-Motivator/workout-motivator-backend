@@ -1,0 +1,64 @@
+{
+    "title": "Dumbbell Single Leg Calf Raise",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet hip-width apart and hold a dumbbell in your right hand.",
+                    "Lift your left foot off the ground and balance on your right foot.",
+                    "Slowly raise your right heel as high as you can, keeping your toes on the ground.",
+                    "Hold for a second at the top of the movement.",
+                    "Lower your heel back down to the ground.",
+                    "Repeat for the desired number of repetitions.",
+                    "Switch the dumbbell to your left hand and repeat the exercise on your left foot."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the calf muscles",
+                    "Improves balance and stability",
+                    "Targets the soleus muscle, which is often neglected in traditional calf exercises",
+                    "Can be done with minimal equipment and in a small space",
+                    "Can be easily modified by adjusting the weight or adding a resistance band"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Gastrocnemius",
+                    "Soleus"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Double Leg Calf Raise",
+                    "Barbell Single Leg Calf Raise",
+                    "Barbell Double Leg Calf Raise",
+                    "Bodyweight Single Leg Calf Raise",
+                    "Bodyweight Double Leg Calf Raise",
+                    "Seated Calf Raise Machine",
+                    "Standing Calf Raise Machine"
+                ]
+            }
+        }
+    ]
+}

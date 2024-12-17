@@ -1,0 +1,67 @@
+{
+    "title": "Depth Jump",
+    "description": "A cardio exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand on a box or platform that is about knee height.",
+                    "Step off the box and land on the ground with both feet.",
+                    "As soon as you land, immediately jump up as high as you can.",
+                    "Repeat for desired number of reps or sets."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Increases explosive power and speed",
+                    "Improves vertical jump height",
+                    "Develops neuromuscular coordination and balance",
+                    "Enhances overall athletic performance",
+                    "Can be modified for different fitness levels and goals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Gastrocnemius",
+                    "Soleus",
+                    "Glutes",
+                    "Core muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single Leg Depth Jump",
+                    "Box Jump",
+                    "Depth Jump to Broad Jump",
+                    "Depth Jump to Vertical Jump",
+                    "Depth Jump to Lateral Jump",
+                    "Depth Jump to Sprint",
+                    "Depth Jump to Medicine Ball Throw",
+                    "Depth Jump to Pull-Up",
+                    "Depth Jump to Push-Up"
+                ]
+            }
+        }
+    ]
+}

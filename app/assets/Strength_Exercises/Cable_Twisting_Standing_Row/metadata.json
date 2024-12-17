@@ -1,0 +1,65 @@
+{
+    "title": "Cable Twisting Standing Row",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a cable handle in each hand.",
+                    "Extend your arms straight out in front of you, keeping your elbows slightly bent.",
+                    "Twist your torso to the right, pulling the cable handle towards your right hip.",
+                    "As you twist, keep your left arm extended and your right arm bent, pulling the cable towards your hip.",
+                    "Slowly return to the starting position and repeat on the other side, twisting your torso to the left and pulling the cable towards your left hip.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets multiple muscle groups including the back, shoulders, and arms",
+                    "Improves posture and upper body strength",
+                    "Increases stability and balance",
+                    "Can be modified for different fitness levels and goals",
+                    "Provides a low-impact workout option"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Trapezius",
+                    "Rhomboids",
+                    "Deltoids",
+                    "Biceps",
+                    "Forearms",
+                    "Core muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Cable Twisting Seated Row",
+                    "Cable Twisting Bent-Over Row",
+                    "Cable Twisting Single-Arm Row",
+                    "Cable Twisting High Row",
+                    "Cable Twisting Low Row"
+                ]
+            }
+        }
+    ]
+}

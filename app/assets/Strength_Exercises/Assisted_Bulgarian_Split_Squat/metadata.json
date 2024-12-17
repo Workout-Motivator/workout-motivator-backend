@@ -1,0 +1,63 @@
+{
+    "title": "Assisted Bulgarian Split Squat",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand facing away from a bench or step, with one foot resting on the bench behind you and the other foot planted firmly on the ground in front of you.",
+                    "Lower your body down into a lunge position, bending both knees until your back knee is just above the ground.",
+                    "Use your front leg to push yourself back up to the starting position.",
+                    "Repeat for the desired number of reps, then switch legs and repeat on the other side.",
+                    "If needed, use a dumbbell or kettlebell held at your chest for added resistance."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the quadriceps, glutes, and hamstrings for overall leg strength and muscle development",
+                    "Improves balance and stability by working one leg at a time",
+                    "Allows for a greater range of motion compared to traditional squats",
+                    "Reduces strain on the lower back and knees by placing less weight on those areas",
+                    "Can be modified for different fitness levels by adjusting the amount of assistance provided"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Assisted Bulgarian Split Squat with Resistance Band",
+                    "Assisted Bulgarian Split Squat with Dumbbells",
+                    "Assisted Bulgarian Split Squat with Barbell",
+                    "Assisted Bulgarian Split Squat with Kettlebell",
+                    "Assisted Bulgarian Split Squat with Medicine Ball"
+                ]
+            }
+        }
+    ]
+}

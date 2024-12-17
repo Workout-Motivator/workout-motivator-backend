@@ -1,0 +1,62 @@
+{
+    "title": "Lateral Side Plank",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on your side with your legs straight and your elbow directly under your shoulder.",
+                    "Lift your hips off the ground, creating a straight line from your head to your feet.",
+                    "Hold this position for 30-60 seconds, or as long as you can maintain proper form.",
+                    "Lower your hips back down to the ground and repeat on the other side.",
+                    "Complete 2-3 sets on each side."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the oblique muscles on the side of the body",
+                    "Improves core stability and balance",
+                    "Helps to prevent lower back pain by strengthening the muscles that support the spine",
+                    "Increases shoulder and hip mobility",
+                    "Can be modified to challenge different fitness levels"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Obliques",
+                    "Transverse Abdominis",
+                    "Gluteus Medius",
+                    "Tensor Fasciae Latae"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Side Plank with Leg Lift",
+                    "Side Plank with Hip Dip",
+                    "Side Plank with Arm Reach",
+                    "Side Plank with Knee Tuck",
+                    "Side Plank with Oblique Crunch"
+                ]
+            }
+        }
+    ]
+}

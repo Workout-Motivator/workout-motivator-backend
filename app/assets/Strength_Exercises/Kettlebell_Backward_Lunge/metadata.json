@@ -1,0 +1,64 @@
+{
+    "title": "Kettlebell Backward Lunge",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a kettlebell in both hands at chest height.",
+                    "Step back with your left foot and lower your body until your left knee almost touches the ground.",
+                    "Push through your right heel to return to the starting position.",
+                    "Repeat on the other side by stepping back with your right foot.",
+                    "Continue alternating legs for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the lower body muscles, including the glutes, hamstrings, and quadriceps",
+                    "Improves balance and stability",
+                    "Engages the core muscles for added strength and stability",
+                    "Increases cardiovascular endurance",
+                    "Can be modified for different fitness levels and goals",
+                    "Can be done with minimal equipment and space"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Kettlebell Forward Lunge",
+                    "Kettlebell Side Lunge",
+                    "Kettlebell Goblet Squat",
+                    "Kettlebell Swing",
+                    "Kettlebell Deadlift"
+                ]
+            }
+        }
+    ]
+}

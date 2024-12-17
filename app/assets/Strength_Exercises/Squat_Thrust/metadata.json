@@ -1,0 +1,69 @@
+{
+    "title": "Squat Thrust",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start in a standing position with your feet shoulder-width apart.",
+                    "Bend your knees and lower your body into a squat position.",
+                    "Place your hands on the ground in front of you, shoulder-width apart.",
+                    "Jump your feet back into a plank position, keeping your core engaged.",
+                    "Jump your feet back up to your hands, returning to the squat position.",
+                    "Stand up straight, returning to the starting position.",
+                    "Repeat for desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves cardiovascular endurance",
+                    "Strengthens the lower body muscles, including the quadriceps, hamstrings, and glutes",
+                    "Engages the core muscles, improving overall stability and balance",
+                    "Increases overall body strength and power",
+                    "Can be done without equipment, making it a convenient exercise to do anywhere",
+                    "Can be modified to increase or decrease intensity, making it suitable for all fitness levels"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Abdominals",
+                    "Chest",
+                    "Shoulders",
+                    "Triceps"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Jump Squat Thrust",
+                    "Single Leg Squat Thrust",
+                    "Plank Jack Squat Thrust",
+                    "Burpee Squat Thrust",
+                    "Mountain Climber Squat Thrust"
+                ]
+            }
+        }
+    ]
+}

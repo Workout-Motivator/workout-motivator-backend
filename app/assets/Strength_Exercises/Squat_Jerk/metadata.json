@@ -1,0 +1,70 @@
+{
+    "title": "Squat Jerk",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start with your feet shoulder-width apart and your toes pointing slightly outward.",
+                    "Hold a barbell at shoulder height with your palms facing forward and your elbows pointing down.",
+                    "Bend your knees and lower your hips as if you were sitting back into a chair.",
+                    "As you lower your body, press the barbell overhead in one fluid motion.",
+                    "As you stand up, straighten your arms and lock out the barbell overhead.",
+                    "Lower the barbell back to shoulder height and repeat the exercise for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves overall lower body strength and power",
+                    "Increases explosiveness and speed",
+                    "Enhances coordination and balance",
+                    "Engages multiple muscle groups, including quads, glutes, hamstrings, core, and shoulders",
+                    "Can be modified for different fitness levels and goals",
+                    "Helps with functional movements, such as lifting and jumping",
+                    "Can improve athletic performance in sports that require explosive movements, such as basketball and volleyball"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Core",
+                    "Shoulders",
+                    "Triceps"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Split Jerk",
+                    "Power Jerk",
+                    "Push Jerk",
+                    "Thruster",
+                    "Front Squat",
+                    "Back Squat",
+                    "Overhead Squat"
+                ]
+            }
+        }
+    ]
+}

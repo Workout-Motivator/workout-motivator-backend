@@ -1,0 +1,65 @@
+{
+    "title": "Dumbbell Incline Shrug",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on an incline bench with a dumbbell in each hand.",
+                    "Extend your arms straight up towards the ceiling, with your palms facing each other.",
+                    "Slowly shrug your shoulders up towards your ears, squeezing your shoulder blades together at the top of the movement.",
+                    "Hold for a second, then slowly lower your shoulders back down to the starting position.",
+                    "Repeat for the desired number of reps.",
+                    "Make sure to keep your elbows slightly bent throughout the exercise and avoid using momentum to lift the weights."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the upper trapezius muscles, which are responsible for shoulder elevation and stability",
+                    "Improves posture and reduces the risk of shoulder injuries",
+                    "Increases strength and endurance in the upper back and shoulders",
+                    "Can be performed with a variety of weights and angles to challenge different muscle groups",
+                    "Can be easily modified for individuals with shoulder or neck pain by using lighter weights or adjusting the angle of the bench"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Trapezius",
+                    "Rhomboids",
+                    "Levator Scapulae"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Incline Shrug",
+                    "Dumbbell Decline Shrug",
+                    "Barbell Incline Shrug",
+                    "Barbell Decline Shrug",
+                    "Machine Incline Shrug",
+                    "Machine Decline Shrug",
+                    "Cable Incline Shrug",
+                    "Cable Decline Shrug"
+                ]
+            }
+        }
+    ]
+}

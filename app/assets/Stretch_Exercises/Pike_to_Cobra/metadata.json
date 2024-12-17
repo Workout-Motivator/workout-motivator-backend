@@ -1,0 +1,67 @@
+{
+    "title": "Pike to Cobra",
+    "description": "A stretch exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start in a plank position with your hands directly under your shoulders and your feet hip-width apart.",
+                    "Engage your core and lift your right hand off the ground, rotating your body to the left as you do so.",
+                    "Extend your right arm up towards the ceiling, twisting your torso and lifting your left foot off the ground to come into a side plank position.",
+                    "Lower your right hand back down to the ground and rotate your body back to the starting plank position.",
+                    "Repeat on the other side, lifting your left hand off the ground and twisting your body to the right as you do so.",
+                    "Extend your left arm up towards the ceiling and lift your right foot off the ground to come into a side plank position.",
+                    "Lower your left hand back down to the ground and rotate your body back to the starting plank position.",
+                    "Continue alternating sides for the desired number of repetitions or time."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the core muscles",
+                    "Improves upper body strength",
+                    "Increases shoulder stability",
+                    "Improves flexibility in the spine and hips",
+                    "Challenges balance and coordination",
+                    "Can be modified for different fitness levels"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus abdominis",
+                    "Erector spinae",
+                    "Shoulder muscles (deltoids, rotator cuff, trapezius)",
+                    "Chest muscles (pectoralis major, minor)",
+                    "Triceps brachii"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "pike-to-cobra with a push-up",
+                    "pike-to-cobra with a knee tuck",
+                    "pike-to-cobra with a leg lift",
+                    "pike-to-cobra with a side plank",
+                    "pike-to-cobra with a mountain climber"
+                ]
+            }
+        }
+    ]
+}

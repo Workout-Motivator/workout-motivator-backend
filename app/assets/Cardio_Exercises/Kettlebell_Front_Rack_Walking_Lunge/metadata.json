@@ -1,0 +1,68 @@
+{
+    "title": "Kettlebell Front Rack Walking Lunge",
+    "description": "A cardio exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by standing with your feet hip-width apart and holding a kettlebell in each hand at shoulder height, with your palms facing inwards.",
+                    "Take a step forward with your right foot, lowering your body into a lunge position. Your right knee should be directly above your ankle, and your left knee should be hovering just above the ground.",
+                    "As you step forward, keep your core engaged and your chest lifted.",
+                    "Push off your right foot to return to the starting position, then repeat the lunge on the opposite side with your left foot.",
+                    "Continue alternating lunges, taking a step forward with each foot, for the desired number of repetitions or time.",
+                    "Remember to keep your movements controlled and your form correct throughout the exercise."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the legs, glutes, and core muscles",
+                    "Improves balance and stability",
+                    "Increases cardiovascular endurance",
+                    "Targets multiple muscle groups at once",
+                    "Can be modified for different fitness levels",
+                    "Can be done with minimal equipment",
+                    "Helps to improve overall functional fitness"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Core",
+                    "Shoulders",
+                    "Triceps"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Kettlebell Reverse Lunge",
+                    "Kettlebell Goblet Squat",
+                    "Kettlebell Step-Up",
+                    "Kettlebell Bulgarian Split Squat",
+                    "Kettlebell Thruster"
+                ]
+            }
+        }
+    ]
+}

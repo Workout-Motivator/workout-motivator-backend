@@ -1,0 +1,67 @@
+{
+    "title": "Barbell Reverse Grip Incline Bench Press",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Set up an incline bench at a 45-degree angle.",
+                    "Load the desired weight onto a barbell and secure it with collars.",
+                    "Lie down on the bench with your feet flat on the ground and your head at the top of the bench.",
+                    "Reach up and grasp the barbell with a reverse grip (palms facing towards you) with your hands slightly wider than shoulder-width apart.",
+                    "Unrack the barbell and lower it towards your chest, keeping your elbows tucked in close to your body.",
+                    "Pause briefly at the bottom of the movement, then press the barbell back up to the starting position.",
+                    "Repeat for the desired number of reps.",
+                    "Rack the barbell and sit up to end the exercise."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Increases explosive power and strength in the legs, hips, and upper body",
+                    "Improves coordination and balance",
+                    "Engages multiple muscle groups, including the quadriceps, hamstrings, glutes, back, shoulders, and arms",
+                    "Can be modified for different fitness levels and goals",
+                    "Can be incorporated into a full-body workout routine",
+                    "May improve athletic performance in sports that require explosive movements, such as basketball or football"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Chest muscles (pectoralis major and minor)",
+                    "Shoulder muscles (anterior deltoids)",
+                    "Triceps brachii"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Barbell reverse grip bench press",
+                    "Incline Barbell reverse grip bench press",
+                    "Barbell reverse grip decline bench press",
+                    "Close-grip Barbell reverse grip bench press",
+                    "Smith machine reverse grip bench press",
+                    "Dumbbell reverse grip bench press",
+                    "Reverse grip push-ups"
+                ]
+            }
+        }
+    ]
+}

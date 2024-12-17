@@ -1,0 +1,64 @@
+{
+    "title": "Cable Front Raise",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a cable handle in each hand.",
+                    "Extend your arms straight in front of you, keeping a slight bend in your elbows.",
+                    "Slowly raise the cables up to shoulder height, keeping your arms straight.",
+                    "Hold for a second at the top of the movement, then slowly lower the cables back down to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the anterior deltoid muscle, which is responsible for lifting the arm in front of the body",
+                    "Helps to improve shoulder strength and stability",
+                    "Can be performed with a variety of cable attachments, allowing for variation in grip and resistance",
+                    "Isolation of the anterior deltoid can help to improve overall shoulder aesthetics and symmetry",
+                    "Can be easily modified for individuals with shoulder injuries or limitations"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Deltoids (anterior)",
+                    "Upper Trapezius",
+                    "Clavicular head of Pectoralis Major"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Front Raise",
+                    "Plate Front Raise",
+                    "Barbell Front Raise",
+                    "Resistance Band Front Raise",
+                    "Single Arm Cable Front Raise",
+                    "Alternating Cable Front Raise",
+                    "Cable Lateral Raise",
+                    "Cable Upright Row"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "title": "Lever Seated Crunch",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by sitting on the edge of a bench or chair with your feet flat on the ground and your hands holding onto the lever handles above your head.",
+                    "Engage your core muscles and slowly lean back, keeping your back straight and your arms extended above your head.",
+                    "Pause for a moment when you feel a stretch in your abs, then slowly return to the starting position by contracting your abs and pulling yourself back up.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the rectus abdominis muscle, which is responsible for creating the \u201csix-pack\u201d appearance",
+                    "Allows for a full range of motion, increasing the effectiveness of the exercise",
+                    "Provides support for the lower back, reducing the risk of injury",
+                    "Can be easily adjusted to accommodate different fitness levels and abilities",
+                    "Can be performed with or without added weight for added resistance"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus Abdominis",
+                    "Obliques",
+                    "Hip Flexors"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Weighted Lever Seated Crunch",
+                    "Reverse Lever Seated Crunch",
+                    "Single Arm Lever Seated Crunch",
+                    "Decline Lever Seated Crunch",
+                    "Twisting Lever Seated Crunch"
+                ]
+            }
+        }
+    ]
+}

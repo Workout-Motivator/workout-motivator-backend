@@ -1,0 +1,61 @@
+{
+    "title": "Body Up",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on your stomach with your hands placed on the ground next to your shoulders.",
+                    "Push up with your arms, lifting your upper body off the ground while keeping your hips and legs on the ground.",
+                    "Hold this position for a few seconds, then slowly lower your body back down to the starting position.",
+                    "Repeat for several repetitions, focusing on using your upper body strength to lift yourself up."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens upper body muscles including chest, shoulders, and triceps",
+                    "Improves core stability and balance",
+                    "Increases overall body strength and endurance",
+                    "Can be modified for different fitness levels and abilities",
+                    "Requires minimal equipment and can be done at home or in a gym"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Chest muscles (pectoralis major and minor)",
+                    "Shoulder muscles (deltoids)",
+                    "Triceps",
+                    "Core muscles (abdominals and lower back)"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Body Up with Leg Extension",
+                    "Body Up with Knee Tuck",
+                    "Body Up with Oblique Twist",
+                    "Body Up with Leg Scissors",
+                    "Body Up with Bicycle Kicks"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "title": "Child Pose",
+    "description": "A stretch exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start on your hands and knees, with your wrists directly under your shoulders and your knees directly under your hips.",
+                    "Lower your hips back towards your heels, keeping your arms extended in front of you.",
+                    "Rest your forehead on the floor and relax your entire body.",
+                    "Breathe deeply and hold the pose for 30 seconds to 1 minute.",
+                    "To release the pose, slowly walk your hands back towards your knees and sit up."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Relieves stress and anxiety",
+                    "Stretches the hips, thighs, and ankles",
+                    "Helps to reduce back and neck pain",
+                    "Improves digestion and relieves constipation",
+                    "Calms the mind and promotes relaxation",
+                    "Can be done easily at home or in a yoga class"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Latissimus dorsi",
+                    "Trapezius",
+                    "Rhomboids",
+                    "Erector spinae",
+                    "Glutes",
+                    "Hamstrings",
+                    "Quadriceps"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Extended Child Pose",
+                    "Thread the Needle Pose",
+                    "Side Child Pose",
+                    "Upward Facing Child Pose",
+                    "Downward Facing Child Pose"
+                ]
+            }
+        }
+    ]
+}

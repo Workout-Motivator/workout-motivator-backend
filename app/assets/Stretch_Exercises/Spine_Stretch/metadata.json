@@ -1,0 +1,68 @@
+{
+    "title": "Spine Stretch",
+    "description": "A stretch exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by sitting on the floor with your legs extended in front of you.",
+                    "Place your hands on your thighs, palms facing down.",
+                    "Take a deep breath in and lengthen your spine, sitting up tall.",
+                    "As you exhale, begin to round your spine, starting from your tailbone and moving up towards your head.",
+                    "Allow your chin to tuck towards your chest as you round your spine.",
+                    "Hold the stretch for a few seconds, feeling the stretch in your spine and back muscles.",
+                    "Inhale and slowly return to the starting position, sitting up tall with a straight spine.",
+                    "Repeat the stretch for several repetitions, focusing on the movement of your spine and breathing deeply."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves flexibility and mobility of the spine",
+                    "Relieves tension and stiffness in the neck, shoulders, and upper back",
+                    "Stretches the muscles of the lower back and hips",
+                    "Increases circulation to the spine and surrounding muscles",
+                    "Helps to improve posture and alignment",
+                    "Can be done anywhere, anytime, without any equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus abdominis",
+                    "Obliques",
+                    "Erector spinae",
+                    "Hamstrings",
+                    "Quadriceps"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Spine Stretch with arms overhead",
+                    "Spine Stretch with arms reaching forward",
+                    "Seated Spine Stretch with legs in a diamond shape",
+                    "Seated Spine Stretch with legs extended",
+                    "Standing Spine Stretch with hands on hips",
+                    "Standing Spine Stretch with arms reaching up"
+                ]
+            }
+        }
+    ]
+}

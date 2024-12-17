@@ -1,0 +1,64 @@
+{
+    "title": "Band Assisted Pull Up",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Attach a resistance band to a pull-up bar or sturdy anchor point.",
+                    "Step onto the band and grip the bar with an overhand grip, hands shoulder-width apart.",
+                    "Hang from the bar with your arms fully extended and your feet off the ground.",
+                    "Engage your back muscles and pull your chest towards the bar, keeping your elbows close to your body.",
+                    "Pause at the top of the movement, then slowly lower yourself back down to the starting position.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Helps build upper body strength, particularly in the back, shoulders, and arms",
+                    "Assists in developing proper form and technique for pull ups",
+                    "Allows individuals who may not yet have the strength to do a full pull up to still work on the movement and build strength over time",
+                    "Can be adjusted to provide varying levels of assistance, making it a versatile exercise for individuals of different fitness levels",
+                    "Engages multiple muscle groups, leading to a more efficient and effective workout"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Latissimus dorsi",
+                    "Trapezius",
+                    "Rhomboids",
+                    "Biceps",
+                    "Forearms"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Assisted pull up machine",
+                    "Resistance band pull up",
+                    "Negative pull up",
+                    "Jumping pull up",
+                    "Partner assisted pull up"
+                ]
+            }
+        }
+    ]
+}

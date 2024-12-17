@@ -1,0 +1,69 @@
+{
+    "title": "Smith Sumo Deadlift",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your toes pointing slightly outward.",
+                    "Place your hands on the barbell with an overhand grip, slightly wider than shoulder-width apart.",
+                    "Bend your knees and lower your hips, keeping your back straight and your chest up.",
+                    "Engage your core and lift the barbell off the ground, driving through your heels.",
+                    "As you lift the barbell, keep your back straight and your chest up.",
+                    "Once you reach a standing position, pause for a moment and then lower the barbell back down to the ground, keeping your back straight and your chest up.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens core muscles",
+                    "Improves balance and stability",
+                    "Engages upper body muscles, including arms, shoulders, and chest",
+                    "Increases flexibility in hips and lower back",
+                    "Can be modified for different fitness levels",
+                    "Helps to prevent lower back pain",
+                    "Improves overall posture",
+                    "Can be done anywhere without equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Glutes",
+                    "Hamstrings",
+                    "Quadriceps",
+                    "Erector spinae",
+                    "Abdominals",
+                    "Forearms"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "smith-sumo-deadlift",
+                    "conventional deadlift",
+                    "trap bar deadlift",
+                    "single-leg deadlift",
+                    "stiff-legged deadlift"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "title": "Standing Air Bike",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your arms bent at a 90-degree angle, with your elbows close to your sides.",
+                    "Begin by bringing your right knee up towards your chest while simultaneously bringing your left elbow down to meet it.",
+                    "Return to the starting position and repeat on the other side, bringing your left knee up towards your chest while bringing your right elbow down to meet it.",
+                    "Continue alternating sides, moving as quickly as possible while maintaining proper form.",
+                    "Complete 3 sets of 20 repetitions, or adjust the number of sets and repetitions to fit your fitness level."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves cardiovascular endurance",
+                    "Burns calories and aids in weight loss",
+                    "Strengthens leg muscles, including quadriceps, hamstrings, and calves",
+                    "Engages core muscles for stability and balance",
+                    "Low-impact exercise that is easy on joints",
+                    "Can be done indoors or outdoors with minimal equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Glutes",
+                    "Calves",
+                    "Abdominals",
+                    "Obliques",
+                    "Erector Spinae",
+                    "Deltoids",
+                    "Biceps",
+                    "Triceps"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Seated Air Bike",
+                    "Recumbent Air Bike",
+                    "Upright Air Bike",
+                    "Dual Action Air Bike"
+                ]
+            }
+        }
+    ]
+}

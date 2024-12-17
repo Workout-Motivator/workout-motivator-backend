@@ -1,0 +1,64 @@
+{
+    "title": "Double Pigeon Pose",
+    "description": "A stretch exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by sitting on the floor with your legs extended in front of you.",
+                    "Bend your right knee and bring your right ankle to rest on your left thigh, just above the knee.",
+                    "Flex your right foot and press your right knee down towards the floor.",
+                    "Bend your left knee and bring your left ankle to rest on top of your right ankle.",
+                    "Flex your left foot and press your left knee down towards the floor.",
+                    "Place your hands on the floor behind you for support.",
+                    "Hold the pose for 30 seconds to 1 minute, then switch sides and repeat."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens leg muscles",
+                    "Improves balance and coordination",
+                    "Increases hip mobility",
+                    "Engages core muscles",
+                    "Can be used as a warm-up or conditioning exercise"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Glutes",
+                    "Hamstrings",
+                    "Hip flexors",
+                    "Lower back"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Half pigeon pose",
+                    "King pigeon pose",
+                    "Fire log pose",
+                    "Seated pigeon pose",
+                    "Thread the needle pose"
+                ]
+            }
+        }
+    ]
+}

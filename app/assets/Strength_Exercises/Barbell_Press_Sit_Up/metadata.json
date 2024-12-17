@@ -1,0 +1,66 @@
+{
+    "title": "Barbell Press Sit Up",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Lie down on a flat bench with your feet firmly planted on the ground and your knees bent.",
+                    "Hold a barbell with both hands, with your arms extended straight up towards the ceiling.",
+                    "Engage your core and slowly sit up, bringing the barbell with you as you lift your torso off the bench.",
+                    "Pause at the top of the movement, then slowly lower your torso back down to the bench.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the core muscles",
+                    "Improves upper body strength",
+                    "Increases stability and balance",
+                    "Targets multiple muscle groups including the abs, chest, shoulders, and triceps",
+                    "Can be modified for different fitness levels and goals",
+                    "Helps improve posture and reduce back pain"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus Abdominis",
+                    "Obliques",
+                    "Pectoralis Major",
+                    "Triceps",
+                    "Deltoids"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Barbell Rollout Sit Up",
+                    "Barbell Russian Twist",
+                    "Barbell Side Bend",
+                    "Barbell Twist",
+                    "Barbell V-Up",
+                    "Barbell Windshield Wiper",
+                    "Barbell Woodchopper"
+                ]
+            }
+        }
+    ]
+}

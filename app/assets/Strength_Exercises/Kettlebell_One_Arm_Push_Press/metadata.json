@@ -1,0 +1,68 @@
+{
+    "title": "Kettlebell One Arm Push Press",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a kettlebell in one hand at shoulder height.",
+                    "Bend your knees slightly and engage your core.",
+                    "Press the kettlebell overhead, extending your arm fully.",
+                    "Lower the kettlebell back down to your shoulder.",
+                    "Repeat for the desired number of reps on one side before switching to the other side."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets multiple muscle groups including shoulders, triceps, and core",
+                    "Improves upper body strength and power",
+                    "Increases stability and balance",
+                    "Can be modified for different fitness levels and goals",
+                    "Provides a cardiovascular workout",
+                    "Can be done with minimal equipment and space"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Shoulders",
+                    "Triceps",
+                    "Chest",
+                    "Core",
+                    "Legs"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Kettlebell One Arm Push Jerk",
+                    "Kettlebell Clean and Press",
+                    "Kettlebell Snatch",
+                    "Dumbbell One Arm Push Press",
+                    "Dumbbell Clean and Press",
+                    "Dumbbell Snatch",
+                    "Barbell Push Press",
+                    "Barbell Clean and Press",
+                    "Barbell Snatch"
+                ]
+            }
+        }
+    ]
+}

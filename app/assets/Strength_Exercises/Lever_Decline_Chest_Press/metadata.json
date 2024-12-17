@@ -1,0 +1,65 @@
+{
+    "title": "Lever Decline Chest Press",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Adjust the seat and backrest of the machine to your desired position.",
+                    "Choose the appropriate weight and load it onto the machine.",
+                    "Sit on the machine with your back against the backrest and your feet flat on the floor.",
+                    "Grasp the handles with an overhand grip and position them at chest level.",
+                    "Push the handles away from your body until your arms are fully extended, but do not lock your elbows.",
+                    "Slowly bring the handles back towards your chest, keeping your elbows slightly bent.",
+                    "Repeat for desired number of repetitions.",
+                    "When finished, release the handles and carefully exit the machine.",
+                    "Stretch your chest and arms to cool down."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the lower portion of the chest muscles",
+                    "Allows for a greater range of motion compared to traditional bench press",
+                    "Reduces strain on the shoulders and wrists",
+                    "Engages the triceps and front deltoids as secondary muscles",
+                    "Can be easily adjusted for different fitness levels by changing the weight or angle of the machine"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Pectoralis major (lower fibers)",
+                    "Triceps brachii",
+                    "Anterior deltoid"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Incline Lever Chest Press",
+                    "Flat Lever Chest Press",
+                    "Seated Lever Chest Press",
+                    "Single Arm Lever Chest Press",
+                    "Close Grip Lever Chest Press"
+                ]
+            }
+        }
+    ]
+}

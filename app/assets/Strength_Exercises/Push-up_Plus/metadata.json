@@ -1,0 +1,67 @@
+{
+    "title": "Push-up Plus",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start in a high plank position with your hands shoulder-width apart and your feet hip-width apart.",
+                    "Lower your body down towards the ground by bending your elbows.",
+                    "As you push back up, round your upper back and protract your shoulder blades by pushing your hands into the ground.",
+                    "Hold this position for a few seconds before returning to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the chest, shoulders, and triceps",
+                    "Improves shoulder stability and mobility",
+                    "Engages the serratus anterior muscle, which is important for proper shoulder blade movement",
+                    "Can help alleviate shoulder pain and prevent injury",
+                    "Can be modified for different fitness levels and goals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Pectoralis major",
+                    "Anterior deltoids",
+                    "Triceps brachii",
+                    "Serratus anterior"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Push-Up with Shoulder Tap",
+                    "Decline Push-Up",
+                    "Diamond Push-Up",
+                    "Wide Push-Up",
+                    "One-Arm Push-Up",
+                    "Clapping Push-Up",
+                    "Plyometric Push-Up",
+                    "Spiderman Push-Up",
+                    "T Push-Up",
+                    "Staggered Push-Up"
+                ]
+            }
+        }
+    ]
+}

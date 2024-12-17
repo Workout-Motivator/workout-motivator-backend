@@ -1,0 +1,64 @@
+{
+    "title": "Pvc Pass Through",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a PVC pipe with both hands, palms facing down.",
+                    "Extend your arms straight out in front of you, keeping the pipe parallel to the ground.",
+                    "Slowly lift the pipe up and over your head, keeping your arms straight and the pipe in line with your body.",
+                    "Lower the pipe behind your back, keeping your arms straight and the pipe in line with your body.",
+                    "Bring the pipe back to the starting position in front of your body.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves shoulder mobility and flexibility",
+                    "Increases range of motion in the shoulders and upper back",
+                    "Strengthens the muscles in the shoulders, upper back, and arms",
+                    "Helps to prevent shoulder injuries",
+                    "Can be used as a warm-up exercise before other upper body exercises"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Deltoids",
+                    "Trapezius",
+                    "Rhomboids",
+                    "Rotator cuff muscles",
+                    "Triceps"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Overhead PVC Pass Through",
+                    "Reverse PVC Pass Through",
+                    "Single Arm PVC Pass Through",
+                    "Weighted PVC Pass Through",
+                    "Partner PVC Pass Through"
+                ]
+            }
+        }
+    ]
+}

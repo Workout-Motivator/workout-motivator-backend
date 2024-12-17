@@ -1,0 +1,68 @@
+{
+    "title": "Strongman Yoke Walk",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by standing in front of the StrongMan Yoke with your feet shoulder-width apart.",
+                    "Place your hands on the crossbar of the yoke and lift it up so that it rests on your shoulders.",
+                    "Take a deep breath and brace your core.",
+                    "Begin walking forward, taking slow and deliberate steps.",
+                    "Make sure to keep your back straight and your core tight throughout the exercise.",
+                    "Continue walking for a set distance or time, then carefully lower the yoke back down to the ground.",
+                    "Rest for a few minutes, then repeat for the desired number of sets."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves overall strength and power",
+                    "Targets multiple muscle groups including the legs, back, and core",
+                    "Increases grip strength and stability",
+                    "Improves cardiovascular endurance",
+                    "Helps with functional movements such as carrying heavy objects",
+                    "Can be modified for different fitness levels and goals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Glutes",
+                    "Calves",
+                    "Core muscles",
+                    "Upper back muscles",
+                    "Shoulder muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Farmer\u2019s Walk",
+                    "Sled Push",
+                    "Sled Pull",
+                    "Atlas Stone Carry",
+                    "Kettlebell Carry"
+                ]
+            }
+        }
+    ]
+}

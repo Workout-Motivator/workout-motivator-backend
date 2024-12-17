@@ -1,0 +1,65 @@
+{
+    "title": "Dumbbell Seated Front Raise",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by sitting on a bench with your feet flat on the ground and your back straight.",
+                    "Hold a dumbbell in each hand with your palms facing down and your arms extended straight in front of you.",
+                    "Slowly raise the dumbbells up to shoulder level, keeping your arms straight and your palms facing down.",
+                    "Pause for a moment at the top of the movement, then slowly lower the dumbbells back down to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the anterior deltoids, or front shoulder muscles",
+                    "Improves shoulder strength and stability",
+                    "Helps to prevent shoulder injuries",
+                    "Can be done with light weights and high reps for toning or heavier weights and lower reps for building muscle",
+                    "Can be modified by performing the exercise standing or with alternating arms"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Anterior deltoid",
+                    "Lateral deltoid",
+                    "Upper trapezius",
+                    "Clavicular head of the pectoralis major"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Seated Lateral Raise",
+                    "Dumbbell Seated Bent-Over Raise",
+                    "Dumbbell Standing Front Raise",
+                    "Dumbbell Standing Lateral Raise",
+                    "Dumbbell Standing Bent-Over Raise",
+                    "Dumbbell Arnold Press",
+                    "Dumbbell Shoulder Press",
+                    "Dumbbell Upright Row"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "title": "Lotus Yoga Pose Padmasana",
+    "description": "A stretch exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by sitting on the floor with your legs stretched out in front of you.",
+                    "Bend your right knee and place your right foot on your left thigh, with your heel close to your abdomen.",
+                    "Then, bend your left knee and place your left foot on your right thigh, with your heel close to your abdomen.",
+                    "Place your hands on your knees, palms facing down.",
+                    "Keep your spine straight and your shoulders relaxed.",
+                    "Breathe deeply and hold the pose for as long as comfortable.",
+                    "To release the pose, gently straighten your legs and come back to a seated position."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Stretches the hip flexors and quadriceps",
+                    "Improves flexibility in the hips and legs",
+                    "Strengthens the legs and core",
+                    "Improves balance and stability",
+                    "Can help alleviate lower back pain",
+                    "Can improve digestion and relieve constipation"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Glutes",
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Hip flexors",
+                    "Abdominals",
+                    "Spine",
+                    "Shoulders",
+                    "Wrists"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Half Lotus Pose (Ardha Padmasana)",
+                    "Full Lotus Pose (Padmasana)",
+                    "Seated Forward Bend in Lotus Pose (Paschimottanasana in Padmasana)",
+                    "Bound Lotus Pose (Baddha Padmasana)",
+                    "Lotus Headstand (Mukta Hasta Sirsasana in Padmasana)"
+                ]
+            }
+        }
+    ]
+}

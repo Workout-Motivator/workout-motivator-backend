@@ -1,0 +1,67 @@
+{
+    "title": "Revolved Triangle Pose",
+    "description": "A stretch exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start in a standing position with your feet hip-width apart.",
+                    "Step your left foot back about 3-4 feet and turn it out at a 45-degree angle.",
+                    "Extend your arms out to the sides at shoulder height.",
+                    "Bend your right knee and sink your hips down towards the ground.",
+                    "As you exhale, twist your torso to the right and bring your left elbow to the outside of your right knee.",
+                    "Press your palms together in front of your chest and gaze up towards your right hand.",
+                    "Hold for 5-10 breaths, then release and repeat on the other side."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens core muscles",
+                    "Improves stability and balance",
+                    "Increases shoulder and arm strength",
+                    "Enhances overall body control and coordination",
+                    "Can be modified for different fitness levels",
+                    "Requires minimal equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Hamstrings",
+                    "Glutes",
+                    "Quadriceps",
+                    "Obliques",
+                    "Spinal extensors",
+                    "Shoulders"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Revolved Triangle Pose with a bind",
+                    "Revolved Triangle Pose with a block",
+                    "Revolved Triangle Pose with a twist",
+                    "Revolved Triangle Pose with a half bind",
+                    "Revolved Triangle Pose with a forward fold"
+                ]
+            }
+        }
+    ]
+}

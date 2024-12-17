@@ -1,0 +1,65 @@
+{
+    "title": "Neck Side Stretch",
+    "description": "A stretch exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand or sit with your back straight and shoulders relaxed.",
+                    "Slowly tilt your head to the right, bringing your right ear towards your right shoulder.",
+                    "Hold the stretch for 15-30 seconds, feeling the stretch in the left side of your neck.",
+                    "Slowly return your head to center and repeat on the left side.",
+                    "Repeat the stretch 2-3 times on each side."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Relieves tension and stiffness in the neck muscles",
+                    "Improves range of motion in the neck",
+                    "Reduces headaches and neck pain",
+                    "Helps to release stress and tension in the body",
+                    "Can be done anywhere, anytime, without any equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Sternocleidomastoid",
+                    "Trapezius",
+                    "Levator Scapulae"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Neck Forward Stretch",
+                    "Neck Backward Stretch",
+                    "Neck Rotation Stretch",
+                    "Neck Tilt Stretch",
+                    "Seated Neck Stretch",
+                    "Standing Neck Stretch",
+                    "Wall Assisted Neck Stretch",
+                    "Shoulder and Neck Stretch",
+                    "Upper Trapezius Stretch"
+                ]
+            }
+        }
+    ]
+}

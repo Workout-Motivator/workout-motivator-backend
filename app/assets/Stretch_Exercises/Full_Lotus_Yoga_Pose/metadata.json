@@ -1,0 +1,68 @@
+{
+    "title": "Full Lotus Yoga Pose",
+    "description": "A stretch exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by sitting on the floor with your legs extended in front of you.",
+                    "Bend your right knee and place your right foot on top of your left thigh, as close to your hip as possible.",
+                    "Bend your left knee and place your left foot on top of your right thigh, as close to your hip as possible.",
+                    "Place your hands on your knees and sit up tall, lengthening your spine.",
+                    "Breathe deeply and hold the pose for several breaths.",
+                    "To release the pose, gently straighten your legs and come back to a seated position."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Increases flexibility in the hips, knees, and ankles",
+                    "Strengthens the core muscles",
+                    "Improves posture and alignment",
+                    "Calms the mind and reduces stress",
+                    "Stimulates the digestive and reproductive systems",
+                    "Enhances overall physical and mental well-being"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Glutes",
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Hip flexors",
+                    "Abdominals",
+                    "Lower back muscles",
+                    "Shoulders",
+                    "Chest"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Half Lotus Yoga Pose",
+                    "Bound Lotus Yoga Pose",
+                    "Lotus Headstand Yoga Pose",
+                    "Lotus Forward Bend Yoga Pose",
+                    "Revolved Lotus Yoga Pose"
+                ]
+            }
+        }
+    ]
+}

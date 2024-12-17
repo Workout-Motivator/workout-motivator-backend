@@ -1,0 +1,69 @@
+{
+    "title": "Pvc Overhead Squat",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by standing with your feet shoulder-width apart and holding a PVC pipe with both hands, palms facing up.",
+                    "Extend your arms straight up above your head, keeping your elbows locked and your shoulders relaxed.",
+                    "Slowly lower your body into a squat position, keeping your back straight and your knees in line with your toes.",
+                    "As you lower your body, simultaneously lower the PVC pipe behind your head, keeping your arms straight and your elbows locked.",
+                    "Once you have reached the bottom of your squat, hold the position for a few seconds before slowly standing back up and raising the PVC pipe back above your head.",
+                    "Repeat the exercise for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves mobility and flexibility in the shoulders, hips, and ankles",
+                    "Strengthens the core, glutes, and legs",
+                    "Helps improve posture and balance",
+                    "Can be used as a warm-up exercise for weightlifting or other activities",
+                    "Can be modified for different fitness levels by adjusting the weight of the PVC pipe"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Glutes",
+                    "Core muscles",
+                    "Shoulders",
+                    "Triceps",
+                    "Upper back muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Barbell Overhead Squat",
+                    "Dumbbell Overhead Squat",
+                    "Kettlebell Overhead Squat",
+                    "Single Arm Overhead Squat",
+                    "Front Rack Overhead Squat",
+                    "Zercher Overhead Squat",
+                    "Snatch Grip Overhead Squat",
+                    "Behind the Neck Overhead Squat"
+                ]
+            }
+        }
+    ]
+}

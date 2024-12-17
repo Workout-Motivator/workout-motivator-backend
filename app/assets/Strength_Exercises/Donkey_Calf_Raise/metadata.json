@@ -1,0 +1,61 @@
+{
+    "title": "Donkey Calf Raise",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and place the balls of your feet on a raised surface such as a step or block.",
+                    "Hold onto a stable surface such as a wall or railing for balance.",
+                    "Slowly raise your heels off the ground as high as you can, keeping your legs straight.",
+                    "Pause at the top of the movement and squeeze your calf muscles.",
+                    "Lower your heels back down to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the soleus muscle in the calf, which is important for ankle stability and balance",
+                    "Can be done with minimal equipment, making it a convenient exercise to do at home or while traveling",
+                    "Helps to improve overall calf strength and size",
+                    "Can be easily modified by adding weight or changing the angle of the foot placement",
+                    "May help to prevent injuries such as ankle sprains by strengthening the muscles around the ankle joint"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Gastrocnemius",
+                    "Soleus"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single-leg Donkey Calf Raise",
+                    "Weighted Donkey Calf Raise",
+                    "Donkey Calf Raise on a Smith Machine",
+                    "Seated Donkey Calf Raise",
+                    "Donkey Calf Raise with Resistance Bands"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "title": "Smith Hex Press",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on your back on a bench with your feet flat on the ground and your knees bent.",
+                    "Grasp the barbell with an overhand grip, hands shoulder-width apart.",
+                    "Lower the barbell to your chest, keeping your elbows close to your body.",
+                    "Press the barbell up towards the ceiling, extending your arms fully.",
+                    "Lower the barbell back down to your chest and repeat for desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the chest, shoulders, and triceps",
+                    "Allows for a greater range of motion compared to traditional bench press",
+                    "Provides stability and support for the lifter",
+                    "Can be used to correct muscle imbalances",
+                    "Can be modified for different fitness levels and goals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Pectoralis major (chest)",
+                    "Anterior deltoids (front of shoulders)",
+                    "Triceps brachii (back of upper arms)"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Smith Hex Press",
+                    "Hex Bar Shoulder Press",
+                    "Smith Machine Shoulder Press",
+                    "Hex Bar Overhead Press",
+                    "Smith Machine Overhead Press"
+                ]
+            }
+        }
+    ]
+}

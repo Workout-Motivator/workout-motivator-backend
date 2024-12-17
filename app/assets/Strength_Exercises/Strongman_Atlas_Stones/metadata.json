@@ -1,0 +1,70 @@
+{
+    "title": "Strongman Atlas Stones",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand in front of the StrongMan Atlas Stones with your feet shoulder-width apart.",
+                    "Squat down and grip the stone with both hands, keeping your back straight and your chest up.",
+                    "Use your legs and hips to lift the stone off the ground and bring it up to your lap.",
+                    "Lean back slightly and hug the stone to your chest.",
+                    "Take a deep breath and brace your core.",
+                    "Drive your feet into the ground and explosively lift the stone up to your shoulder.",
+                    "Hold the stone on your shoulder for a few seconds, then lower it back down to your lap.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Increases overall strength and power",
+                    "Improves grip strength and forearm development",
+                    "Targets multiple muscle groups including the back, shoulders, legs, and core",
+                    "Enhances functional fitness and real-world strength",
+                    "Provides a unique and challenging workout experience"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Forearms",
+                    "Biceps",
+                    "Triceps",
+                    "Shoulders",
+                    "Back",
+                    "Glutes",
+                    "Hamstrings",
+                    "Quadriceps",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "StrongMan Log Press",
+                    "StrongMan Deadlift",
+                    "StrongMan Tire Flip",
+                    "StrongMan Farmers Walk",
+                    "StrongMan Yoke Carry"
+                ]
+            }
+        }
+    ]
+}

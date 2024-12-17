@@ -1,0 +1,64 @@
+{
+    "title": "Bent Over Twist",
+    "description": "A stretch exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your knees slightly bent.",
+                    "Hold a dumbbell or kettlebell in your right hand.",
+                    "Bend forward at the waist, keeping your back straight and your abs engaged.",
+                    "Bring the weight down towards your left foot, twisting your torso to the left.",
+                    "Pause for a moment, then return to the starting position.",
+                    "Repeat for the desired number of reps, then switch sides and repeat with the weight in your left hand."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the core muscles, including the obliques and lower back",
+                    "Improves spinal mobility and flexibility",
+                    "Stretches the hips, hamstrings, and glutes",
+                    "Helps to improve posture and balance",
+                    "Can be done with or without weights, making it accessible for all fitness levels"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Obliques",
+                    "Erector Spinae",
+                    "Quadratus Lumborum",
+                    "Glutes",
+                    "Hamstrings"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Bent Over Twist with Dumbbells",
+                    "Bent Over Twist with Resistance Band",
+                    "Bent Over Twist with Medicine Ball",
+                    "Bent Over Twist on Stability Ball",
+                    "Bent Over Twist with Barbell"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "title": "Reaching Up Shoulder Stretch",
+    "description": "A stretch exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your arms at your sides.",
+                    "Reach your right arm straight up towards the ceiling, keeping your shoulder relaxed and your elbow straight.",
+                    "Place your left hand on your right elbow and gently pull your right arm towards your left shoulder.",
+                    "Hold the stretch for 15-30 seconds, feeling the stretch in your right shoulder and upper arm.",
+                    "Release the stretch and repeat on the other side, reaching your left arm up and pulling it towards your right shoulder with your right hand."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens glutes and hamstrings",
+                    "Improves core stability",
+                    "Helps alleviate lower back pain",
+                    "Improves posture",
+                    "Increases hip mobility"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Trapezius",
+                    "Deltoids",
+                    "Rotator cuff muscles",
+                    "Latissimus dorsi",
+                    "Pectoralis major"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Reaching down shoulder stretch",
+                    "Reaching across shoulder stretch",
+                    "Reaching up tricep stretch",
+                    "Reaching up bicep stretch",
+                    "Reaching up chest stretch"
+                ]
+            }
+        }
+    ]
+}

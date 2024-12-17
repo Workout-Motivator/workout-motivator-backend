@@ -1,0 +1,61 @@
+{
+    "title": "Cable Middle Fly",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Adjust the cable pulleys to the middle position.",
+                    "Stand in the center of the cable machine with your feet shoulder-width apart.",
+                    "Grasp the handles with your palms facing down and your arms extended out to the sides at shoulder height.",
+                    "Engage your core and keep your chest up as you bring your hands together in front of your body, squeezing your chest muscles.",
+                    "Slowly release back to the starting position, keeping your arms extended and your chest lifted.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the middle portion of the chest muscles",
+                    "Helps to improve overall chest definition and shape",
+                    "Engages the stabilizer muscles in the shoulders and upper back",
+                    "Allows for a greater range of motion compared to traditional chest exercises",
+                    "Can be easily adjusted to accommodate different fitness levels and goals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Chest muscles (pectoralis major)",
+                    "Shoulder muscles (anterior deltoids)"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Cable Low Fly",
+                    "Cable High Fly",
+                    "Cable Reverse Fly",
+                    "Cable Crossover Fly",
+                    "Cable Incline Fly"
+                ]
+            }
+        }
+    ]
+}

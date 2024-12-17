@@ -1,0 +1,64 @@
+{
+    "title": "Straight Leg Dead Bug",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on your back with your arms extended towards the ceiling and your legs straight up in the air.",
+                    "Slowly lower your right arm and left leg towards the ground, keeping them straight and hovering just above the floor.",
+                    "Return to the starting position and repeat with your left arm and right leg.",
+                    "Continue alternating sides for the desired number of repetitions.",
+                    "Make sure to keep your lower back pressed into the ground and engage your core throughout the exercise."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the core muscles, including the rectus abdominis, obliques, and transverse abdominis",
+                    "Improves stability and balance",
+                    "Helps to prevent lower back pain by strengthening the muscles that support the spine",
+                    "Increases flexibility in the hamstrings and hip flexors",
+                    "Can be modified for different fitness levels and abilities"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus Abdominis",
+                    "Obliques",
+                    "Transverse Abdominis",
+                    "Erector Spinae",
+                    "Glutes",
+                    "Hamstrings"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Bent Leg Dead Bug",
+                    "Weighted Dead Bug",
+                    "Single Leg Dead Bug",
+                    "Reverse Dead Bug",
+                    "Dead Bug with Stability Ball"
+                ]
+            }
+        }
+    ]
+}

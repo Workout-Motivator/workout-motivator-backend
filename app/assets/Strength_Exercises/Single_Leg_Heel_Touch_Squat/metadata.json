@@ -1,0 +1,66 @@
+{
+    "title": "Single Leg Heel Touch Squat",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet hip-width apart and your arms at your sides.",
+                    "Lift your left foot off the ground and extend it straight out in front of you.",
+                    "Bend your right knee and lower your body into a squat, reaching your left hand down to touch your right heel.",
+                    "Push through your right foot to stand back up, bringing your left foot back to the starting position.",
+                    "Repeat on the other side, lifting your right foot and touching your left heel with your right hand.",
+                    "Continue alternating sides for the desired number of repetitions or time."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves balance and stability",
+                    "Strengthens the quadriceps, glutes, and hamstrings",
+                    "Increases ankle and knee stability",
+                    "Helps prevent knee injuries",
+                    "Can be modified for different fitness levels",
+                    "Can be done with or without weights",
+                    "Engages the core muscles for added stability"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Glutes",
+                    "Calves",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single-leg squat",
+                    "Heel touch squat",
+                    "Single-leg heel touch squat with dumbbell",
+                    "Single-leg heel touch squat with kettlebell",
+                    "Single-leg heel touch squat with resistance band"
+                ]
+            }
+        }
+    ]
+}

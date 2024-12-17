@@ -1,0 +1,65 @@
+{
+    "title": "Barbell Walking Lunge",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by standing with your feet shoulder-width apart and holding a barbell across your upper back, with your hands gripping the bar slightly wider than shoulder-width apart.",
+                    "Take a large step forward with your right foot, lowering your body until your right thigh is parallel to the ground and your left knee is hovering just above the floor.",
+                    "Push through your right heel to stand back up, bringing your left foot forward to meet your right foot.",
+                    "Repeat the lunge on the opposite side, stepping forward with your left foot and lowering your body until your left thigh is parallel to the ground and your right knee is hovering just above the floor.",
+                    "Continue alternating lunges, taking a step forward with each foot and lowering your body until your thigh is parallel to the ground.",
+                    "Complete 3 sets of 10-12 reps on each leg."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the lower body muscles, including the quadriceps, hamstrings, glutes, and calves",
+                    "Improves balance and stability",
+                    "Increases core strength and stability",
+                    "Improves flexibility and range of motion in the hips and legs",
+                    "Can be modified to target specific muscle groups or increase difficulty",
+                    "Can be done with minimal equipment and in a variety of settings"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Walking Lunge",
+                    "Reverse Walking Lunge",
+                    "Side Lunge",
+                    "Curtsy Lunge",
+                    "Jumping Lunge"
+                ]
+            }
+        }
+    ]
+}

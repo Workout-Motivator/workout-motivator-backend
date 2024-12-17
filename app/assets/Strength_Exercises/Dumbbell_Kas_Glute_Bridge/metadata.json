@@ -1,0 +1,62 @@
+{
+    "title": "Dumbbell Kas Glute Bridge",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on your back with your knees bent and feet flat on the ground.",
+                    "Hold a dumbbell in each hand and place them on your hips.",
+                    "Engage your glutes and lift your hips up towards the ceiling, squeezing your glutes at the top of the movement.",
+                    "Lower your hips back down to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the triceps and shoulders",
+                    "Improves upper body strength and stability",
+                    "Increases muscle activation in the triceps compared to traditional bench press",
+                    "Can help prevent shoulder injuries by strengthening the rotator cuff muscles",
+                    "Allows for a greater range of motion compared to traditional bench press"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Glutes",
+                    "Hamstrings",
+                    "Lower back",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "dumbbell-kas-glute-bridge with resistance band",
+                    "dumbbell-kas-glute-bridge with single leg",
+                    "dumbbell-kas-glute-bridge with pulse",
+                    "dumbbell-kas-glute-bridge with hip abduction",
+                    "dumbbell-kas-glute-bridge with hip thrust"
+                ]
+            }
+        }
+    ]
+}

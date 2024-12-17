@@ -1,0 +1,66 @@
+{
+    "title": "Barbell Glute Bridge",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on your back on a mat or bench with your knees bent and feet flat on the ground.",
+                    "Place a barbell across your hips, holding it in place with your hands.",
+                    "Engage your glutes and lift your hips up towards the ceiling, keeping your feet and shoulders on the ground.",
+                    "Pause at the top of the movement, squeezing your glutes tightly.",
+                    "Lower your hips back down to the starting position, but do not let the barbell touch the ground.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the glutes, hamstrings, and lower back muscles",
+                    "Improves hip mobility and flexibility",
+                    "Helps to prevent lower back pain and injury",
+                    "Increases overall power and explosiveness in lower body movements",
+                    "Can be easily modified to increase or decrease difficulty"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Glutes",
+                    "Hamstrings",
+                    "Lower back",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Glute Bridge",
+                    "Single Leg Glute Bridge",
+                    "Weighted Glute Bridge",
+                    "Banded Glute Bridge",
+                    "Barbell Hip Thrust",
+                    "Sumo Deadlift",
+                    "Single Leg Deadlift",
+                    "Reverse Hyperextension"
+                ]
+            }
+        }
+    ]
+}

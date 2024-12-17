@@ -1,0 +1,71 @@
+{
+    "title": "Lunge",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet hip-width apart and your hands on your hips.",
+                    "Take a big step forward with your right foot, keeping your left foot in place.",
+                    "Bend both knees to lower your body towards the ground, keeping your back straight.",
+                    "Stop when your right thigh is parallel to the ground and your right knee is directly above your ankle.",
+                    "Push through your right heel to stand back up to the starting position.",
+                    "Repeat on the other side, stepping forward with your left foot.",
+                    "Continue alternating legs for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the quadriceps, hamstrings, and glutes",
+                    "Improves balance and stability",
+                    "Increases flexibility in the hips and legs",
+                    "Engages the core muscles for added stability",
+                    "Can be modified for different fitness levels and goals",
+                    "Helps to improve posture and alignment",
+                    "Can be done with or without weights for added resistance"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Reverse lunge",
+                    "Walking lunge",
+                    "Curtsy lunge",
+                    "Side lunge",
+                    "Jumping lunge",
+                    "Split squat lunge",
+                    "Barbell lunge",
+                    "Dumbbell lunge",
+                    "Kettlebell lunge"
+                ]
+            }
+        }
+    ]
+}

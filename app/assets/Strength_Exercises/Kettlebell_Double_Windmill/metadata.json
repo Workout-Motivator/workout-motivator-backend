@@ -1,0 +1,68 @@
+{
+    "title": "Kettlebell Double Windmill",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a kettlebell in your right hand.",
+                    "Extend your right arm overhead, keeping your eyes on the kettlebell.",
+                    "Rotate your left foot 45 degrees to the left and your right foot 90 degrees to the right.",
+                    "Lower the kettlebell towards your left foot, keeping your right arm straight and your left arm extended out to the side.",
+                    "As you lower the kettlebell, hinge at your hips and bend your left knee, keeping your back straight.",
+                    "Pause when the kettlebell is just above the ground, then use your core and leg muscles to lift yourself back up to the starting position.",
+                    "Repeat for the desired number of reps, then switch sides and repeat with the kettlebell in your left hand."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the core muscles",
+                    "Improves shoulder mobility and stability",
+                    "Increases flexibility in the hamstrings and hips",
+                    "Enhances overall body coordination and balance",
+                    "Burns calories and promotes weight loss",
+                    "Can be modified for different fitness levels and goals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Abdominals",
+                    "Obliques",
+                    "Glutes",
+                    "Hamstrings",
+                    "Quadriceps",
+                    "Shoulders",
+                    "Triceps"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Kettlebell Single Windmill",
+                    "Kettlebell Turkish Get-Up",
+                    "Kettlebell Clean and Press",
+                    "Kettlebell Snatch",
+                    "Kettlebell Swing"
+                ]
+            }
+        }
+    ]
+}

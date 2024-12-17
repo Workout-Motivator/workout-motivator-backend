@@ -1,0 +1,66 @@
+{
+    "title": "Band Straight Arm Pulldown",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Attach a straight bar to the high pulley of a cable machine.",
+                    "Choose a resistance band that provides the desired level of difficulty.",
+                    "Stand facing the cable machine with your feet shoulder-width apart.",
+                    "Grasp the bar with both hands, palms facing down and hands shoulder-width apart.",
+                    "Extend your arms fully in front of you, keeping your elbows locked.",
+                    "Engage your core and pull the bar down towards your thighs, keeping your arms straight.",
+                    "Pause for a moment at the bottom of the movement, then slowly release the bar back to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the lats, shoulders, and upper back muscles",
+                    "Improves posture and upper body strength",
+                    "Can be done with resistance bands, making it a convenient exercise to do at home or while traveling",
+                    "Allows for a full range of motion, helping to increase flexibility and mobility in the shoulders",
+                    "Can be modified for different fitness levels by adjusting the resistance of the band"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Latissimus dorsi",
+                    "Teres major",
+                    "Rhomboids",
+                    "Trapezius",
+                    "Posterior deltoids"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Reverse grip band straight arm pulldown",
+                    "Single arm band straight arm pulldown",
+                    "Band straight arm pulldown with twist",
+                    "Band straight arm pulldown with overhead reach",
+                    "Band straight arm pulldown with squat"
+                ]
+            }
+        }
+    ]
+}

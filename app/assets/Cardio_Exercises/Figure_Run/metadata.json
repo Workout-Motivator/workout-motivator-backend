@@ -1,0 +1,65 @@
+{
+    "title": "Figure Run",
+    "description": "A cardio exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your arms at your sides.",
+                    "Take a big step forward with your right foot and lower your body into a lunge position, keeping your back straight and your left heel lifted off the ground.",
+                    "As you lower your body, swing your left arm forward and your right arm back, as if you were running.",
+                    "Push off your right foot and bring your left foot forward, swinging your right arm forward and your left arm back.",
+                    "Repeat this motion, alternating legs and arms, for 30 seconds to 1 minute."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens lower back muscles",
+                    "Improves posture",
+                    "Increases flexibility in the hips and lower back",
+                    "Helps prevent lower back pain and injury",
+                    "Can be done at home without equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Glutes",
+                    "Calf muscles",
+                    "Abdominals",
+                    "Obliques",
+                    "Erector spinae"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Figure skater run",
+                    "Figure skater lunge",
+                    "Figure skater jump",
+                    "Figure skater spin",
+                    "Figure skater squat"
+                ]
+            }
+        }
+    ]
+}

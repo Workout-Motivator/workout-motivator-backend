@@ -1,0 +1,68 @@
+{
+    "title": "Band Deadlift",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Begin by standing with your feet shoulder-width apart and the band looped around both feet.",
+                    "Grab the band with both hands, palms facing inwards, and bring it up to your hips.",
+                    "Engage your core and hinge at the hips, pushing your butt back and keeping your back straight.",
+                    "Lower the band towards the ground, keeping tension in the band throughout the movement.",
+                    "Once you reach the bottom of the movement, push through your heels and squeeze your glutes to return to the starting position.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets multiple muscle groups including the glutes, hamstrings, and lower back",
+                    "Increases strength and power in the lower body",
+                    "Improves hip mobility and flexibility",
+                    "Can be used as a warm-up exercise for heavier deadlifts",
+                    "Allows for resistance to be added through the use of bands"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Glutes",
+                    "Hamstrings",
+                    "Quadriceps",
+                    "Erector spinae",
+                    "Abdominals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Sumo deadlift",
+                    "Conventional deadlift",
+                    "Romanian deadlift",
+                    "Stiff-legged deadlift",
+                    "Trap bar deadlift",
+                    "Deficit deadlift",
+                    "Paused deadlift",
+                    "Block pull deadlift",
+                    "Single-leg deadlift"
+                ]
+            }
+        }
+    ]
+}

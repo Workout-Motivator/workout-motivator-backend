@@ -1,0 +1,63 @@
+{
+    "title": "Heel Glute Bridge",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on your back with your knees bent and feet flat on the ground.",
+                    "Place your heels close to your glutes, with your toes pointing forward.",
+                    "Engage your glutes and lift your hips off the ground, pushing through your heels.",
+                    "Hold for a few seconds at the top, squeezing your glutes.",
+                    "Lower your hips back down to the ground, but don\u2019t let them touch the ground completely.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves balance and coordination",
+                    "Strengthens the muscles in the legs and core",
+                    "Increases proprioception (awareness of body position and movement)",
+                    "Can be used as a rehabilitation exercise for ankle or foot injuries",
+                    "Can be done anywhere without equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Glutes",
+                    "Hamstrings",
+                    "Lower back",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single-leg heel-glute-bridge",
+                    "Weighted heel-glute-bridge",
+                    "Band-resisted heel-glute-bridge",
+                    "Heel-glute-bridge with pulse at the top",
+                    "Heel-glute-bridge with abduction at the top"
+                ]
+            }
+        }
+    ]
+}

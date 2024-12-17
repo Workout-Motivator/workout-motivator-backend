@@ -1,0 +1,60 @@
+{
+    "title": "Plate Pinch",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Place two weight plates of equal size on the ground, with the smooth sides facing outwards.",
+                    "Stand over the plates and position your feet shoulder-width apart.",
+                    "Bend down and grip the top of each plate with your fingers, keeping your thumbs on the smooth side of the plates.",
+                    "Lift the plates off the ground by pinching them together with your fingers and thumbs.",
+                    "Hold the plates for a few seconds, then release and repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves grip strength",
+                    "Targets forearm muscles",
+                    "Can help prevent wrist injuries",
+                    "Can be done with minimal equipment",
+                    "Can be easily modified for different fitness levels"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Forearm muscles",
+                    "Grip strength muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Plate Pinch Hold",
+                    "Plate Pinch Walk",
+                    "Plate Pinch Curl",
+                    "Plate Pinch Press",
+                    "Plate Pinch Deadlift"
+                ]
+            }
+        }
+    ]
+}

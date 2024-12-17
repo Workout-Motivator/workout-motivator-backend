@@ -1,0 +1,61 @@
+{
+    "title": "Weighted Lying Hip Abduction",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on your side with your legs straight and stacked on top of each other.",
+                    "Place a small weight on the top of your thigh, just above your knee.",
+                    "Engage your core and glutes to lift your top leg up towards the ceiling, keeping it straight.",
+                    "Pause at the top of the movement and squeeze your glutes.",
+                    "Lower your leg back down to the starting position.",
+                    "Repeat for the desired number of reps, then switch sides."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the hip abductor muscles, which are important for stabilizing the pelvis and maintaining proper alignment during movement",
+                    "Improves hip mobility and flexibility",
+                    "Can help alleviate hip pain and discomfort",
+                    "May improve athletic performance in activities that require lateral movement, such as running, jumping, and cutting",
+                    "Can be modified to target different areas of the hip and glutes by adjusting the angle of the leg and the placement of the weight"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Gluteus medius",
+                    "Gluteus minimus"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Unweighted Lying Hip Abduction",
+                    "Weighted Standing Hip Abduction",
+                    "Clamshell Exercise",
+                    "Side-Lying Leg Lift",
+                    "Fire Hydrant Exercise"
+                ]
+            }
+        }
+    ]
+}

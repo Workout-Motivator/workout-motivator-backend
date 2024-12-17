@@ -1,0 +1,64 @@
+{
+    "title": "Dumbbell Lateral Step Up",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand facing a bench or step with a dumbbell in each hand.",
+                    "Place your right foot on the bench or step and step up, straightening your right leg.",
+                    "As you step up, lift your left knee up towards your chest.",
+                    "Lower your left foot back down to the ground and step your right foot back down to the ground.",
+                    "Repeat on the other side, stepping up with your left foot and lifting your right knee up towards your chest.",
+                    "Continue alternating sides for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens hamstrings",
+                    "Improves knee stability",
+                    "Targets glutes and lower back muscles",
+                    "Can be done with minimal equipment",
+                    "Allows for isolation of leg muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "dumbbell lateral lunge",
+                    "dumbbell step-up with knee raise",
+                    "dumbbell reverse lunge with lateral raise",
+                    "dumbbell curtsy lunge with lateral raise",
+                    "dumbbell lateral box jump"
+                ]
+            }
+        }
+    ]
+}

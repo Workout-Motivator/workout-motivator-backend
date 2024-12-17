@@ -1,0 +1,66 @@
+{
+    "title": "Shuffle",
+    "description": "A cardio exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by standing with your feet shoulder-width apart and your arms at your sides.",
+                    "Jump up and cross your right foot over your left foot, landing on the ball of your left foot and the heel of your right foot.",
+                    "As you land, swing your arms to the left side of your body.",
+                    "Jump up again and uncross your feet, landing back in the starting position with your feet shoulder-width apart and your arms at your sides.",
+                    "Jump up once more and cross your left foot over your right foot, landing on the ball of your right foot and the heel of your left foot.",
+                    "As you land, swing your arms to the right side of your body.",
+                    "Repeat steps 2-6 for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves cardiovascular endurance",
+                    "Increases coordination and balance",
+                    "Burns calories and aids in weight loss",
+                    "Strengthens leg muscles",
+                    "Can be done anywhere with minimal equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Glutes",
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Calves",
+                    "Abdominals",
+                    "Obliques"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Shuffle with a partner",
+                    "Shuffle with a resistance band",
+                    "Shuffle with a medicine ball",
+                    "Shuffle with a cone or marker to change direction",
+                    "Shuffle with a lateral jump"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "title": "Cable Hammer Curl",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a cable handle in each hand.",
+                    "Keep your elbows close to your sides and curl the handles up towards your shoulders.",
+                    "Pause at the top of the movement and squeeze your biceps.",
+                    "Slowly lower the handles back down to the starting position.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the brachialis muscle, which helps to increase overall arm size and strength",
+                    "Allows for a greater range of motion compared to traditional dumbbell hammer curls",
+                    "Engages the forearm muscles, improving grip strength and wrist stability",
+                    "Can be easily adjusted to target different areas of the bicep and forearm",
+                    "Provides a unique and challenging variation to traditional bicep exercises"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Biceps brachii",
+                    "Brachialis",
+                    "Brachioradialis"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single-arm Cable Hammer Curl",
+                    "Standing Cable Hammer Curl",
+                    "Seated Cable Hammer Curl",
+                    "Reverse-grip Cable Hammer Curl",
+                    "Low-pulley Cable Hammer Curl",
+                    "High-pulley Cable Hammer Curl"
+                ]
+            }
+        }
+    ]
+}

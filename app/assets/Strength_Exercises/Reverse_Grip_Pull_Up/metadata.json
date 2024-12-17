@@ -1,0 +1,66 @@
+{
+    "title": "Reverse Grip Pull Up",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Find a pull-up bar that is sturdy and can support your weight.",
+                    "Stand underneath the bar and reach up to grab it with your palms facing towards you (reverse grip).",
+                    "Hang from the bar with your arms fully extended and your feet off the ground.",
+                    "Engage your back muscles and pull your body up towards the bar until your chin is above the bar.",
+                    "Pause for a moment at the top of the movement, then slowly lower yourself back down to the starting position with your arms fully extended.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the back muscles, specifically the lats, rhomboids, and traps",
+                    "Engages the biceps and forearms as secondary muscles",
+                    "Improves grip strength",
+                    "Increases upper body strength and endurance",
+                    "Can be modified for different fitness levels by using assistance bands or adjusting the angle of the body"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Biceps brachii",
+                    "Brachialis",
+                    "Brachioradialis",
+                    "Trapezius",
+                    "Rhomboids",
+                    "Latissimus dorsi",
+                    "Posterior deltoids"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Wide grip reverse pull up",
+                    "Close grip reverse pull up",
+                    "Assisted reverse grip pull up",
+                    "Weighted reverse grip pull up",
+                    "One arm reverse grip pull up"
+                ]
+            }
+        }
+    ]
+}

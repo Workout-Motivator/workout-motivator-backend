@@ -1,0 +1,60 @@
+{
+    "title": "Cross Body Crunch",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying flat on your back with your knees bent and your feet flat on the ground.",
+                    "Place your hands behind your head, with your elbows pointing out to the sides.",
+                    "Bring your right elbow and left knee towards each other, while lifting your shoulder blades off the ground.",
+                    "Return to the starting position and repeat on the other side, bringing your left elbow and right knee towards each other.",
+                    "Continue alternating sides for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the rectus abdominis and obliques for a stronger core",
+                    "Improves balance and stability",
+                    "Increases flexibility in the spine",
+                    "Can be modified for different fitness levels",
+                    "Engages multiple muscle groups for a more efficient workout"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus Abdominis",
+                    "Obliques"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Reverse Crunch",
+                    "Oblique Crunch",
+                    "Russian Twist",
+                    "Plank with Knee to Elbow",
+                    "Side Plank with Hip Dip"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "title": "Strongman Car Flip",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Approach the car from the side and place your hands on the side of the car.",
+                    "Brace your core and engage your legs.",
+                    "Push the car with your hands and drive your legs forward.",
+                    "Continue pushing until the car flips over.",
+                    "Repeat for desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Increases overall strength and power",
+                    "Improves cardiovascular endurance",
+                    "Targets multiple muscle groups including legs, back, shoulders, and core",
+                    "Enhances grip strength",
+                    "Boosts confidence and mental toughness",
+                    "Provides a unique and challenging workout experience"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Glutes",
+                    "Calves",
+                    "Core muscles (abdominals and lower back)",
+                    "Shoulders",
+                    "Triceps",
+                    "Chest"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single Arm Car Flip",
+                    "Partner Car Flip",
+                    "Backwards Car Flip",
+                    "One-Handed Car Flip",
+                    "Car Push and Pull"
+                ]
+            }
+        }
+    ]
+}

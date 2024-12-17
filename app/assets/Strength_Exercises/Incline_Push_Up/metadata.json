@@ -1,0 +1,67 @@
+{
+    "title": "Incline Push Up",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by placing your hands on an elevated surface, such as a bench or step.",
+                    "Step your feet back so that your body is in a straight line from head to heels.",
+                    "Lower your chest towards the bench, keeping your elbows close to your body.",
+                    "Push back up to the starting position, keeping your core engaged and your body in a straight line.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the upper chest muscles",
+                    "Engages the triceps and shoulders as secondary muscles",
+                    "Increases strength and definition in the chest and arms",
+                    "Can be modified to suit different fitness levels",
+                    "Requires no equipment and can be done anywhere"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Chest muscles (pectoralis major and minor)",
+                    "Shoulder muscles (anterior deltoids)",
+                    "Triceps",
+                    "Core muscles (abdominals and lower back)"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Decline push up",
+                    "Close grip push up",
+                    "Wide grip push up",
+                    "Diamond push up",
+                    "One arm push up",
+                    "Plyometric push up",
+                    "Staggered push up",
+                    "Spiderman push up",
+                    "T push up",
+                    "Tricep push up"
+                ]
+            }
+        }
+    ]
+}

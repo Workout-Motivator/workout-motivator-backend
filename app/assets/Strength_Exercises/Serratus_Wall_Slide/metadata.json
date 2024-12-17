@@ -1,0 +1,64 @@
+{
+    "title": "Serratus Wall Slide",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your back against a wall, feet shoulder-width apart.",
+                    "Place your arms against the wall with your elbows bent at a 90-degree angle and your palms facing forward.",
+                    "Slowly slide your arms up the wall, keeping your elbows bent and your shoulders relaxed.",
+                    "As you slide your arms up, focus on squeezing your shoulder blades together and engaging your serratus anterior muscles.",
+                    "Hold the top position for a few seconds, then slowly lower your arms back down to the starting position.",
+                    "Repeat for 10-15 repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves scapular stability",
+                    "Strengthens the serratus anterior muscle",
+                    "Improves posture",
+                    "Reduces risk of shoulder injuries",
+                    "Increases range of motion in the shoulders"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Serratus anterior",
+                    "Trapezius",
+                    "Rhomboids",
+                    "Deltoids",
+                    "Rotator cuff muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Serratus Wall Slide with Resistance Band",
+                    "Serratus Wall Slide with Dumbbells",
+                    "Single Arm Serratus Wall Slide",
+                    "Alternating Serratus Wall Slide",
+                    "Decline Serratus Wall Slide"
+                ]
+            }
+        }
+    ]
+}

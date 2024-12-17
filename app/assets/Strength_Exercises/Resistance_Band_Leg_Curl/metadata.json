@@ -1,0 +1,61 @@
+{
+    "title": "Resistance Band Leg Curl",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Attach a resistance band to a sturdy anchor point, such as a door or pole.",
+                    "Place the band around your ankles and lie face down on a mat or floor.",
+                    "Bend your knees and bring your heels towards your buttocks, keeping your feet flexed.",
+                    "Slowly straighten your legs, pushing against the resistance of the band.",
+                    "Pause briefly at the end of the movement, then slowly return to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the hamstrings",
+                    "Improves balance and stability",
+                    "Targets the glutes and calves as secondary muscles",
+                    "Can be done anywhere with a resistance band",
+                    "Low impact exercise that is easy on the joints"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Hamstrings",
+                    "Glutes"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single-leg resistance band leg curl",
+                    "Seated resistance band leg curl",
+                    "Standing resistance band leg curl",
+                    "Resistance band hamstring curl with stability ball",
+                    "Resistance band hamstring curl with bench"
+                ]
+            }
+        }
+    ]
+}

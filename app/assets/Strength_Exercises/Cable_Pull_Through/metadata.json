@@ -1,0 +1,65 @@
+{
+    "title": "Cable Pull Through",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and place a cable machine behind you.",
+                    "Attach a rope handle to the cable machine and adjust the height to be just above your knees.",
+                    "Grab the rope handle with both hands and step forward until there is tension on the cable.",
+                    "Hinge at the hips and lower your torso until it is parallel to the ground.",
+                    "Drive your hips forward and stand up straight, pulling the cable through your legs.",
+                    "Pause at the top of the movement and squeeze your glutes.",
+                    "Slowly lower the cable back down to the starting position and repeat for desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the glutes, hamstrings, and lower back muscles",
+                    "Improves hip hinge movement pattern",
+                    "Increases hip and hamstring flexibility",
+                    "Can be used as a warm-up or as a main exercise in a lower body workout",
+                    "Low impact exercise that is easy on the joints",
+                    "Can be modified for different fitness levels by adjusting the weight and resistance"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Glutes",
+                    "Hamstrings",
+                    "Lower back",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single-leg cable pull through",
+                    "Sumo stance cable pull through",
+                    "Reverse cable pull through",
+                    "Band pull through",
+                    "Kettlebell swing"
+                ]
+            }
+        }
+    ]
+}

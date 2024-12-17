@@ -1,0 +1,73 @@
+{
+    "title": "Barbell Full Clean",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start with the barbell on the ground in front of you, with your feet shoulder-width apart and your toes pointing forward.",
+                    "Bend down and grip the barbell with your hands slightly wider than shoulder-width apart, palms facing down.",
+                    "Engage your core and lift the barbell off the ground, keeping your back straight and your arms extended.",
+                    "As the barbell reaches your mid-thigh, explosively extend your hips and knees, pulling the barbell up towards your shoulders.",
+                    "As the barbell reaches your chest, quickly rotate your elbows underneath the barbell and catch it in a front squat position, with your elbows pointing forward and your hips and knees bent.",
+                    "Stand up with the barbell, keeping your core engaged and your back straight.",
+                    "Lower the barbell back down to the ground in a controlled manner, and repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves explosive power and speed",
+                    "Targets multiple muscle groups including the legs, back, shoulders, and arms",
+                    "Increases overall strength and muscle mass",
+                    "Improves coordination and balance",
+                    "Enhances athletic performance in sports such as football, basketball, and track and field"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Glutes",
+                    "Calves",
+                    "Lower back",
+                    "Upper back",
+                    "Shoulders",
+                    "Forearms",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Power Clean",
+                    "Hang Clean",
+                    "Clean and Jerk",
+                    "Hang Power Clean",
+                    "Hang Squat Clean",
+                    "Split Clean",
+                    "Push Press",
+                    "Push Jerk",
+                    "Split Jerk"
+                ]
+            }
+        }
+    ]
+}

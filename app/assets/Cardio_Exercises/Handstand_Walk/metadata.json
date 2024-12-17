@@ -1,0 +1,72 @@
+{
+    "title": "Handstand Walk",
+    "description": "A cardio exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start in a standing position with your feet shoulder-width apart.",
+                    "Place your hands on the ground in front of you, shoulder-width apart.",
+                    "Shift your weight onto your hands and kick your feet up towards the wall behind you.",
+                    "Use the wall for support as you walk your hands closer to the wall and your feet up the wall.",
+                    "Once you are in a handstand position, begin to walk your hands forward, keeping your core engaged and your legs straight.",
+                    "As you walk your hands forward, allow your feet to come off the wall and balance on your hands.",
+                    "Continue walking your hands forward until you reach your desired distance or time.",
+                    "To come down, slowly walk your hands back towards the wall and lower your feet back down to the ground.",
+                    "Finish in a standing position."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves balance and coordination",
+                    "Strengthens the shoulders, arms, and core muscles",
+                    "Increases body awareness and control",
+                    "Challenges the cardiovascular system",
+                    "Boosts confidence and mental focus"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Shoulders",
+                    "Triceps",
+                    "Core",
+                    "Forearms",
+                    "Glutes",
+                    "Hamstrings"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Handstand hold against a wall",
+                    "Handstand push-ups",
+                    "Handstand walking with obstacles",
+                    "Handstand walking on different surfaces (sand, grass, concrete)",
+                    "Handstand walking with weights",
+                    "Handstand walking with partners",
+                    "Handstand walking with turns and twists",
+                    "Handstand walking on stairs or inclines",
+                    "Handstand walking with one arm"
+                ]
+            }
+        }
+    ]
+}

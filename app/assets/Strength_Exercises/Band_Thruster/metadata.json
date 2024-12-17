@@ -1,0 +1,65 @@
+{
+    "title": "Band Thruster",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by standing with your feet shoulder-width apart and holding a resistance band with both hands at chest height.",
+                    "Squat down until your thighs are parallel to the ground, keeping your weight in your heels and your chest up.",
+                    "As you stand up, press the band overhead, extending your arms fully.",
+                    "Lower the band back to chest height as you squat down again.",
+                    "Repeat for 10-12 reps, or as many as you can do with good form."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets multiple muscle groups including the quads, glutes, shoulders, and triceps",
+                    "Improves overall strength and power",
+                    "Increases cardiovascular endurance",
+                    "Can be modified for different fitness levels by adjusting the resistance band or weight used",
+                    "Engages the core for added stability and balance",
+                    "Can be done with minimal equipment, making it a convenient exercise to do at home or while traveling"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Shoulders",
+                    "Triceps",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single-arm band thruster",
+                    "Band thruster with a pause at the bottom",
+                    "Band thruster with a jump at the top",
+                    "Band thruster with a pulse at the bottom",
+                    "Band thruster with a bicep curl at the bottom"
+                ]
+            }
+        }
+    ]
+}

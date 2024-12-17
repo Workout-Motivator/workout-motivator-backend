@@ -1,0 +1,66 @@
+{
+    "title": "Dumbbell One Arm Incline Chest Press",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on an incline bench with a dumbbell in one hand.",
+                    "Place your feet firmly on the ground and keep your back straight.",
+                    "Hold the dumbbell with your palm facing forward and your elbow bent at a 90-degree angle.",
+                    "Slowly lower the dumbbell towards your chest while keeping your elbow close to your body.",
+                    "Pause for a moment when the dumbbell is close to your chest.",
+                    "Push the dumbbell back up to the starting position while exhaling.",
+                    "Repeat for the desired number of repetitions.",
+                    "Switch arms and repeat the exercise with the other arm."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the chest muscles, specifically the upper portion",
+                    "Helps to improve overall chest strength and size",
+                    "Engages the core muscles for stability and balance",
+                    "Allows for unilateral training, which can help to correct muscle imbalances",
+                    "Can be performed with a variety of weight options, making it suitable for all fitness levels",
+                    "Provides a different angle of resistance compared to traditional flat bench presses"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Pectoralis Major (upper and middle fibers)",
+                    "Anterior Deltoid",
+                    "Triceps Brachii",
+                    "Serratus Anterior"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell One Arm Decline Chest Press",
+                    "Dumbbell One Arm Flat Chest Press",
+                    "Dumbbell One Arm Floor Press",
+                    "Dumbbell One Arm Standing Chest Press",
+                    "Dumbbell One Arm Push Up"
+                ]
+            }
+        }
+    ]
+}

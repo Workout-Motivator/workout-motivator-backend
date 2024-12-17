@@ -1,0 +1,66 @@
+{
+    "title": "Sumo Squat",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet wider than shoulder-width apart and your toes pointing slightly outward.",
+                    "Hold a dumbbell or kettlebell with both hands in front of your body.",
+                    "Engage your core and keep your chest lifted as you lower your hips down and back, bending your knees.",
+                    "Keep your weight in your heels and your knees tracking over your toes.",
+                    "Lower until your thighs are parallel to the ground or as low as you can comfortably go.",
+                    "Push through your heels to stand back up to the starting position.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets multiple muscle groups including the quads, hamstrings, glutes, and inner thighs",
+                    "Improves lower body strength and power",
+                    "Increases hip mobility and flexibility",
+                    "Can help improve posture and balance",
+                    "Variations can be done with weights or resistance bands to increase intensity"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Glutes",
+                    "Adductors",
+                    "Erector spinae",
+                    "Abdominals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Sumo Deadlift",
+                    "Sumo Squat with Dumbbells",
+                    "Sumo Squat with Kettlebell",
+                    "Sumo Squat with Resistance Band",
+                    "Sumo Squat Jump"
+                ]
+            }
+        }
+    ]
+}

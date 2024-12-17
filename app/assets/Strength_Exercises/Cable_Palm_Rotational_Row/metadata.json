@@ -1,0 +1,72 @@
+{
+    "title": "Cable Palm Rotational Row",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a cable handle in each hand.",
+                    "Bend your knees slightly and hinge forward at the hips, keeping your back straight.",
+                    "Extend your arms straight out in front of you, palms facing down.",
+                    "Rotate your palms up towards the ceiling, keeping your elbows close to your sides.",
+                    "Row the cables towards your chest, squeezing your shoulder blades together.",
+                    "Pause for a moment at the top of the movement, then slowly lower the cables back to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the hamstrings, glutes, and lower back muscles",
+                    "Improves hip mobility and flexibility",
+                    "Increases strength and muscle mass in the targeted areas",
+                    "Helps to prevent injury by strengthening the posterior chain",
+                    "Can be modified to target different areas of the legs and back",
+                    "Can be performed with a variety of equipment, including cables, dumbbells, and barbells"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Forearms",
+                    "Biceps",
+                    "Upper back (rhomboids, trapezius)",
+                    "Rear deltoids"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "cable palm rotational row",
+                    "cable palm-up row",
+                    "cable reverse grip row",
+                    "cable single arm row",
+                    "dumbbell palm rotational row",
+                    "dumbbell palm-up row",
+                    "dumbbell reverse grip row",
+                    "dumbbell single arm row",
+                    "barbell palm rotational row",
+                    "barbell palm-up row",
+                    "barbell reverse grip row",
+                    "barbell single arm row"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "title": "Tiger Tail Neck",
+    "description": "A stretch exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Place the Tiger Tail Neck on a flat surface, such as a table or the floor.",
+                    "Position yourself so that you are sitting or standing comfortably next to the Tiger Tail Neck.",
+                    "Place the Tiger Tail Neck on the back of your neck, with the two massage balls on either side of your spine.",
+                    "Slowly move your head up and down, allowing the massage balls to roll along your neck muscles.",
+                    "Repeat this motion for 1-2 minutes, or until you feel your neck muscles start to relax.",
+                    "If desired, you can also move the Tiger Tail Neck to other areas of your neck and shoulders to target different muscle groups.",
+                    "When finished, gently remove the Tiger Tail Neck from your neck and store it in a safe place."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Relieves tension and stiffness in the neck muscles",
+                    "Improves range of motion in the neck",
+                    "Reduces headaches and migraines caused by neck tension",
+                    "Increases blood flow to the neck and head",
+                    "Can be done anywhere, anytime without equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Trapezius",
+                    "Rhomboids",
+                    "Levator Scapulae",
+                    "Splenius Capitis",
+                    "Splenius Cervicis"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Tiger Tail Neck",
+                    "Tiger Tail Back",
+                    "Tiger Tail Legs",
+                    "Tiger Tail Feet",
+                    "Tiger Tail Arms"
+                ]
+            }
+        }
+    ]
+}

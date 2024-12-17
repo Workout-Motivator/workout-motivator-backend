@@ -1,0 +1,64 @@
+{
+    "title": "Medicine Ball Crunch",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on your back with your knees bent and feet flat on the ground.",
+                    "Hold a medicine ball with both hands and extend your arms straight up towards the ceiling.",
+                    "Engage your core muscles and lift your head, neck, and shoulders off the ground.",
+                    "Simultaneously, bring the medicine ball towards your knees by bending at the waist.",
+                    "Pause for a moment at the top of the movement, then slowly lower your head, neck, and shoulders back down to the ground.",
+                    "Extend your arms and the medicine ball back up towards the ceiling.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the abdominal muscles, specifically the rectus abdominis and obliques",
+                    "Improves core strength and stability",
+                    "Increases overall muscular endurance",
+                    "Can be modified to increase or decrease difficulty",
+                    "Engages multiple muscle groups, including the shoulders and chest",
+                    "Can be done with minimal equipment and in a variety of settings"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus abdominis",
+                    "Obliques",
+                    "Transverse abdominis"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Weighted Crunch",
+                    "Reverse Crunch with Medicine Ball",
+                    "Medicine Ball Russian Twist",
+                    "Medicine Ball V-Up",
+                    "Medicine Ball Plank with Knee Tuck"
+                ]
+            }
+        }
+    ]
+}

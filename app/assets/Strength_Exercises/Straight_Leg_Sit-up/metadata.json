@@ -1,0 +1,61 @@
+{
+    "title": "Straight Leg Sit-up",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying flat on your back with your legs straight out in front of you and your arms extended above your head.",
+                    "Engage your core muscles and slowly lift your legs and upper body off the ground at the same time, keeping your legs straight.",
+                    "Continue to lift until your hands touch your toes or as close as you can get.",
+                    "Slowly lower your body back down to the starting position, keeping your legs straight the entire time.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the abdominal muscles",
+                    "Improves core stability",
+                    "Increases flexibility in the hamstrings and lower back",
+                    "Helps improve posture",
+                    "Can be modified to target different areas of the abs"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus abdominis",
+                    "Obliques",
+                    "Hip flexors"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Weighted Straight Leg Sit-up",
+                    "Decline Straight Leg Sit-up",
+                    "Twisting Straight Leg Sit-up",
+                    "Reverse Straight Leg Sit-up",
+                    "Side-to-Side Straight Leg Sit-up"
+                ]
+            }
+        }
+    ]
+}

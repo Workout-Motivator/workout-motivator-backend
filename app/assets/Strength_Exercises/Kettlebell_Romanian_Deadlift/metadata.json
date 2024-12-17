@@ -1,0 +1,62 @@
+{
+    "title": "Kettlebell Romanian Deadlift",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a kettlebell in both hands in front of your thighs.",
+                    "Engage your core and keep your back straight as you hinge forward at the hips, pushing your butt back and lowering the kettlebell towards the ground.",
+                    "Lower the kettlebell until you feel a stretch in your hamstrings, but be sure to keep your back straight and avoid rounding your spine.",
+                    "Pause for a moment at the bottom of the movement, then use your hamstrings and glutes to pull yourself back up to the starting position.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the posterior chain muscles including the glutes, hamstrings, and lower back",
+                    "Improves hip hinge movement pattern and overall hip mobility",
+                    "Increases grip strength and forearm endurance",
+                    "Can be modified for different fitness levels and goals",
+                    "Helps to prevent lower back pain and injury"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Hamstrings",
+                    "Glutes",
+                    "Lower back",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Kettlebell Single-Leg Romanian Deadlift",
+                    "Kettlebell Sumo Deadlift",
+                    "Kettlebell Suitcase Deadlift",
+                    "Kettlebell Swing",
+                    "Kettlebell Clean"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "title": "Low Lunge",
+    "description": "A stretch exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start in a high plank position with your hands directly under your shoulders and your feet hip-width apart.",
+                    "Step your right foot forward between your hands, placing it on the ground with your knee bent at a 90-degree angle.",
+                    "Lower your left knee to the ground, keeping your toes tucked under.",
+                    "Place your hands on your right knee and lift your chest up, keeping your shoulders relaxed and away from your ears.",
+                    "Hold the pose for 30 seconds to 1 minute, then release and repeat on the other side."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Increases flexibility and range of motion in the hips, glutes, and legs",
+                    "Improves balance and stability",
+                    "Strengthens the quadriceps, hamstrings, and glutes",
+                    "Engages the core muscles for added stability and strength",
+                    "Can be modified for different fitness levels and abilities",
+                    "Can be done anywhere without equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Glutes",
+                    "Hip flexors",
+                    "Core muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "High lunge",
+                    "Warrior I",
+                    "Warrior II",
+                    "Warrior III",
+                    "Revolved lunge",
+                    "Crescent lunge",
+                    "Pyramid pose",
+                    "Half splits",
+                    "Low lunge twist"
+                ]
+            }
+        }
+    ]
+}

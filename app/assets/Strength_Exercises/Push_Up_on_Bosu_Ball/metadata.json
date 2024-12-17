@@ -1,0 +1,62 @@
+{
+    "title": "Push Up on Bosu Ball",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Place the Bosu ball on the ground with the flat side facing up.",
+                    "Assume a plank position with your hands on the outer edges of the Bosu ball and your feet extended behind you.",
+                    "Lower your body towards the Bosu ball by bending your elbows, keeping your body in a straight line.",
+                    "Push back up to the starting position by straightening your arms.",
+                    "Repeat for desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Engages multiple muscle groups including chest, shoulders, triceps, and core",
+                    "Improves upper body strength and endurance",
+                    "Increases stability and balance due to the unstable surface of the Bosu ball",
+                    "Can be modified for different fitness levels by adjusting the angle of the push up or using knees instead of toes",
+                    "Can be incorporated into a full body workout routine for a more challenging and effective workout"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Chest muscles (pectoralis major and minor)",
+                    "Shoulder muscles (deltoids)",
+                    "Triceps",
+                    "Core muscles (abdominals and lower back)"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Push Up on Stability Ball",
+                    "Push Up with Feet Elevated on Bench",
+                    "Decline Push Up on Bosu Ball",
+                    "Single Arm Push Up on Bosu Ball",
+                    "Push Up with Alternating Knee Tuck on Bosu Ball"
+                ]
+            }
+        }
+    ]
+}

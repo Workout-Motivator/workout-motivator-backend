@@ -1,0 +1,64 @@
+{
+    "title": "Dumbbell Bulgarian Split Squat",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your back facing a bench or elevated surface, holding a dumbbell in each hand.",
+                    "Place the top of your left foot on the bench behind you, with your right foot planted firmly on the ground in front of you.",
+                    "Lower your body down into a lunge position, keeping your chest up and your core engaged.",
+                    "As you lower, bend your right knee to a 90-degree angle, making sure your knee does not extend past your toes.",
+                    "Push through your right heel to stand back up to the starting position.",
+                    "Repeat for the desired number of reps, then switch legs and repeat on the other side."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens biceps and shoulders",
+                    "Improves grip strength",
+                    "Targets multiple muscle groups in one exercise",
+                    "Can be done with minimal equipment",
+                    "Can be modified for different fitness levels"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Core (stabilizer muscles)"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "dumbbell-bulgarian-split-squat with front foot elevated",
+                    "dumbbell-bulgarian-split-squat with back foot elevated",
+                    "dumbbell-bulgarian-split-squat with isometric hold at bottom",
+                    "dumbbell-bulgarian-split-squat with jump at top",
+                    "dumbbell-bulgarian-split-squat with alternating legs"
+                ]
+            }
+        }
+    ]
+}

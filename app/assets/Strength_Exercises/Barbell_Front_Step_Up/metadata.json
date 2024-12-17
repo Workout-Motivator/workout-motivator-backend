@@ -1,0 +1,66 @@
+{
+    "title": "Barbell Front Step Up",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by standing in front of a bench or step with a barbell resting on your shoulders.",
+                    "Place one foot on the bench or step, making sure your entire foot is firmly planted.",
+                    "Push through your heel and lift your body up onto the bench or step, bringing your other foot up to meet the first one.",
+                    "Step back down with the same foot you started with, keeping your other foot on the bench or step.",
+                    "Repeat for the desired number of reps, then switch legs and repeat the exercise on the other side."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the quadriceps, glutes, and hamstrings",
+                    "Improves balance and stability",
+                    "Increases lower body power and explosiveness",
+                    "Engages the core muscles for added stability",
+                    "Can be modified for different fitness levels by adjusting the weight or height of the step"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Front Step Up",
+                    "Kettlebell Front Step Up",
+                    "Barbell Back Step Up",
+                    "Dumbbell Back Step Up",
+                    "Kettlebell Back Step Up",
+                    "Barbell Lateral Step Up",
+                    "Dumbbell Lateral Step Up",
+                    "Kettlebell Lateral Step Up"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "title": "Lever Seated Shoulder Press",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Adjust the seat height so that the handles are at shoulder level.",
+                    "Sit on the machine with your back against the pad and your feet flat on the floor.",
+                    "Grasp the handles with an overhand grip and press them upward until your arms are fully extended.",
+                    "Lower the handles back down to shoulder level and repeat for desired number of repetitions.",
+                    "Remember to keep your core engaged and your back against the pad throughout the exercise."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the shoulder muscles, specifically the anterior and medial deltoids",
+                    "Helps to improve shoulder strength and stability",
+                    "Allows for a controlled and isolated movement, reducing the risk of injury",
+                    "Can be adjusted to accommodate different fitness levels and shoulder mobility",
+                    "Engages the core muscles for added stability and balance"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Deltoids",
+                    "Triceps",
+                    "Trapezius",
+                    "Rotator Cuff"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Standing Shoulder Press",
+                    "Dumbbell Shoulder Press",
+                    "Arnold Press",
+                    "Push Press",
+                    "Single Arm Shoulder Press",
+                    "Behind the Neck Press",
+                    "Seated Dumbbell Shoulder Press",
+                    "Landmine Press",
+                    "Handstand Push-Up"
+                ]
+            }
+        }
+    ]
+}

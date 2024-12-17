@@ -1,0 +1,63 @@
+{
+    "title": "Kettlebell Alternating Press",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a kettlebell in each hand at shoulder height.",
+                    "Press one kettlebell overhead while keeping the other kettlebell at shoulder height.",
+                    "Lower the pressed kettlebell back to shoulder height while simultaneously pressing the other kettlebell overhead.",
+                    "Continue alternating the press for the desired number of repetitions.",
+                    "Make sure to engage your core and keep your back straight throughout the exercise."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets multiple muscle groups including shoulders, chest, and triceps",
+                    "Improves upper body strength and stability",
+                    "Engages core muscles for added stability and balance",
+                    "Can be modified for different fitness levels by adjusting weight and reps",
+                    "Increases cardiovascular endurance when performed in a circuit or high-intensity interval training (HIIT) workout"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Shoulders (deltoids)",
+                    "Triceps",
+                    "Chest (pectoralis major)",
+                    "Core (abdominals and lower back)"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Kettlebell Single Arm Press",
+                    "Kettlebell Double Arm Press",
+                    "Kettlebell Bottoms Up Press",
+                    "Kettlebell Clean and Press",
+                    "Kettlebell Push Press",
+                    "Kettlebell Jerk"
+                ]
+            }
+        }
+    ]
+}

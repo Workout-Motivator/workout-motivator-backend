@@ -1,0 +1,63 @@
+{
+    "title": "Cable Deadlift",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and place a cable attachment on the lowest setting of a cable machine.",
+                    "Face away from the machine and grasp the cable attachment with both hands, palms facing inwards.",
+                    "Keeping your back straight and your core engaged, hinge at the hips and lower your torso towards the ground, allowing the cable to pull your arms straight down.",
+                    "Pause briefly at the bottom of the movement, then use your glutes and hamstrings to lift your torso back up to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets multiple muscle groups including the glutes, hamstrings, and lower back",
+                    "Improves overall strength and power",
+                    "Helps to improve posture and balance",
+                    "Can be modified to accommodate different fitness levels and abilities",
+                    "Provides a low-impact alternative to traditional deadlifts"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Erector spinae",
+                    "Glutes",
+                    "Hamstrings",
+                    "Quadriceps",
+                    "Gastrocnemius"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single-leg cable deadlift",
+                    "Sumo cable deadlift",
+                    "Staggered stance cable deadlift",
+                    "Reverse grip cable deadlift",
+                    "Wide grip cable deadlift"
+                ]
+            }
+        }
+    ]
+}

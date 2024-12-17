@@ -1,0 +1,64 @@
+{
+    "title": "Frog Hip Thrust",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on your back with your knees bent and feet flat on the ground.",
+                    "Place a small exercise ball or rolled-up towel between your knees.",
+                    "Bring your heels close to your glutes and place your arms by your sides.",
+                    "Engage your core and glutes to lift your hips off the ground, squeezing the ball or towel between your knees.",
+                    "Hold the position for a few seconds, then lower your hips back down to the ground.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Stretches the hips, thighs, and ankles",
+                    "Strengthens the lower back and core muscles",
+                    "Improves digestion and relieves constipation",
+                    "Reduces stress and anxiety",
+                    "Can help alleviate menstrual discomfort",
+                    "May improve flexibility and range of motion in the hips and knees"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Glutes",
+                    "Hamstrings",
+                    "Quadriceps",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "frog-hip-thrust with resistance band",
+                    "single-leg frog-hip-thrust",
+                    "weighted frog-hip-thrust",
+                    "frog-hip-thrust with pulse",
+                    "frog-hip-thrust with abduction"
+                ]
+            }
+        }
+    ]
+}

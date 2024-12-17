@@ -1,0 +1,62 @@
+{
+    "title": "Dip Hold",
+    "description": "A stretch exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Find a set of parallel bars or dip bars.",
+                    "Place your hands on the bars and lift yourself up so that your arms are fully extended.",
+                    "Engage your core and keep your shoulders down and back.",
+                    "Hold this position for the desired amount of time, typically 10-30 seconds.",
+                    "Lower yourself down and rest for a few seconds before repeating the exercise."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens triceps, shoulders, and chest muscles",
+                    "Improves overall upper body stability and control",
+                    "Increases grip strength",
+                    "Can be done anywhere with a stable surface",
+                    "Can be modified to increase or decrease difficulty"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Triceps",
+                    "Chest",
+                    "Shoulders",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dip Hold with Knee Tuck",
+                    "Single Leg Dip Hold",
+                    "Weighted Dip Hold",
+                    "Ring Dip Hold",
+                    "Parallel Bar Dip Hold"
+                ]
+            }
+        }
+    ]
+}

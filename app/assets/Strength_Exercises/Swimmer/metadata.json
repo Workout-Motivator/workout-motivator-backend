@@ -1,0 +1,75 @@
+{
+    "title": "Swimmer",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by standing at the edge of the pool, facing the water.",
+                    "Take a deep breath and lower your body into the water, keeping your head above the surface.",
+                    "Begin to kick your legs in a fluttering motion, keeping them close together.",
+                    "Extend your arms out in front of you and begin to pull them back towards your hips, propelling yourself forward.",
+                    "Continue to kick your legs and pull your arms in a coordinated motion, keeping your head above the water.",
+                    "When you reach the end of the pool, turn around and repeat the exercise in the opposite direction.",
+                    "Continue swimming laps for your desired amount of time or distance."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves cardiovascular health",
+                    "Strengthens muscles in the arms, shoulders, back, and core",
+                    "Increases flexibility and range of motion",
+                    "Helps with weight loss and management",
+                    "Reduces stress and anxiety",
+                    "Can be low-impact and easy on the joints",
+                    "Can be done in a variety of settings, including pools, lakes, and oceans",
+                    "Can be a fun and social activity"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Upper back muscles (trapezius, rhomboids)",
+                    "Shoulder muscles (deltoids)",
+                    "Chest muscles (pectoralis major)",
+                    "Abdominal muscles (rectus abdominis)",
+                    "Gluteal muscles (gluteus maximus)",
+                    "Hamstring muscles (biceps femoris, semitendinosus, semimembranosus)",
+                    "Calf muscles (gastrocnemius, soleus)"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Swimmer with kickboard",
+                    "Swimmer with pull buoy",
+                    "Swimmer with paddles",
+                    "Swimmer with fins",
+                    "Swimmer with resistance band",
+                    "Swimmer with medicine ball",
+                    "Swimmer with snorkel",
+                    "Swimmer with hand paddles and kickboard",
+                    "Swimmer with pull buoy and paddles",
+                    "Swimmer with fins and kickboard"
+                ]
+            }
+        }
+    ]
+}

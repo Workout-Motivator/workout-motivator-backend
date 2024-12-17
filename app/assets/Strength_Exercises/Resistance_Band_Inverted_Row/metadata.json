@@ -1,0 +1,65 @@
+{
+    "title": "Resistance Band Inverted Row",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Attach the resistance band to a sturdy anchor point, such as a door or pole.",
+                    "Grab the resistance band with an overhand grip, with your hands shoulder-width apart.",
+                    "Step back until the resistance band is taut and your arms are fully extended.",
+                    "Engage your core and pull your shoulder blades down and back.",
+                    "Bend your elbows and pull your chest towards the resistance band, keeping your body in a straight line.",
+                    "Pause at the top of the movement, then slowly lower yourself back down to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the upper back muscles, including the rhomboids, trapezius, and rear deltoids",
+                    "Improves posture by counteracting the effects of sitting and slouching",
+                    "Engages the core muscles for stability and balance",
+                    "Can be modified for different fitness levels by adjusting the resistance band tension or the angle of the body",
+                    "Requires minimal equipment and can be done at home or in a gym"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Latissimus dorsi",
+                    "Trapezius",
+                    "Rhomboids",
+                    "Biceps",
+                    "Forearms"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single-arm Resistance Band Inverted Row",
+                    "Wide-grip Resistance Band Inverted Row",
+                    "Narrow-grip Resistance Band Inverted Row",
+                    "Feet-elevated Resistance Band Inverted Row",
+                    "Assisted Resistance Band Inverted Row"
+                ]
+            }
+        }
+    ]
+}

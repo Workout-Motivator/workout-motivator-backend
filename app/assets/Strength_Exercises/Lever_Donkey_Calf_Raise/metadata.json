@@ -1,0 +1,62 @@
+{
+    "title": "Lever Donkey Calf Raise",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand on a raised platform or step with the balls of your feet on the edge and your heels hanging off.",
+                    "Hold onto a sturdy object for balance, such as a railing or wall.",
+                    "Place a weight plate or dumbbell on top of your thighs, just above your knees.",
+                    "Slowly lower your heels towards the ground, keeping your knees straight.",
+                    "Pause at the bottom of the movement, then raise your heels as high as possible.",
+                    "Hold the contraction at the top for a few seconds, then lower back down.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the calf muscles, specifically the gastrocnemius and soleus",
+                    "Helps to improve ankle stability and balance",
+                    "Can be done with minimal equipment, making it a convenient exercise to do at home or at the gym",
+                    "Allows for a greater range of motion compared to traditional calf raises",
+                    "Can be easily modified by adjusting the weight or the position of the feet on the lever"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Gastrocnemius",
+                    "Soleus"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Standing Donkey Calf Raise",
+                    "Seated Donkey Calf Raise",
+                    "Single Leg Donkey Calf Raise",
+                    "Donkey Calf Raise on Leg Press Machine",
+                    "Donkey Calf Raise with Dumbbells"
+                ]
+            }
+        }
+    ]
+}

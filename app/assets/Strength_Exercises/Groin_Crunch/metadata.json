@@ -1,0 +1,67 @@
+{
+    "title": "Groin Crunch",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on your back with your knees bent and feet flat on the ground.",
+                    "Place a small ball or pillow between your knees.",
+                    "Engage your core muscles by pulling your belly button towards your spine.",
+                    "Slowly lift your feet off the ground, keeping your knees bent and squeezing the ball or pillow between your knees.",
+                    "Hold this position for a few seconds, then slowly lower your feet back down to the ground.",
+                    "Repeat for 10-15 repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the hip adductor muscles",
+                    "Improves hip stability and balance",
+                    "Helps prevent groin injuries",
+                    "Can improve athletic performance in sports that require lateral movement and quick changes of direction",
+                    "Can be done with minimal equipment and in a small space"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Adductor muscles",
+                    "Abdominal muscles",
+                    "Hip flexor muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Reverse Crunch",
+                    "Leg Raises",
+                    "Plank with Leg Lifts",
+                    "Side Plank with Leg Lifts",
+                    "Scissor Kicks",
+                    "Bicycle Crunches",
+                    "Mountain Climbers",
+                    "Flutter Kicks",
+                    "Russian Twists",
+                    "Toe Touches"
+                ]
+            }
+        }
+    ]
+}

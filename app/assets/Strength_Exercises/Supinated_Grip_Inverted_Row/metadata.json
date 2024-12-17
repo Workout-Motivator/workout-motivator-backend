@@ -1,0 +1,68 @@
+{
+    "title": "Supinated Grip Inverted Row",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Find a sturdy horizontal bar that can support your weight.",
+                    "Stand facing the bar and reach up to grab it with an underhand grip (palms facing towards you).",
+                    "Step back until your arms are fully extended and your body is at a slight angle.",
+                    "Engage your core and pull your chest towards the bar, keeping your elbows close to your body.",
+                    "Pause at the top of the movement, then slowly lower yourself back down to the starting position.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the lower body muscles, including the quadriceps, hamstrings, glutes, and calves",
+                    "Improves balance and stability",
+                    "Increases flexibility in the hips and ankles",
+                    "Helps to improve posture and alignment",
+                    "Can be modified to target specific muscle groups or accommodate injuries",
+                    "Can be done with or without weights, making it accessible for all fitness levels",
+                    "Can be incorporated into a full-body workout routine or used as a standalone exercise"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Biceps brachii",
+                    "Brachialis",
+                    "Brachioradialis",
+                    "Trapezius",
+                    "Rhomboids",
+                    "Latissimus dorsi",
+                    "Erector spinae"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Neutral-grip inverted row",
+                    "Pronated-grip inverted row",
+                    "Weighted inverted row",
+                    "Single-arm inverted row",
+                    "Feet-elevated inverted row"
+                ]
+            }
+        }
+    ]
+}

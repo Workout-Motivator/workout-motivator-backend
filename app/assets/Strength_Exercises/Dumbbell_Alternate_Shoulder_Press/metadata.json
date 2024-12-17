@@ -1,0 +1,63 @@
+{
+    "title": "Dumbbell Alternate Shoulder Press",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a dumbbell in each hand at shoulder height, palms facing forward.",
+                    "Press one dumbbell up overhead, fully extending your arm.",
+                    "Lower the dumbbell back down to shoulder height.",
+                    "Repeat with the other arm.",
+                    "Continue alternating arms for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the chest, back, and shoulder muscles",
+                    "Improves posture and upper body stability",
+                    "Increases flexibility in the shoulders and chest",
+                    "Can help alleviate upper back pain",
+                    "Targets the triceps and core muscles as secondary muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Deltoids",
+                    "Triceps",
+                    "Trapezius",
+                    "Rotator cuff muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "dumbbell-shoulder-press",
+                    "dumbbell-front-raise",
+                    "dumbbell-lateral-raise",
+                    "dumbbell-rear-delt-fly",
+                    "barbell-shoulder-press",
+                    "seated-dumbbell-shoulder-press"
+                ]
+            }
+        }
+    ]
+}

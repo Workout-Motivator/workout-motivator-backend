@@ -1,0 +1,70 @@
+{
+    "title": "Partner Shuffle",
+    "description": "A cardio exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand facing your partner with your feet shoulder-width apart.",
+                    "Take a step to your right with your right foot.",
+                    "Bring your left foot to meet your right foot.",
+                    "Take a step to your left with your left foot.",
+                    "Bring your right foot to meet your left foot.",
+                    "Take a step forward with your right foot.",
+                    "Bring your left foot to meet your right foot.",
+                    "Take a step back with your left foot.",
+                    "Bring your right foot to meet your left foot.",
+                    "Repeat steps 2-9, but this time lead with your left foot."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Helps to relieve gas and bloating",
+                    "Stimulates digestion and metabolism",
+                    "Strengthens the lower back and abdominal muscles",
+                    "Improves flexibility in the hips, knees, and ankles",
+                    "Relieves tension in the lower back and hips",
+                    "Calms the mind and reduces stress",
+                    "Improves circulation in the legs and feet",
+                    "Can be done by people of all ages and fitness levels"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Glutes",
+                    "Calves",
+                    "Core muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Partner switch: Instead of shuffling partners, have participants switch partners in a specific order (e.g. clockwise, by height, etc.)",
+                    "Group shuffle: Instead of partnering up, have participants shuffle around the room and form new groups of a specific size or based on a specific criteria (e.g. birth month, favorite color, etc.)",
+                    "Object shuffle: Instead of partners, have participants shuffle around an object (e.g. a ball, a beanbag, etc.) and pass it to each other in a specific order or pattern.",
+                    "Role shuffle: Instead of switching partners, have participants switch roles in a specific activity or game (e.g. switch from being the guesser to the clue-giver in a charades game)."
+                ]
+            }
+        }
+    ]
+}

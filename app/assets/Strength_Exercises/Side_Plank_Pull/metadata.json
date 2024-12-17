@@ -1,0 +1,67 @@
+{
+    "title": "Side Plank Pull",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start in a side plank position with your elbow on the ground and your body in a straight line.",
+                    "Hold a dumbbell in your top hand and extend your arm straight up towards the ceiling.",
+                    "Lower the dumbbell down towards your hip, keeping your elbow close to your body.",
+                    "Return the dumbbell to the starting position and repeat for the desired number of reps.",
+                    "Switch sides and repeat the exercise on the other side."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves cardiovascular health",
+                    "Increases agility and coordination",
+                    "Burns calories and aids in weight loss",
+                    "Strengthens leg muscles",
+                    "Improves bone density",
+                    "Can be done anywhere with minimal equipment",
+                    "Can be modified for different fitness levels"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Obliques",
+                    "Latissimus dorsi",
+                    "Rhomboids",
+                    "Trapezius",
+                    "Erector spinae",
+                    "Gluteus medius",
+                    "Gluteus minimus"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Side plank with row",
+                    "Side plank with lateral raise",
+                    "Side plank with bicep curl",
+                    "Side plank with tricep extension",
+                    "Side plank with front raise"
+                ]
+            }
+        }
+    ]
+}

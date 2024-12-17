@@ -1,0 +1,67 @@
+{
+    "title": "Cable Standing Chest Press",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your back straight.",
+                    "Attach the cable to the pulley at chest height.",
+                    "Grasp the handles with your palms facing down and your elbows bent at a 90-degree angle.",
+                    "Step forward slightly to create tension in the cable.",
+                    "Push the handles forward until your arms are fully extended in front of you.",
+                    "Hold for a second, then slowly release back to the starting position.",
+                    "Repeat for desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the chest muscles, specifically the pectoralis major and minor",
+                    "Engages the triceps and shoulders as secondary muscles",
+                    "Allows for a greater range of motion compared to traditional bench press",
+                    "Provides constant tension throughout the movement, leading to increased muscle activation",
+                    "Can be easily adjusted to target different areas of the chest by changing the angle of the cables",
+                    "Offers a safer alternative to free weights as the cables provide a more controlled resistance"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Pectoralis major (chest muscles)",
+                    "Anterior deltoids (front shoulder muscles)",
+                    "Triceps brachii (back of upper arm muscles)"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Standing Chest Press",
+                    "Barbell Standing Chest Press",
+                    "Resistance Band Standing Chest Press",
+                    "Machine Standing Chest Press",
+                    "Single Arm Cable Standing Chest Press",
+                    "Alternating Arm Cable Standing Chest Press",
+                    "Wide Grip Cable Standing Chest Press",
+                    "Narrow Grip Cable Standing Chest Press"
+                ]
+            }
+        }
+    ]
+}

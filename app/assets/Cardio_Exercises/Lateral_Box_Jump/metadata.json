@@ -1,0 +1,65 @@
+{
+    "title": "Lateral Box Jump",
+    "description": "A cardio exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by standing next to a box or platform that is about knee height.",
+                    "Stand with your feet shoulder-width apart and your knees slightly bent.",
+                    "Jump laterally onto the box with both feet, landing softly on the balls of your feet.",
+                    "As soon as you land, jump back down to the starting position.",
+                    "Repeat for the desired number of repetitions or time.",
+                    "Make sure to keep your core engaged and your knees slightly bent throughout the exercise.",
+                    "As you become more comfortable with the movement, you can increase the height of the box or platform."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves explosive power and speed",
+                    "Increases cardiovascular endurance",
+                    "Strengthens lower body muscles, including glutes, quads, and calves",
+                    "Improves balance and coordination",
+                    "Can be modified for different fitness levels and goals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calf muscles",
+                    "Abdominals (core stability)"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single-leg Lateral Box Jump",
+                    "Weighted Lateral Box Jump",
+                    "Depth Lateral Box Jump",
+                    "Lateral Box Shuffle",
+                    "Lateral Box Jump with Medicine Ball"
+                ]
+            }
+        }
+    ]
+}

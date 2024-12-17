@@ -1,0 +1,67 @@
+{
+    "title": "Kettlebell Box Squat",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by standing with your feet shoulder-width apart and your toes pointing slightly outward.",
+                    "Hold the kettlebell with both hands and place it on the floor in front of you.",
+                    "Squat down and grab the kettlebell with both hands, keeping your back straight and your chest up.",
+                    "Stand up, lifting the kettlebell with you, and hold it at chest height.",
+                    "Step back with one foot and place it on a box or bench behind you.",
+                    "Squat down, keeping your weight on your heels and your chest up, until your thigh is parallel to the ground.",
+                    "Push through your heel to stand back up to the starting position.",
+                    "Repeat the exercise for the desired number of repetitions, then switch legs and repeat."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets multiple muscle groups including quads, glutes, hamstrings, and core",
+                    "Improves lower body strength and power",
+                    "Increases hip mobility and flexibility",
+                    "Can be modified for different fitness levels and goals",
+                    "Provides a cardiovascular workout",
+                    "Can be done with minimal equipment and space"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Kettlebell Goblet Squat",
+                    "Kettlebell Front Squat",
+                    "Kettlebell Sumo Squat",
+                    "Kettlebell Bulgarian Split Squat",
+                    "Kettlebell Pistol Squat"
+                ]
+            }
+        }
+    ]
+}

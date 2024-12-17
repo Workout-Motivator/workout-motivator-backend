@@ -1,0 +1,64 @@
+{
+    "title": "Monster Walk",
+    "description": "A cardio exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and place a resistance band around your ankles.",
+                    "Bend your knees slightly and hinge forward at the hips, keeping your back straight.",
+                    "Take a step to the right with your right foot, then bring your left foot to meet it.",
+                    "Take a step to the left with your left foot, then bring your right foot to meet it.",
+                    "Continue taking steps to the right and left, keeping tension on the resistance band and maintaining a slight bend in your knees.",
+                    "Complete 10-12 steps in each direction for 2-3 sets."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the glutes, hips, and thighs",
+                    "Improves hip stability and balance",
+                    "Helps prevent knee injuries by strengthening the muscles around the knee joint",
+                    "Can be done with or without resistance bands for added difficulty",
+                    "Can be modified for different fitness levels and abilities"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Glutes",
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Hip abductors",
+                    "Hip adductors"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Mini Band Monster Walk",
+                    "Resistance Band Monster Walk",
+                    "Side-to-Side Monster Walk",
+                    "Forward-Backward Monster Walk",
+                    "Curtsy Monster Walk"
+                ]
+            }
+        }
+    ]
+}

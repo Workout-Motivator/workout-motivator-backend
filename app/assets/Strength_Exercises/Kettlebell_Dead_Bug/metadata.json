@@ -1,0 +1,67 @@
+{
+    "title": "Kettlebell Dead Bug",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on your back with your knees bent and your feet flat on the ground.",
+                    "Hold a kettlebell in your right hand and extend your right arm straight up towards the ceiling.",
+                    "Extend your left leg straight out and hover it just above the ground.",
+                    "Engage your core and slowly lower your right arm and left leg towards the ground, keeping them hovering just above the floor.",
+                    "Pause for a moment and then return to the starting position.",
+                    "Repeat on the other side, holding the kettlebell in your left hand and extending your left arm and right leg.",
+                    "Continue alternating sides for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the core muscles, including the abs, obliques, and lower back",
+                    "Improves stability and balance",
+                    "Increases overall body strength and power",
+                    "Helps to prevent lower back pain and injury",
+                    "Can be modified for different fitness levels and abilities",
+                    "Engages multiple muscle groups at once for a more efficient workout",
+                    "Can be done with minimal equipment and space"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus abdominis",
+                    "Obliques",
+                    "Erector spinae",
+                    "Glutes",
+                    "Hamstrings"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Kettlebell Dead Bug with Leg Extension",
+                    "Kettlebell Dead Bug with Arm Extension",
+                    "Kettlebell Dead Bug with Leg and Arm Extension",
+                    "Kettlebell Dead Bug with Russian Twist",
+                    "Kettlebell Dead Bug with Bicycle Crunch"
+                ]
+            }
+        }
+    ]
+}

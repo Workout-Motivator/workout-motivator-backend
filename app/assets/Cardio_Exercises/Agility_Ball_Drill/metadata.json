@@ -1,0 +1,66 @@
+{
+    "title": "Agility Ball Drill",
+    "description": "A cardio exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by standing with your feet shoulder-width apart and holding an agility ball in both hands.",
+                    "Take a step forward with your left foot and simultaneously throw the ball against a wall or to a partner.",
+                    "Catch the ball with both hands and quickly step back with your left foot to return to the starting position.",
+                    "Repeat the same movement with your right foot, stepping forward and throwing the ball.",
+                    "Continue alternating between your left and right foot, throwing the ball as quickly and accurately as possible.",
+                    "Try to maintain a steady rhythm and increase your speed as you become more comfortable with the exercise.",
+                    "Perform the agility ball drill for 30-60 seconds, rest for 10-15 seconds, and repeat for 3-4 sets."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens leg muscles, including quadriceps, hamstrings, and glutes",
+                    "Improves balance and stability",
+                    "Increases cardiovascular endurance",
+                    "Can be done anywhere without equipment",
+                    "Helps with functional movements, such as sitting and standing",
+                    "Can be modified for different fitness levels"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Glutes",
+                    "Calves",
+                    "Core muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Agility ladder drill",
+                    "Medicine ball slams",
+                    "Box jumps",
+                    "Speed ladder drill",
+                    "Jump rope intervals"
+                ]
+            }
+        }
+    ]
+}

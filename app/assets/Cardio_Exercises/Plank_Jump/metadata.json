@@ -1,0 +1,65 @@
+{
+    "title": "Plank Jump",
+    "description": "A cardio exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start in a plank position with your hands directly under your shoulders and your body in a straight line from head to heels.",
+                    "Engage your core and jump both feet forward towards your hands, landing with your feet outside of your hands.",
+                    "Jump both feet back to the starting plank position.",
+                    "Repeat the plank-jump for the desired number of repetitions or time."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens core muscles",
+                    "Improves upper body strength",
+                    "Targets multiple muscle groups at once",
+                    "Increases stability and balance",
+                    "Can be modified for different fitness levels",
+                    "Helps prevent injuries by improving posture and alignment",
+                    "Can be done anywhere without equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Abdominal muscles",
+                    "Shoulder muscles",
+                    "Chest muscles",
+                    "Triceps muscles",
+                    "Gluteus muscles",
+                    "Quadriceps muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Plank jacks",
+                    "Plank up-downs",
+                    "Plank knee tucks",
+                    "Plank shoulder taps",
+                    "Plank twists"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "title": "Push Ups",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start in a plank position with your hands placed slightly wider than shoulder-width apart, and your feet together. Make sure your body forms a straight line from your head to your heels, with your core engaged.",
+                    "Begin lowering your body by bending your elbows, keeping them close to your torso, as you maintain a straight body alignment.",
+                    "Continue lowering your body until your chest is close to or lightly touches the ground.",
+                    "Push yourself back up by straightening your arms and returning to the starting plank position, while maintaining proper body alignment.",
+                    "Repeat the push-up for the desired number of repetitions, maintaining proper form throughout the exercise."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens chest, shoulders, triceps, and core muscles",
+                    "Improves overall upper body strength and endurance",
+                    "Can be done anywhere without equipment",
+                    "Engages multiple muscle groups at once for efficient workout",
+                    "Variations can target different muscle groups and add variety to routine"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Chest muscles (pectoralis major and minor)",
+                    "Shoulder muscles (anterior deltoids)",
+                    "Triceps brachii",
+                    "Abdominal muscles (rectus abdominis and obliques)",
+                    "Back muscles (erector spinae and latissimus dorsi)"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Push up with feet elevated",
+                    "Decline push up",
+                    "Wide grip push up",
+                    "Diamond push up",
+                    "One arm push up",
+                    "Clap push up",
+                    "Spiderman push up",
+                    "T push up",
+                    "Staggered push up",
+                    "Explosive push up"
+                ]
+            }
+        }
+    ]
+}

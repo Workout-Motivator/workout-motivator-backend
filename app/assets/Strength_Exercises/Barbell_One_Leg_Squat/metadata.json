@@ -1,0 +1,64 @@
+{
+    "title": "Barbell One Leg Squat",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by standing with your feet shoulder-width apart and your toes pointing forward.",
+                    "Place a barbell across your shoulders, holding it with both hands.",
+                    "Lift one foot off the ground and extend it forward, keeping it parallel to the ground.",
+                    "Bend your standing leg and lower your body down into a squat, keeping your back straight and your chest up.",
+                    "Lower your body until your thigh is parallel to the ground, then push back up to the starting position.",
+                    "Repeat for the desired number of reps, then switch legs and repeat on the other side."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves balance and stability",
+                    "Strengthens the legs, glutes, and core",
+                    "Increases flexibility and range of motion in the hips and ankles",
+                    "Challenges the mind-body connection and improves coordination",
+                    "Can be modified to increase or decrease difficulty based on fitness level"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell One Leg Squat",
+                    "Pistol Squat",
+                    "Bulgarian Split Squat",
+                    "Step Up",
+                    "Lunge"
+                ]
+            }
+        }
+    ]
+}

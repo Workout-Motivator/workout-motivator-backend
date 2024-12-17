@@ -1,0 +1,63 @@
+{
+    "title": "Dumbbell Incline Curl",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by sitting on an incline bench with a dumbbell in each hand.",
+                    "Place your feet firmly on the ground and keep your back straight against the bench.",
+                    "Extend your arms fully and let the dumbbells hang at your sides.",
+                    "Slowly curl the dumbbells up towards your shoulders, keeping your elbows close to your body.",
+                    "Pause at the top of the movement and squeeze your biceps.",
+                    "Slowly lower the dumbbells back down to the starting position.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the biceps brachii muscle, helping to increase arm strength and size",
+                    "Engages the stabilizer muscles in the shoulders and upper back, improving overall upper body stability",
+                    "Allows for a greater range of motion compared to traditional bicep curls, leading to increased muscle activation",
+                    "Can be easily modified by adjusting the incline of the bench or using different weights, making it suitable for individuals of varying fitness levels",
+                    "Can be performed with just a set of dumbbells and an incline bench, making it a convenient exercise to do at home or at the gym"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Biceps brachii",
+                    "Brachialis",
+                    "Brachioradialis"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Hammer Curl",
+                    "Dumbbell Preacher Curl",
+                    "Dumbbell Concentration Curl",
+                    "Dumbbell Spider Curl",
+                    "Dumbbell Reverse Curl"
+                ]
+            }
+        }
+    ]
+}

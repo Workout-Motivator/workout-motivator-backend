@@ -1,0 +1,71 @@
+{
+    "title": "Boxing Right Hook",
+    "description": "A cardio exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your knees slightly bent.",
+                    "Bring your right fist up to your chin, keeping your elbow close to your body.",
+                    "Rotate your hips and pivot on your left foot, shifting your weight to your back foot.",
+                    "As you pivot, extend your right arm out in a circular motion, aiming for your opponent\u2019s jaw or temple.",
+                    "Make sure to keep your left hand up to protect your face.",
+                    "Snap your arm back to your chin after the punch.",
+                    "Repeat for desired number of reps or as instructed by your trainer."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves upper body strength and power",
+                    "Targets the muscles in the arms, shoulders, and back",
+                    "Increases cardiovascular endurance",
+                    "Improves hand-eye coordination and reaction time",
+                    "Helps to relieve stress and improve mental focus",
+                    "Can be a fun and engaging form of exercise"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Shoulder muscles (deltoids)",
+                    "Arm muscles (biceps, triceps, forearms)",
+                    "Back muscles (latissimus dorsi, trapezius)",
+                    "Core muscles (abdominals, obliques)",
+                    "Leg muscles (quadriceps, hamstrings, calves)"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Boxing Left Hook",
+                    "Boxing Jab",
+                    "Boxing Cross",
+                    "Boxing Uppercut",
+                    "Muay Thai Roundhouse Kick",
+                    "Muay Thai Teep Kick",
+                    "Muay Thai Elbow Strike",
+                    "Kickboxing Hook Kick",
+                    "Kickboxing Front Kick",
+                    "Kickboxing Spinning Back Fist"
+                ]
+            }
+        }
+    ]
+}

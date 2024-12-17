@@ -1,0 +1,59 @@
+{
+    "title": "Barbell Reverse Wrist Curl",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by standing with your feet shoulder-width apart and holding a barbell with an overhand grip.",
+                    "Rest your forearms on a bench or other stable surface with your palms facing down and your wrists hanging off the edge.",
+                    "Slowly lower the barbell towards the ground by bending your wrists backwards.",
+                    "Pause for a moment at the bottom of the movement, then slowly raise the barbell back up by flexing your wrists.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the wrist extensors, which are often neglected in traditional wrist exercises",
+                    "Improves grip strength and forearm endurance",
+                    "Helps prevent wrist injuries by balancing out the muscles in the forearm",
+                    "Can be done with relatively light weights, making it accessible for beginners",
+                    "Can be easily modified by changing the grip or using different equipment, such as dumbbells or cables"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Forearm Extensors"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Reverse Wrist Curl",
+                    "Cable Reverse Wrist Curl",
+                    "Reverse Grip Barbell Wrist Curl",
+                    "Reverse Grip Dumbbell Wrist Curl",
+                    "Reverse Grip Cable Wrist Curl"
+                ]
+            }
+        }
+    ]
+}

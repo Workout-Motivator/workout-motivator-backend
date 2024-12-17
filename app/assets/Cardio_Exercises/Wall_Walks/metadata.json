@@ -1,0 +1,67 @@
+{
+    "title": "Wall Walks",
+    "description": "A cardio exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start in a plank position with your feet against a wall.",
+                    "Walk your feet up the wall as you walk your hands towards the wall.",
+                    "Continue walking your hands towards the wall until you are in a handstand position with your feet against the wall.",
+                    "Hold the handstand position for a few seconds, then walk your hands back towards the plank position.",
+                    "Walk your feet back down the wall to return to the starting position.",
+                    "Repeat for desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the upper body muscles, including the shoulders, chest, and arms",
+                    "Improves core stability and balance",
+                    "Increases flexibility in the spine and hips",
+                    "Helps to improve posture and alignment",
+                    "Can be modified to suit different fitness levels and abilities",
+                    "Can be done anywhere with a wall or sturdy surface"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Shoulders",
+                    "Triceps",
+                    "Chest",
+                    "Core",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Wall Walks with Shoulder Taps",
+                    "Wall Walks with Push-Ups",
+                    "One-Arm Wall Walks",
+                    "Wall Walks with Leg Lifts",
+                    "Wall Walks with Knee Tucks"
+                ]
+            }
+        }
+    ]
+}

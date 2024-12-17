@@ -1,0 +1,68 @@
+{
+    "title": "Dumbbell Reverse Grip Incline Bench Two Arm Row",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Set up an incline bench at a 45-degree angle and place a dumbbell on each side of the bench.",
+                    "Stand facing the bench and place your left foot on the bench, keeping your right foot on the ground.",
+                    "Lean forward and grab the dumbbells with a reverse grip (palms facing down).",
+                    "Engage your core and pull the dumbbells up towards your chest, keeping your elbows close to your body.",
+                    "Lower the dumbbells back down to the starting position and repeat for the desired number of reps.",
+                    "Switch sides and repeat the exercise with your right foot on the bench."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens upper back muscles",
+                    "Improves posture",
+                    "Increases grip strength",
+                    "Targets biceps and forearms",
+                    "Can be done with minimal equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rhomboids",
+                    "Trapezius",
+                    "Rear deltoids",
+                    "Biceps",
+                    "Forearms"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "dumbbell-reverse-grip-incline-bench-two-arm-row",
+                    "dumbbell-reverse-grip-decline-bench-two-arm-row",
+                    "dumbbell-reverse-grip-flat-bench-two-arm-row",
+                    "barbell-reverse-grip-incline-bench-two-arm-row",
+                    "barbell-reverse-grip-decline-bench-two-arm-row",
+                    "barbell-reverse-grip-flat-bench-two-arm-row",
+                    "machine-reverse-grip-incline-bench-two-arm-row",
+                    "machine-reverse-grip-decline-bench-two-arm-row",
+                    "machine-reverse-grip-flat-bench-two-arm-row"
+                ]
+            }
+        }
+    ]
+}

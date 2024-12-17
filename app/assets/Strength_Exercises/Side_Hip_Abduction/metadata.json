@@ -1,0 +1,61 @@
+{
+    "title": "Side Hip Abduction",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Begin by lying on your side with your legs straight and stacked on top of each other.",
+                    "Place your bottom arm out in front of you for support and bend your top arm to rest your head on your hand.",
+                    "Engage your core and lift your top leg as high as you can without moving your hips or pelvis.",
+                    "Hold for a few seconds at the top of the movement, then slowly lower your leg back down to the starting position.",
+                    "Repeat for the desired number of repetitions, then switch to the other side and repeat the exercise."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the hip abductor muscles, which are important for stabilizing the pelvis and maintaining balance",
+                    "Improves hip mobility and flexibility",
+                    "Can help alleviate hip pain and discomfort",
+                    "May improve athletic performance in activities that require lateral movement, such as running, jumping, and cutting",
+                    "Can be done with minimal equipment and in a variety of settings, making it a convenient exercise option"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Gluteus medius",
+                    "Tensor fasciae latae"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Standing Side Hip Abduction",
+                    "Lying Side Hip Abduction",
+                    "Seated Side Hip Abduction",
+                    "Cable Side Hip Abduction",
+                    "Banded Side Hip Abduction",
+                    "Weighted Side Hip Abduction"
+                ]
+            }
+        }
+    ]
+}

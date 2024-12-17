@@ -1,0 +1,70 @@
+{
+    "title": "High Lunge",
+    "description": "A stretch exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start in a standing position with your feet hip-width apart.",
+                    "Step your left foot back about 3-4 feet and place it firmly on the ground.",
+                    "Bend your right knee and lower your hips towards the ground, keeping your right knee directly above your ankle.",
+                    "Extend your left leg behind you, keeping it straight and strong.",
+                    "Place your hands on your hips or raise them above your head, reaching towards the ceiling.",
+                    "Hold the pose for 5-10 breaths, then release and switch sides."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves hip flexibility and mobility",
+                    "Reduces tightness and discomfort in the hip flexors",
+                    "Helps alleviate lower back pain",
+                    "Improves posture and balance",
+                    "Enhances athletic performance and power",
+                    "Reduces the risk of injury during physical activity"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Low lunge",
+                    "Warrior I",
+                    "Warrior II",
+                    "Warrior III",
+                    "Revolved high lunge",
+                    "Crescent lunge",
+                    "Half splits",
+                    "Pyramid pose",
+                    "Extended side angle",
+                    "Bound side angle"
+                ]
+            }
+        }
+    ]
+}

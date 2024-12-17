@@ -1,0 +1,66 @@
+{
+    "title": "Band Pull Apart",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a resistance band in front of you with both hands.",
+                    "Extend your arms straight out in front of you, keeping your hands shoulder-width apart.",
+                    "Slowly pull the band apart, bringing your hands out to the sides of your body.",
+                    "Pause for a moment, then slowly bring your hands back together in front of you.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves posture by strengthening the upper back muscles",
+                    "Reduces risk of shoulder injuries by strengthening the rotator cuff muscles",
+                    "Increases shoulder mobility and flexibility",
+                    "Targets the rear deltoids, rhomboids, and middle trapezius muscles",
+                    "Can be done with a resistance band, making it a convenient exercise to do at home or while traveling"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rhomboids",
+                    "Trapezius",
+                    "Rear deltoids",
+                    "Rotator cuff muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Mini Band Pull Apart",
+                    "Single Arm Band Pull Apart",
+                    "Reverse Band Pull Apart",
+                    "Band Pull Apart with External Rotation",
+                    "Band Pull Apart with Overhead Press",
+                    "Band Pull Apart with Squat",
+                    "Band Pull Apart with Lunge",
+                    "Band Pull Apart with Bicep Curl",
+                    "Band Pull Apart with Tricep Extension"
+                ]
+            }
+        }
+    ]
+}

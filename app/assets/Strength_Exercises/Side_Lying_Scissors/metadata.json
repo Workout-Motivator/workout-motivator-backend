@@ -1,0 +1,63 @@
+{
+    "title": "Side Lying Scissors",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on your side with your legs straight and stacked on top of each other.",
+                    "Place your bottom arm out in front of you for support and your top hand on your hip.",
+                    "Engage your core and lift your top leg up towards the ceiling, keeping it straight.",
+                    "Lower your leg back down to meet your bottom leg, but don\u2019t let it touch.",
+                    "Repeat this movement for 10-15 reps, then switch sides and repeat on the other side."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the inner and outer thighs",
+                    "Improves hip stability and mobility",
+                    "Strengthens the core muscles",
+                    "Can be modified for different fitness levels",
+                    "Can be done without equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Obliques",
+                    "Transverse Abdominis",
+                    "Hip Flexors",
+                    "Glutes",
+                    "Quadriceps"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Side Lying Leg Lifts",
+                    "Side Lying Clamshells",
+                    "Side Lying Inner Thigh Lifts",
+                    "Side Lying Bicycle Crunches",
+                    "Side Lying Hip Abduction"
+                ]
+            }
+        }
+    ]
+}

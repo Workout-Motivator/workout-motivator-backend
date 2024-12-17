@@ -1,0 +1,61 @@
+{
+    "title": "Pelvic Tilt",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on your back with your knees bent and feet flat on the ground.",
+                    "Place your hands on your hip bones and make sure they are level.",
+                    "Take a deep breath in and as you exhale, gently tilt your pelvis towards your belly button.",
+                    "Hold this position for a few seconds and then release.",
+                    "Repeat this exercise for 10-15 repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the lower back muscles",
+                    "Improves posture and alignment of the spine",
+                    "Reduces lower back pain",
+                    "Increases flexibility in the hip flexors and lower back",
+                    "Improves core stability and balance"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Abdominal muscles",
+                    "Lower back muscles",
+                    "Gluteal muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single Leg Pelvic Tilt",
+                    "Double Leg Pelvic Tilt",
+                    "Bridge with Pelvic Tilt",
+                    "Side-Lying Pelvic Tilt",
+                    "Standing Pelvic Tilt"
+                ]
+            }
+        }
+    ]
+}

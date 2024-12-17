@@ -1,0 +1,65 @@
+{
+    "title": "Strongman Hercules Hold",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your arms at your sides.",
+                    "Hold a heavy weight in each hand, such as dumbbells or kettlebells.",
+                    "Lift the weights up to shoulder height, keeping your elbows close to your body.",
+                    "Slowly extend your arms out in front of you, keeping them parallel to the ground.",
+                    "Hold this position for as long as you can, aiming for at least 30 seconds.",
+                    "Slowly lower the weights back down to your sides.",
+                    "Repeat for 3-5 sets."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Increases grip strength",
+                    "Improves forearm and wrist strength",
+                    "Develops core stability and strength",
+                    "Enhances overall upper body strength",
+                    "Improves mental toughness and endurance"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Forearm muscles",
+                    "Grip strength muscles",
+                    "Shoulder muscles",
+                    "Upper back muscles",
+                    "Core muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "StrongMan Hercules Hold with dumbbells",
+                    "StrongMan Hercules Hold with kettlebells",
+                    "Single-arm StrongMan Hercules Hold",
+                    "Partner StrongMan Hercules Hold",
+                    "StrongMan Hercules Hold with a sandbag"
+                ]
+            }
+        }
+    ]
+}

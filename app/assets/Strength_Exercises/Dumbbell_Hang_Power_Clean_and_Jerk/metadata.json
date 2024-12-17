@@ -1,0 +1,70 @@
+{
+    "title": "Dumbbell Hang Power Clean and Jerk",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart, holding a dumbbell in each hand with your palms facing your thighs.",
+                    "Bend your knees slightly and hinge forward at the hips, keeping your back straight and your core engaged.",
+                    "As you exhale, pull the dumbbells up towards your shoulders, keeping them close to your body and your elbows pointed out to the sides.",
+                    "Once the dumbbells reach shoulder height, quickly rotate your elbows underneath them and press them overhead into a shoulder press.",
+                    "Lower the dumbbells back down to your shoulders, then rotate your elbows back out to the sides and lower the dumbbells back down to your starting position.",
+                    "Repeat for the desired number of reps, then switch sides and repeat with the other arm."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Increases overall strength and power in the upper body, lower body, and core",
+                    "Improves coordination and balance",
+                    "Targets multiple muscle groups including the shoulders, back, legs, and glutes",
+                    "Can be modified for different fitness levels and goals",
+                    "Provides a cardiovascular workout and can help burn calories",
+                    "Can be done with minimal equipment and space"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Trapezius",
+                    "Deltoids",
+                    "Biceps",
+                    "Triceps",
+                    "Forearms",
+                    "Glutes",
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Calves",
+                    "Core muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Hang Clean and Press",
+                    "Dumbbell Hang Clean and Push Jerk",
+                    "Dumbbell Hang Clean and Split Jerk",
+                    "Dumbbell Hang Power Clean and Push Press",
+                    "Dumbbell Hang Power Clean and Split Jerk"
+                ]
+            }
+        }
+    ]
+}

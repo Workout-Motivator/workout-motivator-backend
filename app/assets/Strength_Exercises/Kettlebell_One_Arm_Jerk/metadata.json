@@ -1,0 +1,67 @@
+{
+    "title": "Kettlebell One Arm Jerk",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by standing with your feet shoulder-width apart and holding a kettlebell in one hand.",
+                    "Bend your knees slightly and swing the kettlebell back between your legs.",
+                    "As you swing the kettlebell forward, use the momentum to push it up and overhead with your arm fully extended.",
+                    "As the kettlebell reaches the top of the movement, dip your knees slightly and quickly drop under the weight, catching it at shoulder height with your arm bent.",
+                    "Stand up straight and press the kettlebell overhead, fully extending your arm.",
+                    "Lower the kettlebell back down to your shoulder and repeat for the desired number of reps before switching to the other arm."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves cardiovascular endurance",
+                    "Increases strength and power in the upper body, particularly the shoulders, triceps, and core",
+                    "Improves coordination and balance",
+                    "Engages multiple muscle groups at once, leading to a more efficient workout",
+                    "Can be modified for different fitness levels and goals",
+                    "Provides a full-body workout in a short amount of time",
+                    "Can be done with minimal equipment and space"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Shoulders",
+                    "Triceps",
+                    "Core",
+                    "Glutes",
+                    "Quadriceps",
+                    "Hamstrings"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Kettlebell One Arm Clean and Jerk",
+                    "Kettlebell Double Arm Jerk",
+                    "Kettlebell Push Press",
+                    "Kettlebell Snatch",
+                    "Kettlebell One Arm Long Cycle"
+                ]
+            }
+        }
+    ]
+}

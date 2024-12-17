@@ -1,0 +1,65 @@
+{
+    "title": "Lever Chest Press",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Adjust the seat height so that the handles are at chest level.",
+                    "Sit on the machine with your back flat against the pad and your feet flat on the floor.",
+                    "Grasp the handles with an overhand grip and push them away from your body until your arms are fully extended.",
+                    "Slowly bring the handles back towards your body, keeping your elbows slightly bent.",
+                    "Repeat for desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the chest muscles, specifically the pectoralis major and minor",
+                    "Also engages the triceps and shoulders as secondary muscles",
+                    "Allows for a greater range of motion compared to traditional bench press",
+                    "Reduces strain on the shoulders and wrists",
+                    "Can be adjusted to target different areas of the chest by changing the angle of the lever",
+                    "Provides a safer alternative for those with shoulder or wrist injuries"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Pectoralis major (chest muscles)",
+                    "Anterior deltoids (front shoulder muscles)",
+                    "Triceps brachii (back of upper arm muscles)"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Incline Lever Chest Press",
+                    "Decline Lever Chest Press",
+                    "Seated Lever Chest Press",
+                    "Single Arm Lever Chest Press",
+                    "Close Grip Lever Chest Press",
+                    "Wide Grip Lever Chest Press",
+                    "Reverse Grip Lever Chest Press",
+                    "Neutral Grip Lever Chest Press"
+                ]
+            }
+        }
+    ]
+}

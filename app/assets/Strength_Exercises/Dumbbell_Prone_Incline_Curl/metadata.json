@@ -1,0 +1,63 @@
+{
+    "title": "Dumbbell Prone Incline Curl",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying face down on an incline bench with a dumbbell in each hand.",
+                    "Extend your arms straight down towards the floor with your palms facing inwards.",
+                    "Slowly curl the dumbbells towards your shoulders, keeping your elbows close to your sides.",
+                    "Pause at the top of the movement and squeeze your biceps.",
+                    "Lower the dumbbells back down to the starting position in a controlled manner.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the biceps brachii muscle",
+                    "Increases bicep strength and size",
+                    "Improves grip strength",
+                    "Engages the core muscles for stability",
+                    "Can be done with a variety of weights to increase or decrease intensity",
+                    "Can be easily modified for individuals with wrist or elbow pain"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Biceps brachii",
+                    "Brachialis",
+                    "Brachioradialis"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Hammer Curl",
+                    "Dumbbell Preacher Curl",
+                    "Dumbbell Concentration Curl",
+                    "Dumbbell Bicep Curl",
+                    "Dumbbell Reverse Curl"
+                ]
+            }
+        }
+    ]
+}

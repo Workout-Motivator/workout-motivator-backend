@@ -1,0 +1,65 @@
+{
+    "title": "Barbell Reverse Grip Bench Press",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying flat on a bench with your feet firmly planted on the ground.",
+                    "Grasp the barbell with a reverse grip (palms facing towards you) and lift it off the rack.",
+                    "Lower the barbell slowly towards your chest, keeping your elbows close to your body.",
+                    "Pause for a moment when the barbell touches your chest, then push it back up to the starting position.",
+                    "Repeat for the desired number of repetitions.",
+                    "When finished, carefully rack the barbell back onto the rack."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the triceps, chest, and shoulders",
+                    "Increases upper body strength and power",
+                    "Improves bench press form and technique",
+                    "Engages the core muscles for stability and balance",
+                    "Allows for a greater range of motion compared to traditional bench press",
+                    "Can help alleviate shoulder pain and discomfort"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Triceps brachii",
+                    "Pectoralis major",
+                    "Anterior deltoids",
+                    "Triceps brachialis",
+                    "Coracobrachialis"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Reverse Grip Bench Press",
+                    "Close Grip Barbell Bench Press",
+                    "Smith Machine Reverse Grip Bench Press",
+                    "Resistance Band Reverse Grip Bench Press",
+                    "Push-Up with Reverse Grip"
+                ]
+            }
+        }
+    ]
+}

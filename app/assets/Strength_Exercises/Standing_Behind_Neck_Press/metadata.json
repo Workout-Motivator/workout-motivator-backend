@@ -1,0 +1,64 @@
+{
+    "title": "Standing Behind Neck Press",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a barbell with an overhand grip behind your neck, resting it on your shoulders.",
+                    "Engage your core and keep your back straight as you press the barbell up and overhead, extending your arms fully.",
+                    "Lower the barbell back down to your shoulders, keeping your elbows pointed out to the sides.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the shoulders, triceps, and upper back muscles",
+                    "Improves shoulder mobility and flexibility",
+                    "Helps to build upper body strength and muscle mass",
+                    "Can be performed with a barbell or dumbbells for variation",
+                    "Engages the core muscles for stability and balance",
+                    "May improve posture and reduce the risk of shoulder injuries"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Deltoids",
+                    "Triceps",
+                    "Trapezius",
+                    "Rhomboids",
+                    "Levator Scapulae"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Seated Behind Neck Press",
+                    "Standing Military Press",
+                    "Seated Military Press",
+                    "Arnold Press",
+                    "Push Press",
+                    "Jerk Press"
+                ]
+            }
+        }
+    ]
+}

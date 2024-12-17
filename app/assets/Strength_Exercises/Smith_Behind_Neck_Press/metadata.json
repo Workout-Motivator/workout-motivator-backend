@@ -1,0 +1,63 @@
+{
+    "title": "Smith Behind Neck Press",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by standing with your feet shoulder-width apart and holding a barbell with an overhand grip behind your neck.",
+                    "Make sure your elbows are pointing forward and your upper arms are parallel to the ground.",
+                    "Inhale and slowly lower the barbell towards your shoulders, keeping your elbows pointing forward.",
+                    "Exhale and push the barbell back up to the starting position, fully extending your arms.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the shoulders, specifically the deltoids",
+                    "Helps to improve shoulder mobility and flexibility",
+                    "Engages the trapezius muscles in the upper back",
+                    "Can be performed with heavier weights than traditional overhead presses",
+                    "Allows for a greater range of motion compared to other shoulder exercises"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Deltoids",
+                    "Triceps",
+                    "Trapezius",
+                    "Rhomboids",
+                    "Levator Scapulae"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Smith Shoulder Press",
+                    "Smith Incline Shoulder Press",
+                    "Smith Seated Shoulder Press",
+                    "Smith Military Press",
+                    "Smith Push Press"
+                ]
+            }
+        }
+    ]
+}

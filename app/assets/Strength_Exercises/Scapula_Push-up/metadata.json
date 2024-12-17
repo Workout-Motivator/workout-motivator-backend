@@ -1,0 +1,67 @@
+{
+    "title": "Scapula Push-up",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start in a plank position with your hands directly under your shoulders and your feet hip-width apart.",
+                    "Protract your shoulder blades by pushing your upper back towards the ceiling.",
+                    "Retract your shoulder blades by pulling your shoulder blades towards your spine.",
+                    "Repeat the protraction and retraction movements for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the muscles around the shoulder blades",
+                    "Improves posture by promoting proper alignment of the shoulders",
+                    "Helps prevent shoulder injuries by increasing stability in the shoulder joint",
+                    "Can be done anywhere without equipment",
+                    "Can be modified for different fitness levels"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Trapezius",
+                    "Rhomboids",
+                    "Serratus Anterior",
+                    "Pectoralis Minor",
+                    "Deltoids"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Scapula Push-Up with Resistance Band",
+                    "Scapula Push-Up with Dumbbells",
+                    "Scapula Push-Up with Yoga Blocks",
+                    "Scapula Push-Up with TRX Suspension Trainer",
+                    "Single Arm Scapula Push-Up",
+                    "Scapula Push-Up with Knee Tuck",
+                    "Scapula Push-Up with Leg Lift",
+                    "Scapula Push-Up with Shoulder Tap",
+                    "Scapula Push-Up with Mountain Climber",
+                    "Scapula Push-Up with Plank Jack"
+                ]
+            }
+        }
+    ]
+}

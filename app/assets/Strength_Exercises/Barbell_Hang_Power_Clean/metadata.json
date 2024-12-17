@@ -1,0 +1,75 @@
+{
+    "title": "Barbell Hang Power Clean",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by standing with your feet shoulder-width apart, with the barbell on the ground in front of you.",
+                    "Bend down and grip the barbell with your hands shoulder-width apart, palms facing towards you.",
+                    "Keeping your back straight, lift the barbell up to your thighs by extending your knees and hips.",
+                    "Next, quickly pull the barbell up towards your shoulders by shrugging your shoulders and bending your elbows.",
+                    "As the barbell reaches your shoulders, quickly drop your body underneath it by bending your knees and hips.",
+                    "Catch the barbell on the front of your shoulders, with your elbows pointing forward and your hands still gripping the barbell.",
+                    "Stand up straight, with the barbell resting on your shoulders.",
+                    "Lower the barbell back down to your thighs by bending your knees and hips.",
+                    "Finally, lower the barbell back down to the ground by extending your knees and hips."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves explosive power and speed",
+                    "Targets multiple muscle groups including the legs, hips, back, and shoulders",
+                    "Increases overall strength and muscle mass",
+                    "Improves coordination and balance",
+                    "Can be modified for different fitness levels and goals",
+                    "Can be incorporated into a full body workout routine"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Trapezius",
+                    "Rhomboids",
+                    "Deltoids",
+                    "Biceps",
+                    "Forearms",
+                    "Glutes",
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Calves"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Hang Power Clean",
+                    "Kettlebell Hang Power Clean",
+                    "Medicine Ball Hang Power Clean",
+                    "Single Arm Hang Power Clean",
+                    "Hang Power Snatch",
+                    "Hang Clean and Jerk",
+                    "Hang Muscle Clean",
+                    "Hang High Pull"
+                ]
+            }
+        }
+    ]
+}

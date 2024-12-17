@@ -1,0 +1,63 @@
+{
+    "title": "Lying Scissor Kick",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying flat on your back on a mat or comfortable surface.",
+                    "Place your hands by your sides, palms facing down.",
+                    "Extend your legs straight up towards the ceiling, keeping them together.",
+                    "Slowly lower your right leg towards the ground, keeping it straight.",
+                    "Stop when your leg is a few inches off the ground, then lift it back up to the starting position.",
+                    "Repeat the same movement with your left leg.",
+                    "Continue alternating legs for the desired number of repetitions or time."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the lower abdominal muscles",
+                    "Improves hip flexibility",
+                    "Helps to tone and shape the legs",
+                    "Can be done anywhere without equipment",
+                    "Low impact exercise that is easy on the joints"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus abdominis",
+                    "Obliques",
+                    "Hip flexors"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Reverse Scissor Kick",
+                    "Flutter Kicks",
+                    "Leg Raises",
+                    "Bicycle Crunches",
+                    "Plank Scissor Kicks"
+                ]
+            }
+        }
+    ]
+}

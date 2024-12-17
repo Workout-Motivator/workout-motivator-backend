@@ -1,0 +1,64 @@
+{
+    "title": "Kettlebell Wrist Curl",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by sitting on a bench or chair with your feet flat on the ground and your back straight.",
+                    "Hold a kettlebell in one hand with your palm facing up and your elbow resting on your thigh.",
+                    "Slowly lower the kettlebell towards the ground, keeping your wrist straight.",
+                    "Then, curl the kettlebell back up towards your forearm, using only your wrist.",
+                    "Repeat for the desired number of repetitions, then switch to the other hand."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the wrist flexors and extensors",
+                    "Improves grip strength",
+                    "Helps prevent wrist injuries",
+                    "Can be done with a variety of weights and kettlebell sizes",
+                    "Targets the forearms and can improve overall arm definition"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Forearm Flexors"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Kettlebell Reverse Wrist Curl",
+                    "Kettlebell Hammer Curl",
+                    "Kettlebell Bicep Curl",
+                    "Kettlebell Tricep Extension",
+                    "Kettlebell Overhead Press",
+                    "Kettlebell Front Raise",
+                    "Kettlebell Lateral Raise",
+                    "Kettlebell Upright Row",
+                    "Kettlebell Bent Over Row",
+                    "Kettlebell Deadlift"
+                ]
+            }
+        }
+    ]
+}

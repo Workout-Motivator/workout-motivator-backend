@@ -1,0 +1,63 @@
+{
+    "title": "Roll Upper Back",
+    "description": "A stretch exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on your back with your knees bent and feet flat on the ground.",
+                    "Place your hands behind your head with your elbows pointing out to the sides.",
+                    "Take a deep breath in and as you exhale, lift your upper back off the ground, curling your chin towards your chest.",
+                    "Hold the position for a few seconds, feeling the stretch in your upper back.",
+                    "Inhale and slowly lower your upper back back down to the ground.",
+                    "Repeat for 10-15 repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves posture by strengthening upper back muscles",
+                    "Reduces tension and pain in the neck and shoulders",
+                    "Increases flexibility and range of motion in the upper back",
+                    "Helps prevent and alleviate back pain",
+                    "Can be done anywhere without equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Trapezius",
+                    "Rhomboids",
+                    "Erector Spinae",
+                    "Latissimus Dorsi"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Roll Lower Back",
+                    "Roll Shoulders",
+                    "Roll Neck",
+                    "Roll Hips",
+                    "Roll Feet"
+                ]
+            }
+        }
+    ]
+}

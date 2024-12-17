@@ -1,0 +1,65 @@
+{
+    "title": "Sit Squat",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your toes pointing slightly outward.",
+                    "Lower your body down into a squatting position, keeping your weight on your heels and your chest up.",
+                    "Once you are in a seated position, hold for a few seconds.",
+                    "Raise your body back up to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the lower body muscles, including the quadriceps, hamstrings, glutes, and calves",
+                    "Improves balance and stability",
+                    "Increases flexibility in the hips and ankles",
+                    "Can be done without any equipment",
+                    "Can be modified to increase or decrease difficulty",
+                    "Helps to improve posture and alignment",
+                    "May improve athletic performance in activities such as running, jumping, and squatting"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Jump Squat",
+                    "Sumo Squat",
+                    "Bulgarian Split Squat",
+                    "Single Leg Squat",
+                    "Goblet Squat"
+                ]
+            }
+        }
+    ]
+}

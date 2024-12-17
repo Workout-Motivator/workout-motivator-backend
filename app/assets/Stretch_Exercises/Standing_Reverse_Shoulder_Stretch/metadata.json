@@ -1,0 +1,67 @@
+{
+    "title": "Standing Reverse Shoulder Stretch",
+    "description": "A stretch exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your arms at your sides.",
+                    "Reach your right arm across your chest and place your left hand on your right elbow.",
+                    "Gently pull your right arm towards your left shoulder until you feel a stretch in your right shoulder.",
+                    "Hold the stretch for 15-30 seconds.",
+                    "Release the stretch and repeat on the other side."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Relieves tension and tightness in the shoulders and upper back",
+                    "Improves posture by opening up the chest and shoulders",
+                    "Increases flexibility and range of motion in the shoulders",
+                    "Can help alleviate headaches and neck pain caused by tension in the shoulders",
+                    "Can be done anywhere without any equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Trapezius",
+                    "Rhomboids",
+                    "Deltoids",
+                    "Rotator cuff muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Seated Reverse Shoulder Stretch",
+                    "Wall Reverse Shoulder Stretch",
+                    "Standing Cross-Body Shoulder Stretch",
+                    "Seated Cross-Body Shoulder Stretch",
+                    "Doorway Shoulder Stretch",
+                    "Standing Arm Circles",
+                    "Standing Wall Angels",
+                    "Standing Shoulder Rolls",
+                    "Seated Shoulder Rolls",
+                    "Standing Shoulder Extension Stretch"
+                ]
+            }
+        }
+    ]
+}

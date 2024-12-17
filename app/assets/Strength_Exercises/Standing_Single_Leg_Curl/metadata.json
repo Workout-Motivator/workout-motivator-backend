@@ -1,0 +1,62 @@
+{
+    "title": "Standing Single Leg Curl",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet hip-width apart and your arms at your sides.",
+                    "Lift your left foot off the ground and bend your knee, bringing your heel towards your buttocks.",
+                    "Hold your left ankle with your left hand and keep your right arm at your side for balance.",
+                    "Slowly lower your left foot back to the ground and repeat on the other side.",
+                    "Complete 10-15 repetitions on each leg for one set.",
+                    "Perform 2-3 sets with a 30-second rest in between each set."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the hamstrings, glutes, and calves",
+                    "Improves balance and stability",
+                    "Targets the muscles on one leg at a time, helping to correct muscle imbalances",
+                    "Can be done with or without equipment, making it a versatile exercise",
+                    "Engages the core muscles for added stability and support"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Hamstrings",
+                    "Glutes",
+                    "Calves (stabilizing muscles)"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Seated Single Leg Curl",
+                    "Lying Single Leg Curl",
+                    "Standing Double Leg Curl",
+                    "Seated Double Leg Curl",
+                    "Lying Double Leg Curl"
+                ]
+            }
+        }
+    ]
+}

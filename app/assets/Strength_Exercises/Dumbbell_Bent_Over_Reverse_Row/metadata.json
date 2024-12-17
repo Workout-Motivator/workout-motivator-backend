@@ -1,0 +1,65 @@
+{
+    "title": "Dumbbell Bent Over Reverse Row",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a dumbbell in each hand.",
+                    "Bend your knees slightly and hinge forward at the hips, keeping your back straight.",
+                    "Extend your arms straight down towards the ground, palms facing your body.",
+                    "Engage your back muscles and pull the dumbbells up towards your chest, keeping your elbows close to your body.",
+                    "Pause at the top of the movement and squeeze your shoulder blades together.",
+                    "Lower the dumbbells back down to the starting position.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the upper back muscles, including the rhomboids, trapezius, and rear deltoids",
+                    "Improves posture by pulling the shoulders back and down",
+                    "Engages the core muscles for stability and balance",
+                    "Targets the biceps and forearms as secondary muscles",
+                    "Can be modified for different fitness levels by adjusting the weight of the dumbbells"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rhomboids",
+                    "Trapezius",
+                    "Latissimus dorsi",
+                    "Erector spinae",
+                    "Biceps brachii"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Bent Over Row",
+                    "Dumbbell Reverse Fly",
+                    "Barbell Bent Over Row",
+                    "Seated Cable Row",
+                    "T-Bar Row"
+                ]
+            }
+        }
+    ]
+}

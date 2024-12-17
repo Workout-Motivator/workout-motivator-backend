@@ -1,0 +1,63 @@
+{
+    "title": "Kettlebell Arnold Press",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a kettlebell in each hand at shoulder height, palms facing your body.",
+                    "Engage your core and press the kettlebells overhead, rotating your palms to face forward as you do so.",
+                    "Lower the kettlebells back down to shoulder height, rotating your palms back to face your body.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the shoulders, triceps, and upper back muscles",
+                    "Improves shoulder stability and mobility",
+                    "Increases upper body strength and power",
+                    "Engages the core muscles for added stability and balance",
+                    "Can be modified for different fitness levels and goals",
+                    "Provides a full-body workout in one exercise"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Deltoids",
+                    "Triceps",
+                    "Trapezius",
+                    "Rhomboids",
+                    "Rotator cuff muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Kettlebell Single Arm Arnold Press",
+                    "Kettlebell Double Arm Arnold Press",
+                    "Kettlebell Half-Kneeling Arnold Press",
+                    "Kettlebell Seated Arnold Press",
+                    "Kettlebell Standing Arnold Press"
+                ]
+            }
+        }
+    ]
+}

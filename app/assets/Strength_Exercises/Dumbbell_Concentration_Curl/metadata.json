@@ -1,0 +1,63 @@
+{
+    "title": "Dumbbell Concentration Curl",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by sitting on a bench with your feet flat on the floor and your knees slightly apart.",
+                    "Hold a dumbbell in one hand and place your elbow on the inside of your thigh, just above the knee.",
+                    "Make sure your arm is fully extended and your palm is facing up.",
+                    "Curl the weight up towards your shoulder, keeping your elbow stationary and close to your thigh.",
+                    "Pause at the top of the movement and squeeze your bicep.",
+                    "Slowly lower the weight back down to the starting position.",
+                    "Repeat for the desired number of reps, then switch arms and repeat the exercise on the other side."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the biceps muscle specifically, helping to build strength and size in the arms",
+                    "Allows for a greater range of motion compared to traditional bicep curls, leading to increased muscle activation",
+                    "Helps to improve grip strength and forearm development",
+                    "Can be performed with a variety of weights and equipment, making it accessible for individuals of all fitness levels",
+                    "Can be easily modified to target different areas of the biceps muscle"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Biceps brachii",
+                    "Brachialis",
+                    "Brachioradialis"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Alternating Dumbbell Concentration Curl",
+                    "Seated Dumbbell Concentration Curl",
+                    "Standing Dumbbell Concentration Curl",
+                    "Hammer Dumbbell Concentration Curl",
+                    "Reverse Dumbbell Concentration Curl"
+                ]
+            }
+        }
+    ]
+}

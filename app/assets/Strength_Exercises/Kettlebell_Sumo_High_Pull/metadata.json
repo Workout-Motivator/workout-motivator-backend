@@ -1,0 +1,69 @@
+{
+    "title": "Kettlebell Sumo High Pull",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet wider than shoulder-width apart and your toes pointed slightly outward.",
+                    "Place a kettlebell on the ground between your feet.",
+                    "Bend your knees and hinge at your hips to reach down and grab the kettlebell with both hands.",
+                    "Engage your core and lift the kettlebell up to your chest, keeping your elbows high and your shoulders down.",
+                    "As you lift the kettlebell, extend your hips and knees to stand up straight.",
+                    "At the top of the movement, your elbows should be at shoulder height and the kettlebell should be close to your body.",
+                    "Lower the kettlebell back down to the ground by reversing the movement, bending your knees and hinging at your hips.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets multiple muscle groups including the shoulders, back, hips, and legs",
+                    "Improves overall strength and power",
+                    "Increases cardiovascular endurance",
+                    "Improves grip strength",
+                    "Can be modified for different fitness levels and goals",
+                    "Can be done with minimal equipment and space"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Glutes",
+                    "Hamstrings",
+                    "Quadriceps",
+                    "Lower back",
+                    "Shoulders",
+                    "Traps",
+                    "Biceps"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Kettlebell Sumo Deadlift High Pull",
+                    "Dumbbell Sumo High Pull",
+                    "Barbell Sumo High Pull",
+                    "Resistance Band Sumo High Pull",
+                    "Single Arm Kettlebell Sumo High Pull"
+                ]
+            }
+        }
+    ]
+}

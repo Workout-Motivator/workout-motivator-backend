@@ -1,0 +1,65 @@
+{
+    "title": "Band Hip Adduction",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Begin by lying on your side with your legs straight and stacked on top of each other.",
+                    "Place a resistance band around your ankles and hold onto something stable with your top hand for balance.",
+                    "Engage your core and glutes to lift your bottom leg up towards the ceiling, keeping it straight.",
+                    "Slowly lower your leg back down to the starting position.",
+                    "Repeat for the desired number of repetitions, then switch sides and repeat."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the hip adductor muscles",
+                    "Improves hip stability and balance",
+                    "Helps prevent injuries in the hip and knee joints",
+                    "Can be done with minimal equipment and space",
+                    "Can be easily modified for different fitness levels"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Inner thigh muscles (adductors)",
+                    "Gluteus medius"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Band hip abduction",
+                    "Side-lying leg lifts",
+                    "Clamshells",
+                    "Fire hydrants",
+                    "Standing hip abductions",
+                    "Single-leg deadlifts",
+                    "Glute bridges",
+                    "Donkey kicks",
+                    "Plank leg lifts",
+                    "Resistance band squats"
+                ]
+            }
+        }
+    ]
+}

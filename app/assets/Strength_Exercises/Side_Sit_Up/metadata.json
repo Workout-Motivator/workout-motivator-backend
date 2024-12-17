@@ -1,0 +1,62 @@
+{
+    "title": "Side Sit Up",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on your side with your legs bent at a 90-degree angle and your feet stacked on top of each other.",
+                    "Place your hands behind your head or cross them over your chest.",
+                    "Engage your core and lift your upper body off the ground, bringing your elbow towards your hip.",
+                    "Lower your body back down to the starting position.",
+                    "Repeat for the desired number of reps on one side before switching to the other side."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the oblique muscles, which are important for core stability and rotational movements",
+                    "Improves overall core strength and endurance",
+                    "Can help improve posture and reduce lower back pain",
+                    "Can be done with minimal equipment and in a small space",
+                    "Variations of the exercise can be done to increase difficulty and challenge the muscles in different ways"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Obliques",
+                    "Rectus Abdominis",
+                    "Transverse Abdominis",
+                    "Hip Flexors"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Oblique side sit up",
+                    "Weighted side sit up",
+                    "Side plank with hip dip",
+                    "Side plank with leg lift",
+                    "Side plank with twist"
+                ]
+            }
+        }
+    ]
+}

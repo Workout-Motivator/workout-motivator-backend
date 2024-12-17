@@ -1,0 +1,62 @@
+{
+    "title": "Shoulder Bridge",
+    "description": "A stretch exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on your back with your knees bent and feet flat on the ground.",
+                    "Place your arms by your sides with your palms facing down.",
+                    "Engage your core and lift your hips up towards the ceiling, creating a straight line from your shoulders to your knees.",
+                    "Hold this position for a few seconds, then slowly lower your hips back down to the ground.",
+                    "Repeat for several repetitions, making sure to keep your core engaged and your hips lifted throughout the exercise."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens oblique muscles",
+                    "Improves posture and balance",
+                    "Increases flexibility in the spine",
+                    "Reduces risk of lower back pain",
+                    "Targets love handles and muffin top areas"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Glutes",
+                    "Hamstrings",
+                    "Lower back",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Shoulder bridge with leg lift",
+                    "Single leg shoulder bridge",
+                    "Shoulder bridge with chest press",
+                    "Shoulder bridge with tricep extension",
+                    "Shoulder bridge with hip abduction"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "title": "Dumbbell Incline Front Raise",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on an incline bench with your feet firmly planted on the ground.",
+                    "Hold a dumbbell in each hand with your palms facing down and your arms extended straight in front of you.",
+                    "Slowly raise the dumbbells up and out to the sides until they reach shoulder height.",
+                    "Pause for a moment at the top of the movement, then slowly lower the dumbbells back down to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the anterior (front) deltoids, which are responsible for shoulder flexion and abduction",
+                    "Helps to improve shoulder strength and stability",
+                    "Can be performed with a variety of weights, making it suitable for beginners and advanced lifters",
+                    "Engages the core muscles for added stability and balance",
+                    "Can be easily modified by adjusting the angle of the bench or using different grip positions"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Anterior deltoid",
+                    "Clavicular head of pectoralis major",
+                    "Coracobrachialis"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Incline Lateral Raise",
+                    "Dumbbell Incline Reverse Fly",
+                    "Dumbbell Incline Press",
+                    "Dumbbell Incline Bench Row",
+                    "Dumbbell Incline Curl"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "title": "Kettlebell Dead Clean",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and the kettlebell on the ground in front of you.",
+                    "Bend down and grab the kettlebell with both hands, keeping your back straight and your core engaged.",
+                    "Stand up, lifting the kettlebell off the ground and bringing it to your waist level.",
+                    "As you lift the kettlebell, keep your elbows close to your body and your shoulders down and back.",
+                    "Once the kettlebell is at your waist, quickly reverse the movement and lower it back down to the ground.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the entire posterior chain, including the glutes, hamstrings, and lower back",
+                    "Improves grip strength and forearm endurance",
+                    "Increases explosive power and athleticism",
+                    "Engages the core muscles for stability and balance",
+                    "Can be modified for different fitness levels and goals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Glutes",
+                    "Hamstrings",
+                    "Quadriceps",
+                    "Lower back",
+                    "Core",
+                    "Forearms"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Kettlebell Dead Clean and Press",
+                    "Kettlebell Double Dead Clean",
+                    "Kettlebell Single Arm Dead Clean",
+                    "Kettlebell Clean and Jerk",
+                    "Kettlebell Clean and Squat"
+                ]
+            }
+        }
+    ]
+}

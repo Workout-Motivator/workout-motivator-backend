@@ -1,0 +1,65 @@
+{
+    "title": "Dumbbell One Arm Snatch",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart, holding a dumbbell in one hand with an overhand grip.",
+                    "Bend your knees slightly and hinge forward at the hips, keeping your back straight and your core engaged.",
+                    "As you stand up, pull the dumbbell up towards your shoulder in a fluid motion, keeping your elbow close to your body.",
+                    "Once the dumbbell reaches shoulder height, flip your wrist and press the weight overhead, fully extending your arm.",
+                    "Lower the dumbbell back down to the starting position in a controlled manner.",
+                    "Repeat for the desired number of reps, then switch sides and repeat with the other arm."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves overall strength and power",
+                    "Targets multiple muscle groups including the shoulders, back, legs, and core",
+                    "Improves coordination and balance",
+                    "Increases cardiovascular endurance",
+                    "Can be modified for different fitness levels and goals",
+                    "Can be done with minimal equipment and space"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Shoulders (deltoids)",
+                    "Back (latissimus dorsi)",
+                    "Legs (quadriceps, hamstrings, glutes)",
+                    "Core (abdominals, obliques)",
+                    "Forearms (brachioradialis)"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell One Arm Clean and Press",
+                    "Dumbbell One Arm Swing",
+                    "Dumbbell One Arm Row",
+                    "Dumbbell One Arm Overhead Squat",
+                    "Dumbbell One Arm Deadlift"
+                ]
+            }
+        }
+    ]
+}

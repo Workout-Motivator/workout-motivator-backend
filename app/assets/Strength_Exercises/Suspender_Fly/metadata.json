@@ -1,0 +1,62 @@
+{
+    "title": "Suspender Fly",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on your back with your legs straight up in the air, perpendicular to the floor.",
+                    "Place your hands behind your head and engage your core muscles.",
+                    "Slowly lower your legs towards the floor, keeping them straight and your core engaged.",
+                    "Stop when your legs are a few inches above the floor and hold for a few seconds.",
+                    "Slowly raise your legs back up to the starting position, keeping them straight and your core engaged.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the chest, shoulders, and triceps",
+                    "Increases upper body strength and muscle definition",
+                    "Improves posture and stability",
+                    "Can be done with minimal equipment",
+                    "Can be modified for different fitness levels"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Pectoralis Major",
+                    "Anterior Deltoids",
+                    "Triceps Brachii"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single Leg Suspender Fly",
+                    "Alternating Leg Suspender Fly",
+                    "Weighted Suspender Fly",
+                    "Resistance Band Suspender Fly",
+                    "Push-up Suspender Fly"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "title": "Dumbbell Russian Twist",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by sitting on the floor with your knees bent and feet flat on the ground.",
+                    "Hold a dumbbell with both hands and extend your arms straight out in front of you.",
+                    "Lean back slightly, keeping your back straight and your core engaged.",
+                    "Twist your torso to the right, bringing the dumbbell towards your right hip.",
+                    "Pause briefly, then twist your torso to the left, bringing the dumbbell towards your left hip.",
+                    "Repeat this twisting motion for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the obliques, which are important for core stability and rotational movements",
+                    "Improves balance and coordination",
+                    "Strengthens the lower back and hip muscles",
+                    "Can be done with a variety of weights and equipment, making it accessible for all fitness levels",
+                    "Engages multiple muscle groups at once, leading to a more efficient workout"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus Abdominis",
+                    "Obliques",
+                    "Erector Spinae",
+                    "Transverse Abdominis",
+                    "Quadratus Lumborum"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Weighted Russian Twist",
+                    "Medicine Ball Russian Twist",
+                    "Cable Russian Twist",
+                    "Seated Russian Twist",
+                    "Standing Russian Twist"
+                ]
+            }
+        }
+    ]
+}

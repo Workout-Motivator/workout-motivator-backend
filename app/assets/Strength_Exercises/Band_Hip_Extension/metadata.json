@@ -1,0 +1,61 @@
+{
+    "title": "Band Hip Extension",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on your back with your knees bent and feet flat on the ground.",
+                    "Place a resistance band around your thighs, just above your knees.",
+                    "Engage your glutes and lift your hips up towards the ceiling, squeezing your glutes at the top of the movement.",
+                    "Lower your hips back down to the starting position, but do not let your glutes touch the ground.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens glutes and hamstrings",
+                    "Improves hip stability and balance",
+                    "Can help alleviate lower back pain by improving posture and reducing strain on the lumbar spine",
+                    "Can be done with minimal equipment and in a variety of settings",
+                    "Can be easily modified to increase or decrease resistance"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Gluteus maximus",
+                    "Hamstrings",
+                    "Erector spinae"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single-leg band hip extension",
+                    "Band hip extension with abduction",
+                    "Band hip extension with external rotation",
+                    "Band hip extension with knee flexion",
+                    "Band hip extension with contralateral arm reach"
+                ]
+            }
+        }
+    ]
+}

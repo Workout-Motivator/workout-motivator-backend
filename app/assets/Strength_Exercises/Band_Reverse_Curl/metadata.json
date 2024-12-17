@@ -1,0 +1,61 @@
+{
+    "title": "Band Reverse Curl",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a barbell with an overhand grip, hands shoulder-width apart.",
+                    "Keeping your elbows close to your sides, curl the barbell up towards your chest.",
+                    "Pause at the top of the movement, then slowly lower the barbell back down to the starting position.",
+                    "As you lower the barbell, twist your wrists so that your palms are facing down.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the brachioradialis muscle in the forearm",
+                    "Improves grip strength",
+                    "Can be done with resistance bands, making it a convenient exercise to do at home or while traveling",
+                    "Helps to prevent wrist injuries by strengthening the muscles in the forearm",
+                    "Can be modified to increase or decrease resistance by adjusting the tension of the resistance band"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Biceps brachii",
+                    "Brachialis",
+                    "Brachioradialis"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Reverse grip barbell curl",
+                    "Reverse grip dumbbell curl",
+                    "Reverse grip EZ bar curl",
+                    "Reverse grip cable curl",
+                    "Reverse grip preacher curl"
+                ]
+            }
+        }
+    ]
+}

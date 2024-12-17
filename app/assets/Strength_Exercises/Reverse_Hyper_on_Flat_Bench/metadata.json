@@ -1,0 +1,65 @@
+{
+    "title": "Reverse Hyper on Flat Bench",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Position a flat bench horizontally on the ground.",
+                    "Lie face down on the bench with your hips at the edge and your legs hanging off the end.",
+                    "Hold onto the bench legs for stability.",
+                    "Slowly raise your legs up until they are parallel to the ground.",
+                    "Lower your legs back down to the starting position.",
+                    "Repeat for desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Stretches the hips, groin, and hamstrings",
+                    "Strengthens the legs, core, and arms",
+                    "Improves balance and stability",
+                    "Opens the chest and shoulders",
+                    "Increases flexibility in the spine",
+                    "Relieves stress and tension in the body",
+                    "Can help improve digestion and stimulate the abdominal organs"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Erector spinae",
+                    "Gluteus maximus",
+                    "Hamstrings",
+                    "Posterior deltoids",
+                    "Triceps"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Reverse hyper on angled bench",
+                    "Reverse hyper on stability ball",
+                    "Reverse hyper on hyperextension bench",
+                    "Reverse hyper on glute-ham developer"
+                ]
+            }
+        }
+    ]
+}

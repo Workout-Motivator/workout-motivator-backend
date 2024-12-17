@@ -1,0 +1,61 @@
+{
+    "title": "Barbell Front Raise",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a barbell with an overhand grip, hands shoulder-width apart.",
+                    "Hold the barbell at waist level with your arms fully extended.",
+                    "Slowly lift the barbell up to shoulder level, keeping your arms straight and your elbows slightly bent.",
+                    "Hold the barbell at shoulder level for a few seconds, then slowly lower it back down to waist level.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the anterior deltoids, or front shoulder muscles",
+                    "Improves shoulder strength and stability",
+                    "Helps to develop a more defined and sculpted shoulder appearance",
+                    "Can be performed with a variety of weights and rep ranges to suit individual fitness goals",
+                    "Can be easily modified to target different areas of the shoulder by adjusting grip width or angle of movement"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Deltoids (anterior)",
+                    "Triceps (long head)",
+                    "Upper pectoralis major"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Front Raise",
+                    "Cable Front Raise",
+                    "Plate Front Raise",
+                    "Smith Machine Front Raise",
+                    "Resistance Band Front Raise"
+                ]
+            }
+        }
+    ]
+}

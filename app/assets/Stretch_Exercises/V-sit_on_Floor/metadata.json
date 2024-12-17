@@ -1,0 +1,68 @@
+{
+    "title": "V-sit on Floor",
+    "description": "A stretch exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by sitting on the floor with your legs straight out in front of you.",
+                    "Place your hands on the floor behind you, fingers pointing towards your feet.",
+                    "Engage your core muscles and lift your legs off the ground, bringing your knees towards your chest.",
+                    "At the same time, lift your upper body off the ground and reach your hands towards your feet.",
+                    "Hold this position for a few seconds, then slowly lower your body back down to the starting position.",
+                    "Repeat for several repetitions, making sure to engage your core muscles throughout the exercise."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens abdominal muscles",
+                    "Improves core stability",
+                    "Increases flexibility in the lower back",
+                    "Improves posture",
+                    "Can be done without equipment",
+                    "Can be modified for different fitness levels"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus abdominis",
+                    "Obliques",
+                    "Hip flexors"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Crunches",
+                    "Reverse crunches",
+                    "Leg raises",
+                    "Plank with leg lifts",
+                    "Side plank with leg lifts",
+                    "Russian twists",
+                    "Bicycle crunches",
+                    "Toe touches",
+                    "Scissor kicks",
+                    "Flutter kicks"
+                ]
+            }
+        }
+    ]
+}

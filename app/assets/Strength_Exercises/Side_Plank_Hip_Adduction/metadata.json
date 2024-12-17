@@ -1,0 +1,63 @@
+{
+    "title": "Side Plank Hip Adduction",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on your side with your legs straight and your elbow directly under your shoulder.",
+                    "Lift your hips off the ground, creating a straight line from your head to your feet.",
+                    "Place your top hand on your hip and keep your bottom arm extended on the ground for support.",
+                    "Slowly lift your top leg, keeping it straight, and bring it towards your chest.",
+                    "Pause for a moment, then slowly lower your leg back down to the starting position.",
+                    "Repeat for the desired number of repetitions, then switch sides and repeat the exercise on the other side."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the oblique muscles",
+                    "Targets the hip adductors for improved stability and balance",
+                    "Improves core strength and stability",
+                    "Helps prevent lower back pain by strengthening the muscles that support the spine",
+                    "Can be modified for different fitness levels by adjusting the duration or adding resistance"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Obliques",
+                    "Gluteus Medius",
+                    "Tensor Fasciae Latae",
+                    "Adductor Magnus"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Side Plank Hip Abduction",
+                    "Side Plank with Leg Lift",
+                    "Side Plank with Knee Tuck",
+                    "Side Plank with Hip Dip",
+                    "Side Plank with Arm Reach"
+                ]
+            }
+        }
+    ]
+}

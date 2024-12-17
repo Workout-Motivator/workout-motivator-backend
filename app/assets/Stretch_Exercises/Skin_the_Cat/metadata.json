@@ -1,0 +1,65 @@
+{
+    "title": "Skin the Cat",
+    "description": "A stretch exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by hanging from a pull-up bar with your arms fully extended and your hands shoulder-width apart.",
+                    "Engage your core and lift your legs up towards the bar, bending at the hips and bringing your knees towards your chest.",
+                    "Continue to lift your legs up and over the bar, allowing your body to rotate as you do so.",
+                    "As you come around to the other side of the bar, straighten your arms and lower your body down towards the ground.",
+                    "Once your body is fully extended, reverse the movement and bring your legs back up towards the bar, bending at the hips once again.",
+                    "Continue to repeat the movement, rotating your body around the bar and lowering yourself down towards the ground with each repetition."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the upper body, particularly the shoulders, back, and core muscles",
+                    "Improves flexibility and mobility in the shoulders and spine",
+                    "Increases body awareness and control",
+                    "Can help with injury prevention and rehabilitation",
+                    "Challenges the mind and body, promoting mental toughness and resilience"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Latissimus dorsi",
+                    "Trapezius",
+                    "Rhomboids",
+                    "Biceps",
+                    "Forearms",
+                    "Abdominals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Reverse grip skin the cat",
+                    "Front grip skin the cat",
+                    "Assisted skin the cat",
+                    "Weighted skin the cat",
+                    "Single leg skin the cat"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "title": "Box Jump Down With 1 Leg Stabilization",
+    "description": "A cardio exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand in front of a sturdy box or platform that is at a comfortable height for you to jump onto.",
+                    "Place one foot on the box and the other foot on the ground.",
+                    "Jump up onto the box with your foot that is on the ground, bringing your other foot up with you.",
+                    "Land on the box with both feet and hold the position for a few seconds to stabilize.",
+                    "Step down off the box with the foot that you jumped up with, leaving the other foot on the box.",
+                    "Lower yourself down to the ground with control, keeping your foot on the box stable and balanced.",
+                    "Repeat the exercise for the desired number of repetitions, then switch legs and repeat on the other side."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves explosive power and strength in the lower body",
+                    "Increases cardiovascular endurance",
+                    "Enhances balance and stability",
+                    "Targets multiple muscle groups including the quadriceps, hamstrings, glutes, and calves",
+                    "Can be modified to accommodate different fitness levels and abilities",
+                    "Provides a challenging and dynamic workout"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calf muscles",
+                    "Core muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Box Jump Down with 2 Leg Stabilization",
+                    "Box Jump Up with 1 Leg Stabilization",
+                    "Box Jump Up with 2 Leg Stabilization",
+                    "Step Up with 1 Leg Stabilization",
+                    "Step Up with 2 Leg Stabilization",
+                    "Jump Squat with 1 Leg Stabilization",
+                    "Jump Squat with 2 Leg Stabilization"
+                ]
+            }
+        }
+    ]
+}

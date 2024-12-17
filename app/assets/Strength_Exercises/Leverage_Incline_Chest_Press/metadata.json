@@ -1,0 +1,67 @@
+{
+    "title": "Leverage Incline Chest Press",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Adjust the incline bench to a 45-degree angle.",
+                    "Select the desired weight on the weight stack.",
+                    "Sit on the bench with your back against the pad and your feet flat on the floor.",
+                    "Grasp the handles with an overhand grip and bring them to shoulder level.",
+                    "Push the handles away from your body until your arms are fully extended.",
+                    "Slowly lower the handles back to shoulder level, keeping your elbows slightly bent.",
+                    "Repeat for desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the upper portion of the chest muscles",
+                    "Increases strength and muscle mass in the chest, shoulders, and triceps",
+                    "Allows for a greater range of motion compared to traditional bench press",
+                    "Reduces strain on the shoulders and wrists",
+                    "Can be adjusted to target different areas of the chest by changing the incline angle"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Pectoralis major (upper and middle fibers)",
+                    "Anterior deltoids",
+                    "Triceps brachii",
+                    "Clavicular head of the pectoralis major"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Decline Chest Press",
+                    "Flat Bench Chest Press",
+                    "Dumbbell Chest Press",
+                    "Close-Grip Chest Press",
+                    "Wide-Grip Chest Press",
+                    "Single-Arm Chest Press",
+                    "Machine Chest Press",
+                    "Push-Up"
+                ]
+            }
+        }
+    ]
+}

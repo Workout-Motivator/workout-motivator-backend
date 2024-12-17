@@ -1,0 +1,64 @@
+{
+    "title": "Power Sled Push",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by standing behind the power sled with your feet shoulder-width apart.",
+                    "Place your hands on the sled\u2019s handles and lower your hips into a squatting position.",
+                    "Push the sled forward by driving through your legs and keeping your back straight.",
+                    "Continue pushing the sled until you reach the desired distance or time.",
+                    "Rest for a few seconds and repeat for the desired number of sets."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the chest, shoulders, triceps, and core muscles",
+                    "Improves upper body stability and balance",
+                    "Increases overall upper body strength and endurance",
+                    "Can be modified for different fitness levels and goals",
+                    "Can be done with minimal equipment or in a gym setting",
+                    "May improve posture and reduce risk of injury in daily activities"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "power sled pull",
+                    "power sled drag",
+                    "power sled march",
+                    "power sled sprint",
+                    "power sled row"
+                ]
+            }
+        }
+    ]
+}

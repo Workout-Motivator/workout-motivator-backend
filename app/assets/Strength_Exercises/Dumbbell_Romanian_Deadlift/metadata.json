@@ -1,0 +1,61 @@
+{
+    "title": "Dumbbell Romanian Deadlift",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a dumbbell in each hand with an overhand grip.",
+                    "Keeping your back straight, hinge at the hips and lower the dumbbells towards the ground, keeping them close to your legs.",
+                    "Lower the dumbbells until you feel a stretch in your hamstrings, then slowly return to the starting position.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the hamstrings, glutes, and lower back muscles",
+                    "Improves hip mobility and flexibility",
+                    "Helps to prevent lower back pain and injury",
+                    "Increases overall stability and balance",
+                    "Can be modified for different fitness levels and goals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Hamstrings",
+                    "Glutes",
+                    "Lower back",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single-leg Dumbbell Romanian Deadlift",
+                    "Barbell Romanian Deadlift",
+                    "Kettlebell Romanian Deadlift",
+                    "Sumo Romanian Deadlift",
+                    "Trap Bar Romanian Deadlift"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "title": "Barbell Clean Pull",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by standing with your feet shoulder-width apart and the barbell on the ground in front of you.",
+                    "Bend down and grip the barbell with an overhand grip, hands slightly wider than shoulder-width apart.",
+                    "Engage your core and lift the barbell off the ground, keeping your back straight and your arms extended.",
+                    "As you lift the barbell, pull it up towards your chest, keeping your elbows high and your wrists straight.",
+                    "Once the barbell reaches chest height, pause for a moment before lowering it back down to the ground in a controlled manner.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves explosive power and speed",
+                    "Targets the muscles of the posterior chain, including the glutes, hamstrings, and lower back",
+                    "Helps to develop proper technique for the full clean exercise",
+                    "Increases grip strength and forearm endurance",
+                    "Can be used as a warm-up exercise for other lifts"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Trapezius",
+                    "Rhomboids",
+                    "Deltoids",
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Erector Spinae"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Barbell Clean High Pull",
+                    "Barbell Power Clean",
+                    "Barbell Hang Clean",
+                    "Barbell Hang Clean and Press",
+                    "Barbell Hang Power Clean",
+                    "Barbell Clean and Jerk",
+                    "Barbell Snatch Pull",
+                    "Barbell Hang Snatch",
+                    "Barbell Hang Snatch High Pull"
+                ]
+            }
+        }
+    ]
+}

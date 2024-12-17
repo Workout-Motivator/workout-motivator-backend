@@ -1,0 +1,64 @@
+{
+    "title": "Barbell Rollout",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by kneeling on the ground with a barbell in front of you.",
+                    "Grab the barbell with both hands, shoulder-width apart.",
+                    "Slowly roll the barbell forward, keeping your core tight and your back straight.",
+                    "Roll the barbell out as far as you can without letting your hips drop.",
+                    "Hold the position for a few seconds, then slowly roll the barbell back to the starting position.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the core muscles, including the abs, obliques, and lower back",
+                    "Improves stability and balance",
+                    "Increases shoulder and arm strength",
+                    "Helps to prevent lower back pain and injury",
+                    "Can be modified for different fitness levels and abilities"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus Abdominis",
+                    "Obliques",
+                    "Erector Spinae",
+                    "Triceps",
+                    "Shoulder Stabilizers"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Ab Wheel Rollout",
+                    "Kneeling Barbell Rollout",
+                    "Standing Barbell Rollout",
+                    "Single Arm Barbell Rollout",
+                    "Decline Barbell Rollout"
+                ]
+            }
+        }
+    ]
+}

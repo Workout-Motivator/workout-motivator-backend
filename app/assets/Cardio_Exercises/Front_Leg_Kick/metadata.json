@@ -1,0 +1,69 @@
+{
+    "title": "Front Leg Kick",
+    "description": "A cardio exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your hands up in a fighting stance.",
+                    "Lift your right knee up towards your chest.",
+                    "Extend your right leg forward, kicking with the ball of your foot.",
+                    "Bring your leg back to the starting position.",
+                    "Repeat the kick with your left leg.",
+                    "Continue alternating kicks for the desired number of repetitions or time."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens core muscles",
+                    "Improves balance and stability",
+                    "Targets shoulder and back muscles",
+                    "Increases overall body strength",
+                    "Can help prevent lower back pain",
+                    "Improves posture",
+                    "Enhances athletic performance",
+                    "Can be modified for different fitness levels"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Hip flexors",
+                    "Abdominals",
+                    "Obliques",
+                    "Lower back muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "front-leg-roundhouse-kick",
+                    "front-leg-side-kick",
+                    "front-leg-hook-kick",
+                    "front-leg-crescent-kick",
+                    "front-leg-spinning-hook-kick"
+                ]
+            }
+        }
+    ]
+}

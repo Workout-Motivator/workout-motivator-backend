@@ -1,0 +1,70 @@
+{
+    "title": "Barbell Quarter Squat",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by standing with your feet shoulder-width apart and your toes pointing slightly outward.",
+                    "Place the barbell on your shoulders, making sure it is resting comfortably and securely.",
+                    "Take a deep breath and brace your core.",
+                    "Bend your knees and lower your hips, keeping your back straight and your chest up.",
+                    "Lower yourself until your thighs are parallel to the ground.",
+                    "Pause for a moment, then push through your heels to stand back up.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the quadriceps muscles in the front of the thighs",
+                    "Allows for heavier weight to be lifted compared to a full squat",
+                    "Can help improve explosive power and speed in the legs",
+                    "May be easier on the knees and lower back compared to a full squat",
+                    "Can be a useful variation for those with mobility limitations or injuries"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Barbell Full Squat",
+                    "Barbell Back Squat",
+                    "Barbell Front Squat",
+                    "Barbell Overhead Squat",
+                    "Dumbbell Squat",
+                    "Goblet Squat",
+                    "Single Leg Squat",
+                    "Bulgarian Split Squat",
+                    "Box Squat",
+                    "Sumo Squat"
+                ]
+            }
+        }
+    ]
+}

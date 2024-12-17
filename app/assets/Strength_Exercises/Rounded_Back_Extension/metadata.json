@@ -1,0 +1,61 @@
+{
+    "title": "Rounded Back Extension",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying face down on a mat or flat surface with your hands placed behind your head.",
+                    "Engage your core muscles and lift your chest off the ground, keeping your neck in a neutral position.",
+                    "As you lift your chest, round your upper back and squeeze your shoulder blades together.",
+                    "Hold this position for a few seconds, then slowly lower your chest back down to the starting position.",
+                    "Repeat for 10-15 repetitions, or as many as you can comfortably perform."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the lower back muscles",
+                    "Improves posture by targeting the muscles responsible for spinal extension",
+                    "Helps prevent lower back pain by increasing spinal stability",
+                    "Can be done with minimal equipment, making it a convenient exercise to do at home or while traveling",
+                    "May also engage the glutes and hamstrings, providing additional benefits for these muscle groups"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Erector Spinae",
+                    "Gluteus Maximus",
+                    "Hamstrings"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Reverse Hyperextension",
+                    "Superman",
+                    "Good Morning",
+                    "Stiff-Legged Deadlift",
+                    "Glute Bridge"
+                ]
+            }
+        }
+    ]
+}

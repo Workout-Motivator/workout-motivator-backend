@@ -1,0 +1,66 @@
+{
+    "title": "Wide Hand Push Up",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start in a plank position with your hands placed wider than shoulder-width apart.",
+                    "Engage your core and keep your body in a straight line from head to heels.",
+                    "Lower your body towards the ground by bending your elbows, keeping them close to your body.",
+                    "Push back up to the starting position, keeping your body in a straight line.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the chest, shoulders, and triceps",
+                    "Increases upper body strength and endurance",
+                    "Improves overall push up form and technique",
+                    "Engages the core muscles for added stability and balance",
+                    "Can be modified for different fitness levels by adjusting hand placement or performing on knees"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Chest muscles (pectoralis major)",
+                    "Shoulder muscles (anterior deltoids)",
+                    "Triceps",
+                    "Core muscles (abdominals and lower back)"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Narrow Hand Push up",
+                    "Diamond Push up",
+                    "Decline Push up",
+                    "Incline Push up",
+                    "One-Arm Push up",
+                    "Spiderman Push up",
+                    "T Push up",
+                    "Staggered Push up",
+                    "Plyometric Push up"
+                ]
+            }
+        }
+    ]
+}

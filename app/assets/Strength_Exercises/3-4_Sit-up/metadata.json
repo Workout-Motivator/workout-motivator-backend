@@ -1,0 +1,67 @@
+{
+    "title": "3-4 Sit-up",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on your back with your knees bent and feet flat on the ground.",
+                    "Place your hands behind your head, with your elbows pointing out to the sides.",
+                    "Engage your core muscles by pulling your belly button towards your spine.",
+                    "Lift your head, shoulders, and upper back off the ground, while keeping your lower back in contact with the ground.",
+                    "Exhale as you lift up, and inhale as you lower back down.",
+                    "Lower yourself back down to the starting position, but do not let your head touch the ground.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens abdominal muscles",
+                    "Improves core stability",
+                    "Helps with posture and balance",
+                    "Can be modified for different fitness levels",
+                    "Requires no equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus abdominis",
+                    "Obliques",
+                    "Hip flexors"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Full Sit-up",
+                    "Crunch",
+                    "Reverse Crunch",
+                    "Oblique Crunch",
+                    "Leg Raises",
+                    "Bicycle Crunch",
+                    "Plank",
+                    "Side Plank",
+                    "Dead Bug"
+                ]
+            }
+        }
+    ]
+}

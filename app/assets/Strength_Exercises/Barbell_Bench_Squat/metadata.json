@@ -1,0 +1,73 @@
+{
+    "title": "Barbell Bench Squat",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying flat on a bench with your feet firmly planted on the ground and your hands gripping the barbell with an overhand grip.",
+                    "Slowly lower the barbell towards your chest, keeping your elbows close to your body.",
+                    "Pause for a moment at the bottom of the movement, then push the barbell back up to the starting position.",
+                    "Repeat for the desired number of repetitions.",
+                    "Once you have completed your set, carefully rack the barbell and sit up.",
+                    "Stand up and carefully step back from the bench.",
+                    "Take a moment to stretch out your chest and arms before moving on to your next exercise."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the chest, shoulders, and triceps",
+                    "Improves upper body pushing strength",
+                    "Engages the core muscles for stability",
+                    "Can increase overall muscle mass and definition in the upper body",
+                    "May improve posture and reduce risk of shoulder injuries"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Core",
+                    "Chest (secondary)",
+                    "Triceps (secondary)",
+                    "Shoulders (secondary)"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Bench Press",
+                    "Barbell Squat",
+                    "Barbell Bench Press",
+                    "Dumbbell Squat",
+                    "Incline Bench Press",
+                    "Front Squat",
+                    "Close-Grip Bench Press",
+                    "Back Squat",
+                    "Decline Bench Press",
+                    "Split Squat"
+                ]
+            }
+        }
+    ]
+}

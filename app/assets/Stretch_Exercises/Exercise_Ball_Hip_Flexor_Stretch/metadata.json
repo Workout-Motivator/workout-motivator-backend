@@ -1,0 +1,63 @@
+{
+    "title": "Exercise Ball Hip Flexor Stretch",
+    "description": "A stretch exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by sitting on an exercise ball with your feet flat on the ground.",
+                    "Slowly walk your feet forward until your lower back is resting on the ball.",
+                    "Place your hands on your hips and slowly lift one foot off the ground, bringing your knee towards your chest.",
+                    "Hold this position for 15-30 seconds, feeling the stretch in your hip flexor.",
+                    "Slowly lower your foot back to the ground and repeat on the other side.",
+                    "Repeat this stretch 2-3 times on each side."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves flexibility and range of motion in the hip flexors",
+                    "Reduces tightness and discomfort in the hip flexors",
+                    "Helps alleviate lower back pain by releasing tension in the hip flexors",
+                    "Improves posture and balance by strengthening the core muscles",
+                    "Can be modified for different levels of flexibility and mobility",
+                    "Requires minimal equipment and can be done at home or in the gym"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus femoris",
+                    "Iliopsoas",
+                    "Sartorius"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Standing Exercise Ball Hip Flexor Stretch",
+                    "Kneeling Exercise Ball Hip Flexor Stretch",
+                    "Seated Exercise Ball Hip Flexor Stretch",
+                    "Supine Exercise Ball Hip Flexor Stretch",
+                    "Prone Exercise Ball Hip Flexor Stretch"
+                ]
+            }
+        }
+    ]
+}

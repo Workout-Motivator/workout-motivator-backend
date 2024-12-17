@@ -1,0 +1,67 @@
+{
+    "title": "Swimmer Kicks",
+    "description": "A stretch exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on your back in the water with your arms at your sides.",
+                    "Begin kicking your legs in a flutter kick motion, keeping them straight and close together.",
+                    "As you kick, keep your head and shoulders relaxed and your face in the water.",
+                    "Continue kicking for a set amount of time or distance, or until you feel fatigued.",
+                    "To increase the difficulty, you can add a kickboard or hold your arms above your head while kicking.",
+                    "Remember to breathe regularly and maintain a steady pace throughout the exercise."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves agility and footwork",
+                    "Increases speed and acceleration",
+                    "Enhances coordination and balance",
+                    "Develops reaction time and quick decision-making skills",
+                    "Targets multiple muscle groups, including the legs, core, and upper body",
+                    "Can be modified for different skill levels and sports",
+                    "Provides a challenging cardiovascular workout"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Abdominal muscles",
+                    "Lower back muscles",
+                    "Gluteal muscles",
+                    "Hamstring muscles",
+                    "Quadricep muscles",
+                    "Calf muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Swimmer kicks with a kickboard",
+                    "Swimmer kicks with a pull buoy",
+                    "Swimmer kicks with arms extended overhead",
+                    "Swimmer kicks with a resistance band",
+                    "Swimmer kicks with ankle weights"
+                ]
+            }
+        }
+    ]
+}

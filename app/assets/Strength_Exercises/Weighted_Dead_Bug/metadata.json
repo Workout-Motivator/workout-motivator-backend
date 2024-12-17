@@ -1,0 +1,67 @@
+{
+    "title": "Weighted Dead Bug",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on your back with your knees bent and feet flat on the ground.",
+                    "Hold a weight, such as a dumbbell or medicine ball, in both hands and extend your arms straight up towards the ceiling.",
+                    "Engage your core muscles by drawing your belly button towards your spine.",
+                    "Slowly lower your right arm and left leg towards the ground, keeping them straight and hovering just above the floor.",
+                    "Pause for a moment, then return to the starting position.",
+                    "Repeat with your left arm and right leg.",
+                    "Continue alternating sides for the desired number of repetitions or time."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the core muscles, including the rectus abdominis, obliques, and hip flexors",
+                    "Improves overall stability and balance",
+                    "Increases flexibility in the hips and lower back",
+                    "Targets the lower abs more effectively than traditional ab exercises",
+                    "Can be modified to increase or decrease difficulty based on fitness level",
+                    "Helps to prevent lower back pain and injury"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus abdominis",
+                    "Obliques",
+                    "Transverse abdominis",
+                    "Erector spinae",
+                    "Glutes",
+                    "Hamstrings"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Weighted dead bug with dumbbells",
+                    "Weighted dead bug with medicine ball",
+                    "Weighted dead bug with resistance band",
+                    "Single leg weighted dead bug",
+                    "Reverse weighted dead bug"
+                ]
+            }
+        }
+    ]
+}

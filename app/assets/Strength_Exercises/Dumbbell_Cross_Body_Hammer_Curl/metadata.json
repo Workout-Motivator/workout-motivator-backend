@@ -1,0 +1,63 @@
+{
+    "title": "Dumbbell Cross Body Hammer Curl",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand up straight with your feet shoulder-width apart and hold a dumbbell in each hand.",
+                    "Extend your arms down by your sides with your palms facing your body.",
+                    "Slowly lift your right arm across your body towards your left shoulder, keeping your elbow close to your body.",
+                    "As you lift, rotate your wrist so that your palm is facing your shoulder.",
+                    "Pause for a moment at the top of the movement, then slowly lower your arm back down to the starting position.",
+                    "Repeat the movement with your left arm, lifting it across your body towards your right shoulder.",
+                    "Continue alternating arms for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the biceps brachii muscle, which helps to increase arm strength and size",
+                    "Engages the brachioradialis muscle, which helps to improve grip strength",
+                    "Activates the stabilizer muscles in the shoulders and forearms, which can improve overall upper body stability and control",
+                    "Allows for a greater range of motion compared to traditional bicep curls, which can lead to better muscle activation and growth",
+                    "Can be performed with a variety of weights and equipment, making it a versatile exercise for individuals of all fitness levels"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Biceps brachii",
+                    "Brachialis",
+                    "Brachioradialis"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Hammer Curl",
+                    "Dumbbell Cross Body Curl",
+                    "Dumbbell Preacher Curl",
+                    "Dumbbell Concentration Curl",
+                    "Dumbbell Spider Curl"
+                ]
+            }
+        }
+    ]
+}

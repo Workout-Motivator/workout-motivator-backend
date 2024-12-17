@@ -1,0 +1,68 @@
+{
+    "title": "Russian Twist",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by sitting on the floor with your knees bent and your feet flat on the ground.",
+                    "Lean back slightly and lift your feet off the ground, balancing on your sit bones.",
+                    "Hold a weight or medicine ball with both hands, keeping your arms straight and your hands in front of your chest.",
+                    "Twist your torso to the right, bringing the weight or ball to the outside of your right hip.",
+                    "Pause briefly, then twist your torso to the left, bringing the weight or ball to the outside of your left hip.",
+                    "Repeat this twisting motion for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the core muscles, including the obliques, rectus abdominis, and transverse abdominis",
+                    "Improves rotational power and stability in the torso",
+                    "Helps to prevent lower back pain by improving spinal mobility and stability",
+                    "Can be done with or without weights, making it accessible for all fitness levels",
+                    "Engages the hip flexors, glutes, and lower back muscles as secondary muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus Abdominis",
+                    "Obliques",
+                    "Erector Spinae",
+                    "Transverse Abdominis",
+                    "Quadratus Lumborum"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Weighted Russian Twist",
+                    "Medicine Ball Russian Twist",
+                    "Standing Russian Twist",
+                    "Seated Russian Twist",
+                    "Twisting Sit-Up",
+                    "Side Plank Russian Twist",
+                    "Reverse Russian Twist",
+                    "Single-Leg Russian Twist",
+                    "Partner Russian Twist"
+                ]
+            }
+        }
+    ]
+}

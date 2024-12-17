@@ -1,0 +1,67 @@
+{
+    "title": "Rear Pull Up",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand facing the pull-up bar with your feet shoulder-width apart.",
+                    "Reach up and grab the bar with an overhand grip, with your hands slightly wider than shoulder-width apart.",
+                    "Hang from the bar with your arms fully extended and your feet off the ground.",
+                    "Engage your back muscles and pull your shoulder blades down and back.",
+                    "Bend your elbows and pull your chest towards the bar, keeping your core tight and your body in a straight line.",
+                    "Pause at the top of the movement, then slowly lower yourself back down to the starting position.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the upper back muscles, including the latissimus dorsi, rhomboids, and trapezius",
+                    "Improves posture by pulling the shoulders back and down",
+                    "Increases grip strength",
+                    "Can be done with minimal equipment, such as a resistance band or pull-up bar",
+                    "Targets the muscles used in pulling movements, which can improve performance in activities such as rowing, rock climbing, and weightlifting"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Trapezius",
+                    "Rhomboids",
+                    "Latissimus dorsi",
+                    "Biceps brachii",
+                    "Brachialis",
+                    "Brachioradialis"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Wide grip rear pull up",
+                    "Narrow grip rear pull up",
+                    "Assisted rear pull up",
+                    "Weighted rear pull up",
+                    "Chin up grip rear pull up",
+                    "Neutral grip rear pull up"
+                ]
+            }
+        }
+    ]
+}

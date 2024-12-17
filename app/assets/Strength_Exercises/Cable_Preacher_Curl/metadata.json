@@ -1,0 +1,65 @@
+{
+    "title": "Cable Preacher Curl",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Adjust the cable machine to the appropriate height for your height.",
+                    "Attach a straight bar to the cable machine.",
+                    "Stand facing the cable machine with your feet shoulder-width apart.",
+                    "Grasp the bar with an underhand grip, with your hands shoulder-width apart.",
+                    "Rest your upper arms on the preacher bench, with your elbows at a 90-degree angle.",
+                    "Keeping your upper arms stationary, exhale and curl the bar towards your shoulders.",
+                    "Pause for a moment at the top of the movement, squeezing your biceps.",
+                    "Inhale and slowly lower the bar back to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the biceps brachii muscle, helping to increase arm strength and size",
+                    "Allows for a greater range of motion compared to traditional preacher curls",
+                    "Provides constant tension on the biceps throughout the entire movement",
+                    "Helps to isolate the biceps and reduce involvement of other muscles",
+                    "Can be easily adjusted to target different areas of the biceps"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Biceps brachii",
+                    "Brachialis",
+                    "Brachioradialis"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single-arm Cable Preacher Curl",
+                    "Reverse-grip Cable Preacher Curl",
+                    "Standing Cable Preacher Curl",
+                    "Seated Cable Preacher Curl",
+                    "High-pulley Cable Preacher Curl"
+                ]
+            }
+        }
+    ]
+}

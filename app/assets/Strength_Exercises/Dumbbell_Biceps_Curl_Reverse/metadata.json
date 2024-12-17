@@ -1,0 +1,63 @@
+{
+    "title": "Dumbbell Biceps Curl Reverse",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a dumbbell in each hand with your palms facing down.",
+                    "Slowly curl the dumbbells up towards your shoulders, keeping your elbows close to your body.",
+                    "At the top of the movement, rotate your palms so they are facing up.",
+                    "Slowly lower the dumbbells back down to the starting position, rotating your palms back to facing down.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens biceps muscles",
+                    "Improves grip strength",
+                    "Targets multiple muscle groups including quads, glutes, and hamstrings",
+                    "Increases overall lower body strength",
+                    "Improves balance and stability",
+                    "Can be modified for different fitness levels",
+                    "Can be done with minimal equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Brachioradialis",
+                    "Biceps brachii",
+                    "Brachialis"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "dumbbell-biceps-curl-reverse",
+                    "dumbbell-biceps-curl",
+                    "barbell-biceps-curl",
+                    "hammer-curl",
+                    "concentration-curl"
+                ]
+            }
+        }
+    ]
+}

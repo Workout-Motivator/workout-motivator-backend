@@ -1,0 +1,65 @@
+{
+    "title": "Skip Jump Rope",
+    "description": "A cardio exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Hold the jump rope handles in each hand and stand with your feet together.",
+                    "Swing the rope over your head and jump over it with both feet.",
+                    "As the rope comes down, jump again and this time, skip over the rope with one foot while the other foot stays on the ground.",
+                    "On the next jump, switch feet and skip over the rope with the other foot while the first foot stays on the ground.",
+                    "Continue alternating between jumping over the rope with both feet and skipping over it with one foot at a time.",
+                    "Try to maintain a steady rhythm and increase your speed as you become more comfortable with the exercise."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the triceps muscles",
+                    "Helps to build strength and muscle mass in the arms",
+                    "Can be done with a variety of weights and resistance levels",
+                    "Provides a safe and controlled movement with the use of the Smith machine",
+                    "Allows for isolation of the triceps muscles, reducing the involvement of other muscle groups",
+                    "Can be easily modified to target different areas of the triceps"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Calves",
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Glutes",
+                    "Core muscles",
+                    "Shoulders",
+                    "Forearms"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "skip",
+                    "jump",
+                    "rope"
+                ]
+            }
+        }
+    ]
+}

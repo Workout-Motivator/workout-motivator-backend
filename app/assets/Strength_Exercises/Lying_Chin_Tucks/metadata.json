@@ -1,0 +1,62 @@
+{
+    "title": "Lying Chin Tucks",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on your back with your knees bent and feet flat on the ground.",
+                    "Place your hands behind your head with your elbows pointing out to the sides.",
+                    "Slowly tuck your chin towards your chest, keeping your head on the ground.",
+                    "Hold the position for a few seconds, then release and repeat for 10-15 repetitions.",
+                    "Make sure to keep your neck relaxed and avoid any straining or discomfort."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Helps improve posture by strengthening the neck muscles",
+                    "Reduces neck and shoulder pain caused by poor posture",
+                    "Improves range of motion in the neck",
+                    "Can help alleviate tension headaches",
+                    "Can be done anywhere without equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Cervical flexors",
+                    "Trapezius",
+                    "Rhomboids",
+                    "Erector spinae"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Standing Chin Tucks",
+                    "Seated Chin Tucks",
+                    "Wall Chin Tucks",
+                    "Resistance Band Chin Tucks",
+                    "Prone Chin Tucks"
+                ]
+            }
+        }
+    ]
+}

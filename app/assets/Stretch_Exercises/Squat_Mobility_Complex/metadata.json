@@ -1,0 +1,67 @@
+{
+    "title": "Squat Mobility Complex",
+    "description": "A stretch exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by standing with your feet shoulder-width apart and your toes pointing forward.",
+                    "Lower your body into a squat position by bending your knees and pushing your hips back.",
+                    "Hold this position for a few seconds, then shift your weight to your left foot and lift your right foot off the ground.",
+                    "Bring your right knee up towards your chest, then rotate your ankle in a circular motion.",
+                    "Lower your right foot back to the ground and repeat the same movement with your left foot.",
+                    "Next, lift your right foot off the ground again and extend it out in front of you.",
+                    "Hold this position for a few seconds, then bring your right foot back to the ground and repeat with your left foot.",
+                    "Finally, stand up and repeat the entire sequence for several reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens lower body muscles such as quadriceps, hamstrings, and glutes",
+                    "Improves core stability and balance",
+                    "Increases shoulder mobility and flexibility",
+                    "Engages upper body muscles such as deltoids, trapezius, and latissimus dorsi",
+                    "Enhances overall body coordination and control",
+                    "Can be modified for different fitness levels and goals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Glutes",
+                    "Calves",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "squat-mobility-complex",
+                    "squat-jump-complex",
+                    "squat-hold-complex",
+                    "squat-press-complex",
+                    "squat-lunge-complex"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "title": "Standing Back Rotation Stretch",
+    "description": "A stretch exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your arms at your sides.",
+                    "Slowly rotate your torso to the right, keeping your hips facing forward.",
+                    "Place your right hand on your left shoulder and your left hand on your lower back.",
+                    "Hold the stretch for 10-15 seconds, feeling the stretch in your back and shoulders.",
+                    "Slowly return to the starting position and repeat on the other side.",
+                    "Complete 2-3 sets of 10-15 repetitions on each side."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves flexibility and range of motion in the spine",
+                    "Relieves tension and stiffness in the back muscles",
+                    "Stretches the chest and shoulders",
+                    "Helps to improve posture",
+                    "May alleviate lower back pain"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Obliques",
+                    "Erector Spinae",
+                    "Quadratus Lumborum"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Seated Back Rotation Stretch",
+                    "Supine Spinal Twist",
+                    "Standing Side Bend",
+                    "Standing Forward Bend with Twist",
+                    "Seated Spinal Twist"
+                ]
+            }
+        }
+    ]
+}

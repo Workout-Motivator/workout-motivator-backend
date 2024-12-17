@@ -1,0 +1,64 @@
+{
+    "title": "Floor T-raise",
+    "description": "A stretch exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your toes pointing forward.",
+                    "Slowly raise your heels off the ground, keeping your weight on the balls of your feet.",
+                    "Hold the position for a few seconds, then lower your heels back down to the ground.",
+                    "Repeat the exercise for several repetitions, aiming to raise your heels as high as possible each time.",
+                    "For an added challenge, hold a weight in each hand or perform the exercise on an elevated surface."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Relieves tension and stiffness in the neck and shoulders",
+                    "Improves flexibility and range of motion in the neck",
+                    "Reduces headaches and neck pain",
+                    "Helps to improve posture",
+                    "Can be done anywhere, anytime, without any equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus abdominis",
+                    "Transverse abdominis",
+                    "Obliques",
+                    "Erector spinae",
+                    "Glutes",
+                    "Hamstrings"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "floor-t-raise with dumbbells",
+                    "floor-t-raise with resistance bands",
+                    "single-arm floor-t-raise",
+                    "floor-t-raise with rotation",
+                    "floor-t-raise with isometric hold"
+                ]
+            }
+        }
+    ]
+}

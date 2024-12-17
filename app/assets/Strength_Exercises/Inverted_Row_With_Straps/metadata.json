@@ -1,0 +1,66 @@
+{
+    "title": "Inverted Row With Straps",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Attach the straps to a sturdy anchor point, such as a pull-up bar or a squat rack.",
+                    "Adjust the height of the straps so that they are at about waist height when you are lying on the ground underneath them.",
+                    "Lie on your back underneath the straps, with your feet flat on the ground and your knees bent.",
+                    "Reach up and grab the straps with an overhand grip, with your hands shoulder-width apart.",
+                    "Engage your core and glutes, and lift your hips off the ground so that your body forms a straight line from your shoulders to your knees.",
+                    "Pull your chest up towards the straps, keeping your elbows close to your body and your shoulders down and back.",
+                    "Pause at the top of the movement, then slowly lower yourself back down to the starting position.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the upper back muscles",
+                    "Improves posture",
+                    "Increases grip strength",
+                    "Engages the core muscles",
+                    "Can be modified for different fitness levels"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Latissimus dorsi",
+                    "Trapezius",
+                    "Rhomboids",
+                    "Biceps brachii",
+                    "Forearm muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Inverted Row with Rings",
+                    "Inverted Row with Barbell",
+                    "Inverted Row with Dumbbells",
+                    "Inverted Row with Resistance Bands",
+                    "Inverted Row with TRX Suspension Straps"
+                ]
+            }
+        }
+    ]
+}

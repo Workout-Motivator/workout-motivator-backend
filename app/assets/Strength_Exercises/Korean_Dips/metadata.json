@@ -1,0 +1,63 @@
+{
+    "title": "Korean Dips",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Find a sturdy surface to perform the exercise on, such as parallel bars or the edge of a bench.",
+                    "Place your hands on the surface, shoulder-width apart, with your fingers pointing forward.",
+                    "Extend your legs out in front of you and keep your feet together.",
+                    "Lower your body down by bending your elbows, keeping them close to your body.",
+                    "Once your arms form a 90-degree angle, push yourself back up to the starting position.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets triceps, chest, and shoulders",
+                    "Improves upper body strength and endurance",
+                    "Can be done anywhere with a sturdy surface",
+                    "Requires no equipment",
+                    "Variations can be added to increase difficulty"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Triceps",
+                    "Chest",
+                    "Shoulders",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Assisted Korean dips",
+                    "Weighted Korean dips",
+                    "Single-leg Korean dips",
+                    "Decline Korean dips",
+                    "Ring Korean dips"
+                ]
+            }
+        }
+    ]
+}

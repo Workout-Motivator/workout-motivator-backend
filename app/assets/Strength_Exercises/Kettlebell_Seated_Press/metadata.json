@@ -1,0 +1,63 @@
+{
+    "title": "Kettlebell Seated Press",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by sitting on a bench or chair with your feet flat on the ground and your back straight.",
+                    "Hold the kettlebell in one hand with your palm facing inward and your elbow bent at a 90-degree angle.",
+                    "Press the kettlebell up towards the ceiling, extending your arm fully.",
+                    "Lower the kettlebell back down to the starting position, keeping your elbow at a 90-degree angle.",
+                    "Repeat for the desired number of repetitions, then switch to the other arm and repeat the exercise."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the shoulders, triceps, and core muscles",
+                    "Improves upper body strength and stability",
+                    "Increases shoulder mobility and flexibility",
+                    "Engages multiple muscle groups for a more efficient workout",
+                    "Can be modified for different fitness levels and goals",
+                    "Can be done with minimal equipment and space"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Shoulders (deltoids)",
+                    "Triceps",
+                    "Upper back (trapezius)",
+                    "Core (abdominals and lower back)"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Kettlebell Seated Press with one arm",
+                    "Kettlebell Seated Press with both arms",
+                    "Kettlebell Seated Press on an unstable surface (e.g. exercise ball)",
+                    "Kettlebell Seated Press with a twist (rotate torso at the top of the press)",
+                    "Kettlebell Seated Press with a pause at the bottom or top of the movement"
+                ]
+            }
+        }
+    ]
+}

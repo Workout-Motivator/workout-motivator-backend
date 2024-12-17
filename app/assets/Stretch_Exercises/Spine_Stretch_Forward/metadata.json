@@ -1,0 +1,64 @@
+{
+    "title": "Spine Stretch Forward",
+    "description": "A stretch exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by sitting on the floor with your legs extended in front of you.",
+                    "Place your hands on your thighs or shins.",
+                    "Inhale and lengthen your spine, sitting up tall.",
+                    "Exhale and slowly begin to hinge forward from your hips, keeping your spine long.",
+                    "As you hinge forward, reach your hands towards your feet or ankles, keeping your shoulders relaxed.",
+                    "Hold the stretch for a few breaths, feeling the stretch in your hamstrings and lower back.",
+                    "To come out of the stretch, inhale and slowly roll up through your spine, stacking each vertebrae on top of the other."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves hip and ankle mobility",
+                    "Increases range of motion in the squat",
+                    "Reduces risk of injury during squatting exercises",
+                    "Improves overall lower body strength and stability",
+                    "Can improve posture and alignment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Hamstrings",
+                    "Glutes",
+                    "Lower back",
+                    "Abdominals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Spine stretch backward",
+                    "Spine twist",
+                    "Seated forward fold",
+                    "Standing forward fold",
+                    "Downward facing dog"
+                ]
+            }
+        }
+    ]
+}

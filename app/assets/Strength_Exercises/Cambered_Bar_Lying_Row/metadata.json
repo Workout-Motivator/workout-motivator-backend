@@ -1,0 +1,65 @@
+{
+    "title": "Cambered Bar Lying Row",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Begin by setting up a cambered bar on a low pulley cable machine.",
+                    "Attach a V-handle to the cable and position yourself in front of the machine.",
+                    "Grab the V-handle with both hands and take a few steps back to create tension in the cable.",
+                    "Bend your knees slightly and hinge forward at the hips, keeping your back straight and core engaged.",
+                    "With your arms fully extended, pull the V-handle towards your chest, squeezing your shoulder blades together at the top of the movement.",
+                    "Slowly lower the weight back down to the starting position, keeping your back straight and core engaged throughout the exercise.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the upper back muscles, including the rhomboids, trapezius, and latissimus dorsi",
+                    "Improves posture and spinal alignment",
+                    "Increases grip strength and forearm development",
+                    "Allows for a greater range of motion compared to traditional barbell rows",
+                    "Can be used as a variation to switch up a workout routine"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Trapezius",
+                    "Rhomboids",
+                    "Latissimus Dorsi",
+                    "Erector Spinae",
+                    "Biceps"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Cambered Bar Seated Row",
+                    "Cambered Bar Bent-Over Row",
+                    "Cambered Bar T-Bar Row",
+                    "Cambered Bar One-Arm Row",
+                    "Cambered Bar Inverted Row"
+                ]
+            }
+        }
+    ]
+}

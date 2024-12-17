@@ -1,0 +1,68 @@
+{
+    "title": "Climbing Monkey Bars",
+    "description": "A cardio exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand in front of the monkey bars with your arms extended above your head.",
+                    "Jump up and grab onto the first bar with both hands.",
+                    "Swing your body forward and lift your legs up to hook them onto the bar.",
+                    "Release one hand and reach forward to grab onto the next bar.",
+                    "Release the other hand and reach forward to grab onto the next bar.",
+                    "Continue this pattern until you have reached the end of the monkey bars.",
+                    "Once you have reached the end, carefully lower yourself down to the ground."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves grip strength and forearm endurance",
+                    "Increases upper body strength, particularly in the arms, shoulders, and back",
+                    "Enhances core stability and balance",
+                    "Improves coordination and agility",
+                    "Provides a cardiovascular workout",
+                    "Boosts confidence and self-esteem",
+                    "Offers a fun and challenging way to exercise"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Forearms",
+                    "Biceps",
+                    "Triceps",
+                    "Shoulders",
+                    "Back",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Climbing Rope",
+                    "Climbing Wall",
+                    "Climbing Ladder",
+                    "Climbing Pegboard",
+                    "Climbing Holds"
+                ]
+            }
+        }
+    ]
+}

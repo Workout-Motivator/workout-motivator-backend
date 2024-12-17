@@ -1,0 +1,73 @@
+{
+    "title": "Barbell High Bar Squat",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by standing with your feet shoulder-width apart and your toes pointing slightly outward.",
+                    "Place the barbell on your upper back, resting it on your traps and shoulders.",
+                    "Grasp the barbell with both hands, keeping your elbows pointed down and your wrists straight.",
+                    "Inhale deeply and brace your core.",
+                    "Bend your knees and lower your hips, keeping your back straight and your chest up.",
+                    "Continue descending until your thighs are parallel to the ground.",
+                    "Pause briefly at the bottom of the squat.",
+                    "Exhale forcefully and push through your heels to stand back up.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets multiple muscle groups including quadriceps, hamstrings, glutes, and lower back",
+                    "Improves overall lower body strength and power",
+                    "Increases bone density and joint stability",
+                    "Can improve athletic performance in sports such as basketball, football, and track and field",
+                    "Can help with weight loss and body composition changes",
+                    "Can improve posture and balance"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Lower back",
+                    "Abdominals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Barbell Low Bar Squat",
+                    "Front Squat",
+                    "Box Squat",
+                    "Zercher Squat",
+                    "Sumo Squat",
+                    "Bulgarian Split Squat",
+                    "Goblet Squat",
+                    "Overhead Squat",
+                    "Single Leg Squat"
+                ]
+            }
+        }
+    ]
+}

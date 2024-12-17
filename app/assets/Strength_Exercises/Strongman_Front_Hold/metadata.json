@@ -1,0 +1,63 @@
+{
+    "title": "Strongman Front Hold",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by standing with your feet shoulder-width apart and holding a heavy object, such as a sandbag or kettlebell, in front of your body with both hands.",
+                    "Engage your core and lift the object up to chest height, keeping your elbows close to your body.",
+                    "Hold the object in front of your body for a set amount of time, typically 30 seconds to 1 minute.",
+                    "Lower the object back down to the starting position and rest for a few seconds before repeating for several sets."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves grip strength",
+                    "Strengthens the upper back, shoulders, and core muscles",
+                    "Increases overall body stability and balance",
+                    "Can be used as a functional exercise for everyday activities that require carrying heavy objects",
+                    "Can be modified to challenge different fitness levels by adjusting the weight or duration of the hold"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Forearm muscles",
+                    "Shoulder muscles",
+                    "Upper back muscles",
+                    "Abdominal muscles",
+                    "Gluteal muscles",
+                    "Quadriceps muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "StrongMan Yoke Carry",
+                    "Farmer\u2019s Walk",
+                    "Overhead Press",
+                    "Deadlift",
+                    "Atlas Stone Carry"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "title": "Double Leg Stretch",
+    "description": "A stretch exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on your back with your knees bent and feet flat on the floor.",
+                    "Bring your knees towards your chest and lift your head and shoulders off the ground.",
+                    "Extend your arms straight above your head and straighten your legs out in front of you at a 45-degree angle.",
+                    "Inhale and simultaneously bring your arms and legs back towards your chest, hugging your knees in towards your body.",
+                    "Exhale and extend your arms and legs out again, keeping them lifted off the ground.",
+                    "Repeat this movement for 8-10 repetitions, focusing on keeping your core engaged and your movements controlled."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Stretches the hips, glutes, and lower back",
+                    "Improves posture and alignment",
+                    "Increases flexibility and range of motion in the hips",
+                    "Relieves tension and stress in the body",
+                    "Can help alleviate symptoms of sciatica",
+                    "May improve digestion and circulation"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus abdominis",
+                    "Transverse abdominis",
+                    "Obliques",
+                    "Hip flexors",
+                    "Quadriceps"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "single-leg-stretch",
+                    "criss-cross",
+                    "scissors",
+                    "bicycle",
+                    "double-straight-leg-stretch"
+                ]
+            }
+        }
+    ]
+}

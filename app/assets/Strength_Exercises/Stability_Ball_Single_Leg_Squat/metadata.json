@@ -1,0 +1,65 @@
+{
+    "title": "Stability Ball Single Leg Squat",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by placing a stability ball against a wall and standing in front of it.",
+                    "Place one foot on top of the ball, with the other foot firmly planted on the ground.",
+                    "Engage your core and slowly lower your body down into a squat position, keeping your weight on your planted foot.",
+                    "As you lower down, allow the ball to roll back with your foot on it, keeping your balance and control.",
+                    "Once you reach a comfortable depth, push through your planted foot to rise back up to the starting position.",
+                    "Repeat for the desired number of reps, then switch legs and repeat on the other side."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves balance and stability",
+                    "Strengthens leg muscles, including quadriceps, hamstrings, and glutes",
+                    "Engages core muscles for added stability and strength",
+                    "Increases range of motion in hips and knees",
+                    "Can be modified for different fitness levels and abilities",
+                    "Low-impact exercise that is easy on joints"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Core",
+                    "Calves"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Stability Ball Single Leg Squat with Dumbbells",
+                    "Stability Ball Single Leg Squat with Resistance Bands",
+                    "Stability Ball Single Leg Squat with Medicine Ball",
+                    "Stability Ball Single Leg Squat with Bosu Ball",
+                    "Stability Ball Single Leg Squat with TRX Suspension Trainer"
+                ]
+            }
+        }
+    ]
+}

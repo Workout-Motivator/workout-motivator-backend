@@ -1,0 +1,67 @@
+{
+    "title": "Deep Push Up",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start in a plank position with your hands slightly wider than shoulder-width apart and your feet together.",
+                    "Lower your body towards the ground, keeping your elbows close to your sides.",
+                    "As you lower your body, push your chest forward and down towards the ground.",
+                    "Once your chest is close to the ground, push yourself back up to the starting position.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens chest, triceps, and shoulders",
+                    "Improves core stability and balance",
+                    "Increases upper body endurance",
+                    "Engages multiple muscle groups for a full body workout",
+                    "Can be modified for different fitness levels"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Chest muscles (pectoralis major and minor)",
+                    "Shoulder muscles (deltoids)",
+                    "Triceps",
+                    "Core muscles (abdominals and lower back)"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Wide Push Up",
+                    "Diamond Push Up",
+                    "Decline Push Up",
+                    "Incline Push Up",
+                    "One-Arm Push Up",
+                    "Spiderman Push Up",
+                    "T Push Up",
+                    "Staggered Push Up",
+                    "Clap Push Up",
+                    "Plyometric Push Up"
+                ]
+            }
+        }
+    ]
+}

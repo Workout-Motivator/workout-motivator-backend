@@ -1,0 +1,70 @@
+{
+    "title": "Barbell Side Split Squat",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by standing with your feet shoulder-width apart and holding a barbell with both hands at your chest level.",
+                    "Take a big step to the side with your right foot, keeping your left foot in place.",
+                    "Bend your right knee and lower your body until your right thigh is parallel to the ground.",
+                    "Push through your right foot to return to the starting position.",
+                    "Repeat the exercise on the other side by stepping to the left with your left foot.",
+                    "Complete 3 sets of 10-12 reps on each side."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets multiple muscle groups including quads, glutes, hamstrings, and core",
+                    "Improves balance and stability",
+                    "Increases lower body strength and power",
+                    "Can be modified for different fitness levels by adjusting weight and depth of squat",
+                    "Engages the hip abductors, which can help prevent knee injuries"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Side Split Squat",
+                    "Kettlebell Side Split Squat",
+                    "Bodyweight Side Split Squat",
+                    "Barbell Front Split Squat",
+                    "Dumbbell Front Split Squat",
+                    "Kettlebell Front Split Squat",
+                    "Bodyweight Front Split Squat",
+                    "Barbell Reverse Lunge",
+                    "Dumbbell Reverse Lunge",
+                    "Kettlebell Reverse Lunge",
+                    "Bodyweight Reverse Lunge"
+                ]
+            }
+        }
+    ]
+}

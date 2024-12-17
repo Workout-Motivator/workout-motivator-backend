@@ -1,0 +1,70 @@
+{
+    "title": "Dumbbell Archer",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a dumbbell in each hand.",
+                    "Extend your right arm straight out to the side, parallel to the ground, with your palm facing down.",
+                    "Bend your left elbow and bring the dumbbell up to your shoulder, with your palm facing in.",
+                    "Rotate your torso to the left and extend your left arm straight out to the side, parallel to the ground, with your palm facing down.",
+                    "Bring your right elbow up to your shoulder, with your palm facing in.",
+                    "Continue alternating sides for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the chest, shoulders, and triceps",
+                    "Improves upper body strength and endurance",
+                    "Helps to correct muscle imbalances between the left and right sides of the body",
+                    "Increases range of motion in the shoulders",
+                    "Can be modified for different fitness levels and goals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Pectoralis Major",
+                    "Anterior Deltoid",
+                    "Triceps Brachii",
+                    "Biceps Brachii",
+                    "Rectus Abdominis",
+                    "Obliques"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Archer with alternating arms",
+                    "Dumbbell Archer with both arms at the same time",
+                    "Dumbbell Archer with a pause at the bottom of the movement",
+                    "Dumbbell Archer with a pause at the top of the movement",
+                    "Dumbbell Archer with a pulse at the bottom of the movement",
+                    "Dumbbell Archer with a pulse at the top of the movement",
+                    "Dumbbell Archer with a twist at the top of the movement",
+                    "Dumbbell Archer with a twist at the bottom of the movement",
+                    "Dumbbell Archer with a single arm hold at the top of the movement",
+                    "Dumbbell Archer with a single arm hold at the bottom of the movement"
+                ]
+            }
+        }
+    ]
+}

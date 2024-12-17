@@ -1,0 +1,66 @@
+{
+    "title": "Ez Bar Seated Close Grip Concentration Curl",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by sitting on a bench with your feet flat on the ground and your back straight.",
+                    "Hold the EZ bar with an underhand grip, with your hands close together in the center of the bar.",
+                    "Rest your elbows on the inside of your thighs, with your arms extended down and the bar hanging in front of you.",
+                    "Curl the bar up towards your chest, keeping your elbows stationary and close to your body.",
+                    "Pause at the top of the movement, squeezing your biceps.",
+                    "Slowly lower the bar back down to the starting position.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the biceps brachii muscle, helping to increase arm strength and size",
+                    "Allows for a more isolated bicep workout, as the close grip and seated position limit the involvement of other muscles",
+                    "Reduces strain on the wrists and forearms compared to traditional bicep curls",
+                    "Can be easily modified by adjusting the weight or number of reps to suit individual fitness levels",
+                    "Provides a challenging workout for those looking to switch up their bicep routine"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Biceps brachii",
+                    "Brachialis",
+                    "Brachioradialis"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "EZ Bar Standing Close Grip Concentration Curl",
+                    "EZ Bar Seated Wide Grip Concentration Curl",
+                    "Dumbbell Seated Close Grip Concentration Curl",
+                    "Dumbbell Standing Close Grip Concentration Curl",
+                    "Dumbbell Seated Wide Grip Concentration Curl",
+                    "Cable Seated Close Grip Concentration Curl",
+                    "Cable Standing Close Grip Concentration Curl",
+                    "Cable Seated Wide Grip Concentration Curl"
+                ]
+            }
+        }
+    ]
+}

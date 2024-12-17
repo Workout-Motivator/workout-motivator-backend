@@ -1,0 +1,64 @@
+{
+    "title": "Knee to Chest Stretch",
+    "description": "A stretch exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying flat on your back on a comfortable surface, such as a yoga mat or carpeted floor.",
+                    "Bend your knees and place your feet flat on the ground.",
+                    "Take a deep breath in and as you exhale, bring one knee up towards your chest.",
+                    "Wrap your hands around your knee and gently pull it towards your chest until you feel a stretch in your lower back and glutes.",
+                    "Hold the stretch for 15-30 seconds, breathing deeply and relaxing your body.",
+                    "Release the stretch and bring your leg back down to the starting position.",
+                    "Repeat the stretch with your other leg.",
+                    "Do 2-3 sets of 10-15 repetitions on each leg, or as many as feels comfortable for your body."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Helps to stretch and loosen the lower back muscles",
+                    "Improves flexibility and range of motion in the hips and lower back",
+                    "Relieves tension and tightness in the lower back and hips",
+                    "Can help alleviate lower back pain and discomfort",
+                    "Can be done easily at home or in the office"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus abdominis",
+                    "Hip flexors",
+                    "Lower back muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single knee to chest stretch",
+                    "Double knee to chest stretch",
+                    "Seated knee to chest stretch",
+                    "Standing knee to chest stretch",
+                    "Lying knee to chest stretch"
+                ]
+            }
+        }
+    ]
+}

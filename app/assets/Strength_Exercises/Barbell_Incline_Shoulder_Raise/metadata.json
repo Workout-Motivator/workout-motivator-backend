@@ -1,0 +1,62 @@
+{
+    "title": "Barbell Incline Shoulder Raise",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on an incline bench with your feet flat on the ground and your back firmly against the bench.",
+                    "Grasp the barbell with an overhand grip, hands shoulder-width apart.",
+                    "Slowly raise the barbell up towards the ceiling, keeping your arms straight and your elbows slightly bent.",
+                    "Pause at the top of the movement, then slowly lower the barbell back down to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the anterior (front) deltoids, which are responsible for shoulder flexion and horizontal shoulder adduction",
+                    "Improves shoulder strength and stability",
+                    "Can help prevent shoulder injuries by strengthening the muscles that support the joint",
+                    "Engages the trapezius and serratus anterior muscles, which assist in shoulder movement and stability",
+                    "Can be modified to target different areas of the shoulder by adjusting the angle of the bench"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Anterior deltoid",
+                    "Upper pectoralis major",
+                    "Triceps brachii",
+                    "Serratus anterior"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Incline Shoulder Raise",
+                    "Machine Incline Shoulder Raise",
+                    "Cable Incline Shoulder Raise",
+                    "Resistance Band Incline Shoulder Raise",
+                    "Plate Incline Shoulder Raise"
+                ]
+            }
+        }
+    ]
+}

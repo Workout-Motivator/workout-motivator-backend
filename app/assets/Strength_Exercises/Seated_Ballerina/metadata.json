@@ -1,0 +1,66 @@
+{
+    "title": "Seated Ballerina",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by sitting on the floor with your legs extended in front of you.",
+                    "Bend your right knee and bring your foot towards your left hip, placing it on the floor.",
+                    "Place your right hand on the floor behind you for support.",
+                    "Reach your left arm up and over your head, bending your torso towards your right side.",
+                    "Place your left hand on your right knee and gently press it towards the floor.",
+                    "Hold the stretch for 10-15 seconds, then release and repeat on the other side."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves flexibility and range of motion in the calves",
+                    "Reduces the risk of injury in the lower legs and feet",
+                    "Relieves tension and tightness in the calves",
+                    "Can help alleviate plantar fasciitis and other foot conditions",
+                    "Can be done anywhere, without any equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Glutes",
+                    "Calves",
+                    "Abdominals",
+                    "Back muscles",
+                    "Shoulders"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Seated Ballerina Twist",
+                    "Seated Ballerina Leg Lifts",
+                    "Seated Ballerina Arm Circles",
+                    "Seated Ballerina Side Stretch",
+                    "Seated Ballerina Forward Fold"
+                ]
+            }
+        }
+    ]
+}

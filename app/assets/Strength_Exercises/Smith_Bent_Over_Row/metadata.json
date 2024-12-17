@@ -1,0 +1,71 @@
+{
+    "title": "Smith Bent Over Row",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your knees slightly bent.",
+                    "Hold a barbell with an overhand grip, hands shoulder-width apart.",
+                    "Bend forward at the hips, keeping your back straight and your head up.",
+                    "Lower the barbell towards the ground, keeping it close to your body.",
+                    "Pause when the barbell is just below your knees.",
+                    "Slowly raise the barbell back up towards your chest, keeping your elbows close to your body.",
+                    "Pause when the barbell is at chest level.",
+                    "Lower the barbell back down towards the ground and repeat for desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the back muscles, including the lats, rhomboids, and erector spinae",
+                    "Improves posture and spinal alignment",
+                    "Increases grip strength",
+                    "Engages the core muscles for stability",
+                    "Can be modified for different fitness levels and goals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Trapezius",
+                    "Rhomboids",
+                    "Latissimus dorsi",
+                    "Erector spinae",
+                    "Biceps brachii",
+                    "Brachialis",
+                    "Brachioradialis"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Smith Machine Bent Over Row",
+                    "Bent Over Barbell Row",
+                    "Bent Over Dumbbell Row",
+                    "Single Arm Dumbbell Row",
+                    "T-Bar Row",
+                    "Cable Row",
+                    "Seated Cable Row",
+                    "Inverted Row"
+                ]
+            }
+        }
+    ]
+}

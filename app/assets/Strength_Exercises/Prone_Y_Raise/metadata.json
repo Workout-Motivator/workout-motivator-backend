@@ -1,0 +1,65 @@
+{
+    "title": "Prone Y Raise",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying face down on a mat or comfortable surface.",
+                    "Extend your arms straight out in front of you, palms facing down.",
+                    "Engage your core and glutes to lift your legs and upper body off the ground.",
+                    "As you lift, simultaneously raise your arms up towards the ceiling, keeping them straight.",
+                    "Hold for a few seconds at the top of the movement, squeezing your shoulder blades together.",
+                    "Slowly lower your arms and legs back down to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens upper back muscles",
+                    "Improves posture",
+                    "Increases shoulder stability",
+                    "Engages core muscles",
+                    "Improves overall body coordination"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Erector spinae",
+                    "Gluteus maximus",
+                    "Hamstrings",
+                    "Posterior deltoids",
+                    "Triceps brachii"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Prone T-raise",
+                    "Prone Y-raise",
+                    "Prone W-raise",
+                    "Prone I-raise",
+                    "Prone snow angel"
+                ]
+            }
+        }
+    ]
+}

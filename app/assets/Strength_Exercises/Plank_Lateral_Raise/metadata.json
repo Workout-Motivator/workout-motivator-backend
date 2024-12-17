@@ -1,0 +1,61 @@
+{
+    "title": "Plank Lateral Raise",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start in a plank position with your hands directly under your shoulders and your feet hip-width apart.",
+                    "Hold a dumbbell in your right hand and keep your left hand on the ground.",
+                    "Engage your core and lift your right arm out to the side, keeping it straight and parallel to the ground.",
+                    "Lower your right arm back down to the ground and repeat for 10-12 reps.",
+                    "Switch the dumbbell to your left hand and repeat the exercise on the other side."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the core muscles",
+                    "Targets the shoulders and upper back muscles",
+                    "Improves posture and balance",
+                    "Increases overall body stability",
+                    "Can be modified for different fitness levels"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Shoulder muscles (deltoids)",
+                    "Core muscles (abdominals, obliques)",
+                    "Back muscles (trapezius, rhomboids)"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Plank with Arm Raise",
+                    "Plank with Leg Raise",
+                    "Plank with Arm and Leg Raise",
+                    "Plank with Shoulder Tap",
+                    "Plank with Knee to Elbow"
+                ]
+            }
+        }
+    ]
+}

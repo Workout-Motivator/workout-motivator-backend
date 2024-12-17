@@ -1,0 +1,60 @@
+{
+    "title": "Thumb Stretch",
+    "description": "A stretch exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by holding your right hand out in front of you with your palm facing down.",
+                    "Use your left hand to gently pull your right thumb back towards your wrist until you feel a stretch.",
+                    "Hold the stretch for 15-30 seconds.",
+                    "Release and repeat on the other hand."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Helps to improve flexibility and mobility in the thumb",
+                    "Reduces the risk of developing conditions such as arthritis and carpal tunnel syndrome",
+                    "Relieves pain and discomfort in the thumb caused by repetitive strain injuries",
+                    "Can be done anywhere, anytime, without any equipment",
+                    "Quick and easy to perform, taking only a few minutes"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Flexor pollicis brevis",
+                    "Abductor pollicis brevis",
+                    "Opponens pollicis"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Finger Stretch",
+                    "Wrist Stretch",
+                    "Hand Squeeze",
+                    "Hand Extension",
+                    "Thumb Extension"
+                ]
+            }
+        }
+    ]
+}

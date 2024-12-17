@@ -1,0 +1,60 @@
+{
+    "title": "Cable One Arm Lateral Raise",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a cable in one hand with your palm facing inward.",
+                    "Keep your arm straight and raise it out to the side until it is parallel to the ground.",
+                    "Pause for a moment at the top of the movement, then slowly lower your arm back down to the starting position.",
+                    "Repeat for the desired number of repetitions, then switch arms and repeat the exercise on the other side."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the lateral deltoid muscle, which is responsible for shoulder abduction and helps create a wider shoulder appearance",
+                    "Allows for isolation of one arm at a time, ensuring balanced development of both shoulders",
+                    "Can be performed with varying resistance levels, making it suitable for beginners and advanced lifters",
+                    "Improves shoulder stability and mobility, reducing the risk of injury during other upper body exercises",
+                    "Can be easily modified by changing the angle of the cable or the grip position, providing variety in the workout routine"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Deltoid (middle and posterior fibers)",
+                    "Trapezius (middle fibers)",
+                    "Supraspinatus"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Cable One Arm Front Raise",
+                    "Cable One Arm Rear Delt Fly",
+                    "Cable One Arm Shoulder Press",
+                    "Cable One Arm Upright Row",
+                    "Cable One Arm Bent Over Lateral Raise"
+                ]
+            }
+        }
+    ]
+}

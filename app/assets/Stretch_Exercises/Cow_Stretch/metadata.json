@@ -1,0 +1,67 @@
+{
+    "title": "Cow Stretch",
+    "description": "A stretch exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start on your hands and knees in a tabletop position.",
+                    "Place your wrists directly under your shoulders and your knees directly under your hips.",
+                    "Take a deep breath in and as you exhale, arch your spine up towards the ceiling, tucking your chin to your chest.",
+                    "Hold this position for a few seconds, feeling the stretch in your upper back and shoulders.",
+                    "Next, inhale and release the stretch, allowing your belly to drop towards the floor and lifting your head and tailbone up towards the ceiling.",
+                    "Hold this position for a few seconds, feeling the stretch in your lower back and hips.",
+                    "Repeat this sequence for several rounds, moving with your breath and focusing on the stretch in your spine."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Stretches the hips, thighs, and groin muscles",
+                    "Relieves tension in the lower back",
+                    "Improves flexibility and range of motion in the hips",
+                    "Can help alleviate menstrual cramps and discomfort",
+                    "May improve digestion and relieve constipation"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Latissimus dorsi",
+                    "Trapezius",
+                    "Rhomboids",
+                    "Erector spinae",
+                    "Gluteus maximus",
+                    "Hamstrings",
+                    "Gastrocnemius"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Modified Cow Stretch",
+                    "Seated Cow Stretch",
+                    "Standing Cow Stretch",
+                    "One-Legged Cow Stretch",
+                    "Partner Cow Stretch"
+                ]
+            }
+        }
+    ]
+}

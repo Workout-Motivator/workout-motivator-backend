@@ -1,0 +1,66 @@
+{
+    "title": "Pavanamuktasana Yoga Pose",
+    "description": "A stretch exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying flat on your back with your arms by your sides and your legs extended.",
+                    "Bend your right knee and bring it towards your chest.",
+                    "Interlace your fingers around your right shin and gently pull your knee closer to your chest.",
+                    "Hold the pose for a few breaths, feeling the stretch in your lower back and hip.",
+                    "Release your right leg and repeat the same steps with your left leg.",
+                    "Once you have completed both legs, bring both knees towards your chest and hug them in towards your body.",
+                    "Rock gently from side to side to massage your lower back.",
+                    "Release the pose and return to lying flat on your back."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens core muscles",
+                    "Improves flexibility in the spine and hips",
+                    "Increases shoulder stability and mobility",
+                    "Enhances overall body awareness and control",
+                    "Can be modified for different fitness levels"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Abdominal muscles",
+                    "Lower back muscles",
+                    "Hip flexor muscles",
+                    "Gluteal muscles",
+                    "Thigh muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "pavanamuktasana variation with one leg extended",
+                    "pavanamuktasana variation with both legs extended",
+                    "pavanamuktasana variation with arms reaching overhead",
+                    "pavanamuktasana variation with a twist",
+                    "pavanamuktasana variation with a strap or block"
+                ]
+            }
+        }
+    ]
+}

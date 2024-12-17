@@ -1,0 +1,68 @@
+{
+    "title": "One Arm Chin Up",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Find a sturdy pull-up bar that can support your weight.",
+                    "Stand facing the bar and grip it with one hand, using an underhand grip (palm facing towards you).",
+                    "Hang from the bar with your arm fully extended and your shoulder engaged.",
+                    "Slowly pull yourself up towards the bar, keeping your elbow close to your body.",
+                    "Continue pulling until your chin is above the bar.",
+                    "Lower yourself back down to the starting position with control.",
+                    "Repeat for desired number of reps, then switch arms and repeat on the other side."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Increases upper body strength, particularly in the back, biceps, and forearms",
+                    "Improves grip strength and overall grip endurance",
+                    "Challenges and improves core stability and control",
+                    "Helps to correct muscle imbalances between the left and right sides of the body",
+                    "Can be a great way to progress towards more advanced bodyweight exercises, such as the muscle up"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Biceps brachii",
+                    "Brachialis",
+                    "Brachioradialis",
+                    "Trapezius",
+                    "Rhomboids",
+                    "Latissimus dorsi",
+                    "Forearm muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Assisted One Arm Chin Up",
+                    "Negative One Arm Chin Up",
+                    "Weighted One Arm Chin Up",
+                    "One Arm Pull Up with Towel",
+                    "One Arm Pull Up with Band",
+                    "One Arm Pull Up with L-Sit"
+                ]
+            }
+        }
+    ]
+}

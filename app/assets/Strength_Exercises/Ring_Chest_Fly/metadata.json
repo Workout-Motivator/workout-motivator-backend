@@ -1,0 +1,63 @@
+{
+    "title": "Ring Chest Fly",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying flat on your back on a mat or bench with your knees bent and feet flat on the ground.",
+                    "Hold the rings or TRX handles with an overhand grip and extend your arms straight up above your chest.",
+                    "Lower your arms out to the sides, keeping them straight, until they are level with your chest.",
+                    "Pause for a moment, then bring your arms back up to the starting position.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the chest muscles, specifically the pectoralis major and minor",
+                    "Helps to improve upper body strength and muscle definition",
+                    "Can be done with a variety of equipment, including dumbbells, resistance bands, or a cable machine",
+                    "Allows for a greater range of motion compared to traditional chest exercises like the bench press",
+                    "Engages the stabilizer muscles in the shoulders and core",
+                    "Can be modified to target different areas of the chest, such as the upper or lower portions"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Pectoralis Major",
+                    "Anterior Deltoid",
+                    "Triceps Brachii",
+                    "Serratus Anterior"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Incline Ring Chest Fly",
+                    "Decline Ring Chest Fly",
+                    "Standing Ring Chest Fly",
+                    "Single Arm Ring Chest Fly",
+                    "Ring Chest Press"
+                ]
+            }
+        }
+    ]
+}

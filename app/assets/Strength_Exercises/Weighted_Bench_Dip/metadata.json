@@ -1,0 +1,61 @@
+{
+    "title": "Weighted Bench Dip",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Place a bench behind your back and hold onto the edge with your hands shoulder-width apart.",
+                    "Extend your legs out in front of you and place your heels on another bench or sturdy surface.",
+                    "Lower your body by bending your elbows until your upper arms are parallel to the ground.",
+                    "Push yourself back up to the starting position by straightening your arms.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets triceps, chest, and shoulders",
+                    "Increases upper body strength and muscle definition",
+                    "Can be done with minimal equipment",
+                    "Allows for progressive overload by adding weight",
+                    "Improves overall pushing strength"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Triceps",
+                    "Chest",
+                    "Shoulders"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Unweighted Bench Dip",
+                    "Tricep Dip Machine",
+                    "Parallel Bar Dip",
+                    "Ring Dip",
+                    "Assisted Dip"
+                ]
+            }
+        }
+    ]
+}

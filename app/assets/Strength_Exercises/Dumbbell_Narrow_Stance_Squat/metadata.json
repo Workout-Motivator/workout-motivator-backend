@@ -1,0 +1,64 @@
+{
+    "title": "Dumbbell Narrow Stance Squat",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a dumbbell in each hand, with your palms facing inwards towards your body.",
+                    "Bring your feet closer together so that they are only a few inches apart.",
+                    "Keeping your back straight, lower your body down into a squat position, as if you were sitting back into a chair.",
+                    "As you lower yourself down, raise the dumbbells up to shoulder height, keeping your elbows close to your body.",
+                    "Pause for a moment at the bottom of the squat, then push back up to the starting position, lowering the dumbbells back down to your sides.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the back muscles, including the latissimus dorsi, rhomboids, and trapezius",
+                    "Improves posture and spinal alignment",
+                    "Increases grip strength and forearm muscles",
+                    "Engages the core muscles for stability and balance",
+                    "Can be modified for different fitness levels and goals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "dumbbell-wide-stance-squat",
+                    "dumbbell-front-squat",
+                    "dumbbell-goblet-squat",
+                    "dumbbell-overhead-squat",
+                    "dumbbell-pistol-squat"
+                ]
+            }
+        }
+    ]
+}

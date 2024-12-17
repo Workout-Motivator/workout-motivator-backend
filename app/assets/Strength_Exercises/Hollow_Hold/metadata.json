@@ -1,0 +1,64 @@
+{
+    "title": "Hollow Hold",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on your back with your arms extended overhead and your legs straight out in front of you.",
+                    "Engage your core muscles by pulling your belly button towards your spine.",
+                    "Lift your legs and upper body off the ground, keeping your lower back pressed into the floor.",
+                    "Hold this position for the desired amount of time, aiming for at least 30 seconds.",
+                    "Lower your legs and upper body back down to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the core muscles",
+                    "Improves posture and stability",
+                    "Helps prevent lower back pain",
+                    "Increases overall body awareness and control",
+                    "Can be modified for different fitness levels"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus abdominis",
+                    "Transverse abdominis",
+                    "Obliques",
+                    "Erector spinae",
+                    "Quadriceps"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Hollow Rock",
+                    "Hollow Body Hold with Leg Raises",
+                    "Weighted Hollow Hold",
+                    "Single Leg Hollow Hold",
+                    "Hollow Hold with Arm Extensions"
+                ]
+            }
+        }
+    ]
+}

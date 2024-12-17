@@ -1,0 +1,63 @@
+{
+    "title": "Upper Back Stretch",
+    "description": "A stretch exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your arms at your sides.",
+                    "Interlace your fingers behind your back with your palms facing inward.",
+                    "Slowly lift your arms up and away from your body, keeping them straight and your shoulders relaxed.",
+                    "Hold the stretch for 10-15 seconds, feeling the stretch in your upper back and shoulders.",
+                    "Release your hands and bring your arms back down to your sides."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Relieves tension and stiffness in the upper back muscles",
+                    "Improves posture by opening up the chest and shoulders",
+                    "Reduces the risk of developing upper back pain and discomfort",
+                    "Increases flexibility and range of motion in the upper back",
+                    "Can be done anywhere, anytime, without any equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Trapezius",
+                    "Rhomboids",
+                    "Latissimus dorsi",
+                    "Erector spinae"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Seated upper back stretch",
+                    "Standing upper back stretch",
+                    "Wall angel stretch",
+                    "Thread the needle stretch",
+                    "Cat-cow stretch",
+                    "Child\u2019s pose stretch"
+                ]
+            }
+        }
+    ]
+}

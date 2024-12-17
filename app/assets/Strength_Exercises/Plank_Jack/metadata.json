@@ -1,0 +1,63 @@
+{
+    "title": "Plank Jack",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start in a plank position with your hands directly under your shoulders and your body in a straight line from head to heels.",
+                    "Jump your feet out wide while keeping your core engaged and your hips level.",
+                    "Jump your feet back together to return to the starting plank position.",
+                    "Repeat the movement for the desired number of repetitions or time."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Increases cardiovascular endurance",
+                    "Strengthens core muscles",
+                    "Improves balance and coordination",
+                    "Targets multiple muscle groups including legs, glutes, and shoulders",
+                    "Can be modified for different fitness levels",
+                    "Can be done anywhere with no equipment needed"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Abdominal muscles",
+                    "Shoulder muscles",
+                    "Chest muscles",
+                    "Gluteal muscles",
+                    "Leg muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Plank with shoulder taps",
+                    "Plank with knee tucks",
+                    "Plank with leg lifts",
+                    "Plank with hip dips",
+                    "Plank with mountain climbers"
+                ]
+            }
+        }
+    ]
+}

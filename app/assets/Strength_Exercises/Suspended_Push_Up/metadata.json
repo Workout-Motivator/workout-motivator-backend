@@ -1,0 +1,63 @@
+{
+    "title": "Suspended Push Up",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Find a sturdy suspension trainer or gymnastic rings and adjust them to hang about waist height.",
+                    "Grab the handles and walk your feet back until your body is at a 45-degree angle to the ground.",
+                    "Engage your core and lower your body down towards the ground, keeping your elbows close to your sides.",
+                    "Push back up to the starting position, keeping your body in a straight line throughout the movement.",
+                    "Repeat for desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Engages multiple muscle groups including chest, shoulders, triceps, and core",
+                    "Improves upper body strength and stability",
+                    "Increases core strength and stability",
+                    "Challenges balance and coordination",
+                    "Can be modified to increase or decrease difficulty",
+                    "Requires minimal equipment and can be done anywhere with suspension straps"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Chest muscles (pectoralis major and minor)",
+                    "Shoulder muscles (deltoids)",
+                    "Triceps",
+                    "Core muscles (abdominals and lower back)"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Feet Elevated Push Up",
+                    "Single Arm Suspended Push Up",
+                    "Spiderman Push Up",
+                    "Tricep Extension Push Up",
+                    "Wide Grip Suspended Push Up"
+                ]
+            }
+        }
+    ]
+}

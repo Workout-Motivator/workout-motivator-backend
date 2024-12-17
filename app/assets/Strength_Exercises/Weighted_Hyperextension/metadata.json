@@ -1,0 +1,61 @@
+{
+    "title": "Weighted Hyperextension",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Adjust the hyperextension bench to your height and secure your feet under the footpads.",
+                    "Hold a weight plate or dumbbell behind your head with both hands.",
+                    "Slowly lower your upper body towards the floor while keeping your back straight.",
+                    "Pause briefly at the bottom of the movement, then raise your upper body back up to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens lower back muscles",
+                    "Improves posture",
+                    "Increases core stability",
+                    "Enhances overall athletic performance",
+                    "Reduces risk of lower back injury"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Erector Spinae",
+                    "Glutes",
+                    "Hamstrings"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Unweighted Hyperextension",
+                    "Reverse Hyperextension",
+                    "Superman",
+                    "Good Mornings",
+                    "Back Extension Machine"
+                ]
+            }
+        }
+    ]
+}

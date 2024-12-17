@@ -1,0 +1,68 @@
+{
+    "title": "Kettlebell Lunge Pass Through",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by standing with your feet shoulder-width apart and holding a kettlebell in front of your chest with both hands.",
+                    "Take a large step forward with your right foot and lower your body into a lunge position, keeping your back straight and your core engaged.",
+                    "As you lower your body, pass the kettlebell under your right thigh and grab it with your left hand.",
+                    "Push off your right foot and return to the starting position, bringing the kettlebell back to your chest with both hands.",
+                    "Repeat the lunge on the left side, passing the kettlebell under your left thigh and grabbing it with your right hand.",
+                    "Continue alternating lunges and passing the kettlebell under your thighs for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the legs and glutes",
+                    "Improves balance and stability",
+                    "Engages the core muscles",
+                    "Increases cardiovascular endurance",
+                    "Enhances coordination and agility",
+                    "Targets multiple muscle groups at once",
+                    "Can be modified for different fitness levels",
+                    "Requires minimal equipment and space"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Core",
+                    "Shoulders",
+                    "Triceps"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Kettlebell Reverse Lunge Pass Through",
+                    "Kettlebell Front Lunge Pass Through",
+                    "Kettlebell Walking Lunge Pass Through",
+                    "Kettlebell Curtsy Lunge Pass Through",
+                    "Kettlebell Side Lunge Pass Through"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "title": "Standing Y Raise",
+    "description": "A stretch exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your arms at your sides.",
+                    "Slowly raise your arms out to the sides, keeping them straight and parallel to the floor.",
+                    "Once your arms are at shoulder height, pause for a moment.",
+                    "Slowly lower your arms back down to your sides.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Increases grip strength",
+                    "Improves core stability",
+                    "Develops overall body strength",
+                    "Enhances cardiovascular endurance",
+                    "Improves balance and coordination",
+                    "Challenges mental toughness and resilience"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Shoulder muscles (deltoids)",
+                    "Upper back muscles (trapezius)",
+                    "Neck muscles (levator scapulae)"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Standing T-raise",
+                    "Standing W-raise",
+                    "Standing V-raise",
+                    "Standing I-raise",
+                    "Standing Y-raise with dumbbells",
+                    "Standing Y-raise with resistance bands",
+                    "Standing Y-raise with cable machine",
+                    "Standing Y-raise with medicine ball"
+                ]
+            }
+        }
+    ]
+}

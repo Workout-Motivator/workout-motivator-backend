@@ -1,0 +1,64 @@
+{
+    "title": "Standing Side Leg Raise",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand up straight with your feet hip-width apart and your arms at your sides.",
+                    "Shift your weight onto your left foot and lift your right foot off the ground, keeping your leg straight.",
+                    "Slowly raise your right leg out to the side, keeping it straight and your toes pointing forward.",
+                    "Pause for a moment when your leg is at hip height.",
+                    "Lower your leg back down to the starting position.",
+                    "Repeat the exercise on the other side, shifting your weight onto your right foot and lifting your left leg.",
+                    "Complete 10-15 repetitions on each side."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the hip abductor muscles",
+                    "Improves balance and stability",
+                    "Helps to prevent hip and knee injuries",
+                    "Can be done anywhere without equipment",
+                    "Targets the glutes, hips, and thighs"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Gluteus medius",
+                    "Tensor fasciae latae",
+                    "Adductor muscles",
+                    "Abductor muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Standing Front Leg Raise",
+                    "Standing Back Leg Raise",
+                    "Standing Diagonal Leg Raise",
+                    "Standing Cross Leg Raise",
+                    "Standing Curtsy Leg Raise"
+                ]
+            }
+        }
+    ]
+}

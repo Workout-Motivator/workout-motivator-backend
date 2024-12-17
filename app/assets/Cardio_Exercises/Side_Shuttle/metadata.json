@@ -1,0 +1,65 @@
+{
+    "title": "Side Shuttle",
+    "description": "A cardio exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by standing with your feet shoulder-width apart and your knees slightly bent.",
+                    "Take a big step to your right with your right foot, keeping your left foot in place.",
+                    "Quickly bring your left foot to meet your right foot.",
+                    "Take a big step to your left with your left foot, keeping your right foot in place.",
+                    "Quickly bring your right foot to meet your left foot.",
+                    "Repeat this side-to-side movement for a set amount of time or repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves lateral quickness and agility",
+                    "Increases cardiovascular endurance",
+                    "Strengthens leg muscles, particularly the quads and glutes",
+                    "Improves balance and coordination",
+                    "Can be modified for different fitness levels and goals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Glutes",
+                    "Calves",
+                    "Abdominals",
+                    "Obliques"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Side Shuffle with Resistance Band",
+                    "Side Shuffle with Medicine Ball",
+                    "Side Shuffle with Dumbbells",
+                    "Side Shuffle with Kettlebell",
+                    "Side Shuffle with Jump Rope"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "title": "Exercise Ball One Legged Diagonal Kick Hamstring Curl",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on your back with your arms by your sides and your feet on top of the exercise ball.",
+                    "Lift your left leg off the ball and extend it towards the ceiling.",
+                    "Place your right foot on the ball and lift your hips off the ground.",
+                    "Use your right foot to roll the ball towards your left hand, keeping your left leg extended towards the ceiling.",
+                    "As the ball reaches your left hand, use your hamstring to curl the ball back towards your right foot.",
+                    "Repeat this diagonal kick and hamstring curl motion for 10-12 reps on one side before switching to the other leg."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets triceps muscles for increased strength and definition",
+                    "Improves overall upper body strength and stability",
+                    "Can be done with relatively light weights, making it accessible for beginners",
+                    "Helps to improve range of motion in the shoulders and elbows",
+                    "Can be easily modified for different fitness levels and goals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Hamstrings",
+                    "Glutes",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Exercise ball hamstring curl",
+                    "One-legged exercise ball hamstring curl",
+                    "Diagonal kick exercise ball hamstring curl",
+                    "One-legged diagonal kick exercise ball hamstring curl"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "title": "Dumbbell Curtsey Lunge",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet hip-width apart and hold a dumbbell in each hand.",
+                    "Step your left foot diagonally behind your right foot, crossing your left leg behind your right.",
+                    "Bend both knees and lower your body down into a lunge position, keeping your chest lifted and your back straight.",
+                    "Push through your right heel to stand back up to the starting position.",
+                    "Repeat on the other side, stepping your right foot diagonally behind your left foot.",
+                    "Complete 3 sets of 12-15 reps on each side."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets multiple muscle groups including glutes, quads, hamstrings, and calves",
+                    "Improves balance and stability",
+                    "Increases lower body strength",
+                    "Can be modified for different fitness levels by adjusting weight or depth of lunge",
+                    "Can be done with minimal equipment, making it a convenient exercise to do at home or while traveling"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Glutes",
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Calves",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell reverse lunge",
+                    "Dumbbell front lunge",
+                    "Dumbbell walking lunge",
+                    "Dumbbell step-up",
+                    "Dumbbell Bulgarian split squat"
+                ]
+            }
+        }
+    ]
+}

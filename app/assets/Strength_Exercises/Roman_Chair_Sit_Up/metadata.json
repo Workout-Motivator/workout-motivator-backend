@@ -1,0 +1,61 @@
+{
+    "title": "Roman Chair Sit Up",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by sitting on the Roman chair with your back against the pad and your feet secured under the footpads.",
+                    "Place your hands behind your head or across your chest.",
+                    "Slowly lower your upper body towards the floor, keeping your back straight and your core engaged.",
+                    "Pause briefly at the bottom of the movement, then slowly raise your upper body back up to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the abdominal muscles",
+                    "Improves core stability",
+                    "Helps to prevent lower back pain",
+                    "Increases flexibility in the hip flexors",
+                    "Improves posture"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus Abdominis",
+                    "Obliques",
+                    "Erector Spinae"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Weighted Roman Chair Sit Up",
+                    "Decline Roman Chair Sit Up",
+                    "Oblique Roman Chair Sit Up",
+                    "Reverse Roman Chair Sit Up",
+                    "Twisting Roman Chair Sit Up"
+                ]
+            }
+        }
+    ]
+}

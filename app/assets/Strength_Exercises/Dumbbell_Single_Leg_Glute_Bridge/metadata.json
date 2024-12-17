@@ -1,0 +1,61 @@
+{
+    "title": "Dumbbell Single Leg Glute Bridge",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on your back with your knees bent and feet flat on the ground. Hold a dumbbell in one hand and extend the other leg straight out in front of you.",
+                    "Engage your glutes and lift your hips off the ground, keeping your weight on your heel and the foot of the extended leg.",
+                    "Hold the position for a few seconds, then lower your hips back down to the ground.",
+                    "Repeat for the desired number of reps, then switch to the other leg and hand for the next set."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens glutes and hamstrings",
+                    "Improves balance and stability",
+                    "Targets one leg at a time, allowing for better muscle activation and development",
+                    "Can help alleviate lower back pain by strengthening the muscles that support the spine",
+                    "Can be modified to increase or decrease difficulty by adjusting weight or adding resistance bands"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Glutes",
+                    "Hamstrings",
+                    "Lower back",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Single Leg Glute Bridge with Hip Abduction",
+                    "Dumbbell Single Leg Glute Bridge with Hip Extension",
+                    "Dumbbell Single Leg Glute Bridge with Chest Press",
+                    "Dumbbell Single Leg Glute Bridge with Fly",
+                    "Dumbbell Single Leg Glute Bridge with Row"
+                ]
+            }
+        }
+    ]
+}

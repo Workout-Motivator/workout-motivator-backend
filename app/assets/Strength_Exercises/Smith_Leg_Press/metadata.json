@@ -1,0 +1,64 @@
+{
+    "title": "Smith Leg Press",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Adjust the seat and backrest to a comfortable position.",
+                    "Place your feet on the footplate shoulder-width apart.",
+                    "Grasp the handles on either side of the seat for stability.",
+                    "Slowly lower the weight by bending your knees until they are at a 90-degree angle.",
+                    "Push the weight back up using your legs until your legs are straight but not locked.",
+                    "Repeat for desired number of repetitions.",
+                    "When finished, release the handles and carefully step off the machine."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens leg muscles, including quadriceps, hamstrings, and glutes",
+                    "Improves overall lower body strength and power",
+                    "Can help improve athletic performance in sports such as running, jumping, and cycling",
+                    "May help improve bone density and reduce risk of osteoporosis",
+                    "Can be a low-impact exercise option for those with joint pain or injuries"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Smith Squat",
+                    "Leg Press Machine",
+                    "Smith Machine Hack Squat",
+                    "Smith Machine Reverse Lunge",
+                    "Smith Machine Bulgarian Split Squat"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "title": "One Arm Lat Stretch",
+    "description": "A stretch exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your knees slightly bent.",
+                    "Extend your right arm straight up towards the ceiling.",
+                    "Bend your right elbow and reach your right hand behind your head, placing your palm on the center of your back.",
+                    "Use your left hand to gently pull your right elbow towards your left shoulder, feeling a stretch in your right lat muscle.",
+                    "Hold the stretch for 15-30 seconds, then release and repeat on the other side."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Increases flexibility and range of motion in the latissimus dorsi muscle",
+                    "Helps alleviate tension and tightness in the upper back and shoulders",
+                    "Improves posture by stretching the muscles that contribute to rounded shoulders",
+                    "May help reduce the risk of injury in the upper body during physical activity",
+                    "Can be done anywhere without the need for equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Latissimus dorsi",
+                    "Teres major",
+                    "Rhomboids",
+                    "Trapezius",
+                    "Posterior deltoid"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "One arm Lat Stretch with resistance band",
+                    "One arm Lat Stretch with dumbbell",
+                    "One arm Lat Stretch with kettlebell",
+                    "One arm Lat Stretch with cable machine",
+                    "One arm Lat Stretch with foam roller"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "title": "Burpee",
+    "description": "A cardio exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start in a standing position with your feet shoulder-width apart.",
+                    "Lower your body into a squatting position with your hands on the ground in front of you.",
+                    "Kick your feet back into a plank position, while keeping your arms extended.",
+                    "Lower your chest and do a push-up.",
+                    "Push your body up into the starting plank position.",
+                    "Jump your feet back towards your hands into a squatting position.",
+                    "Jump up into the air as high as you can, reaching your arms overhead.",
+                    "Land back in the starting position and repeat the exercise for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Increases cardiovascular endurance",
+                    "Improves strength and muscle tone in the legs, core, and upper body",
+                    "Burns calories and aids in weight loss",
+                    "Can be done anywhere without equipment",
+                    "Improves coordination and agility",
+                    "Can be modified for different fitness levels"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Chest",
+                    "Triceps",
+                    "Shoulders",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Jumping burpee",
+                    "Single-leg burpee",
+                    "Burpee box jump",
+                    "Burpee pull-up",
+                    "Burpee broad jump",
+                    "Burpee tuck jump",
+                    "Burpee mountain climber",
+                    "Burpee push-up",
+                    "Burpee with dumbbells",
+                    "Burpee with medicine ball"
+                ]
+            }
+        }
+    ]
+}

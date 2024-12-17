@@ -1,0 +1,65 @@
+{
+    "title": "Strongman Crucifix Hold",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a weight plate in each hand.",
+                    "Extend your arms out to the sides, parallel to the ground, with your palms facing down.",
+                    "Hold this position for as long as possible, aiming for at least 30 seconds.",
+                    "Focus on keeping your shoulders down and back, and engaging your core muscles.",
+                    "Gradually increase the weight of the plates as you become stronger.",
+                    "Repeat for several sets, with rest periods in between."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves grip strength",
+                    "Increases shoulder stability and endurance",
+                    "Engages multiple muscle groups including shoulders, upper back, and core",
+                    "Can be used as a functional exercise for everyday activities that require carrying heavy objects",
+                    "Challenges mental toughness and resilience"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Deltoids",
+                    "Trapezius",
+                    "Forearms",
+                    "Abdominals",
+                    "Glutes",
+                    "Quadriceps"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single-arm Crucifix Hold",
+                    "Crucifix Hold with Dumbbells",
+                    "Crucifix Hold with Kettlebells",
+                    "Crucifix Hold with Plates",
+                    "Crucifix Hold with Sandbags"
+                ]
+            }
+        }
+    ]
+}

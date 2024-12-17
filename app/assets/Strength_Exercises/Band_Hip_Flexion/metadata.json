@@ -1,0 +1,62 @@
+{
+    "title": "Band Hip Flexion",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on your back with your legs straight out in front of you.",
+                    "Bend your right knee and bring it towards your chest, keeping your left leg straight on the ground.",
+                    "Use your hands to hold onto your right knee and gently pull it towards your chest until you feel a stretch in your hip flexor.",
+                    "Hold the stretch for 15-30 seconds, then release and repeat on the other side.",
+                    "Repeat the exercise for 2-3 sets on each side."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens hip flexor muscles",
+                    "Improves hip mobility and flexibility",
+                    "Helps to prevent lower back pain",
+                    "Can improve posture and balance",
+                    "Can be done with minimal equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus femoris",
+                    "Iliopsoas",
+                    "Sartorius",
+                    "Tensor fasciae latae"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Band Hip Abduction",
+                    "Band Hip Extension",
+                    "Band Hip Adduction",
+                    "Band Hip Internal Rotation",
+                    "Band Hip External Rotation"
+                ]
+            }
+        }
+    ]
+}

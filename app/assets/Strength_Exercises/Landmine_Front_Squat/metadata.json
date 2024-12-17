@@ -1,0 +1,69 @@
+{
+    "title": "Landmine Front Squat",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by placing a barbell in a landmine attachment or in a corner of a room.",
+                    "Load the barbell with an appropriate weight for your fitness level.",
+                    "Stand facing the barbell with your feet shoulder-width apart.",
+                    "Grab the end of the barbell with both hands and lift it up to your chest.",
+                    "Extend your arms out in front of you, keeping the barbell close to your body.",
+                    "Lower your body into a squat position, keeping your back straight and your knees behind your toes.",
+                    "Pause at the bottom of the squat and then push back up to the starting position.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets multiple muscle groups including quads, glutes, hamstrings, and core",
+                    "Improves overall lower body strength and power",
+                    "Can be a safer alternative to traditional barbell front squats for those with shoulder mobility issues",
+                    "Allows for a greater range of motion compared to traditional front squats",
+                    "Can be easily modified for different fitness levels and goals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Core",
+                    "Upper back",
+                    "Shoulders"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Landmine Back Squat",
+                    "Landmine Reverse Lunge",
+                    "Landmine Deadlift",
+                    "Landmine Romanian Deadlift",
+                    "Landmine Press",
+                    "Landmine Row",
+                    "Landmine Twist"
+                ]
+            }
+        }
+    ]
+}

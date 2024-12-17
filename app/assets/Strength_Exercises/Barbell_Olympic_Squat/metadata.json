@@ -1,0 +1,74 @@
+{
+    "title": "Barbell Olympic Squat",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by standing with your feet shoulder-width apart and your toes pointing slightly outward.",
+                    "Place the barbell on your upper back, resting it on your trapezius muscles.",
+                    "Grasp the barbell with both hands, keeping your elbows pointing down and your wrists straight.",
+                    "Inhale deeply and brace your core muscles.",
+                    "Bend your knees and lower your hips, keeping your back straight and your chest up.",
+                    "Continue descending until your thighs are parallel to the ground.",
+                    "Pause briefly at the bottom of the squat.",
+                    "Exhale forcefully and push through your heels to stand back up.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the lower body muscles, including the quadriceps, hamstrings, and glutes",
+                    "Improves overall lower body stability and balance",
+                    "Increases core strength and stability",
+                    "Can improve mobility and flexibility in the hips and ankles",
+                    "May increase bone density and reduce the risk of osteoporosis",
+                    "Can improve athletic performance in sports that require lower body strength and power",
+                    "May help with weight loss and body composition goals by burning a high number of calories"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Lower back",
+                    "Abdominals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Front Squat",
+                    "Box Squat",
+                    "Zercher Squat",
+                    "Sumo Squat",
+                    "Split Squat",
+                    "Bulgarian Split Squat",
+                    "Overhead Squat",
+                    "Goblet Squat",
+                    "Single Leg Squat"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "title": "Dumbbell Single Leg Deadlift",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet hip-width apart, holding a dumbbell in your right hand.",
+                    "Lift your left foot off the ground and extend it behind you, keeping your knee slightly bent.",
+                    "Slowly hinge forward at the hips, lowering the dumbbell towards the ground while keeping your back straight and your right knee slightly bent.",
+                    "Lower the dumbbell as far as you can while maintaining good form.",
+                    "Pause for a moment, then slowly return to the starting position.",
+                    "Repeat for the desired number of reps, then switch sides and repeat with the dumbbell in your left hand."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves balance and stability",
+                    "Strengthens the glutes, hamstrings, and lower back",
+                    "Targets the core muscles for improved posture and spinal alignment",
+                    "Increases flexibility in the hips and hamstrings",
+                    "Can be modified for different fitness levels and goals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Hamstrings",
+                    "Glutes",
+                    "Lower back",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Single Leg Deadlift with Knee Drive",
+                    "Dumbbell Single Leg Deadlift with Row",
+                    "Dumbbell Single Leg Deadlift with Curl",
+                    "Dumbbell Single Leg Deadlift with Press",
+                    "Dumbbell Single Leg Deadlift with Lateral Raise"
+                ]
+            }
+        }
+    ]
+}

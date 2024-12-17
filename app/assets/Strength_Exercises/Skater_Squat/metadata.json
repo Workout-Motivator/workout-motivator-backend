@@ -1,0 +1,64 @@
+{
+    "title": "Skater Squat",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet hip-width apart and your arms at your sides.",
+                    "Lift your right foot off the ground and extend it forward, keeping your toes pointed.",
+                    "Bend your left knee and lower your body down towards the ground, keeping your right foot off the ground.",
+                    "Lower your body as far as you can, keeping your left knee in line with your ankle and your right foot off the ground.",
+                    "Push through your left heel to return to the starting position.",
+                    "Repeat on the other side, lifting your left foot off the ground and extending it forward."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves balance and stability",
+                    "Strengthens the quads, glutes, and hamstrings",
+                    "Increases ankle mobility",
+                    "Engages the core muscles",
+                    "Can be done with or without weights for added resistance"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Reverse Lunge",
+                    "Bulgarian Split Squat",
+                    "Single Leg Deadlift",
+                    "Pistol Squat",
+                    "Step Up"
+                ]
+            }
+        }
+    ]
+}

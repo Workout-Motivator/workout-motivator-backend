@@ -1,0 +1,62 @@
+{
+    "title": "Lever Bicep Curl",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a dumbbell in each hand with your palms facing up.",
+                    "Place the back of your upper arms against the top of your thighs, just above your knees.",
+                    "Slowly curl the dumbbells up towards your shoulders, keeping your elbows stationary against your thighs.",
+                    "Pause at the top of the movement and squeeze your biceps.",
+                    "Slowly lower the dumbbells back down to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the biceps muscles, helping to increase strength and size",
+                    "Allows for a greater range of motion compared to traditional bicep curls",
+                    "Reduces strain on the wrists and forearms",
+                    "Can be performed with heavier weights, leading to greater muscle activation",
+                    "Engages the core muscles for added stability and balance"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Biceps brachii",
+                    "Brachialis",
+                    "Brachioradialis"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Standing Lever Bicep Curl",
+                    "Seated Lever Bicep Curl",
+                    "Incline Lever Bicep Curl",
+                    "Reverse Grip Lever Bicep Curl",
+                    "Single Arm Lever Bicep Curl"
+                ]
+            }
+        }
+    ]
+}

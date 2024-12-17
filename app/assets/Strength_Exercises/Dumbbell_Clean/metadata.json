@@ -1,0 +1,69 @@
+{
+    "title": "Dumbbell Clean",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart, holding a dumbbell in each hand with your palms facing your thighs.",
+                    "Bend your knees and lower your hips into a squat position, keeping your back straight and your chest up.",
+                    "As you stand up, use the momentum to lift the dumbbells up to your shoulders, keeping your elbows out to the sides.",
+                    "Lower the dumbbells back down to your thighs as you squat back down.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves overall strength and power in the upper body, particularly the shoulders, back, and arms",
+                    "Increases explosiveness and speed in movements that require upper body strength",
+                    "Improves grip strength and forearm endurance",
+                    "Engages the core muscles for stability and balance during the movement",
+                    "Can be modified for different fitness levels and goals by adjusting the weight of the dumbbells"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Trapezius",
+                    "Rhomboids",
+                    "Deltoids",
+                    "Biceps",
+                    "Forearms",
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Clean and Press",
+                    "Dumbbell Hang Clean",
+                    "Dumbbell Power Clean",
+                    "Dumbbell Hang Power Clean",
+                    "Dumbbell Clean and Jerk",
+                    "Dumbbell Hang Clean and Press",
+                    "Dumbbell Hang Clean and Jerk"
+                ]
+            }
+        }
+    ]
+}

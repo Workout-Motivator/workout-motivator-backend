@@ -1,0 +1,65 @@
+{
+    "title": "Barbell Split Jump",
+    "description": "A cardio exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by standing with your feet shoulder-width apart and holding a barbell across your shoulders behind your neck.",
+                    "Take a large step forward with your right foot and lower your body into a lunge position, keeping your back straight and your front knee directly above your ankle.",
+                    "Push off with your right foot and jump up explosively, switching the position of your feet in mid-air so that you land with your left foot forward and your right foot back.",
+                    "Lower your body into a lunge position again, this time with your left foot forward.",
+                    "Repeat the jump, switching your feet back to the starting position with your right foot forward.",
+                    "Continue alternating between left and right lunges with each jump for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Increases lower body strength and power",
+                    "Improves balance and stability",
+                    "Engages multiple muscle groups including quads, glutes, hamstrings, and calves",
+                    "Can be modified for different fitness levels by adjusting weight or height of the barbell",
+                    "Provides a cardiovascular workout",
+                    "Helps to improve explosiveness and agility"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Split Jump",
+                    "Jumping Lunges",
+                    "Single Leg Box Jumps",
+                    "Plyometric Lunges",
+                    "Step-Up Jumps"
+                ]
+            }
+        }
+    ]
+}

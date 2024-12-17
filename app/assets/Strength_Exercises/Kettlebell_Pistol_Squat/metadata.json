@@ -1,0 +1,68 @@
+{
+    "title": "Kettlebell Pistol Squat",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a kettlebell in your right hand at shoulder height.",
+                    "Lift your left foot off the ground and extend it forward.",
+                    "Bend your right knee and lower your body into a squat, keeping your back straight and your chest up.",
+                    "As you lower your body, extend your left arm out in front of you for balance.",
+                    "Lower your body until your right thigh is parallel to the ground.",
+                    "Push through your right heel to stand back up to the starting position.",
+                    "Repeat for the desired number of reps, then switch sides and repeat with the kettlebell in your left hand."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves balance and stability",
+                    "Strengthens the legs, glutes, and core",
+                    "Increases flexibility and mobility in the hips and ankles",
+                    "Challenges coordination and proprioception",
+                    "Can be modified for different fitness levels",
+                    "Engages multiple muscle groups for a full-body workout",
+                    "Can be done with minimal equipment",
+                    "Improves functional movement patterns for daily activities"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Kettlebell Goblet Pistol Squat",
+                    "Kettlebell Front Rack Pistol Squat",
+                    "Kettlebell Overhead Pistol Squat",
+                    "Kettlebell Suitcase Pistol Squat",
+                    "Kettlebell Bottoms Up Pistol Squat"
+                ]
+            }
+        }
+    ]
+}

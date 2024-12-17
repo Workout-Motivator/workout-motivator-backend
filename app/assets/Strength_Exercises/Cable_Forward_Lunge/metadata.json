@@ -1,0 +1,64 @@
+{
+    "title": "Cable Forward Lunge",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet hip-width apart and hold a cable or resistance band in both hands at chest height.",
+                    "Step forward with your right foot and lower your body until your right thigh is parallel to the ground and your left knee is hovering just above the floor.",
+                    "As you lunge forward, extend your arms straight out in front of you, keeping the cable taut.",
+                    "Push off your right foot to return to the starting position, bringing your arms back to your chest.",
+                    "Repeat on the other side, stepping forward with your left foot.",
+                    "Continue alternating legs for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the quadriceps, hamstrings, glutes, and calves",
+                    "Improves balance and stability",
+                    "Targets the core muscles for added stability",
+                    "Increases hip mobility and flexibility",
+                    "Can be modified for different fitness levels and goals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Forward Lunge",
+                    "Barbell Forward Lunge",
+                    "Reverse Lunge with Cable",
+                    "Walking Lunge with Cable",
+                    "Side Lunge with Cable"
+                ]
+            }
+        }
+    ]
+}

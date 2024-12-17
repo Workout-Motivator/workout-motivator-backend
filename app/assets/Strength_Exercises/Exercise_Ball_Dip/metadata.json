@@ -1,0 +1,62 @@
+{
+    "title": "Exercise Ball Dip",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Place an exercise ball against a wall and lean against it with your back.",
+                    "Place your hands on the ball at shoulder width apart and extend your legs out in front of you.",
+                    "Lower your body by bending your elbows until your upper arms are parallel to the ground.",
+                    "Push yourself back up to the starting position by straightening your arms.",
+                    "Repeat for desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets triceps, chest, and shoulders",
+                    "Improves upper body strength and stability",
+                    "Engages core muscles for added balance and control",
+                    "Can be modified for different fitness levels by adjusting the height of the ball",
+                    "Low impact exercise that is easy on joints"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Triceps",
+                    "Chest",
+                    "Shoulders",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Weighted Exercise Ball Dip",
+                    "Single Leg Exercise Ball Dip",
+                    "Decline Exercise Ball Dip",
+                    "Assisted Exercise Ball Dip",
+                    "Explosive Exercise Ball Dip"
+                ]
+            }
+        }
+    ]
+}

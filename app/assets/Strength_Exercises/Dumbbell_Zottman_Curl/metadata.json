@@ -1,0 +1,64 @@
+{
+    "title": "Dumbbell Zottman Curl",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a dumbbell in each hand with your palms facing up.",
+                    "Curl the dumbbells up to your shoulders, keeping your elbows close to your sides.",
+                    "At the top of the curl, rotate your wrists so that your palms are facing down.",
+                    "Lower the dumbbells back down to your starting position with your palms facing down.",
+                    "At the bottom of the curl, rotate your wrists so that your palms are facing up.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets multiple muscle groups including biceps, forearms, and brachialis",
+                    "Improves grip strength and wrist mobility",
+                    "Allows for variation in grip and weight to increase difficulty and challenge muscles",
+                    "Can be done with minimal equipment and in a variety of settings",
+                    "Helps to prevent muscle imbalances and injury by targeting both the flexor and extensor muscles in the arm"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Biceps brachii",
+                    "Brachialis",
+                    "Brachioradialis",
+                    "Forearm supinators",
+                    "Forearm pronators"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Reverse Dumbbell Zottman Curl",
+                    "Seated Dumbbell Zottman Curl",
+                    "Standing Alternating Dumbbell Zottman Curl",
+                    "Hammer Curl to Zottman Curl",
+                    "Single Arm Dumbbell Zottman Curl"
+                ]
+            }
+        }
+    ]
+}

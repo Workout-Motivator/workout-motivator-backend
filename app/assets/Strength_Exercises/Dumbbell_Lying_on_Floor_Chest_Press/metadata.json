@@ -1,0 +1,66 @@
+{
+    "title": "Dumbbell Lying on Floor Chest Press",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying flat on your back on a bench or the floor with your knees bent and feet flat on the ground.",
+                    "Hold a dumbbell in each hand with your palms facing up and your arms extended straight up above your chest.",
+                    "Slowly lower the dumbbells down towards your chest, keeping your elbows close to your body.",
+                    "Pause for a moment when the dumbbells are just above your chest.",
+                    "Push the dumbbells back up to the starting position, fully extending your arms.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the chest muscles, specifically the pectoralis major and minor",
+                    "Engages the triceps and shoulders as secondary muscles",
+                    "Improves upper body strength and muscle definition",
+                    "Allows for a greater range of motion compared to traditional bench press",
+                    "Can be done with a variety of weights and equipment, making it accessible for all fitness levels",
+                    "Can be easily modified to target different areas of the chest and triceps",
+                    "Helps improve stability and balance by engaging the core muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Pectoralis major (chest muscles)",
+                    "Triceps brachii (back of upper arm)",
+                    "Anterior deltoids (front of shoulders)",
+                    "Serratus anterior (muscles along the sides of the chest)"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Incline Chest Press",
+                    "Dumbbell Decline Chest Press",
+                    "Dumbbell Flyes",
+                    "Push-ups",
+                    "Barbell Bench Press",
+                    "Machine Chest Press"
+                ]
+            }
+        }
+    ]
+}

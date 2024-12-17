@@ -1,0 +1,68 @@
+{
+    "title": "Rollover",
+    "description": "A stretch exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on your back with your arms extended above your head and your legs straight out in front of you.",
+                    "Engage your core and lift your arms and legs off the ground simultaneously, keeping them straight.",
+                    "As you lift your arms and legs, roll onto your stomach, balancing on your hips.",
+                    "Pause for a moment in this position, then roll back onto your back, lowering your arms and legs back down to the starting position.",
+                    "Repeat the movement, rolling onto your stomach and back onto your back, for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves cardiovascular health",
+                    "Increases endurance and stamina",
+                    "Strengthens leg muscles",
+                    "Improves balance and coordination",
+                    "Burns calories and aids in weight loss",
+                    "Can be done anywhere with no equipment needed"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Abdominal muscles",
+                    "Oblique muscles",
+                    "Lower back muscles",
+                    "Gluteal muscles",
+                    "Hamstring muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rollover with one hand",
+                    "Rollover with both hands",
+                    "Rollover with a pen or pencil",
+                    "Rollover with a coin",
+                    "Rollover with a card",
+                    "Rollover with a bottle",
+                    "Rollover with a phone",
+                    "Rollover with a key",
+                    "Rollover with a chopstick"
+                ]
+            }
+        }
+    ]
+}

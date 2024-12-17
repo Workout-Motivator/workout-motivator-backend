@@ -1,0 +1,63 @@
+{
+    "title": "Dumbbell Sit Up",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying down on your back with your knees bent and feet flat on the ground.",
+                    "Hold a dumbbell with both hands and extend your arms straight up towards the ceiling.",
+                    "Engage your core and slowly lift your upper body off the ground, bringing the dumbbell towards your feet.",
+                    "Pause for a moment at the top of the movement, then slowly lower your upper body back down to the starting position.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the core muscles, including the rectus abdominis, obliques, and transverse abdominis",
+                    "Improves posture and stability",
+                    "Increases overall body strength and endurance",
+                    "Targets the upper body muscles, including the chest, shoulders, and arms",
+                    "Can be modified to increase or decrease difficulty, making it suitable for all fitness levels",
+                    "Can be done with minimal equipment, making it a convenient exercise to do at home or while traveling"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus abdominis",
+                    "Obliques",
+                    "Hip flexors",
+                    "Erector spinae"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Weighted Sit up",
+                    "Decline Sit up",
+                    "Medicine Ball Sit up",
+                    "Russian Twist",
+                    "Leg Raises"
+                ]
+            }
+        }
+    ]
+}

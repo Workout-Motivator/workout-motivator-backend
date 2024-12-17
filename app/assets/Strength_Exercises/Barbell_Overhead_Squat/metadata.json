@@ -1,0 +1,72 @@
+{
+    "title": "Barbell Overhead Squat",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by standing with your feet shoulder-width apart and your toes pointing slightly outward.",
+                    "Hold the barbell with both hands, palms facing up, and raise it above your head until your arms are fully extended.",
+                    "Engage your core and lower your body into a squat position, keeping your back straight and your knees in line with your toes.",
+                    "As you lower your body, keep the barbell stable above your head and maintain a straight line from your hands to your shoulders.",
+                    "Lower your body until your thighs are parallel to the ground, then push back up to the starting position.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves overall strength and stability in the lower body, core, and upper body",
+                    "Increases flexibility and mobility in the hips, ankles, and shoulders",
+                    "Enhances balance and coordination",
+                    "Engages multiple muscle groups at once, leading to a more efficient workout",
+                    "Can help improve posture and alignment",
+                    "Challenges the mind-body connection and requires focus and concentration",
+                    "Can be modified for different fitness levels and goals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Core",
+                    "Shoulders",
+                    "Triceps"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Overhead Squat",
+                    "Kettlebell Overhead Squat",
+                    "Single Arm Overhead Squat",
+                    "Front Squat",
+                    "Back Squat",
+                    "Zercher Squat",
+                    "Overhead Press",
+                    "Thruster",
+                    "Snatch"
+                ]
+            }
+        }
+    ]
+}

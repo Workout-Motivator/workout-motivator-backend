@@ -1,0 +1,60 @@
+{
+    "title": "Lever Seated Calf Press",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Adjust the seat of the calf press machine so that your knees are bent at a 90-degree angle and your feet are flat on the platform.",
+                    "Place your hands on the lever handles and push the lever down to lift the weight stack.",
+                    "Slowly lower your heels as far as you can without lifting your hips off the seat.",
+                    "Push through your toes to raise the weight stack back up to the starting position.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Stretches the hip flexors, hamstrings, and quadriceps",
+                    "Strengthens the core and arms",
+                    "Improves balance and stability",
+                    "Stimulates digestion and relieves constipation",
+                    "Calms the mind and reduces stress"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Gastrocnemius",
+                    "Soleus"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "standing calf raise",
+                    "seated calf raise",
+                    "donkey calf raise",
+                    "smith machine calf raise",
+                    "single-leg calf raise"
+                ]
+            }
+        }
+    ]
+}

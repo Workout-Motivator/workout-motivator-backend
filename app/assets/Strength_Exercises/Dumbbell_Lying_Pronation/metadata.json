@@ -1,0 +1,61 @@
+{
+    "title": "Dumbbell Lying Pronation",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying face down on a flat bench with a dumbbell in each hand.",
+                    "Extend your arms straight out in front of you, palms facing down.",
+                    "Slowly rotate your palms so that they are facing up, while keeping your arms straight.",
+                    "Pause for a moment at the top of the movement, then slowly rotate your palms back down to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the muscles in the chest, shoulders, and triceps",
+                    "Improves stability and balance in the upper body",
+                    "Increases range of motion in the shoulders",
+                    "Helps to correct posture by strengthening the muscles that pull the shoulders back",
+                    "Can be done with a variety of weights and variations to target different muscle groups"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Chest muscles (pectoralis major and minor)",
+                    "Shoulder muscles (anterior deltoid)",
+                    "Triceps brachii"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Lying Supination",
+                    "Dumbbell Lying Neutral Grip",
+                    "Dumbbell Lying Hammer Grip",
+                    "Dumbbell Lying Incline Pronation",
+                    "Dumbbell Lying Incline Supination"
+                ]
+            }
+        }
+    ]
+}

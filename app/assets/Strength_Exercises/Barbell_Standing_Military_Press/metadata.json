@@ -1,0 +1,63 @@
+{
+    "title": "Barbell Standing Military Press",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by standing with your feet shoulder-width apart and your knees slightly bent.",
+                    "Grasp the barbell with an overhand grip, with your hands slightly wider than shoulder-width apart.",
+                    "Lift the barbell up to your shoulders, keeping your elbows pointed forward.",
+                    "Press the barbell up above your head, extending your arms fully.",
+                    "Lower the barbell back down to your shoulders, keeping your elbows pointed forward.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets multiple muscle groups including shoulders, triceps, and upper back",
+                    "Improves upper body strength and power",
+                    "Increases shoulder stability and mobility",
+                    "Can be modified for different fitness levels and goals",
+                    "Helps improve posture and overall body alignment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Deltoids (shoulders)",
+                    "Triceps",
+                    "Trapezius (upper back)",
+                    "Rotator cuff muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Standing Military Press",
+                    "Seated Military Press",
+                    "Push Press",
+                    "Arnold Press",
+                    "Single Arm Dumbbell Press"
+                ]
+            }
+        }
+    ]
+}

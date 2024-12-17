@@ -1,0 +1,71 @@
+{
+    "title": "Kettlebell Full Swing",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and place the kettlebell on the ground in front of you.",
+                    "Bend your knees and hinge at the hips to grab the kettlebell with both hands.",
+                    "Swing the kettlebell back between your legs, keeping your arms straight and your back flat.",
+                    "Drive your hips forward and swing the kettlebell up to shoulder height, using the momentum to lift the weight.",
+                    "As the kettlebell reaches the top of the swing, squeeze your glutes and engage your core to maintain control.",
+                    "Allow the kettlebell to swing back down between your legs, keeping your arms straight and your back flat.",
+                    "Repeat the movement for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Full body workout",
+                    "Improves cardiovascular endurance",
+                    "Increases strength and power in the hips, glutes, and core",
+                    "Improves grip strength",
+                    "Low impact exercise",
+                    "Can be done with minimal equipment",
+                    "Burns a high number of calories",
+                    "Improves posture and balance"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Glutes",
+                    "Hamstrings",
+                    "Quadriceps",
+                    "Core muscles (abdominals, obliques, lower back)",
+                    "Shoulders",
+                    "Forearms"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Kettlebell One-Arm Swing",
+                    "Kettlebell Two-Arm Swing",
+                    "Kettlebell Alternating Swing",
+                    "Kettlebell Double Swing",
+                    "Kettlebell Swing with High Pull",
+                    "Kettlebell Swing with Clean",
+                    "Kettlebell Swing with Snatch"
+                ]
+            }
+        }
+    ]
+}

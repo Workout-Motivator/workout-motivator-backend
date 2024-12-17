@@ -1,0 +1,68 @@
+{
+    "title": "Hip Thrusts",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by sitting on the ground with your back against a bench or step.",
+                    "Place a barbell across your hips and hold it in place with your hands.",
+                    "Plant your feet firmly on the ground, hip-width apart.",
+                    "Engage your glutes and lift your hips up towards the ceiling, squeezing your glutes at the top of the movement.",
+                    "Lower your hips back down to the ground, but don\u2019t let them touch the ground before starting the next repetition.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the glutes, hamstrings, and lower back muscles",
+                    "Improves hip extension and overall lower body strength",
+                    "Can help improve posture and reduce lower back pain",
+                    "Can be modified to increase or decrease difficulty based on fitness level",
+                    "Can be done with or without weights, making it a versatile exercise option"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Glutes",
+                    "Hamstrings",
+                    "Quadriceps",
+                    "Erector Spinae",
+                    "Abdominals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single-leg hip thrusts",
+                    "Weighted hip thrusts",
+                    "Banded hip thrusts",
+                    "Barbell hip thrusts",
+                    "Glute bridge hip thrusts",
+                    "Sumo stance hip thrusts",
+                    "Paused hip thrusts",
+                    "Isometric holds at the top of the hip thrust",
+                    "Reverse hyperextensions"
+                ]
+            }
+        }
+    ]
+}

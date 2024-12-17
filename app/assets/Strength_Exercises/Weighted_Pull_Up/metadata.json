@@ -1,0 +1,70 @@
+{
+    "title": "Weighted Pull Up",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Attach a weight to a weight belt or hold a dumbbell between your feet.",
+                    "Hang from a pull-up bar with your palms facing away from you and your arms fully extended.",
+                    "Engage your shoulder blades and pull yourself up towards the bar until your chin is above the bar.",
+                    "Lower yourself back down to the starting position with control.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Increases upper body strength and muscle mass",
+                    "Targets multiple muscle groups including the back, biceps, and shoulders",
+                    "Improves grip strength and forearm muscles",
+                    "Can be modified for different fitness levels by adjusting weight or using assistance bands",
+                    "Helps with overall body control and stability"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Latissimus dorsi",
+                    "Trapezius",
+                    "Rhomboids",
+                    "Biceps brachii",
+                    "Brachialis",
+                    "Brachioradialis",
+                    "Forearm muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Assisted Pull Up",
+                    "Chin Up",
+                    "Neutral Grip Pull Up",
+                    "Commando Pull Up",
+                    "Wide Grip Pull Up",
+                    "Close Grip Pull Up",
+                    "Behind the Neck Pull Up",
+                    "One Arm Pull Up",
+                    "Explosive Pull Up",
+                    "Isometric Pull Up"
+                ]
+            }
+        }
+    ]
+}

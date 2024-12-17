@@ -1,0 +1,70 @@
+{
+    "title": "Revolved Chair",
+    "description": "A stretch exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by standing with your feet hip-width apart and your arms extended in front of you.",
+                    "Bend your knees and lower your hips as if you were sitting in a chair.",
+                    "Twist your torso to the right, bringing your left elbow to the outside of your right knee.",
+                    "Hold the pose for a few breaths, then return to center.",
+                    "Repeat the twist on the other side, bringing your right elbow to the outside of your left knee.",
+                    "Hold the pose for a few breaths, then return to center.",
+                    "Repeat the sequence for several rounds, twisting back and forth between each side."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Stretches the hamstrings, hips, and spine",
+                    "Improves digestion and relieves constipation",
+                    "Stimulates the liver and kidneys",
+                    "Calms the mind and reduces stress",
+                    "Improves balance and coordination",
+                    "Strengthens the legs and core muscles",
+                    "Increases flexibility in the hips and lower back",
+                    "Can help alleviate menstrual discomfort"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Abdominals",
+                    "Obliques",
+                    "Erector spinae"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Revolved Chair with a Twist",
+                    "Revolved Chair with a Bind",
+                    "Revolved Chair with a Side Stretch",
+                    "Revolved Chair with a Forward Fold",
+                    "Revolved Chair with a Quad Stretch"
+                ]
+            }
+        }
+    ]
+}

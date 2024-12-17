@@ -1,0 +1,66 @@
+{
+    "title": "Kettlebell Side Plank",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by placing a kettlebell on the ground next to you.",
+                    "Assume a side plank position with your elbow on the ground and your feet stacked on top of each other.",
+                    "Reach down and grab the kettlebell with your free hand.",
+                    "Lift the kettlebell up towards the ceiling, keeping your arm straight and your core engaged.",
+                    "Hold the kettlebell in this position for a few seconds, then lower it back down to the ground.",
+                    "Repeat this movement for several reps, then switch sides and repeat on the other side."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves grip strength",
+                    "Increases power and explosiveness in the hips and legs",
+                    "Develops core stability and strength",
+                    "Targets the shoulders, back, and arms",
+                    "Improves cardiovascular endurance",
+                    "Can be used for full-body workouts or as a standalone exercise",
+                    "Can be modified for different fitness levels and goals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Obliques",
+                    "Glutes",
+                    "Quadratus Lumborum",
+                    "Transverse Abdominis",
+                    "Erector Spinae"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "kettlebell side plank with arm raise",
+                    "kettlebell side plank with leg lift",
+                    "kettlebell side plank with row",
+                    "kettlebell side plank with hip dip",
+                    "kettlebell side plank with twist"
+                ]
+            }
+        }
+    ]
+}

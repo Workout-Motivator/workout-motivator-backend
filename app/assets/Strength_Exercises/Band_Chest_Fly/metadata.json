@@ -1,0 +1,62 @@
+{
+    "title": "Band Chest Fly",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Adjust the cable pulleys to the highest position and attach the handles.",
+                    "Stand in the center of the cable machine with one foot in front of the other for stability.",
+                    "Grasp the handles with your palms facing forward and your arms extended out to the sides at shoulder height.",
+                    "Slowly bring your arms together in front of your chest, keeping a slight bend in your elbows.",
+                    "Pause for a moment, then slowly return your arms to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the rectus abdominis (six-pack muscles)",
+                    "Engages the obliques and hip flexors",
+                    "Improves core stability and balance",
+                    "Increases overall abdominal strength",
+                    "Can be modified for different fitness levels by adjusting band resistance"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Pectoralis major",
+                    "Anterior deltoids",
+                    "Triceps brachii"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Band chest fly with resistance band",
+                    "Single-arm band chest fly",
+                    "Standing band chest fly",
+                    "Incline band chest fly",
+                    "Decline band chest fly"
+                ]
+            }
+        }
+    ]
+}

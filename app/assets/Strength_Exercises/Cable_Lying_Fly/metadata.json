@@ -1,0 +1,67 @@
+{
+    "title": "Cable Lying Fly",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying flat on your back on a bench or mat with your feet flat on the ground and your knees bent.",
+                    "Hold a cable handle in each hand with your arms extended straight up above your chest, palms facing each other.",
+                    "Slowly lower your arms out to the sides, keeping a slight bend in your elbows, until your hands are level with your chest.",
+                    "Pause for a moment, then slowly bring your arms back up to the starting position, squeezing your chest muscles as you go.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the chest muscles, specifically the pectoralis major and minor",
+                    "Allows for a greater range of motion compared to traditional dumbbell fly exercises",
+                    "Provides constant tension throughout the movement, leading to greater muscle activation and growth",
+                    "Can be easily adjusted to target different areas of the chest by changing the angle of the cables",
+                    "Engages the stabilizer muscles in the shoulders and core, improving overall strength and stability"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Chest muscles (pectoralis major and minor)",
+                    "Shoulder muscles (anterior deltoids)"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Cable Standing Fly",
+                    "Dumbbell Lying Fly",
+                    "Dumbbell Standing Fly",
+                    "Machine Lying Fly",
+                    "Machine Standing Fly",
+                    "Pec Deck Fly",
+                    "Resistance Band Lying Fly",
+                    "Resistance Band Standing Fly",
+                    "Single Arm Cable Fly",
+                    "Single Arm Dumbbell Fly",
+                    "Single Arm Machine Fly",
+                    "Single Arm Resistance Band Fly"
+                ]
+            }
+        }
+    ]
+}

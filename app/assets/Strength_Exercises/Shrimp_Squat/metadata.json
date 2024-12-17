@@ -1,0 +1,69 @@
+{
+    "title": "Shrimp Squat",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet hip-width apart and your arms at your sides.",
+                    "Lift your right foot off the ground and extend it forward, keeping your toes pointed.",
+                    "Bend your left knee and lower your body down towards the ground, keeping your right leg extended in front of you.",
+                    "Lower your body as far as you can, keeping your left knee behind your toes and your right foot off the ground.",
+                    "Push through your left heel to stand back up to the starting position.",
+                    "Repeat on the other side, lifting your left foot off the ground and extending it forward.",
+                    "Complete 10-12 reps on each leg for 3-4 sets."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves balance and stability",
+                    "Strengthens the quadriceps, hamstrings, glutes, and calves",
+                    "Increases ankle mobility and flexibility",
+                    "Engages the core muscles for improved posture and spinal alignment",
+                    "Can be modified for different fitness levels and goals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Shrimp Lunge",
+                    "Shrimp Squat with Dumbbell",
+                    "Shrimp Squat with Kettlebell",
+                    "Shrimp Squat with Barbell",
+                    "Shrimp Squat with Resistance Band",
+                    "Shrimp Squat with TRX Suspension Trainer",
+                    "Shrimp Squat with Bosu Ball",
+                    "Shrimp Squat with Stability Ball",
+                    "Shrimp Squat with Medicine Ball"
+                ]
+            }
+        }
+    ]
+}

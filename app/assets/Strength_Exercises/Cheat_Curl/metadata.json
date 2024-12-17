@@ -1,0 +1,61 @@
+{
+    "title": "Cheat Curl",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a dumbbell in each hand with your palms facing up.",
+                    "Keeping your elbows close to your sides, curl the dumbbells up towards your shoulders.",
+                    "As you reach the top of the curl, twist your wrists so that your palms are facing down.",
+                    "Lower the dumbbells back down to the starting position with your palms facing up.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the biceps muscles",
+                    "Allows for heavier weights to be lifted compared to traditional bicep curls",
+                    "Can help break through plateaus in bicep strength and size",
+                    "Engages the forearms and grip strength as well",
+                    "Can be used as a variation in bicep workouts for added variety and challenge"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Biceps brachii",
+                    "Brachialis",
+                    "Brachioradialis"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Reverse grip cheat curl",
+                    "Standing cheat curl",
+                    "Seated cheat curl",
+                    "One-arm cheat curl",
+                    "Close-grip cheat curl"
+                ]
+            }
+        }
+    ]
+}

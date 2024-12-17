@@ -1,0 +1,67 @@
+{
+    "title": "Sitting Wide Leg Adductor Stretch",
+    "description": "A stretch exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by sitting on the floor with your legs stretched out in front of you.",
+                    "Slowly spread your legs as wide as you can while keeping your knees straight.",
+                    "Place your hands on the floor in front of you and slowly walk them forward, bending at the waist.",
+                    "Continue walking your hands forward until you feel a stretch in your inner thighs.",
+                    "Hold the stretch for 20-30 seconds, breathing deeply.",
+                    "Slowly walk your hands back towards your body and bring your legs back together."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Stretches the adductor muscles in the inner thighs",
+                    "Improves flexibility and range of motion in the hips and groin area",
+                    "Relieves tension and tightness in the lower body",
+                    "Can help alleviate lower back pain and improve posture",
+                    "Can be modified for different levels of flexibility and comfort"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Inner thigh muscles (adductors)",
+                    "Hamstrings",
+                    "Glutes"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Standing Wide Leg Adductor Stretch",
+                    "Seated Butterfly Stretch",
+                    "Deep Squat Hold",
+                    "Sumo Squat Hold",
+                    "Side Lunge Stretch",
+                    "Wall Sit with Leg Abduction",
+                    "Single Leg Frog Stretch",
+                    "Seated Straddle Stretch",
+                    "Happy Baby Pose",
+                    "Reclined Bound Angle Pose"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "title": "Dumbbell V Up",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying flat on your back with your legs straight and your arms extended above your head, holding a dumbbell in both hands.",
+                    "Engage your core and lift your legs and arms simultaneously, keeping them straight.",
+                    "As you lift your legs and arms, bring the dumbbell towards your feet, forming a V shape with your body.",
+                    "Hold the position for a few seconds, then slowly lower your legs and arms back down to the starting position.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the rectus abdominis, obliques, and hip flexors",
+                    "Improves core strength and stability",
+                    "Increases flexibility in the hamstrings and lower back",
+                    "Can be modified for different fitness levels by adjusting weight or reps",
+                    "Can be done at home or in the gym with minimal equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus abdominis",
+                    "Obliques",
+                    "Hip flexors"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Russian Twist",
+                    "Dumbbell Side Bend",
+                    "Dumbbell Woodchopper",
+                    "Dumbbell Oblique Crunch",
+                    "Dumbbell Bicycle Crunch"
+                ]
+            }
+        }
+    ]
+}

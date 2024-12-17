@@ -1,0 +1,64 @@
+{
+    "title": "Spine Twist",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by sitting on the floor with your legs extended in front of you.",
+                    "Bend your right knee and place your foot on the outside of your left knee.",
+                    "Place your left hand on your right knee and your right hand behind you on the floor.",
+                    "Inhale and lengthen your spine.",
+                    "Exhale and twist your torso to the right, using your left hand to gently guide your knee further to the right.",
+                    "Hold the twist for a few breaths, then release and repeat on the other side."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves spinal mobility and flexibility",
+                    "Stretches the muscles of the back, hips, and obliques",
+                    "Helps to relieve tension and tightness in the spine",
+                    "Can improve posture and alignment",
+                    "May help to alleviate lower back pain",
+                    "Can be done seated or lying down, making it accessible for most people"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Obliques",
+                    "Transverse Abdominis",
+                    "Erector Spinae",
+                    "Quadratus Lumborum"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Spine Twist with arms extended",
+                    "Spine Twist with weights",
+                    "Seated Spine Twist",
+                    "Standing Spine Twist",
+                    "Spine Twist on a stability ball"
+                ]
+            }
+        }
+    ]
+}

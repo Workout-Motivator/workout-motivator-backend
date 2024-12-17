@@ -1,0 +1,62 @@
+{
+    "title": "Incline Push Press",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by setting up an incline bench at a 45-degree angle.",
+                    "Grab a pair of dumbbells and sit on the bench with your feet firmly planted on the ground.",
+                    "Hold the dumbbells at shoulder height with your palms facing forward.",
+                    "Press the dumbbells up and overhead, extending your arms fully.",
+                    "Lower the dumbbells back down to shoulder height, keeping your elbows slightly bent.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the upper chest, shoulders, and triceps",
+                    "Increases upper body strength and power",
+                    "Improves shoulder stability and mobility",
+                    "Engages the core muscles for added stability and balance",
+                    "Can be modified for different fitness levels and goals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Chest muscles (pectoralis major and minor)",
+                    "Shoulder muscles (anterior deltoids)",
+                    "Triceps brachii"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Incline Dumbbell Press",
+                    "Incline Barbell Press",
+                    "Incline Smith Machine Press",
+                    "Incline Hammer Strength Press",
+                    "Incline Cable Press"
+                ]
+            }
+        }
+    ]
+}

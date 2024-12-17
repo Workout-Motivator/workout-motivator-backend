@@ -1,0 +1,63 @@
+{
+    "title": "Single Arm Push Up",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start in a plank position with your hands shoulder-width apart and your feet hip-width apart.",
+                    "Shift your weight onto your left hand and rotate your body to the right, extending your right arm straight out to the side.",
+                    "Bend your left elbow and lower your body towards the ground, keeping your right arm extended.",
+                    "Push back up to the starting position, keeping your core engaged and your body in a straight line.",
+                    "Repeat on the other side, shifting your weight onto your right hand and extending your left arm out to the side.",
+                    "Continue alternating sides for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Increases upper body strength",
+                    "Improves core stability and balance",
+                    "Targets specific muscle groups such as chest, triceps, and shoulders",
+                    "Challenges the body in a unique way, leading to greater overall fitness",
+                    "Can be modified to suit different fitness levels and abilities"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Chest muscles (pectoralis major and minor)",
+                    "Shoulder muscles (deltoids)",
+                    "Triceps",
+                    "Core muscles (abdominals and obliques)"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Clap Push up",
+                    "Spiderman Push up",
+                    "One Leg Push up",
+                    "Decline Single Arm Push up",
+                    "Explosive Single Arm Push up"
+                ]
+            }
+        }
+    ]
+}

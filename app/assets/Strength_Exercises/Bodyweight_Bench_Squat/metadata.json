@@ -1,0 +1,69 @@
+{
+    "title": "Bodyweight Bench Squat",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by standing with your feet shoulder-width apart and your arms extended in front of you.",
+                    "Lower your body down into a squat position, keeping your back straight and your knees behind your toes.",
+                    "Push through your heels to stand back up to the starting position.",
+                    "Next, walk over to a bench or sturdy surface and place your hands on the edge with your fingers facing forward.",
+                    "Step your feet back so that your body is in a plank position, with your arms straight and your core engaged.",
+                    "Bend your elbows to lower your body down towards the bench, keeping your elbows close to your sides.",
+                    "Push through your palms to straighten your arms and lift your body back up to the starting position.",
+                    "Finally, stand with your feet shoulder-width apart and hold a barbell or dumbbells at shoulder height.",
+                    "Lower your body down into a squat position, keeping your back straight and your knees behind your toes.",
+                    "Push through your heels to stand back up to the starting position."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves hand-eye coordination",
+                    "Increases arm strength and endurance",
+                    "Enhances focus and concentration",
+                    "Provides cardiovascular exercise",
+                    "Can be done alone or with a group",
+                    "Can be a fun and unique way to exercise",
+                    "Can be done outdoors in a variety of settings",
+                    "Can be a low-impact exercise option"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "bodyweight",
+                    "bench",
+                    "squat"
+                ]
+            }
+        }
+    ]
+}

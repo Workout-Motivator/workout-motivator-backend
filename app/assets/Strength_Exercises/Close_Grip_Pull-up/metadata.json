@@ -1,0 +1,66 @@
+{
+    "title": "Close Grip Pull-up",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Find a pull-up bar and grip it with your palms facing towards you, hands shoulder-width apart.",
+                    "Hang from the bar with your arms fully extended and your feet off the ground.",
+                    "Engage your core and pull your shoulder blades down and back.",
+                    "Bend your elbows and pull your chest towards the bar, keeping your elbows close to your body.",
+                    "Pause at the top of the movement and squeeze your shoulder blades together.",
+                    "Slowly lower yourself back down to the starting position with control.",
+                    "Repeat for desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the back muscles, specifically the lats, rhomboids, and traps",
+                    "Engages the biceps and forearms as secondary muscles",
+                    "Improves grip strength",
+                    "Increases upper body strength and endurance",
+                    "Can be modified for different fitness levels by using assistance bands or adding weight",
+                    "Helps improve posture and reduce the risk of back pain"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Biceps",
+                    "Forearms",
+                    "Latissimus Dorsi",
+                    "Trapezius",
+                    "Rhomboids"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Wide Grip Pull-Up",
+                    "Chin-Up",
+                    "Neutral Grip Pull-Up",
+                    "Assisted Pull-Up",
+                    "Weighted Pull-Up"
+                ]
+            }
+        }
+    ]
+}

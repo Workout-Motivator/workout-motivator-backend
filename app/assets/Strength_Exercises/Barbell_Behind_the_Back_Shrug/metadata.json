@@ -1,0 +1,62 @@
+{
+    "title": "Barbell Behind the Back Shrug",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your knees slightly bent.",
+                    "Hold a barbell with an overhand grip behind your back, resting it on your glutes.",
+                    "Keeping your arms straight, shrug your shoulders up towards your ears.",
+                    "Hold the contraction for a second, then lower your shoulders back down.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the trapezius muscles in the upper back",
+                    "Improves posture and shoulder stability",
+                    "Increases grip strength",
+                    "Can help prevent neck and shoulder pain",
+                    "Can be easily modified for different fitness levels by adjusting weight and reps"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Trapezius",
+                    "Rhomboids",
+                    "Erector Spinae",
+                    "Levator Scapulae"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Behind The Back Shrug",
+                    "Smith Machine Behind The Back Shrug",
+                    "Kettlebell Behind The Back Shrug",
+                    "Trap Bar Behind The Back Shrug",
+                    "Cable Behind The Back Shrug"
+                ]
+            }
+        }
+    ]
+}

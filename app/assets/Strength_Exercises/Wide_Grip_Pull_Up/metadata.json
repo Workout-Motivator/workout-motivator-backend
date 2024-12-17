@@ -1,0 +1,70 @@
+{
+    "title": "Wide Grip Pull Up",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Find a pull-up bar that is high enough for you to hang from without your feet touching the ground.",
+                    "Stand underneath the bar and reach up to grab it with both hands, palms facing away from you and hands wider than shoulder-width apart.",
+                    "Hang from the bar with your arms fully extended and your feet off the ground.",
+                    "Engage your back muscles and pull your body up towards the bar, keeping your elbows wide and your shoulders down.",
+                    "Continue pulling until your chin is above the bar.",
+                    "Pause briefly at the top of the movement, then slowly lower yourself back down to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets multiple muscle groups including the back, shoulders, and arms",
+                    "Improves grip strength and overall upper body strength",
+                    "Increases muscle definition and tone in the upper body",
+                    "Can be modified for different fitness levels by using assistance bands or adjusting the grip width",
+                    "Helps improve posture and reduce the risk of back pain"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Latissimus dorsi",
+                    "Trapezius",
+                    "Rhomboids",
+                    "Biceps brachii",
+                    "Brachialis",
+                    "Brachioradialis"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Narrow Grip Pull Up",
+                    "Chin Up",
+                    "Assisted Pull Up",
+                    "Weighted Pull Up",
+                    "Commando Pull Up",
+                    "Muscle Up",
+                    "Behind the Neck Pull Up",
+                    "One Arm Pull Up",
+                    "L-Sit Pull Up"
+                ]
+            }
+        }
+    ]
+}

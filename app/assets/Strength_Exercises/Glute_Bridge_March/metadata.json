@@ -1,0 +1,63 @@
+{
+    "title": "Glute Bridge March",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on your back with your knees bent and feet flat on the ground.",
+                    "Engage your core and glutes to lift your hips up towards the ceiling, creating a straight line from your shoulders to your knees.",
+                    "Lift one foot off the ground, bringing your knee towards your chest while keeping your hips level.",
+                    "Lower your foot back down to the ground and repeat on the other side.",
+                    "Continue alternating legs for the desired number of repetitions.",
+                    "Lower your hips back down to the ground to complete the exercise."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the glutes, hamstrings, and core muscles",
+                    "Improves hip mobility and stability",
+                    "Helps alleviate lower back pain by strengthening the muscles that support the spine",
+                    "Can be modified for different fitness levels and abilities",
+                    "Requires minimal equipment and can be done at home or in the gym"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Gluteus Maximus",
+                    "Hamstrings",
+                    "Quadriceps",
+                    "Core muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single Leg Glute Bridge March",
+                    "Weighted Glute Bridge March",
+                    "Resistance Band Glute Bridge March",
+                    "Glute Bridge March with Knee Drive",
+                    "Glute Bridge March with Dumbbell Press"
+                ]
+            }
+        }
+    ]
+}

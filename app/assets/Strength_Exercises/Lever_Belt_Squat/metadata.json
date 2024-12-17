@@ -1,0 +1,74 @@
+{
+    "title": "Lever Belt Squat",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Put on a lever belt and adjust it to fit snugly around your waist.",
+                    "Load the barbell with an appropriate weight and place it on a squat rack at shoulder height.",
+                    "Stand facing the barbell with your feet shoulder-width apart and your toes pointing slightly outward.",
+                    "Step forward and position yourself under the barbell so that it rests on your upper back, just below your neck.",
+                    "Grasp the barbell with both hands, keeping your elbows pointed down and your wrists straight.",
+                    "Take a deep breath and brace your core muscles.",
+                    "Bend your knees and lower your body until your thighs are parallel to the ground.",
+                    "Push through your heels and stand back up to the starting position.",
+                    "Repeat for the desired number of repetitions.",
+                    "When finished, carefully step forward and rack the barbell back on the squat rack.",
+                    "Remove the lever belt and stretch your legs and lower back."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets multiple muscle groups including quads, hamstrings, glutes, and lower back",
+                    "Allows for heavier weight to be lifted compared to traditional squats",
+                    "Provides support and stability to the lower back through the use of a lever belt",
+                    "Can improve overall squat form and technique",
+                    "May be a good alternative for individuals with mobility or flexibility limitations"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Front Squat",
+                    "Back Squat",
+                    "Sumo Squat",
+                    "Goblet Squat",
+                    "Bulgarian Split Squat",
+                    "Box Squat",
+                    "Overhead Squat",
+                    "Zercher Squat",
+                    "Single Leg Squat",
+                    "Paused Squat"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "title": "Barbell Clean Deadlift",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart, with the barbell on the floor in front of you.",
+                    "Bend down and grip the barbell with both hands, palms facing down and hands shoulder-width apart.",
+                    "Engage your core and lift the barbell up to your thighs, keeping your back straight and your arms extended.",
+                    "Lower the barbell back down to the floor, keeping your back straight and your core engaged.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the posterior chain muscles, including the hamstrings, glutes, and lower back",
+                    "Improves explosive power and speed",
+                    "Increases grip strength and forearm development",
+                    "Enhances overall athleticism and functional movement patterns",
+                    "Can be used as a precursor to the full barbell clean exercise"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Erector Spinae",
+                    "Glutes",
+                    "Hamstrings",
+                    "Quadriceps",
+                    "Calves",
+                    "Forearms",
+                    "Trapezius",
+                    "Rhomboids",
+                    "Deltoids"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single-leg Barbell Clean Deadlift",
+                    "Sumo Barbell Clean Deadlift",
+                    "Deficit Barbell Clean Deadlift",
+                    "Trap Bar Clean Deadlift",
+                    "Snatch Grip Barbell Clean Deadlift"
+                ]
+            }
+        }
+    ]
+}

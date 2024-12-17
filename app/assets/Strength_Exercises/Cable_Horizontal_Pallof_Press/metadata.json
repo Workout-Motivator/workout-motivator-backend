@@ -1,0 +1,64 @@
+{
+    "title": "Cable Horizontal Pallof Press",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand perpendicular to a cable machine with your feet shoulder-width apart.",
+                    "Grasp the handle with both hands and bring it to your chest.",
+                    "Extend your arms straight out in front of you, keeping your hands at chest height.",
+                    "Brace your core and resist the pull of the cable as you hold this position for a few seconds.",
+                    "Slowly bring the handle back to your chest and repeat for desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves core stability and strength",
+                    "Targets the obliques and transverse abdominis muscles",
+                    "Helps to prevent lower back pain and injury",
+                    "Increases overall balance and coordination",
+                    "Can be modified for different fitness levels and goals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Obliques",
+                    "Transverse Abdominis",
+                    "Erector Spinae",
+                    "Glutes",
+                    "Quadriceps",
+                    "Hamstrings"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Cable half-kneeling Pallof press",
+                    "Cable standing Pallof press",
+                    "Cable Pallof press with rotation",
+                    "Cable Pallof press with lunge",
+                    "Cable Pallof press with squat"
+                ]
+            }
+        }
+    ]
+}

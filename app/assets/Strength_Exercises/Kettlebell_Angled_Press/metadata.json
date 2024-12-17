@@ -1,0 +1,63 @@
+{
+    "title": "Kettlebell Angled Press",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a kettlebell in your right hand at shoulder height, with your elbow bent and the kettlebell resting on the back of your forearm.",
+                    "Engage your core and press the kettlebell up and away from your body at a 45-degree angle, keeping your elbow close to your body.",
+                    "Pause at the top of the movement, then slowly lower the kettlebell back down to your shoulder.",
+                    "Repeat for the desired number of reps, then switch sides and repeat with your left arm."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets multiple muscle groups including shoulders, triceps, and core",
+                    "Improves shoulder stability and mobility",
+                    "Increases upper body strength and power",
+                    "Engages the core muscles for added stability and balance",
+                    "Can be modified for different fitness levels and goals",
+                    "Provides a cardiovascular workout when performed in a circuit or high-intensity interval training (HIIT) format"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Shoulders (deltoids)",
+                    "Triceps",
+                    "Chest (pectoralis major)",
+                    "Core (abdominals and obliques)"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Kettlebell Single Arm Press",
+                    "Kettlebell Double Arm Press",
+                    "Kettlebell Bottoms Up Press",
+                    "Kettlebell Clean and Press",
+                    "Kettlebell Push Press",
+                    "Kettlebell Jerk"
+                ]
+            }
+        }
+    ]
+}

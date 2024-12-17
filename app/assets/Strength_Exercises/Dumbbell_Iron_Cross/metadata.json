@@ -1,0 +1,62 @@
+{
+    "title": "Dumbbell Iron Cross",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a dumbbell in each hand.",
+                    "Extend your arms out to the sides, parallel to the ground, with your palms facing down.",
+                    "Slowly bring the dumbbells together in front of your chest, crossing them over each other.",
+                    "Pause for a moment, then slowly lower the dumbbells back to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the chest muscles, specifically the pectoralis major and minor",
+                    "Helps to improve upper body strength and endurance",
+                    "Engages the stabilizer muscles in the shoulders and arms",
+                    "Can be modified to target different areas of the chest by adjusting the angle of the arms",
+                    "Can be performed with a variety of weights to increase or decrease the intensity of the exercise",
+                    "Can be done at home or in the gym with minimal equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Pectoralis Major",
+                    "Anterior Deltoids",
+                    "Triceps Brachii"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Flyes",
+                    "Cable Crossover",
+                    "Pec Deck Machine",
+                    "Push-ups",
+                    "Incline Dumbbell Flyes"
+                ]
+            }
+        }
+    ]
+}

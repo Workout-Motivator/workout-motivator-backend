@@ -1,0 +1,64 @@
+{
+    "title": "Dumbbell Walking Lunge",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand up straight with your feet shoulder-width apart and hold a dumbbell in each hand.",
+                    "Take a step forward with your right foot and lower your body until your right thigh is parallel to the ground.",
+                    "Make sure your left knee is almost touching the ground.",
+                    "Push off your right foot and bring it back to the starting position.",
+                    "Repeat the same movement with your left foot.",
+                    "Continue alternating legs for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the lower body muscles, including the quadriceps, hamstrings, glutes, and calves",
+                    "Improves overall balance and stability",
+                    "Increases core strength and engages the abdominal muscles",
+                    "Can help improve posture and reduce lower back pain",
+                    "Can be modified to target different muscle groups or increase difficulty"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "barbell walking lunge",
+                    "reverse dumbbell walking lunge",
+                    "stationary lunge",
+                    "curtsy lunge",
+                    "side lunge"
+                ]
+            }
+        }
+    ]
+}

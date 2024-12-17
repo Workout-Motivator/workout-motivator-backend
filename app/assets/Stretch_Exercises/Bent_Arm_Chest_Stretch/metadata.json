@@ -1,0 +1,63 @@
+{
+    "title": "Bent Arm Chest Stretch",
+    "description": "A stretch exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your arms at your sides.",
+                    "Bend your elbows and bring your hands up to your shoulders, keeping your elbows close to your body.",
+                    "Clasp your hands together behind your back, with your palms facing inward.",
+                    "Gently pull your hands away from your back, keeping your elbows bent and your shoulders relaxed.",
+                    "Hold the stretch for 15-30 seconds, breathing deeply.",
+                    "Release the stretch and repeat on the other side."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Relieves tension and tightness in the chest muscles",
+                    "Improves posture by opening up the chest and shoulders",
+                    "Increases flexibility in the shoulders and upper back",
+                    "Can help alleviate pain and discomfort in the neck and shoulders",
+                    "May improve breathing and lung capacity"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Pectoralis Major",
+                    "Pectoralis Minor",
+                    "Anterior Deltoid",
+                    "Biceps Brachii"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Standing Bent Arm Chest Stretch",
+                    "Seated Bent Arm Chest Stretch",
+                    "Wall Bent Arm Chest Stretch",
+                    "Doorway Bent Arm Chest Stretch",
+                    "Partner Bent Arm Chest Stretch"
+                ]
+            }
+        }
+    ]
+}

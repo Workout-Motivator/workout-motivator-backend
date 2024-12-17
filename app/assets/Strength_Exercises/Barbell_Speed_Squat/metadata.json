@@ -1,0 +1,74 @@
+{
+    "title": "Barbell Speed Squat",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by setting up a barbell on a squat rack at about chest height.",
+                    "Add weight plates to the barbell according to your strength and fitness level.",
+                    "Stand in front of the barbell with your feet shoulder-width apart.",
+                    "Step forward and position yourself under the barbell so that it rests on your upper back, just below your neck.",
+                    "Grasp the barbell with both hands, keeping your elbows pointed down and your wrists straight.",
+                    "Take a deep breath and brace your core muscles.",
+                    "Lower your body down into a squat position, keeping your back straight and your knees in line with your toes.",
+                    "As you descend, focus on maintaining a fast and explosive movement.",
+                    "Once you reach the bottom of the squat, quickly reverse the movement and drive your body back up to the starting position.",
+                    "Repeat the exercise for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves explosive power and speed",
+                    "Increases lower body strength and muscle mass",
+                    "Targets the quadriceps, hamstrings, glutes, and calves",
+                    "Improves balance and stability",
+                    "Can be used as a warm-up exercise for heavier squats",
+                    "Can be modified for different fitness levels and goals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Barbell Box Squat",
+                    "Barbell Front Squat",
+                    "Barbell Back Squat",
+                    "Barbell Zercher Squat",
+                    "Barbell Overhead Squat",
+                    "Barbell Hack Squat",
+                    "Barbell Split Squat",
+                    "Barbell Bulgarian Split Squat",
+                    "Barbell Sumo Squat",
+                    "Barbell Goblet Squat"
+                ]
+            }
+        }
+    ]
+}

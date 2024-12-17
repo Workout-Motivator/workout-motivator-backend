@@ -1,0 +1,65 @@
+{
+    "title": "Cable Hip Adduction",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Attach a cable machine to a low pulley and select an appropriate weight.",
+                    "Stand facing the machine with your feet shoulder-width apart.",
+                    "Attach an ankle cuff to your right ankle and fasten it securely.",
+                    "Step away from the machine until there is tension on the cable.",
+                    "Shift your weight onto your left leg and keep your left knee slightly bent.",
+                    "Slowly lift your right leg out to the side, keeping it straight and maintaining tension on the cable.",
+                    "Pause at the top of the movement and squeeze your glutes.",
+                    "Lower your leg back down to the starting position with control.",
+                    "Repeat for the desired number of repetitions on your right leg before switching to your left leg."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the adductor muscles of the hip",
+                    "Improves hip stability and balance",
+                    "Can help prevent injuries in the hip and groin area",
+                    "Targets the inner thigh muscles, which can be difficult to isolate with other exercises",
+                    "Can be easily modified to increase or decrease resistance"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Inner thigh muscles (adductors)",
+                    "Gluteus medius",
+                    "Gluteus minimus"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Standing Cable Hip Adduction",
+                    "Seated Cable Hip Adduction",
+                    "Prone Cable Hip Adduction",
+                    "Supine Cable Hip Adduction",
+                    "Side-Lying Cable Hip Adduction"
+                ]
+            }
+        }
+    ]
+}

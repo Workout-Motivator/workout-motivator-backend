@@ -1,0 +1,78 @@
+{
+    "title": "Dumbbell W Press",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by sitting on a bench with your back straight and your feet flat on the floor.",
+                    "Hold a dumbbell in each hand with your palms facing each other and your arms extended straight up above your head.",
+                    "Slowly lower the dumbbells down and out to the sides of your head, forming a \u201cW\u201d shape with your arms.",
+                    "Pause for a moment, then slowly raise the dumbbells back up to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the shoulders, specifically the anterior and medial deltoids",
+                    "Improves shoulder stability and mobility",
+                    "Engages the core muscles for added stability and balance",
+                    "Can be done with light weights and low impact, making it a great exercise for beginners or those with shoulder injuries",
+                    "Can be easily modified by adjusting the weight or the angle of the arms"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Deltoids (shoulders)",
+                    "Triceps",
+                    "Trapezius (upper back)",
+                    "Rhomboids (upper back)",
+                    "Rotator cuff muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell chest press",
+                    "Dumbbell fly",
+                    "Dumbbell pullover",
+                    "Dumbbell bench press",
+                    "Dumbbell incline press",
+                    "Dumbbell decline press",
+                    "Dumbbell push-up",
+                    "Dumbbell shoulder press",
+                    "Dumbbell lateral raise",
+                    "Dumbbell front raise",
+                    "Dumbbell rear delt fly",
+                    "Dumbbell bent-over row",
+                    "Dumbbell bicep curl",
+                    "Dumbbell hammer curl",
+                    "Dumbbell tricep extension",
+                    "Dumbbell kickback",
+                    "Dumbbell goblet squat",
+                    "Dumbbell lunge",
+                    "Dumbbell step-up",
+                    "Dumbbell deadlift"
+                ]
+            }
+        }
+    ]
+}

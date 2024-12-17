@@ -1,0 +1,62 @@
+{
+    "title": "Cable Incline Pushdown",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Attach a cable to a high pulley and select the desired weight.",
+                    "Stand facing the cable machine with your feet shoulder-width apart.",
+                    "Grasp the cable attachment with an overhand grip and extend your arms straight overhead.",
+                    "Keeping your elbows close to your head, slowly lower the cable attachment behind your head until your forearms are parallel to the ground.",
+                    "Pause briefly, then contract your triceps to push the cable attachment back up to the starting position.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the triceps muscles, helping to build strength and size in the arms",
+                    "Allows for a greater range of motion compared to traditional triceps exercises",
+                    "Engages the chest and shoulders as secondary muscles, providing a full upper body workout",
+                    "Can be easily adjusted to accommodate different fitness levels and goals",
+                    "Helps to improve overall upper body stability and balance"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Triceps brachii",
+                    "Pectoralis major (clavicular head)",
+                    "Deltoid (anterior fibers)"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Reverse Grip Cable Incline Pushdown",
+                    "Single Arm Cable Incline Pushdown",
+                    "Close Grip Cable Incline Pushdown",
+                    "Wide Grip Cable Incline Pushdown",
+                    "Standing Cable Incline Pushdown"
+                ]
+            }
+        }
+    ]
+}

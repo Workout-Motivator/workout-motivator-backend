@@ -1,0 +1,66 @@
+{
+    "title": "Chest Tap Push-up",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start in a plank position with your hands shoulder-width apart and your feet together.",
+                    "Lower your chest towards the ground, tapping your left hand to your right shoulder.",
+                    "Push back up to the plank position.",
+                    "Lower your chest towards the ground again, this time tapping your right hand to your left shoulder.",
+                    "Push back up to the plank position.",
+                    "Bend your elbows and lower your chest towards the ground for a push-up.",
+                    "Push back up to the plank position.",
+                    "Repeat steps 2-7 for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves agility and coordination",
+                    "Increases speed and quickness",
+                    "Enhances footwork and balance",
+                    "Develops reaction time and decision-making skills",
+                    "Provides cardiovascular and muscular endurance training",
+                    "Can be modified for different skill levels and sports"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Chest muscles",
+                    "Triceps",
+                    "Shoulders",
+                    "Core muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "chest-tap-push-up with knee tuck",
+                    "chest-tap-push-up with clap",
+                    "chest-tap-push-up with shoulder tap",
+                    "chest-tap-push-up with single-leg raise",
+                    "chest-tap-push-up with spider crawl"
+                ]
+            }
+        }
+    ]
+}

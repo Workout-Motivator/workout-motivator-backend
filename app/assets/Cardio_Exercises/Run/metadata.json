@@ -1,0 +1,71 @@
+{
+    "title": "Run",
+    "description": "A cardio exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by standing with your feet shoulder-width apart and your arms at your sides.",
+                    "Begin by lifting your right foot off the ground and bringing your knee up towards your chest.",
+                    "As you bring your right knee up, swing your left arm forward and your right arm back.",
+                    "Quickly switch your legs and arms, bringing your left knee up towards your chest while swinging your right arm forward and your left arm back.",
+                    "Continue alternating your legs and arms in a running motion, moving as quickly as you can while maintaining good form.",
+                    "Try to keep your core engaged and your posture upright throughout the exercise.",
+                    "Repeat for the desired number of repetitions or time."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves cardiovascular health",
+                    "Increases endurance and stamina",
+                    "Burns calories and aids in weight loss",
+                    "Strengthens leg muscles",
+                    "Reduces stress and improves mood",
+                    "Boosts immune system",
+                    "Improves bone density",
+                    "Can be done anywhere with no equipment needed"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Calves",
+                    "Glutes",
+                    "Abdominals",
+                    "Obliques",
+                    "Lower back",
+                    "Hip flexors"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Run",
+                    "Running",
+                    "Runner",
+                    "Runs",
+                    "Runners"
+                ]
+            }
+        }
+    ]
+}

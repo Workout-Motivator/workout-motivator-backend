@@ -1,0 +1,72 @@
+{
+    "title": "Standing Lateral Stretch",
+    "description": "A stretch exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your arms at your sides.",
+                    "Extend your right arm straight up towards the ceiling, keeping your left arm at your side.",
+                    "Slowly bend your upper body to the left, keeping your right arm extended overhead.",
+                    "Hold the stretch for 10-15 seconds, feeling the stretch along the right side of your body.",
+                    "Return to the starting position and repeat on the other side, extending your left arm up towards the ceiling and bending to the right.",
+                    "Repeat the stretch on each side 2-3 times."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Stretches the muscles in the sides of the torso, including the obliques and intercostals",
+                    "Improves flexibility and range of motion in the spine",
+                    "Helps to relieve tension and tightness in the shoulders and neck",
+                    "Can improve posture and alignment",
+                    "May help to reduce the risk of injury during physical activity by increasing flexibility and mobility"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Obliques",
+                    "Latissimus dorsi",
+                    "Trapezius",
+                    "Rhomboids",
+                    "Erector spinae"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Seated Lateral Stretch",
+                    "Standing Forward Bend",
+                    "Seated Forward Bend",
+                    "Standing Cat-Cow Stretch",
+                    "Seated Cat-Cow Stretch",
+                    "Standing Spinal Twist",
+                    "Seated Spinal Twist",
+                    "Standing Quadriceps Stretch",
+                    "Seated Quadriceps Stretch",
+                    "Standing Hamstring Stretch",
+                    "Seated Hamstring Stretch",
+                    "Standing Calf Stretch",
+                    "Seated Calf Stretch"
+                ]
+            }
+        }
+    ]
+}

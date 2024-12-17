@@ -1,0 +1,64 @@
+{
+    "title": "Ring Rollout",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start in a plank position with your forearms on the ground and your elbows directly under your shoulders.",
+                    "Place a small ring or towel under your toes.",
+                    "Engage your core and glutes to keep your body in a straight line from head to heels.",
+                    "Slowly roll the ring forward by extending your arms and reaching your body forward.",
+                    "Pause for a moment at the end of the movement, then use your core and arms to roll the ring back to the starting position.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens core muscles",
+                    "Improves balance and stability",
+                    "Stretches inner thighs and groin muscles",
+                    "Increases flexibility in hips and lower back",
+                    "Can help alleviate lower back pain"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Abdominal muscles (rectus abdominis, transverse abdominis)",
+                    "Oblique muscles (internal and external)",
+                    "Shoulder muscles (deltoids, rotator cuff muscles)",
+                    "Chest muscles (pectoralis major and minor)",
+                    "Triceps brachii"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Ring push-up",
+                    "Ring dip",
+                    "Ring row",
+                    "Ring muscle-up",
+                    "Ring handstand push-up"
+                ]
+            }
+        }
+    ]
+}

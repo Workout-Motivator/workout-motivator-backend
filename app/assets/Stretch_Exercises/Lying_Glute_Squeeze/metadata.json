@@ -1,0 +1,61 @@
+{
+    "title": "Lying Glute Squeeze",
+    "description": "A stretch exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on your back with your knees bent and feet flat on the ground.",
+                    "Engage your glutes by squeezing them together.",
+                    "Hold the squeeze for 5-10 seconds.",
+                    "Release the squeeze and relax your glutes.",
+                    "Repeat for 10-15 repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Relieves lower back pain and tension",
+                    "Stretches the hamstrings and glutes",
+                    "Improves flexibility and range of motion in the lower body",
+                    "Can help alleviate sciatica pain",
+                    "Reduces stress and promotes relaxation"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Gluteus maximus",
+                    "Hamstrings",
+                    "Erector spinae"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "standing-glute-squeeze",
+                    "bridging",
+                    "single-leg-bridging",
+                    "clamshells",
+                    "fire-hydrants"
+                ]
+            }
+        }
+    ]
+}

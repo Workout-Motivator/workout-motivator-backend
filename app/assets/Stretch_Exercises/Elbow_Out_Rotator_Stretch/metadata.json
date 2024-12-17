@@ -1,0 +1,65 @@
+{
+    "title": "Elbow Out Rotator Stretch",
+    "description": "A stretch exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your arms at your sides.",
+                    "Bend your right elbow and bring it up to shoulder height, keeping your forearm parallel to the ground.",
+                    "Place your left hand on your right elbow and gently pull it across your chest towards your left shoulder.",
+                    "Hold the stretch for 15-30 seconds, feeling a stretch in your right shoulder and upper back.",
+                    "Release the stretch and repeat on the other side."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Helps to improve shoulder mobility and flexibility",
+                    "Reduces the risk of shoulder injuries",
+                    "Relieves tension and tightness in the shoulder muscles",
+                    "Improves posture and alignment of the upper body",
+                    "Can be done anywhere without any equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rotator cuff muscles",
+                    "Deltoid muscle",
+                    "Teres major muscle",
+                    "Infraspinatus muscle",
+                    "Subscapularis muscle"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Elbow In Rotator Stretch",
+                    "Shoulder External Rotation with Resistance Band",
+                    "Seated Shoulder External Rotation",
+                    "Standing Shoulder External Rotation",
+                    "Shoulder Internal Rotation with Resistance Band",
+                    "Seated Shoulder Internal Rotation",
+                    "Standing Shoulder Internal Rotation"
+                ]
+            }
+        }
+    ]
+}

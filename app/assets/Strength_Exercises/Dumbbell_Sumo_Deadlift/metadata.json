@@ -1,0 +1,67 @@
+{
+    "title": "Dumbbell Sumo Deadlift",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your toes pointing outwards.",
+                    "Hold a dumbbell in each hand with your palms facing your body.",
+                    "Bend your knees and lower your hips until your thighs are parallel to the ground.",
+                    "Keep your back straight and your chest up.",
+                    "Slowly lift the dumbbells by straightening your legs and pushing your hips forward.",
+                    "Pause at the top of the movement and squeeze your glutes.",
+                    "Lower the dumbbells back down to the starting position by bending your knees and lowering your hips.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the lower body muscles, including the quadriceps, hamstrings, glutes, and calves",
+                    "Improves overall balance and stability",
+                    "Increases core strength and engages the abdominal muscles",
+                    "Can help improve posture and reduce lower back pain",
+                    "Can be modified to target different muscle groups or increase difficulty",
+                    "Can be done with minimal equipment and in a variety of settings"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Glutes",
+                    "Lower back",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "dumbbell sumo deadlift",
+                    "barbell sumo deadlift",
+                    "kettlebell sumo deadlift",
+                    "trap bar deadlift",
+                    "single-leg dumbbell deadlift"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "title": "Dumbbell Incline Hammer Press",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on an incline bench with a dumbbell in each hand.",
+                    "Hold the dumbbells with a neutral grip (palms facing each other) and position them at shoulder level.",
+                    "Slowly lower the dumbbells towards your chest while keeping your elbows close to your body.",
+                    "Pause for a moment at the bottom of the movement, then press the dumbbells back up to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the upper chest muscles, specifically the clavicular head of the pectoralis major",
+                    "Engages the triceps and anterior deltoids as secondary muscles",
+                    "Improves overall chest strength and size",
+                    "Allows for a greater range of motion compared to traditional bench press",
+                    "Can help correct muscle imbalances between the left and right sides of the chest",
+                    "Provides a variation to traditional chest exercises, preventing boredom and plateauing"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Chest muscles (pectoralis major and minor)",
+                    "Shoulder muscles (anterior deltoids)",
+                    "Triceps brachii"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Incline Press",
+                    "Dumbbell Hammer Press",
+                    "Incline Dumbbell Hammer Press",
+                    "Barbell Incline Hammer Press",
+                    "Machine Incline Hammer Press"
+                ]
+            }
+        }
+    ]
+}

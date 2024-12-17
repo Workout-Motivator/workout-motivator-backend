@@ -1,0 +1,70 @@
+{
+    "title": "Trap Bar Squat",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Step 1: Stand inside the trap bar with your feet shoulder-width apart.",
+                    "Step 2: Bend your knees and hinge at your hips to lower your body down to grab the handles of the trap bar.",
+                    "Step 3: Keep your back straight and your chest up as you lift the trap bar off the ground.",
+                    "Step 4: Take a deep breath and brace your core.",
+                    "Step 5: Lower your body down by bending your knees and hips, keeping your weight on your heels.",
+                    "Step 6: Lower your body until your thighs are parallel to the ground.",
+                    "Step 7: Push through your heels to stand back up to the starting position.",
+                    "Step 8: Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets multiple muscle groups including quadriceps, hamstrings, glutes, and lower back",
+                    "Allows for a more upright posture compared to traditional barbell squats, reducing strain on the lower back",
+                    "Provides a greater range of motion compared to traditional barbell squats",
+                    "Can be easier on the knees compared to traditional barbell squats",
+                    "Can be modified for different fitness levels and goals by adjusting weight and reps"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Glutes",
+                    "Calves",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Trap Bar Deadlift",
+                    "Sumo Deadlift",
+                    "Front Squat",
+                    "Back Squat",
+                    "Bulgarian Split Squat",
+                    "Lunges",
+                    "Step-ups",
+                    "Box Jumps",
+                    "Single Leg Deadlift"
+                ]
+            }
+        }
+    ]
+}

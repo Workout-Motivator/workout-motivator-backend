@@ -1,0 +1,64 @@
+{
+    "title": "Cable Seated Shoulder Internal Rotation",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by sitting on a bench or chair with your back straight and your feet flat on the ground.",
+                    "Attach a cable to a low pulley and adjust the weight to a comfortable level.",
+                    "Grasp the cable handle with your right hand and bring your elbow to your side, keeping your forearm parallel to the ground.",
+                    "Slowly rotate your shoulder inward, bringing your hand across your body towards your left shoulder.",
+                    "Hold the contraction for a few seconds, then slowly release and return to the starting position.",
+                    "Repeat for the desired number of repetitions, then switch sides and perform the exercise with your left arm."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the oblique muscles",
+                    "Improves core stability and balance",
+                    "Increases rotational power and flexibility",
+                    "Can help alleviate lower back pain",
+                    "Targets multiple muscle groups in one exercise"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rotator cuff muscles (supraspinatus, infraspinatus, teres minor, subscapularis)",
+                    "Deltoid (anterior fibers)",
+                    "Trapezius (lower fibers)",
+                    "Rhomboids"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "cable standing shoulder internal rotation",
+                    "cable kneeling shoulder internal rotation",
+                    "dumbbell seated shoulder internal rotation",
+                    "dumbbell standing shoulder internal rotation",
+                    "band seated shoulder internal rotation",
+                    "band standing shoulder internal rotation"
+                ]
+            }
+        }
+    ]
+}

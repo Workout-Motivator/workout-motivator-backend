@@ -1,0 +1,65 @@
+{
+    "title": "Front Plank With Leg Lift",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start in a plank position with your forearms on the ground and your elbows directly under your shoulders.",
+                    "Engage your core and lift one leg off the ground, keeping it straight and parallel to the floor.",
+                    "Hold for a few seconds, then lower your leg back down to the ground.",
+                    "Repeat with the other leg.",
+                    "Continue alternating legs for the desired number of repetitions or time."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens core muscles",
+                    "Improves balance and stability",
+                    "Targets multiple muscle groups including abs, obliques, shoulders, and hips",
+                    "Increases flexibility in hips and spine",
+                    "Can be modified for different fitness levels",
+                    "Helps prevent lower back pain"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus abdominis",
+                    "Transverse abdominis",
+                    "Obliques",
+                    "Erector spinae",
+                    "Glutes",
+                    "Quadriceps"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Side plank with leg lift",
+                    "Reverse plank with leg lift",
+                    "Plank with knee-to-elbow twist",
+                    "Plank with hip dips",
+                    "Plank with shoulder taps"
+                ]
+            }
+        }
+    ]
+}

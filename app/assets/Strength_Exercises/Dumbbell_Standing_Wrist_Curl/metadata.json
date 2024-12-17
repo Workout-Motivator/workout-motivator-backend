@@ -1,0 +1,62 @@
+{
+    "title": "Dumbbell Standing Wrist Curl",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a dumbbell in each hand with an underhand grip.",
+                    "Rest your forearms on a flat bench or a weight rack so that your wrists hang off the edge.",
+                    "Curl your wrists upward, bringing the dumbbells towards your forearms.",
+                    "Pause for a moment at the top of the movement, then slowly lower the dumbbells back down to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the wrist flexor muscles",
+                    "Improves grip strength",
+                    "Helps prevent wrist injuries",
+                    "Can be done with minimal equipment",
+                    "Targets a specific muscle group for isolation training"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Forearm Flexors"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Seated Wrist Curl",
+                    "Dumbbell Reverse Wrist Curl",
+                    "Barbell Standing Wrist Curl",
+                    "Barbell Reverse Wrist Curl",
+                    "Cable Standing Wrist Curl",
+                    "Cable Reverse Wrist Curl",
+                    "Plate Pinch Grip",
+                    "Farmer\u2019s Walk"
+                ]
+            }
+        }
+    ]
+}

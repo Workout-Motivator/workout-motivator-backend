@@ -1,0 +1,68 @@
+{
+    "title": "Kettlebell Farmers Carry",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Choose a kettlebell that is appropriate for your strength level.",
+                    "Stand with your feet shoulder-width apart and the kettlebell on the ground between your feet.",
+                    "Bend down and grab the kettlebell with one hand, keeping your back straight and your core engaged.",
+                    "Stand up, lifting the kettlebell off the ground and holding it at your side.",
+                    "Walk forward, taking small steps and keeping your core engaged to maintain balance.",
+                    "Continue walking for a set distance or time, then switch the kettlebell to your other hand and repeat.",
+                    "Make sure to keep your shoulders down and your chest lifted throughout the exercise.",
+                    "When you are finished, carefully place the kettlebell back on the ground and stretch your muscles."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves grip strength",
+                    "Increases core stability",
+                    "Enhances overall body strength",
+                    "Improves posture and balance",
+                    "Increases cardiovascular endurance",
+                    "Targets multiple muscle groups including shoulders, arms, back, and legs",
+                    "Can be done with various weights and distances to challenge different fitness levels"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Forearm muscles",
+                    "Shoulder muscles",
+                    "Back muscles",
+                    "Core muscles",
+                    "Leg muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Kettlebell Suitcase Carry",
+                    "Kettlebell Rack Carry",
+                    "Kettlebell Waiter Carry",
+                    "Kettlebell Bottoms Up Carry",
+                    "Kettlebell Overhead Carry"
+                ]
+            }
+        }
+    ]
+}

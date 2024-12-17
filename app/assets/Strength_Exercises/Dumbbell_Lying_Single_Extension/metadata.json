@@ -1,0 +1,62 @@
+{
+    "title": "Dumbbell Lying Single Extension",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying flat on your back on a bench or mat with your feet flat on the ground and your knees bent.",
+                    "Hold a dumbbell in one hand with your arm extended straight up towards the ceiling.",
+                    "Slowly lower the dumbbell towards your head, keeping your elbow in a fixed position.",
+                    "Pause when the dumbbell is just above your head, then slowly raise it back up to the starting position.",
+                    "Repeat for the desired number of reps, then switch arms and repeat on the other side."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the triceps muscles, helping to build strength and definition in the arms",
+                    "Can be done with a relatively light weight, making it accessible for beginners",
+                    "Helps to improve overall upper body strength and stability",
+                    "Can be easily modified by adjusting the weight or the angle of the arm",
+                    "Can be done at home or in the gym with just a set of dumbbells"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Triceps brachii",
+                    "Anconeus"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Lying Double Extension",
+                    "Dumbbell Seated Single Extension",
+                    "Dumbbell Seated Double Extension",
+                    "Dumbbell Standing Single Extension",
+                    "Dumbbell Standing Double Extension",
+                    "Dumbbell Overhead Single Extension",
+                    "Dumbbell Overhead Double Extension"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "title": "Bodyweight Wall Squat",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your back against a wall, with your feet shoulder-width apart and about 6 inches away from the wall.",
+                    "Slowly slide down the wall until your knees are bent at a 90-degree angle and your thighs are parallel to the ground.",
+                    "Hold this position for 30-60 seconds, or as long as you can.",
+                    "Slowly slide back up the wall to the starting position.",
+                    "Repeat for 10-15 repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the quadriceps, hamstrings, and glutes",
+                    "Improves lower body endurance",
+                    "Increases hip and ankle mobility",
+                    "Improves posture and balance",
+                    "Can be done anywhere with a wall for support",
+                    "Low impact exercise, reducing risk of injury"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Bodyweight Wall Squat with Calf Raise",
+                    "Bodyweight Wall Squat with Overhead Reach",
+                    "Bodyweight Wall Squat with Leg Lift",
+                    "Bodyweight Wall Squat with Side Leg Lift",
+                    "Bodyweight Wall Squat with Knee Drive"
+                ]
+            }
+        }
+    ]
+}

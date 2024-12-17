@@ -1,0 +1,64 @@
+{
+    "title": "Heel Drops",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand on a raised surface such as a step or a sturdy block with the balls of your feet on the edge and your heels hanging off.",
+                    "Slowly lower your heels down towards the ground, feeling a stretch in your calves.",
+                    "Hold the stretch for a few seconds, then raise your heels back up to the starting position.",
+                    "Repeat for 10-15 repetitions.",
+                    "For an added challenge, hold a weight in one hand and perform the exercise on one foot at a time."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the calf muscles",
+                    "Improves ankle stability",
+                    "Helps prevent ankle sprains",
+                    "Increases flexibility in the Achilles tendon",
+                    "Can be done anywhere with a step or elevated surface"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Gastrocnemius",
+                    "Soleus"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single Leg Heel Drops",
+                    "Double Leg Heel Drops",
+                    "Weighted Heel Drops",
+                    "Heel Drops on an Incline",
+                    "Heel Drops on a Decline",
+                    "Heel Drops with a Resistance Band",
+                    "Heel Drops with a Stability Ball",
+                    "Heel Drops with a Bosu Ball",
+                    "Heel Drops with a Foam Roller"
+                ]
+            }
+        }
+    ]
+}

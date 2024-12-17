@@ -1,0 +1,65 @@
+{
+    "title": "Tire Flip",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand in front of the tire with your feet shoulder-width apart.",
+                    "Squat down and grab the bottom of the tire with both hands.",
+                    "Engage your core and lift the tire up, using your legs and hips to drive the movement.",
+                    "Flip the tire over by pushing it away from you with your hands.",
+                    "Step back and repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Full body workout: The tire flip engages multiple muscle groups including the legs, back, shoulders, and arms, making it a great full body exercise.",
+                    "Cardiovascular endurance: The tire flip is a high-intensity exercise that can get your heart rate up and improve your cardiovascular endurance.",
+                    "Functional strength: The movement of flipping a tire mimics real-life activities such as lifting heavy objects or pushing a car, making it a functional strength exercise.",
+                    "Variety: The tire flip is a unique exercise that can add variety to your workout routine and keep things interesting.",
+                    "Team building: The tire flip can be done with a partner or in a group, making it a great team building exercise."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Glutes",
+                    "Core",
+                    "Back",
+                    "Shoulders",
+                    "Forearms"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single Arm Tire Flip",
+                    "Partner Tire Flip",
+                    "Alternating Tire Flip",
+                    "Jumping Tire Flip",
+                    "Reverse Tire Flip"
+                ]
+            }
+        }
+    ]
+}

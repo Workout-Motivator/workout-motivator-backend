@@ -1,0 +1,63 @@
+{
+    "title": "Dumbbell Incline Shoulder Raise",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on an incline bench with your feet firmly planted on the ground.",
+                    "Hold a dumbbell in each hand with your palms facing down and your arms extended straight out to the sides.",
+                    "Slowly raise the dumbbells up towards the ceiling, keeping your arms straight and your palms facing down.",
+                    "Pause at the top of the movement and then slowly lower the dumbbells back down to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the anterior (front) deltoids, which are responsible for shoulder flexion and horizontal shoulder adduction",
+                    "Improves shoulder strength and stability",
+                    "Helps to prevent shoulder injuries",
+                    "Can be performed with a variety of weights to increase or decrease intensity",
+                    "Can be easily modified for individuals with shoulder limitations or injuries",
+                    "Engages the core muscles for added stability and balance"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Anterior deltoid",
+                    "Medial deltoid",
+                    "Upper trapezius",
+                    "Clavicular head of pectoralis major"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Lateral Raise",
+                    "Dumbbell Front Raise",
+                    "Dumbbell Arnold Press",
+                    "Dumbbell Shoulder Press",
+                    "Dumbbell Bent-Over Rear Delt Raise"
+                ]
+            }
+        }
+    ]
+}

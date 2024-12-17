@@ -1,0 +1,64 @@
+{
+    "title": "Smith Split Squat",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your hands on your hips.",
+                    "Take a big step forward with your right foot and lower your body until your right thigh is parallel to the ground.",
+                    "Make sure your left knee is hovering just above the ground.",
+                    "Push through your right heel to return to the starting position.",
+                    "Repeat on the other side, stepping forward with your left foot.",
+                    "Continue alternating legs for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the lower body muscles, including the glutes, hamstrings, and quadriceps",
+                    "Improves grip strength and forearm muscles",
+                    "Increases overall power and explosiveness",
+                    "Can help improve posture and reduce lower back pain",
+                    "May improve athletic performance in sports such as football, rugby, and wrestling"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "smith split squat with dumbbells",
+                    "smith split squat with barbell",
+                    "smith split squat with kettlebell",
+                    "smith split squat with resistance band",
+                    "smith split squat with medicine ball"
+                ]
+            }
+        }
+    ]
+}

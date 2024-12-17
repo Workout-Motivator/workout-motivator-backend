@@ -1,0 +1,64 @@
+{
+    "title": "Weighted Front Raise",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a dumbbell in each hand with your palms facing your thighs.",
+                    "Engage your core and keep your back straight.",
+                    "Slowly lift the dumbbells up in front of your body until they reach shoulder height.",
+                    "Pause for a moment at the top of the movement, then slowly lower the dumbbells back down to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the anterior deltoid muscle, which is responsible for lifting the arm in front of the body",
+                    "Improves shoulder strength and stability",
+                    "Helps to prevent shoulder injuries",
+                    "Can be performed with a variety of weights and equipment, making it adaptable to different fitness levels and goals",
+                    "Can be easily incorporated into a full-body workout or upper body workout routine"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Deltoids (anterior)",
+                    "Triceps (long head)",
+                    "Upper pectoralis major"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Unweighted Front Raise",
+                    "Alternating Front Raise",
+                    "Single Arm Front Raise",
+                    "Plate Front Raise",
+                    "Cable Front Raise",
+                    "Dumbbell Lateral Raise",
+                    "Barbell Front Raise",
+                    "Resistance Band Front Raise"
+                ]
+            }
+        }
+    ]
+}

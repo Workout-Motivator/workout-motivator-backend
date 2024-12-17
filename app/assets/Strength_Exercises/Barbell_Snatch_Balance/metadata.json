@@ -1,0 +1,66 @@
+{
+    "title": "Barbell Snatch Balance",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by standing with your feet shoulder-width apart and the barbell resting on your shoulders behind your neck.",
+                    "Take a deep breath and dip down into a quarter squat, keeping your weight on your heels.",
+                    "As you begin to rise up, explosively push the barbell up and overhead while simultaneously dropping down into a full squat.",
+                    "As you catch the barbell overhead, make sure your arms are fully extended and your elbows are locked out.",
+                    "Hold the barbell overhead for a moment before standing back up to the starting position.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves shoulder mobility and stability",
+                    "Increases leg and core strength",
+                    "Enhances overall balance and coordination",
+                    "Helps to improve technique and form for other Olympic lifts",
+                    "Can be used as a warm-up exercise for more complex lifts"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Shoulders",
+                    "Triceps",
+                    "Core muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Barbell Overhead Squat",
+                    "Dumbbell Snatch Balance",
+                    "Kettlebell Snatch Balance",
+                    "Single Arm Dumbbell Snatch Balance",
+                    "Single Arm Kettlebell Snatch Balance"
+                ]
+            }
+        }
+    ]
+}

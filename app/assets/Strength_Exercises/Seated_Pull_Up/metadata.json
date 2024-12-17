@@ -1,0 +1,68 @@
+{
+    "title": "Seated Pull Up",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Find a sturdy chair or bench to sit on.",
+                    "Place your hands on the edge of the chair or bench, shoulder-width apart.",
+                    "Slide your feet forward until your butt is off the chair and your arms are fully extended.",
+                    "Bend your elbows and pull your chest towards the chair or bench.",
+                    "Pause for a second at the top of the movement, then slowly lower yourself back down to the starting position.",
+                    "Repeat for desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the back muscles, including the latissimus dorsi, rhomboids, and trapezius",
+                    "Improves posture and spinal alignment",
+                    "Increases grip strength",
+                    "Targets the biceps and forearms as secondary muscles",
+                    "Can be modified for different fitness levels by adjusting the weight or resistance",
+                    "Can be done with a variety of equipment, including a cable machine, resistance bands, or a pull-up bar"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Latissimus dorsi",
+                    "Trapezius",
+                    "Rhomboids",
+                    "Biceps brachii",
+                    "Forearm muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Assisted Seated Pull up",
+                    "Weighted Seated Pull up",
+                    "One-Arm Seated Pull up",
+                    "Close-Grip Seated Pull up",
+                    "Wide-Grip Seated Pull up",
+                    "Behind-the-Neck Seated Pull up",
+                    "Isometric Seated Pull up",
+                    "Negative Seated Pull up"
+                ]
+            }
+        }
+    ]
+}

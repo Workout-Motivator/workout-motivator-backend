@@ -1,0 +1,68 @@
+{
+    "title": "Run and Hop",
+    "description": "A cardio exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start in a standing position with your feet shoulder-width apart.",
+                    "Take a few steps forward to build momentum.",
+                    "Begin running in place, lifting your knees up high and pumping your arms.",
+                    "After a few seconds of running, hop forward with both feet at the same time.",
+                    "Land softly on the balls of your feet and immediately resume running in place.",
+                    "Repeat the sequence of running and hopping for a desired amount of time or number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves cardiovascular health",
+                    "Burns calories and aids in weight loss",
+                    "Increases endurance and stamina",
+                    "Strengthens leg muscles",
+                    "Reduces stress and anxiety",
+                    "Improves mood and mental health",
+                    "Can be done indoors regardless of weather conditions",
+                    "Can be adjusted for different fitness levels and goals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Calf muscles",
+                    "Glutes",
+                    "Core muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Run and jump",
+                    "Run and skip",
+                    "Run and hop",
+                    "Jump and hop",
+                    "Jump and skip",
+                    "Hop and skip"
+                ]
+            }
+        }
+    ]
+}

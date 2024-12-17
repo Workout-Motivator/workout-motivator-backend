@@ -1,0 +1,66 @@
+{
+    "title": "Stalder Press",
+    "description": "A stretch exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start in a standing position with your feet shoulder-width apart.",
+                    "Place your hands on the ground in front of you, shoulder-width apart.",
+                    "Walk your feet back until your body is in a plank position.",
+                    "Slowly lower your body down to the ground, keeping your elbows close to your body.",
+                    "Push your body up into a plank position.",
+                    "Walk your feet back towards your hands.",
+                    "Stand up and press your arms overhead.",
+                    "Lower your arms back down to your sides.",
+                    "Repeat for desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves shoulder mobility and stability",
+                    "Strengthens the core and upper body muscles",
+                    "Increases body awareness and control",
+                    "Challenges balance and coordination",
+                    "Can be modified for different fitness levels"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Shoulders",
+                    "Triceps",
+                    "Core",
+                    "Upper back"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Stalder Press to Handstand",
+                    "Stalder Press to L-Sit",
+                    "Stalder Press to Straddle Handstand",
+                    "Stalder Press to Pike Handstand",
+                    "Stalder Press to Tuck Handstand"
+                ]
+            }
+        }
+    ]
+}

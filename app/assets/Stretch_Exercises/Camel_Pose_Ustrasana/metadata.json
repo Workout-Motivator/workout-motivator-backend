@@ -1,0 +1,65 @@
+{
+    "title": "Camel Pose Ustrasana",
+    "description": "A stretch exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by kneeling on the floor with your knees hip-width apart and your thighs perpendicular to the floor.",
+                    "Place your hands on your hips and draw your tailbone towards your pubic bone to lengthen your lower back.",
+                    "Inhale and lift your chest towards the ceiling, arching your back.",
+                    "Exhale and reach your hands back towards your heels, keeping your arms straight.",
+                    "Press your shins and the tops of your feet into the floor, and lift your thighs towards the ceiling.",
+                    "Hold the pose for 5-10 breaths, then release by bringing your hands back to your hips and sitting back on your heels."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens abdominal muscles",
+                    "Improves core stability",
+                    "Increases hip flexor flexibility",
+                    "Improves overall balance and coordination",
+                    "Can be modified for different fitness levels"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Abdominals",
+                    "Back muscles",
+                    "Chest muscles",
+                    "Shoulder muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Camel pose (Ustrasana)",
+                    "Half camel pose (Ardha Ustrasana)",
+                    "Supported camel pose (Salamba Ustrasana)",
+                    "One-legged camel pose (Eka Pada Ustrasana)",
+                    "Revolved camel pose (Parivrtta Ustrasana)"
+                ]
+            }
+        }
+    ]
+}

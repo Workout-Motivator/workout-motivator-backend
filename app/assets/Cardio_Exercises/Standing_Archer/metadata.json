@@ -1,0 +1,65 @@
+{
+    "title": "Standing Archer",
+    "description": "A cardio exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your arms extended out to the sides at shoulder height.",
+                    "Take a deep breath and exhale as you twist your torso to the right, shifting your weight onto your right foot.",
+                    "As you twist, bring your left arm across your body and your right arm behind your back, as if you were pulling back a bowstring.",
+                    "Hold the pose for a few breaths, then release and return to the starting position.",
+                    "Repeat on the other side, twisting to the left and bringing your right arm across your body and your left arm behind your back."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves upper body strength and stability",
+                    "Targets the chest, shoulders, and arms",
+                    "Engages the core muscles for balance and stability",
+                    "Increases flexibility in the shoulders and chest",
+                    "Improves posture and alignment",
+                    "Can be modified for different fitness levels and abilities"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Shoulder muscles (deltoids)",
+                    "Chest muscles (pectoralis major)",
+                    "Back muscles (latissimus dorsi)",
+                    "Arm muscles (biceps and triceps)",
+                    "Core muscles (abdominals and obliques)",
+                    "Leg muscles (quadriceps, hamstrings, and glutes)"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Standing Archer with Resistance Band",
+                    "Standing Archer with Dumbbells",
+                    "Standing Archer with Kettlebells",
+                    "Standing Archer with Medicine Ball",
+                    "Standing Archer with Cable Machine"
+                ]
+            }
+        }
+    ]
+}

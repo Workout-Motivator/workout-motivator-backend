@@ -1,0 +1,62 @@
+{
+    "title": "Side Bend",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your arms at your sides.",
+                    "Place your right hand on your right hip and raise your left arm straight up above your head.",
+                    "Slowly bend your torso to the right, keeping your left arm straight and your right hand on your hip.",
+                    "Hold the stretch for 10-15 seconds, feeling the stretch in your left side.",
+                    "Return to the starting position and repeat on the other side.",
+                    "Complete 2-3 sets of 10-12 repetitions on each side."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the glutes, hips, and thighs",
+                    "Improves balance and stability",
+                    "Targets the inner and outer thighs",
+                    "Can be modified for different fitness levels",
+                    "Helps with overall lower body toning and shaping"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Obliques",
+                    "Erector spinae",
+                    "Quadratus lumborum"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Side plank with hip dip",
+                    "Side plank with leg lift",
+                    "Standing side bend with dumbbell",
+                    "Seated side bend with resistance band",
+                    "Oblique crunches"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "title": "Band Close Grip Row",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a resistance band with both hands, palms facing each other.",
+                    "Bend your knees slightly and hinge forward at the hips, keeping your back straight and your core engaged.",
+                    "Bring your elbows close to your sides and pull the band towards your chest, squeezing your shoulder blades together.",
+                    "Pause for a moment at the top of the movement, then slowly release the band back to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the upper back muscles, including the rhomboids, trapezius, and rear deltoids",
+                    "Improves posture and spinal alignment",
+                    "Strengthens the grip and forearm muscles",
+                    "Can be done with resistance bands, making it a convenient exercise to do at home or while traveling",
+                    "Allows for a greater range of motion compared to traditional barbell rows"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rhomboids",
+                    "Trapezius",
+                    "Biceps",
+                    "Forearms"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single Arm Band Close Grip Row",
+                    "Band Wide Grip Row",
+                    "Band Reverse Grip Row",
+                    "Band Seated Row",
+                    "Band Bent Over Row",
+                    "Band T-Bar Row",
+                    "Band Upright Row",
+                    "Band Face Pull",
+                    "Band Pull Apart"
+                ]
+            }
+        }
+    ]
+}

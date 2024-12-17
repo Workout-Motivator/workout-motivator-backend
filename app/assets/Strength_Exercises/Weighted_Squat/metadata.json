@@ -1,0 +1,70 @@
+{
+    "title": "Weighted Squat",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by standing with your feet shoulder-width apart and your toes pointing slightly outward.",
+                    "Hold a weight (such as a dumbbell or kettlebell) with both hands and rest it on your chest.",
+                    "Engage your core and slowly lower your body down into a squat position, keeping your back straight and your knees in line with your toes.",
+                    "Lower your body until your thighs are parallel to the ground, or as low as you can comfortably go.",
+                    "Pause for a moment, then push through your heels to stand back up to the starting position.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens lower body muscles including quadriceps, hamstrings, and glutes",
+                    "Improves overall lower body stability and balance",
+                    "Increases bone density and reduces risk of osteoporosis",
+                    "Boosts metabolism and aids in weight loss",
+                    "Improves athletic performance in activities such as running and jumping",
+                    "Can be modified to target specific muscle groups or accommodate injuries"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Front Squat",
+                    "Back Squat",
+                    "Overhead Squat",
+                    "Zercher Squat",
+                    "Goblet Squat",
+                    "Box Squat",
+                    "Sumo Squat",
+                    "Bulgarian Split Squat",
+                    "Jump Squat",
+                    "Pistol Squat"
+                ]
+            }
+        }
+    ]
+}

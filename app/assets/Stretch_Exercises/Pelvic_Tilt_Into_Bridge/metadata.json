@@ -1,0 +1,64 @@
+{
+    "title": "Pelvic Tilt Into Bridge",
+    "description": "A stretch exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on your back with your knees bent and feet flat on the ground.",
+                    "Place your arms by your sides with your palms facing down.",
+                    "Take a deep breath in and as you exhale, engage your core muscles and tilt your pelvis towards your belly button.",
+                    "Continue to press your lower back into the ground as you lift your hips up towards the ceiling.",
+                    "Hold this position for a few seconds, making sure to keep your core engaged and your glutes squeezed.",
+                    "Slowly lower your hips back down to the ground, starting with your upper back and ending with your lower back.",
+                    "Repeat for 10-15 repetitions, focusing on maintaining proper form and control throughout the exercise."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the glutes, hamstrings, and lower back muscles",
+                    "Improves core stability and balance",
+                    "Stretches the hip flexors and quadriceps",
+                    "Helps alleviate lower back pain",
+                    "Improves posture and spinal alignment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Glutes",
+                    "Hamstrings",
+                    "Lower back",
+                    "Abdominals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Pelvic Tilt Bridge with Leg Extension",
+                    "Single Leg Pelvic Tilt Bridge",
+                    "Weighted Pelvic Tilt Bridge",
+                    "Side-Lying Pelvic Tilt Bridge",
+                    "Reverse Pelvic Tilt Bridge"
+                ]
+            }
+        }
+    ]
+}

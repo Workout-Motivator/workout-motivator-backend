@@ -1,0 +1,63 @@
+{
+    "title": "Standing Pelvic Tilt",
+    "description": "A stretch exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet hip-width apart and your arms at your sides.",
+                    "Engage your core muscles by pulling your belly button in towards your spine.",
+                    "Shift your weight forward onto the balls of your feet.",
+                    "Tilt your pelvis forward by squeezing your glutes and pushing your hips forward.",
+                    "Hold the position for a few seconds, then release and return to the starting position.",
+                    "Repeat for 10-15 repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the lower back muscles",
+                    "Improves posture",
+                    "Reduces lower back pain",
+                    "Increases flexibility in the hips and lower back",
+                    "Improves balance and stability"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Abdominal muscles",
+                    "Lower back muscles",
+                    "Gluteal muscles",
+                    "Hip flexor muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Supine Pelvic Tilt",
+                    "Seated Pelvic Tilt",
+                    "Bridge with Pelvic Tilt",
+                    "Quadruped Pelvic Tilt",
+                    "Standing Pelvic Clocks"
+                ]
+            }
+        }
+    ]
+}

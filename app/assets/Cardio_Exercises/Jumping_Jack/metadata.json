@@ -1,0 +1,69 @@
+{
+    "title": "Jumping Jack",
+    "description": "A cardio exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet together and your arms at your sides.",
+                    "Jump up and spread your feet out to the sides while raising your arms above your head.",
+                    "Jump back to the starting position with your feet together and your arms at your sides.",
+                    "Repeat steps 2-3 for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Increases heart rate and improves cardiovascular health",
+                    "Works multiple muscle groups, including legs, arms, and core",
+                    "Improves coordination and balance",
+                    "Can be done anywhere without equipment",
+                    "Can be modified for different fitness levels"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Glutes",
+                    "Calves",
+                    "Abdominals",
+                    "Shoulders",
+                    "Chest"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Half Jacks",
+                    "Star Jacks",
+                    "Cross Jacks",
+                    "Plank Jacks",
+                    "Seal Jacks",
+                    "Power Jacks",
+                    "Jumping Jack Burpees",
+                    "Jumping Jacks with Weights",
+                    "Jumping Jacks with High Knees",
+                    "Jumping Jacks with Squats"
+                ]
+            }
+        }
+    ]
+}

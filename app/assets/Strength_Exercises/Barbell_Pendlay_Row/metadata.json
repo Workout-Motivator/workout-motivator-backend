@@ -1,0 +1,65 @@
+{
+    "title": "Barbell Pendlay Row",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by standing with your feet shoulder-width apart and your knees slightly bent.",
+                    "Place the barbell on the ground in front of you and grip it with an overhand grip, hands shoulder-width apart.",
+                    "Engage your core and lift the barbell off the ground, keeping your back straight and your elbows close to your body.",
+                    "Row the barbell up towards your chest, keeping your elbows close to your body and squeezing your shoulder blades together at the top of the movement.",
+                    "Lower the barbell back down to the ground, keeping your back straight and your core engaged.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets multiple muscle groups including the back, shoulders, and arms",
+                    "Improves posture and spinal stability",
+                    "Increases overall strength and power",
+                    "Can be modified for different fitness levels and goals",
+                    "Helps to prevent injury by strengthening the muscles that support the spine"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Trapezius",
+                    "Rhomboids",
+                    "Latissimus dorsi",
+                    "Erector spinae",
+                    "Posterior deltoids",
+                    "Biceps brachii"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Pendlay Row",
+                    "T-Bar Row",
+                    "Seated Cable Row",
+                    "Bent Over Barbell Row",
+                    "Single Arm Dumbbell Row"
+                ]
+            }
+        }
+    ]
+}

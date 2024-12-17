@@ -1,0 +1,66 @@
+{
+    "title": "Band Pull Through",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and place a resistance band around your waist.",
+                    "Step forward with one foot and hinge at the hips, keeping your back straight and your chest up.",
+                    "As you hinge forward, allow the band to pull your arms back behind you.",
+                    "Pause at the bottom of the movement, then squeeze your glutes and drive your hips forward to return to the starting position.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the glutes, hamstrings, and lower back muscles",
+                    "Improves hip mobility and flexibility",
+                    "Helps to strengthen the posterior chain muscles",
+                    "Can be done with minimal equipment and space",
+                    "Can be easily modified for different fitness levels"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Glutes",
+                    "Hamstrings",
+                    "Lower back",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single-leg band pull through",
+                    "Sumo stance band pull through",
+                    "Reverse band pull through",
+                    "Band pull through with pause",
+                    "Band pull through with jump",
+                    "Band pull through with hip thrust",
+                    "Band pull through with banded push-up",
+                    "Band pull through with banded row",
+                    "Band pull through with banded deadlift"
+                ]
+            }
+        }
+    ]
+}

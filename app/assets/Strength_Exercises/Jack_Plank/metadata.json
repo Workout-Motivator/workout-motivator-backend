@@ -1,0 +1,64 @@
+{
+    "title": "Jack Plank",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying face down on the ground with your arms extended in front of you.",
+                    "Engage your core and lift your arms, legs, and chest off the ground simultaneously.",
+                    "Hold this position for a few seconds, making sure to keep your neck in a neutral position.",
+                    "Lower your body back down to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens core muscles",
+                    "Improves balance and stability",
+                    "Increases upper body strength",
+                    "Can help alleviate lower back pain",
+                    "Engages multiple muscle groups at once"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus abdominis",
+                    "Obliques",
+                    "Erector spinae",
+                    "Glutes",
+                    "Quadriceps",
+                    "Hamstrings"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Jack Plank",
+                    "Plank Jacks",
+                    "Jumping Jacks",
+                    "Jack Squats",
+                    "Plank Knee-to-Elbow Jacks"
+                ]
+            }
+        }
+    ]
+}

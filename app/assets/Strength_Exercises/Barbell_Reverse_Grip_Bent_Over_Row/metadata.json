@@ -1,0 +1,67 @@
+{
+    "title": "Barbell Reverse Grip Bent Over Row",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your knees slightly bent.",
+                    "Hold a barbell with an overhand grip, with your hands slightly wider than shoulder-width apart.",
+                    "Bend forward at the hips, keeping your back straight and your head up.",
+                    "Lower the barbell towards the ground, keeping your elbows close to your body.",
+                    "Pause for a moment, then pull the barbell up towards your chest, squeezing your shoulder blades together.",
+                    "Lower the barbell back down to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets multiple muscle groups including the back, biceps, and shoulders",
+                    "Improves posture and strengthens the muscles responsible for maintaining good posture",
+                    "Increases overall back strength and can help prevent injury",
+                    "Can be modified to target different areas of the back by adjusting grip and hand placement",
+                    "Can be easily incorporated into a full body workout routine"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Trapezius",
+                    "Rhomboids",
+                    "Latissimus dorsi",
+                    "Erector spinae",
+                    "Biceps brachii",
+                    "Brachialis",
+                    "Brachioradialis"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Reverse Grip Bent over Row",
+                    "T-Bar Row",
+                    "Seated Cable Row",
+                    "One-Arm Dumbbell Row",
+                    "Barbell Bent over Row"
+                ]
+            }
+        }
+    ]
+}

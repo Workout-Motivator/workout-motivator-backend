@@ -1,0 +1,68 @@
+{
+    "title": "Dumbbell Reverse Bench Press",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Lie down on a flat bench with your feet firmly planted on the ground.",
+                    "Hold a dumbbell in each hand with an overhand grip.",
+                    "Extend your arms straight up above your chest, with your palms facing towards your feet.",
+                    "Slowly lower the dumbbells towards your chest, keeping your elbows close to your body.",
+                    "Pause for a moment when the dumbbells are just above your chest.",
+                    "Push the dumbbells back up to the starting position, fully extending your arms.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the triceps, chest, and shoulders",
+                    "Improves upper body strength and muscle definition",
+                    "Helps to improve posture and stability in the shoulders",
+                    "Can be done with a variety of weights and equipment, making it accessible for all fitness levels",
+                    "Engages the core muscles for added stability and balance"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Pectoralis major (chest)",
+                    "Triceps brachii (back of upper arm)",
+                    "Anterior deltoids (front of shoulders)",
+                    "Coracobrachialis (upper arm)"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Incline Reverse Bench Press",
+                    "Dumbbell Decline Reverse Bench Press",
+                    "Barbell Reverse Bench Press",
+                    "Close-Grip Reverse Bench Press",
+                    "Smith Machine Reverse Bench Press",
+                    "Single-Arm Dumbbell Reverse Bench Press",
+                    "Resistance Band Reverse Bench Press",
+                    "Reverse Grip Dumbbell Bench Press",
+                    "Reverse Grip Barbell Bench Press"
+                ]
+            }
+        }
+    ]
+}

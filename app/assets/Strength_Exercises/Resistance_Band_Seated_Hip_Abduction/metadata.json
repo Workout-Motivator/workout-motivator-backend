@@ -1,0 +1,61 @@
+{
+    "title": "Resistance Band Seated Hip Abduction",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Begin by sitting on a chair or bench with your back straight and your feet flat on the ground.",
+                    "Place the resistance band around both of your ankles and make sure it is secure.",
+                    "Slowly lift one leg out to the side, keeping your foot flexed and your knee straight.",
+                    "Pause for a moment at the top of the movement, then slowly lower your leg back down to the starting position.",
+                    "Repeat the movement with the other leg.",
+                    "Continue alternating legs for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the hip abductor muscles, which are important for stabilizing the pelvis and maintaining balance",
+                    "Improves hip mobility and flexibility",
+                    "Can help alleviate hip pain and discomfort",
+                    "Targets the gluteus medius muscle, which is often underdeveloped and can lead to hip and knee injuries",
+                    "Can be done anywhere with a resistance band, making it a convenient exercise for travel or at-home workouts"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Gluteus medius",
+                    "Tensor fasciae latae"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Resistance Band Standing Hip Abduction",
+                    "Resistance Band Clamshell",
+                    "Resistance Band Lateral Walk",
+                    "Resistance Band Fire Hydrant",
+                    "Resistance Band Side Lying Leg Lift"
+                ]
+            }
+        }
+    ]
+}

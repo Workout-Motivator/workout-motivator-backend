@@ -1,0 +1,74 @@
+{
+    "title": "Jump Rope",
+    "description": "A cardio exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Hold the jump rope handles in each hand with your arms extended at your sides.",
+                    "Step over the rope and position it behind your heels.",
+                    "Swing the rope over your head and jump over it with both feet.",
+                    "Land on the balls of your feet and keep your knees slightly bent.",
+                    "Continue jumping for a desired amount of time or number of repetitions.",
+                    "Gradually increase the speed and intensity of your jumps for a more challenging workout.",
+                    "To add variety, try different jump rope techniques such as single leg jumps, double unders, or criss-crosses."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves cardiovascular health",
+                    "Increases endurance and stamina",
+                    "Burns calories and aids in weight loss",
+                    "Improves coordination and balance",
+                    "Strengthens bones and muscles",
+                    "Can be done anywhere with minimal equipment",
+                    "Can be modified for different fitness levels",
+                    "Provides a fun and challenging workout"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Calves",
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Glutes",
+                    "Shoulders",
+                    "Forearms"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Double unders",
+                    "Cross overs",
+                    "Single leg jumps",
+                    "Side swings",
+                    "High knees",
+                    "Jumping jacks",
+                    "Boxer step",
+                    "Backwards jumps",
+                    "Criss cross",
+                    "Scissor jumps"
+                ]
+            }
+        }
+    ]
+}

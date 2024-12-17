@@ -1,0 +1,66 @@
+{
+    "title": "Double Jump Rope",
+    "description": "A cardio exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Hold the handles of the jump rope in each hand.",
+                    "Step on the center of the rope with both feet.",
+                    "Swing the rope over your head and jump with both feet at the same time.",
+                    "As the rope comes down, jump again with both feet before it hits the ground.",
+                    "Repeat steps 3 and 4 for the desired number of double jumps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves flexibility in the hips, knees, and ankles",
+                    "Stretches the quadriceps, hamstrings, and hip flexors",
+                    "Helps to alleviate lower back pain",
+                    "Improves posture and balance",
+                    "Increases blood flow to the lower body",
+                    "Can be modified for different levels of flexibility"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Calves",
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Glutes",
+                    "Abdominals",
+                    "Shoulders",
+                    "Forearms"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Double unders",
+                    "Jump rope sprints",
+                    "Jump rope intervals",
+                    "Jump rope cross-overs",
+                    "Jump rope side swings"
+                ]
+            }
+        }
+    ]
+}

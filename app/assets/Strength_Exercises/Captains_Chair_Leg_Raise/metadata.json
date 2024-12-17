@@ -1,0 +1,60 @@
+{
+    "title": "Captains Chair Leg Raise",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Find a captains chair or dip station and position yourself on the seat with your back against the backrest and your forearms resting on the arm pads.",
+                    "Engage your core and lift your legs up towards your chest, keeping them straight and parallel to the ground.",
+                    "Pause briefly at the top of the movement, then slowly lower your legs back down to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the abdominal muscles",
+                    "Improves core stability",
+                    "Helps to reduce lower back pain",
+                    "Increases hip flexor strength",
+                    "Improves overall posture"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus Abdominis",
+                    "Obliques",
+                    "Hip Flexors"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Reverse Crunch",
+                    "Hanging Leg Raise",
+                    "Flutter Kicks",
+                    "Scissor Kicks",
+                    "Plank Leg Raises"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "title": "Forward Hops",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your knees slightly bent.",
+                    "Jump forward as far as you can, landing softly on the balls of your feet.",
+                    "Immediately jump forward again, repeating the movement for the desired number of reps.",
+                    "Rest for 30 seconds to 1 minute between sets."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves explosive power and speed",
+                    "Increases lower body strength and endurance",
+                    "Enhances balance and coordination",
+                    "Engages multiple muscle groups including quads, glutes, hamstrings, and calves",
+                    "Can be easily modified to increase or decrease difficulty",
+                    "Provides a cardiovascular workout"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Calves",
+                    "Glutes",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Backward Hops",
+                    "Lateral Hops",
+                    "Single Leg Hops",
+                    "Box Jumps",
+                    "Depth Jumps"
+                ]
+            }
+        }
+    ]
+}

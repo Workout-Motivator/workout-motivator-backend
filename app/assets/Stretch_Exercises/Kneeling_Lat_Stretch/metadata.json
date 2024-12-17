@@ -1,0 +1,64 @@
+{
+    "title": "Kneeling Lat Stretch",
+    "description": "A stretch exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by kneeling on the ground with your knees hip-width apart and your toes pointed behind you.",
+                    "Extend your arms straight out in front of you, shoulder-width apart, and interlace your fingers.",
+                    "Slowly lower your chest towards the ground, keeping your arms extended and your hands interlaced.",
+                    "Hold the stretch for 15-30 seconds, feeling the stretch in your lats and upper back.",
+                    "Slowly release the stretch and return to the starting position.",
+                    "Repeat the stretch for 2-3 sets, taking a short break in between each set."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves flexibility and range of motion in the shoulders and upper back",
+                    "Reduces tension and tightness in the latissimus dorsi muscles",
+                    "Helps alleviate pain and discomfort in the upper body",
+                    "Can improve posture and alignment of the spine",
+                    "May enhance athletic performance in activities that require upper body strength and mobility"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Latissimus dorsi",
+                    "Teres major",
+                    "Rhomboids",
+                    "Trapezius",
+                    "Erector spinae"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Standing Lat Stretch",
+                    "Seated Lat Stretch",
+                    "Doorway Lat Stretch",
+                    "Wall Lat Stretch",
+                    "Lat Foam Rolling"
+                ]
+            }
+        }
+    ]
+}

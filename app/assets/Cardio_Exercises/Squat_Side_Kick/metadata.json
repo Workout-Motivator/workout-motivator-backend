@@ -1,0 +1,64 @@
+{
+    "title": "Squat Side Kick",
+    "description": "A cardio exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your arms at your sides.",
+                    "Squat down by bending your knees and pushing your hips back, keeping your chest up and your weight in your heels.",
+                    "As you stand back up, lift your right leg out to the side and kick it straight out, keeping your foot flexed.",
+                    "Lower your leg back down and repeat the squat and kick on the other side.",
+                    "Continue alternating sides for the desired number of reps or time."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the lower body muscles, including the quadriceps, hamstrings, glutes, and calves",
+                    "Improves balance and stability",
+                    "Increases flexibility in the hips and groin",
+                    "Engages the core muscles for added stability and strength",
+                    "Can be modified for different fitness levels and goals",
+                    "Provides a cardiovascular workout when performed at a high intensity"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Abductors",
+                    "Core muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Squat with side leg lift",
+                    "Squat with side leg kick",
+                    "Squat with side leg extension",
+                    "Squat with side leg abduction",
+                    "Squat with side leg adduction"
+                ]
+            }
+        }
+    ]
+}

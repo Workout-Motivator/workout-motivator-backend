@@ -1,0 +1,65 @@
+{
+    "title": "Medicine Ball Standing Overhead Throw",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart, holding a medicine ball with both hands at chest level.",
+                    "Engage your core and lift the ball overhead, extending your arms fully.",
+                    "Take a step forward with one foot, shifting your weight onto that foot.",
+                    "As you step forward, forcefully throw the ball forward and down towards the ground.",
+                    "Release the ball just before it reaches the ground.",
+                    "Repeat for the desired number of reps, then switch legs and repeat on the other side."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves upper body strength and power",
+                    "Targets the shoulders, chest, and triceps",
+                    "Engages the core muscles for stability and balance",
+                    "Increases explosive power and speed",
+                    "Improves coordination and balance",
+                    "Can be used for sport-specific training, such as basketball or volleyball",
+                    "Can be modified for different fitness levels and abilities"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Shoulders",
+                    "Triceps",
+                    "Core",
+                    "Legs"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Medicine Ball Slam",
+                    "Medicine Ball Chest Pass",
+                    "Medicine Ball Rotational Throw",
+                    "Medicine Ball Wall Throw",
+                    "Medicine Ball Russian Twist"
+                ]
+            }
+        }
+    ]
+}

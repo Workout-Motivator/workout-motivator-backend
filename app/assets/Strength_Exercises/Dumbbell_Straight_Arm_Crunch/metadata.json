@@ -1,0 +1,65 @@
+{
+    "title": "Dumbbell Straight Arm Crunch",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying flat on your back on a mat or bench with your knees bent and feet flat on the ground.",
+                    "Hold a dumbbell in both hands with your arms extended straight up towards the ceiling.",
+                    "Engage your core and slowly lift your shoulders off the ground, keeping your arms straight and the dumbbell directly above your chest.",
+                    "Pause at the top of the movement and squeeze your abs.",
+                    "Slowly lower your shoulders back down to the starting position.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the rectus abdominis muscle, which is responsible for creating the \u201csix-pack\u201d look",
+                    "Improves core stability and balance",
+                    "Strengthens the shoulders and upper back muscles",
+                    "Can be done with minimal equipment and in a small space",
+                    "Allows for variation by adding weight or changing the angle of the arms"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus Abdominis",
+                    "Obliques",
+                    "Transverse Abdominis",
+                    "Erector Spinae",
+                    "Latissimus Dorsi",
+                    "Trapezius"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Side Bend",
+                    "Dumbbell Woodchopper",
+                    "Dumbbell Russian Twist",
+                    "Dumbbell Oblique Twist",
+                    "Dumbbell Seated Twist"
+                ]
+            }
+        }
+    ]
+}

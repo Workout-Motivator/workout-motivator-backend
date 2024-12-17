@@ -1,0 +1,66 @@
+{
+    "title": "Kettlebell Sumo Deadlift",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet wider than shoulder-width apart and your toes pointing outwards.",
+                    "Place a kettlebell on the ground between your feet.",
+                    "Bend your knees and hinge at your hips to reach down and grab the kettlebell with both hands.",
+                    "Engage your core and lift the kettlebell up, keeping your back straight and your chest up.",
+                    "Stand up straight, squeezing your glutes at the top of the movement.",
+                    "Lower the kettlebell back down to the ground, bending your knees and hinging at your hips.",
+                    "Repeat for desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets multiple muscle groups including the glutes, hamstrings, quads, and lower back",
+                    "Improves overall strength and power",
+                    "Increases hip mobility and flexibility",
+                    "Can be modified for different fitness levels and goals",
+                    "Helps to improve posture and balance",
+                    "Can be done with minimal equipment and space"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Glutes",
+                    "Hamstrings",
+                    "Quadriceps",
+                    "Lower back",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Kettlebell Sumo Deadlift with High Pull",
+                    "Kettlebell Sumo Deadlift with Goblet Hold",
+                    "Kettlebell Sumo Deadlift with Single Arm",
+                    "Kettlebell Sumo Deadlift with Double Kettlebells",
+                    "Kettlebell Sumo Deadlift with Resistance Band"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "title": "Single Leg Step Up",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand in front of a sturdy bench or step.",
+                    "Place one foot on the bench or step, keeping your knee in line with your toes.",
+                    "Engage your core and glutes, and lift your body up onto the bench or step by straightening your leg.",
+                    "Slowly lower your body back down to the starting position, keeping your foot on the bench or step.",
+                    "Repeat for the desired number of reps on one leg before switching to the other leg."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves balance and stability",
+                    "Strengthens the lower body, including the glutes, quads, and hamstrings",
+                    "Increases hip mobility and flexibility",
+                    "Helps prevent knee and ankle injuries by strengthening the surrounding muscles",
+                    "Can be modified to increase or decrease difficulty based on fitness level"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calf muscles",
+                    "Core muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single Leg Box Step Up",
+                    "Single Leg Bench Step Up",
+                    "Single Leg Dumbbell Step Up",
+                    "Single Leg Barbell Step Up",
+                    "Single Leg Kettlebell Step Up",
+                    "Single Leg Resistance Band Step Up",
+                    "Single Leg Cable Step Up",
+                    "Single Leg Plyometric Step Up",
+                    "Single Leg Lateral Step Up",
+                    "Single Leg Reverse Step Up"
+                ]
+            }
+        }
+    ]
+}

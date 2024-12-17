@@ -1,0 +1,63 @@
+{
+    "title": "Weighted One Leg Hip Thrust",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Begin by sitting on the ground with your back against a bench or step, and your feet flat on the ground.",
+                    "Place a weight on your lap, holding it securely with both hands.",
+                    "Lift one foot off the ground and extend it straight out in front of you.",
+                    "Press through your heel on the other foot and lift your hips up towards the ceiling, squeezing your glutes at the top of the movement.",
+                    "Lower your hips back down to the ground, but do not let your butt touch the ground before lifting back up for the next repetition.",
+                    "Complete the desired number of repetitions on one leg before switching to the other leg."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets glutes, hamstrings, and core muscles",
+                    "Improves hip stability and balance",
+                    "Increases lower body strength and power",
+                    "Can help prevent lower back pain and injury",
+                    "Can be modified for different fitness levels by adjusting weight and reps"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Gluteus maximus",
+                    "Hamstrings",
+                    "Erector spinae",
+                    "Abdominals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Unweighted one leg hip thrust",
+                    "Weighted two leg hip thrust",
+                    "Single leg glute bridge",
+                    "Weighted glute bridge",
+                    "Barbell hip thrust"
+                ]
+            }
+        }
+    ]
+}

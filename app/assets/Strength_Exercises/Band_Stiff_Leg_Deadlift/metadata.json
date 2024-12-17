@@ -1,0 +1,64 @@
+{
+    "title": "Band Stiff Leg Deadlift",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and place a resistance band under the arches of your feet.",
+                    "Hold the ends of the band with both hands and keep your arms straight.",
+                    "Engage your core and hinge at the hips, pushing your butt back and lowering your torso towards the ground.",
+                    "Keep your back straight and your knees slightly bent throughout the movement.",
+                    "Lower the weight until you feel a stretch in your hamstrings, then squeeze your glutes and pull your hips forward to return to the starting position.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the hamstrings, glutes, and lower back muscles",
+                    "Improves hip mobility and flexibility",
+                    "Increases strength and stability in the posterior chain",
+                    "Helps prevent injury by strengthening the muscles that support the spine",
+                    "Can be modified for different fitness levels by adjusting the resistance band or weight used"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Hamstrings",
+                    "Glutes",
+                    "Lower back",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single-leg stiff leg deadlift",
+                    "Romanian deadlift",
+                    "Sumo deadlift",
+                    "Conventional deadlift",
+                    "Trap bar deadlift",
+                    "Good morning"
+                ]
+            }
+        }
+    ]
+}

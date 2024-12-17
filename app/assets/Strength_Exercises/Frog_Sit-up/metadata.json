@@ -1,0 +1,66 @@
+{
+    "title": "Frog Sit-up",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on your back with your legs straight and your arms extended above your head.",
+                    "Bend your knees and bring your feet together, placing them flat on the ground.",
+                    "Bring your arms forward and reach towards your feet.",
+                    "Engage your core and lift your head, shoulders, and upper back off the ground.",
+                    "At the same time, bring your knees towards your chest and touch your hands to your shins.",
+                    "Slowly lower your head, shoulders, and upper back back down to the ground.",
+                    "Extend your arms back above your head and straighten your legs.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the core muscles, including the abs, obliques, and lower back",
+                    "Improves posture and balance",
+                    "Increases flexibility in the hips and lower back",
+                    "Can help alleviate lower back pain",
+                    "Engages the hip flexors and quads for a full-body workout",
+                    "Can be modified for different fitness levels and abilities"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus abdominis",
+                    "Obliques",
+                    "Hip flexors",
+                    "Quadriceps"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Reverse Frog Sit-up",
+                    "Weighted Frog Sit-up",
+                    "Single Leg Frog Sit-up",
+                    "Decline Frog Sit-up",
+                    "Medicine Ball Frog Sit-up"
+                ]
+            }
+        }
+    ]
+}

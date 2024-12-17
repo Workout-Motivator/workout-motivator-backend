@@ -1,0 +1,71 @@
+{
+    "title": "Barbell Narrow Stance Squat",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by standing with your feet shoulder-width apart and your toes pointing forward.",
+                    "Place the barbell on your upper back, resting it on your traps.",
+                    "Take a deep breath and brace your core.",
+                    "Slowly lower your body by bending your knees and pushing your hips back.",
+                    "Keep your chest up and your back straight as you descend.",
+                    "Lower yourself until your thighs are parallel to the ground.",
+                    "Pause for a moment, then push through your heels to stand back up.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the quadriceps, hamstrings, and glutes",
+                    "Improves lower body strength and power",
+                    "Increases core stability and balance",
+                    "Can be modified for different fitness levels and goals",
+                    "Helps improve overall athletic performance",
+                    "Can be done with minimal equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Barbell Wide Stance Squat",
+                    "Barbell Front Squat",
+                    "Barbell Back Squat",
+                    "Dumbbell Narrow Stance Squat",
+                    "Dumbbell Wide Stance Squat",
+                    "Dumbbell Goblet Squat",
+                    "Kettlebell Squat",
+                    "Bodyweight Squat",
+                    "Jump Squat"
+                ]
+            }
+        }
+    ]
+}

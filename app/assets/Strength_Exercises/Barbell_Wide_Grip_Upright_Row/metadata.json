@@ -1,0 +1,65 @@
+{
+    "title": "Barbell Wide Grip Upright Row",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and grasp the barbell with an overhand grip that is wider than shoulder-width apart.",
+                    "Hold the barbell in front of your thighs with your arms fully extended and your palms facing down.",
+                    "Keeping your elbows higher than your forearms, lift the barbell straight up towards your chin, exhaling as you lift.",
+                    "Pause for a moment at the top of the movement, then slowly lower the barbell back down to the starting position, inhaling as you lower.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the shoulders, specifically the deltoids and traps",
+                    "Improves shoulder mobility and stability",
+                    "Strengthens the upper back muscles",
+                    "Can help improve posture",
+                    "Can be modified to target different areas of the shoulders by adjusting grip width and hand placement"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Trapezius",
+                    "Deltoids",
+                    "Rotator Cuff",
+                    "Biceps",
+                    "Forearms"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Wide Grip Upright Row",
+                    "Cable Wide Grip Upright Row",
+                    "Smith Machine Wide Grip Upright Row",
+                    "Barbell Close Grip Upright Row",
+                    "Dumbbell Close Grip Upright Row",
+                    "Cable Close Grip Upright Row",
+                    "Smith Machine Close Grip Upright Row"
+                ]
+            }
+        }
+    ]
+}

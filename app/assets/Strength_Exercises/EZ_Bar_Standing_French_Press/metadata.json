@@ -1,0 +1,62 @@
+{
+    "title": "EZ Bar Standing French Press",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Grab an EZ bar and load it with an appropriate weight.",
+                    "Stand with your feet shoulder-width apart and hold the EZ bar with an overhand grip, hands shoulder-width apart.",
+                    "Bring the bar up to shoulder height, keeping your elbows close to your body.",
+                    "Extend your arms straight up, keeping your elbows in place.",
+                    "Bend your elbows and lower the bar behind your head, keeping your upper arms stationary.",
+                    "Pause briefly, then extend your arms back up to the starting position.",
+                    "Repeat for desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the triceps muscles for increased strength and definition",
+                    "Improves overall upper body strength and stability",
+                    "Can be performed with relatively light weights, reducing risk of injury",
+                    "Engages the core muscles for added stability and balance",
+                    "Can be easily modified for different fitness levels and goals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Triceps brachii",
+                    "Anconeus"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "EZ bar lying French press",
+                    "Dumbbell standing French press",
+                    "Close-grip bench press",
+                    "Skull crushers",
+                    "Overhead tricep extension"
+                ]
+            }
+        }
+    ]
+}

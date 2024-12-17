@@ -1,0 +1,66 @@
+{
+    "title": "Dumbbells Sumo Squat",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet wider than shoulder-width apart and your toes pointing outwards.",
+                    "Hold a dumbbell in each hand with your arms straight down at your sides.",
+                    "Bend your knees and lower your hips down towards the ground, keeping your back straight and your chest up.",
+                    "Pause when your thighs are parallel to the ground.",
+                    "Push through your heels to stand back up to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens and stretches the ankles, calves, thighs, hips, shoulders, and upper back",
+                    "Improves balance and focus",
+                    "Stimulates the nervous system and improves circulation",
+                    "Relieves tension in the shoulders and neck",
+                    "Can help alleviate symptoms of sciatica and menstrual cramps"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Lower back",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "dumbbells-front-squat",
+                    "dumbbells-goblet-squat",
+                    "dumbbells-overhead-squat",
+                    "barbell-sumo-squat",
+                    "kettlebell-sumo-squat",
+                    "bodyweight-sumo-squat"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "title": "Side Kick Kneeling",
+    "description": "A stretch exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by kneeling on the ground with your hands placed on the ground in front of you.",
+                    "Extend one leg out to the side, keeping it straight and parallel to the ground.",
+                    "Slowly lift your leg up as high as you can, while keeping it straight and maintaining your balance.",
+                    "Hold this position for a few seconds, then slowly lower your leg back down to the starting position.",
+                    "Repeat this exercise for the desired number of repetitions, then switch to the other leg and repeat the process."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the hip adductor muscles",
+                    "Improves hip stability and balance",
+                    "Can help prevent hip injuries",
+                    "Targets the inner thigh muscles",
+                    "Can be done with minimal equipment",
+                    "Can be modified for different fitness levels"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Glutes",
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Abdominals",
+                    "Obliques",
+                    "Hip flexors"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "side-kick-standing",
+                    "side-kick-on-all-fours",
+                    "side-kick-laying-down",
+                    "side-kick-with-resistance-band",
+                    "kneeling-side-kick-with-twist",
+                    "side-kick-with-leg-lift",
+                    "side-kick-with-pulse",
+                    "side-kick-with-hip-abduction"
+                ]
+            }
+        }
+    ]
+}

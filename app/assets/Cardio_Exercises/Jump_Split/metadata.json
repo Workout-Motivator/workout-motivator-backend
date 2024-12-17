@@ -1,0 +1,63 @@
+{
+    "title": "Jump Split",
+    "description": "A cardio exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start in a lunge position with your right foot forward and your left foot back.",
+                    "Jump up explosively, switching your feet in mid-air so that your left foot lands in front and your right foot lands behind you.",
+                    "As soon as you land, immediately jump again, switching your feet back to the starting position.",
+                    "Repeat for the desired number of reps or time."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves lower body strength and power",
+                    "Increases cardiovascular endurance",
+                    "Improves balance and coordination",
+                    "Engages multiple muscle groups, including quads, hamstrings, glutes, and calves",
+                    "Can be modified for different fitness levels and goals",
+                    "Can be done with or without equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Glutes",
+                    "Calf muscles",
+                    "Core muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Jump Lunge",
+                    "Split Squat Jump",
+                    "Jumping Jacks",
+                    "Box Jumps",
+                    "High Knees"
+                ]
+            }
+        }
+    ]
+}

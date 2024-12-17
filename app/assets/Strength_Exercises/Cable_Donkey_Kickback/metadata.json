@@ -1,0 +1,62 @@
+{
+    "title": "Cable Donkey Kickback",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by attaching a cable to a low pulley and securing it to your ankle with a cuff.",
+                    "Position yourself facing the machine with your hands on the frame for support.",
+                    "Keeping your knee bent, lift your leg back and up behind you, squeezing your glutes at the top of the movement.",
+                    "Lower your leg back down to the starting position and repeat for the desired number of reps.",
+                    "Switch legs and repeat the exercise on the other side."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets multiple muscle groups including quads, glutes, hamstrings, and core",
+                    "Improves lower body strength and stability",
+                    "Increases range of motion in hips and ankles",
+                    "Can be modified for different fitness levels and abilities",
+                    "Helps improve posture and balance",
+                    "Can be done with minimal equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Glutes",
+                    "Hamstrings",
+                    "Lower back"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Cable kickback",
+                    "Donkey kickback",
+                    "Cable donkey kick",
+                    "Standing cable kickback",
+                    "Seated donkey kickback"
+                ]
+            }
+        }
+    ]
+}

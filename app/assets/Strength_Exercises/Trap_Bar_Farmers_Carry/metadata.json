@@ -1,0 +1,66 @@
+{
+    "title": "Trap Bar Farmers Carry",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Begin by standing in the center of a trap bar with your feet shoulder-width apart.",
+                    "Bend down and grip the handles of the trap bar with both hands.",
+                    "Stand up straight, lifting the trap bar off the ground.",
+                    "Engage your core and keep your shoulders back as you walk forward, taking small, controlled steps.",
+                    "Continue walking for a set distance or time, making sure to keep your posture and form correct throughout the exercise.",
+                    "When finished, carefully lower the trap bar back to the ground."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves grip strength",
+                    "Increases core stability",
+                    "Enhances overall body strength",
+                    "Improves posture and balance",
+                    "Helps with injury prevention",
+                    "Can be used for cardiovascular conditioning"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Trapezius",
+                    "Forearms",
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single-arm Trap Bar Farmers Carry",
+                    "Overhead Trap Bar Farmers Carry",
+                    "Reverse-grip Trap Bar Farmers Carry",
+                    "Heavy-load Trap Bar Farmers Carry",
+                    "Walking Lunge with Trap Bar Farmers Carry"
+                ]
+            }
+        }
+    ]
+}

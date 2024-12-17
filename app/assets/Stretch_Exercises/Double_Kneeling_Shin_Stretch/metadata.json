@@ -1,0 +1,66 @@
+{
+    "title": "Double Kneeling Shin Stretch",
+    "description": "A stretch exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by kneeling on the ground with your shins and feet flat on the floor behind you.",
+                    "Place your hands on the ground behind you for support.",
+                    "Slowly shift your weight back onto your heels, keeping your shins and feet on the ground.",
+                    "Hold this position for 10-30 seconds, feeling a stretch in your shins and ankles.",
+                    "Slowly release the stretch and come back to the starting position.",
+                    "Repeat the stretch for 2-3 sets, holding for 10-30 seconds each time."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the core muscles",
+                    "Improves flexibility in the hips and shoulders",
+                    "Increases coordination and balance",
+                    "Helps to improve posture",
+                    "Can aid in reducing lower back pain",
+                    "Provides a full-body workout",
+                    "Can be modified for different fitness levels"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Glutes",
+                    "Hip flexors",
+                    "Calves"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single-kneeling shin stretch",
+                    "Standing shin stretch",
+                    "Seated shin stretch",
+                    "Half-pigeon pose",
+                    "Full pigeon pose"
+                ]
+            }
+        }
+    ]
+}

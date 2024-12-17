@@ -1,0 +1,63 @@
+{
+    "title": "Standing Abdominal Vacuum",
+    "description": "A stretch exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand up straight with your feet shoulder-width apart.",
+                    "Take a deep breath in through your nose.",
+                    "As you exhale through your mouth, suck your belly button in towards your spine as much as possible.",
+                    "Hold this position for 10-20 seconds, or as long as you can.",
+                    "Release and take a deep breath in again.",
+                    "Repeat for 10-15 repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens and tones the calf muscles",
+                    "Improves ankle stability and balance",
+                    "Helps prevent injuries such as ankle sprains and Achilles tendonitis",
+                    "Can be done with minimal equipment and in a variety of settings",
+                    "Can be easily modified to increase or decrease difficulty"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Transverse abdominis",
+                    "Internal obliques",
+                    "Rectus abdominis",
+                    "Erector spinae"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Seated abdominal vacuum",
+                    "Kneeling abdominal vacuum",
+                    "Plank abdominal vacuum",
+                    "Side plank abdominal vacuum",
+                    "Standing oblique vacuum"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "title": "Front Plank With Twist",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start in a plank position with your forearms on the ground and your body in a straight line from head to heels.",
+                    "Engage your core and glutes to maintain the plank position.",
+                    "Rotate your body to the right, lifting your right arm off the ground and reaching it towards the ceiling.",
+                    "Hold for a few seconds, then return to the starting plank position.",
+                    "Repeat on the left side, lifting your left arm off the ground and reaching it towards the ceiling.",
+                    "Continue alternating sides for the desired number of repetitions or time."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the core muscles, including the rectus abdominis, obliques, and lower back muscles",
+                    "Improves stability and balance",
+                    "Increases flexibility in the hips and spine",
+                    "Engages the shoulder muscles, improving upper body strength",
+                    "Helps to prevent lower back pain and injury",
+                    "Can be modified for different fitness levels and abilities"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus Abdominis",
+                    "Obliques",
+                    "Erector Spinae",
+                    "Glutes",
+                    "Quadriceps"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Side Plank with Twist",
+                    "Plank with Knee-to-Elbow Twist",
+                    "Plank with Hip Dip",
+                    "Plank with Arm Reach",
+                    "Plank with Leg Lift"
+                ]
+            }
+        }
+    ]
+}

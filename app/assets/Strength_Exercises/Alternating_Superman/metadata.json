@@ -1,0 +1,64 @@
+{
+    "title": "Alternating Superman",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying face down on a mat or comfortable surface.",
+                    "Extend your arms straight out in front of you and your legs straight behind you.",
+                    "Simultaneously lift your right arm and left leg off the ground as high as you can, while keeping your torso and hips on the ground.",
+                    "Hold this position for a few seconds, then lower your arm and leg back down to the ground.",
+                    "Repeat the same movement with your left arm and right leg.",
+                    "Continue alternating between lifting your right arm and left leg, and your left arm and right leg, for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens lower back muscles",
+                    "Improves posture",
+                    "Engages core muscles",
+                    "Increases stability and balance",
+                    "Can be done anywhere without equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Erector spinae",
+                    "Gluteus maximus",
+                    "Hamstrings",
+                    "Quadriceps",
+                    "Abdominals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Superman",
+                    "Alternating Superman with opposite arm and leg raised",
+                    "Superman with both arms and legs raised",
+                    "Superman with one arm and opposite leg raised",
+                    "Superman with one arm and same side leg raised"
+                ]
+            }
+        }
+    ]
+}

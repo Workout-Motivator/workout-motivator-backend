@@ -1,0 +1,72 @@
+{
+    "title": "Barbell Muscle Clean",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by standing with your feet shoulder-width apart and your toes pointing forward.",
+                    "Place your hands on the barbell with an overhand grip, slightly wider than shoulder-width apart.",
+                    "Bend your knees and lower your hips, keeping your back straight and your chest up.",
+                    "Drive through your legs and extend your hips, pulling the barbell up towards your shoulders.",
+                    "As the barbell reaches your shoulders, quickly rotate your elbows forward and catch the barbell on the front of your shoulders.",
+                    "Stand up straight, keeping the barbell close to your body.",
+                    "Lower the barbell back down to the starting position and repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves explosive power and speed",
+                    "Targets multiple muscle groups including the shoulders, back, hips, and legs",
+                    "Increases overall strength and muscle mass",
+                    "Improves coordination and balance",
+                    "Can be modified for different fitness levels and goals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Start by standing with your feet shoulder-width apart and your toes pointing forward.",
+                    "Place your hands on the barbell with an overhand grip, slightly wider than shoulder-width apart.",
+                    "Bend your knees and lower your hips, keeping your back straight and your chest up.",
+                    "Drive through your legs and extend your hips, pulling the barbell up towards your shoulders.",
+                    "As the barbell reaches your shoulders, quickly rotate your elbows forward and catch the barbell on the front of your shoulders.",
+                    "Stand up straight, keeping the barbell close to your body.",
+                    "Lower the barbell back down to the starting position and repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Muscle Clean",
+                    "Kettlebell Muscle Clean",
+                    "Medicine Ball Muscle Clean",
+                    "Sandbag Muscle Clean",
+                    "Single Arm Muscle Clean",
+                    "Hang Muscle Clean",
+                    "Power Clean",
+                    "Hang Power Clean",
+                    "Push Press",
+                    "Push Jerk"
+                ]
+            }
+        }
+    ]
+}

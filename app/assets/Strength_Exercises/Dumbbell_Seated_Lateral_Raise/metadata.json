@@ -1,0 +1,63 @@
+{
+    "title": "Dumbbell Seated Lateral Raise",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by sitting on a bench with your feet flat on the ground and your back straight.",
+                    "Hold a dumbbell in each hand with your palms facing inward and your arms at your sides.",
+                    "Slowly raise your arms out to the sides until they are parallel to the ground.",
+                    "Pause for a moment, then slowly lower your arms back down to your sides.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the lateral deltoid muscles, which are responsible for shoulder abduction and help create a wider shoulder appearance",
+                    "Improves shoulder stability and mobility",
+                    "Can be done with light weights and high reps for a toning effect or heavier weights and lower reps for muscle building",
+                    "Can be modified by changing the angle of the bench or using different grip positions to target different areas of the shoulder",
+                    "Can be done seated, which reduces the risk of injury and allows for better isolation of the targeted muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Deltoids (shoulders)",
+                    "Trapezius (upper back)",
+                    "Supraspinatus (upper back)",
+                    "Infraspinatus (upper back)",
+                    "Teres minor (upper back)"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Standing Lateral Raise",
+                    "Dumbbell Front Raise",
+                    "Dumbbell Bent-Over Lateral Raise",
+                    "Cable Lateral Raise",
+                    "Machine Lateral Raise"
+                ]
+            }
+        }
+    ]
+}

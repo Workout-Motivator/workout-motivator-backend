@@ -1,0 +1,62 @@
+{
+    "title": "Cable Incline Bench Press",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Adjust the bench to a 30-45 degree incline.",
+                    "Attach a cable to each side of the bench and adjust the height to chest level.",
+                    "Grab the handles and sit on the bench with your feet firmly planted on the ground.",
+                    "Engage your core and press the handles forward until your arms are fully extended.",
+                    "Slowly lower the handles back down to your chest, keeping your elbows slightly bent.",
+                    "Repeat for desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the upper chest muscles",
+                    "Allows for a greater range of motion compared to traditional incline bench press",
+                    "Provides constant tension on the chest muscles throughout the movement",
+                    "Engages the triceps and shoulders as secondary muscles",
+                    "Can be easily adjusted to accommodate different fitness levels and goals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Pectoralis major (upper and middle fibers)",
+                    "Anterior deltoids",
+                    "Triceps brachii"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Incline Bench Press",
+                    "Barbell Incline Bench Press",
+                    "Machine Incline Bench Press",
+                    "Single Arm Cable Incline Bench Press",
+                    "Close Grip Cable Incline Bench Press"
+                ]
+            }
+        }
+    ]
+}

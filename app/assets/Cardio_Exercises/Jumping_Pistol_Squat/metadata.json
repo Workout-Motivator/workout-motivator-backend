@@ -1,0 +1,70 @@
+{
+    "title": "Jumping Pistol Squat",
+    "description": "A cardio exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your arms at your sides.",
+                    "Take a big step forward with your right foot and lower your body into a lunge position, keeping your left foot behind you.",
+                    "Bend your right knee until your thigh is parallel to the ground.",
+                    "Push off your right foot and jump up into the air, switching your legs mid-air so that you land with your left foot forward and your right foot back.",
+                    "Lower your body into a lunge position with your left knee bent and your right foot behind you.",
+                    "Repeat the exercise, jumping back and forth between your left and right legs."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves lower body strength and power",
+                    "Increases cardiovascular endurance",
+                    "Improves balance and coordination",
+                    "Targets multiple muscle groups including quads, glutes, hamstrings, and calves",
+                    "Can be modified for different fitness levels by adjusting the height of the jump or using a support",
+                    "Engages the core muscles for stability and balance",
+                    "Can be done with or without weights for added resistance"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Weighted Jumping Pistol Squat",
+                    "Jumping Pistol Squat with Resistance Band",
+                    "Jumping Pistol Squat with Medicine Ball",
+                    "Jumping Pistol Squat with Dumbbells",
+                    "Jumping Pistol Squat with Kettlebell",
+                    "Jumping Pistol Squat with Barbell",
+                    "Jumping Pistol Squat with TRX Suspension Trainer",
+                    "Jumping Pistol Squat with Bosu Ball",
+                    "Jumping Pistol Squat with Stability Ball"
+                ]
+            }
+        }
+    ]
+}

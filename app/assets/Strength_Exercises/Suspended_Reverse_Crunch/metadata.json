@@ -1,0 +1,62 @@
+{
+    "title": "Suspended Reverse Crunch",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Lie on your back with your hands behind your head and your legs straight up in the air.",
+                    "Engage your core and lift your hips off the ground, bringing your knees towards your chest.",
+                    "Pause at the top of the movement and squeeze your abs.",
+                    "Slowly lower your hips back down to the starting position.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the lower abs and hip flexors",
+                    "Increases core stability and balance",
+                    "Engages the entire core, including the obliques and upper abs",
+                    "Can be modified for different fitness levels by adjusting the height of the suspension straps",
+                    "Requires minimal equipment and can be done anywhere with a suspension trainer"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus Abdominis",
+                    "Obliques",
+                    "Transverse Abdominis",
+                    "Hip Flexors"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Suspended Knee Tucks",
+                    "Suspended Pike",
+                    "Suspended Oblique Crunch",
+                    "Suspended Leg Raises",
+                    "Suspended Bicycle Crunch"
+                ]
+            }
+        }
+    ]
+}

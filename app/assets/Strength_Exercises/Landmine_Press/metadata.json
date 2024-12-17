@@ -1,0 +1,64 @@
+{
+    "title": "Landmine Press",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by placing a barbell into a landmine attachment or securely into a corner of a room.",
+                    "Load the barbell with an appropriate weight for your fitness level.",
+                    "Stand facing the barbell with your feet shoulder-width apart.",
+                    "Grab the end of the barbell with one hand and bring it up to your shoulder, keeping your elbow close to your body.",
+                    "Press the barbell up and away from your body, extending your arm fully.",
+                    "Lower the barbell back down to your shoulder and repeat for the desired number of reps.",
+                    "Switch sides and repeat the exercise with your other arm."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets multiple muscle groups including the shoulders, chest, and triceps",
+                    "Improves upper body strength and stability",
+                    "Can be modified for different fitness levels and goals",
+                    "Helps to improve posture and reduce the risk of injury",
+                    "Can be done with minimal equipment and space"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Shoulder muscles (deltoids)",
+                    "Triceps",
+                    "Chest muscles (pectoralis major)",
+                    "Core muscles (abdominals and obliques)"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single-arm landmine press",
+                    "Landmine press with rotation",
+                    "Landmine press with lunge",
+                    "Landmine press with squat",
+                    "Landmine press with step-up"
+                ]
+            }
+        }
+    ]
+}

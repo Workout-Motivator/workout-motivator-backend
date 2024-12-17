@@ -1,0 +1,68 @@
+{
+    "title": "Barbell Pullover to Press",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying flat on a bench with your feet firmly planted on the ground and your head hanging off the edge of the bench.",
+                    "Grasp the barbell with both hands, using an overhand grip, and hold it above your chest with your arms extended.",
+                    "Slowly lower the barbell behind your head, keeping your arms straight and your elbows locked.",
+                    "Once the barbell is behind your head, pause for a moment, then slowly raise it back up to the starting position above your chest.",
+                    "As you raise the barbell, bend your elbows slightly and bring it closer to your body until it is directly above your chest.",
+                    "Once the barbell is back in the starting position, pause for a moment, then repeat the exercise for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets multiple muscle groups including the chest, back, shoulders, and triceps",
+                    "Improves upper body strength and endurance",
+                    "Increases flexibility and range of motion in the shoulders and chest",
+                    "Can be modified for different fitness levels by adjusting weight and reps",
+                    "Engages the core muscles for added stability and balance"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Pectoralis major",
+                    "Latissimus dorsi",
+                    "Triceps brachii",
+                    "Deltoids",
+                    "Rhomboids",
+                    "Trapezius"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Pullover To Press",
+                    "Cable Pullover To Press",
+                    "Machine Pullover To Press",
+                    "Single Arm Dumbbell Pullover To Press",
+                    "Barbell Pullover To Bench Press",
+                    "Barbell Pullover To Close Grip Bench Press",
+                    "Barbell Pullover To Incline Bench Press",
+                    "Barbell Pullover To Decline Bench Press"
+                ]
+            }
+        }
+    ]
+}

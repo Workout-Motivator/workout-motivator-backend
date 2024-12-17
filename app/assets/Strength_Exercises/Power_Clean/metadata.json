@@ -1,0 +1,75 @@
+{
+    "title": "Power Clean",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start with your feet shoulder-width apart and the barbell on the ground in front of you.",
+                    "Bend down and grip the bar with your hands slightly wider than shoulder-width apart.",
+                    "Keep your back straight and lift the bar off the ground, extending your legs and hips.",
+                    "As the bar reaches your mid-thigh, explosively pull it up towards your shoulders, keeping it close to your body.",
+                    "As the bar reaches your shoulders, quickly drop into a squat position and catch the bar on your shoulders, with your elbows pointing forward.",
+                    "Stand up from the squat position, keeping the bar on your shoulders.",
+                    "Lower the bar back down to the ground by reversing the movement, bending your knees and hips and keeping your back straight."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves explosive power and speed",
+                    "Targets multiple muscle groups including the legs, back, shoulders, and arms",
+                    "Increases overall strength and muscle mass",
+                    "Improves coordination and balance",
+                    "Enhances athletic performance in sports such as football, basketball, and track and field",
+                    "Can be modified for different fitness levels and goals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Glutes",
+                    "Calves",
+                    "Lower back",
+                    "Upper back",
+                    "Shoulders",
+                    "Forearms",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Hang Power Clean",
+                    "Power Clean from Blocks",
+                    "Power Clean from High Blocks",
+                    "Power Clean from Hang",
+                    "Power Clean from Knee",
+                    "Power Clean from Mid-Thigh",
+                    "Power Clean from Power Position",
+                    "Power Clean from Shin",
+                    "Power Clean from Floor",
+                    "Power Clean and Jerk"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "title": "Dumbbell Incline Around the World",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on an incline bench with a dumbbell in each hand.",
+                    "Extend your arms straight up above your chest, with your palms facing each other.",
+                    "Slowly lower the dumbbells out to the sides, keeping your arms straight and your palms facing up.",
+                    "Continue lowering the dumbbells until they are level with your shoulders.",
+                    "Rotate your arms so that your palms are facing down, and continue lowering the dumbbells until they are level with your hips.",
+                    "Rotate your arms again so that your palms are facing each other, and lift the dumbbells back up to the starting position.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets multiple muscle groups including chest, shoulders, and triceps",
+                    "Improves upper body strength and endurance",
+                    "Increases range of motion in the shoulders",
+                    "Can be modified for different fitness levels by adjusting weight and reps",
+                    "Engages stabilizer muscles in the core and upper back"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Pectoralis major (upper and lower fibers)",
+                    "Anterior deltoids",
+                    "Triceps brachii",
+                    "Serratus anterior"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Incline Fly",
+                    "Dumbbell Incline Press",
+                    "Dumbbell Incline Bench Row",
+                    "Dumbbell Incline Curl",
+                    "Dumbbell Incline Tricep Extension"
+                ]
+            }
+        }
+    ]
+}

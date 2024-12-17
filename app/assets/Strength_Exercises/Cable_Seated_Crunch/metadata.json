@@ -1,0 +1,62 @@
+{
+    "title": "Cable Seated Crunch",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by sitting on a bench with your feet flat on the ground and your knees bent at a 90-degree angle.",
+                    "Attach a cable to the pulley machine and adjust the weight to your desired level.",
+                    "Hold the cable with both hands and bring it behind your head, keeping your elbows close to your ears.",
+                    "Engage your core and slowly crunch forward, bringing your elbows towards your knees.",
+                    "Pause for a moment at the top of the movement, then slowly release back to the starting position.",
+                    "Repeat for your desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the rectus abdominis muscle, which is responsible for creating the \u201csix-pack\u201d appearance",
+                    "Allows for a greater range of motion compared to traditional crunches, leading to increased muscle activation",
+                    "Engages the obliques and hip flexors as stabilizing muscles",
+                    "Can be easily adjusted to increase or decrease resistance by changing the weight on the cable machine",
+                    "Provides a low-impact option for those with back pain or injuries, as the seated position reduces strain on the lower back"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus Abdominis",
+                    "Obliques",
+                    "Transverse Abdominis"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Cable Crunch",
+                    "Cable Rope Crunch",
+                    "Cable Oblique Crunch",
+                    "Cable Reverse Crunch",
+                    "Cable Woodchopper"
+                ]
+            }
+        }
+    ]
+}

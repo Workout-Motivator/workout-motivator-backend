@@ -1,0 +1,61 @@
+{
+    "title": "Dumbbell Shrug",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a dumbbell in each hand with your palms facing your body.",
+                    "Relax your shoulders and keep your arms straight by your sides.",
+                    "Slowly lift your shoulders up towards your ears, squeezing your shoulder blades together at the top of the movement.",
+                    "Hold for a second, then slowly lower your shoulders back down to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the trapezius muscles in the upper back and shoulders",
+                    "Improves posture and reduces the risk of neck and shoulder pain",
+                    "Increases grip strength and forearm endurance",
+                    "Can be done with a variety of weights and equipment, making it accessible for all fitness levels",
+                    "Isolates the targeted muscles, allowing for focused and effective training"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Trapezius",
+                    "Rhomboids",
+                    "Levator Scapulae"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Barbell Shrug",
+                    "Cable Shrug",
+                    "Kettlebell Shrug",
+                    "Trap Bar Shrug",
+                    "Machine Shrug"
+                ]
+            }
+        }
+    ]
+}

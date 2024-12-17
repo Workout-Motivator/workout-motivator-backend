@@ -1,0 +1,60 @@
+{
+    "title": "Cable Wrist Curl",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by sitting on a bench or chair with your forearms resting on a flat surface, such as a table or bench.",
+                    "Grasp the cable handle with an underhand grip, with your palms facing up.",
+                    "Slowly curl your wrists upward, bringing the cable handle towards your forearms.",
+                    "Hold the contraction for a few seconds, then slowly lower the cable handle back down to the starting position.",
+                    "Repeat for the desired number of repetitions.",
+                    "Switch to an overhand grip and repeat the exercise to work the opposite side of your forearms."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the wrist flexor muscles",
+                    "Improves grip strength",
+                    "Helps prevent wrist injuries",
+                    "Can be done with different variations to target specific areas of the wrist and forearm",
+                    "Can be easily adjusted for different levels of resistance"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Forearm Flexors"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Reverse Cable Wrist Curl",
+                    "One-Arm Cable Wrist Curl",
+                    "Standing Cable Wrist Curl",
+                    "Seated Cable Wrist Curl",
+                    "High Pulley Cable Wrist Curl"
+                ]
+            }
+        }
+    ]
+}

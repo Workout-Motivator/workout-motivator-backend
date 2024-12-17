@@ -1,0 +1,64 @@
+{
+    "title": "Pigeon Hip Stretch",
+    "description": "A stretch exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start in a tabletop position with your hands and knees on the ground.",
+                    "Bring your right knee forward and place it behind your right wrist.",
+                    "Extend your left leg behind you, keeping your hips square to the ground.",
+                    "Slowly lower your body down to the ground, resting on your forearms or forehead.",
+                    "Hold the stretch for 30 seconds to 2 minutes, breathing deeply.",
+                    "Slowly come out of the stretch by pushing yourself back up to tabletop position.",
+                    "Repeat on the other side."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Increases flexibility and range of motion in the hips",
+                    "Relieves tension and tightness in the hip muscles",
+                    "Improves posture and alignment of the pelvis",
+                    "Can help alleviate lower back pain",
+                    "May improve athletic performance in activities that require hip mobility, such as running or dancing"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Glutes",
+                    "Hamstrings",
+                    "Hip flexors",
+                    "Lower back"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Modified Pigeon Hip Stretch",
+                    "Standing Pigeon Hip Stretch",
+                    "Seated Pigeon Hip Stretch",
+                    "Supine Pigeon Hip Stretch",
+                    "Thread the Needle Hip Stretch"
+                ]
+            }
+        }
+    ]
+}

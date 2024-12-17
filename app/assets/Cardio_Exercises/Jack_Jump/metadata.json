@@ -1,0 +1,65 @@
+{
+    "title": "Jack Jump",
+    "description": "A cardio exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start in a standing position with your feet shoulder-width apart.",
+                    "Bend your knees slightly and jump up, bringing your knees towards your chest.",
+                    "While in the air, cross your right leg over your left leg and uncross them before landing.",
+                    "As soon as you land, immediately jump again and cross your left leg over your right leg and uncross them before landing.",
+                    "Repeat steps 3 and 4 for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the rectus abdominis muscle, also known as the \u201csix-pack\u201d",
+                    "Engages the obliques and hip flexors for a full core workout",
+                    "Improves overall core strength and stability",
+                    "Can help improve posture and reduce lower back pain",
+                    "Can be modified for different fitness levels and abilities"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Calves",
+                    "Glutes",
+                    "Abdominals",
+                    "Obliques",
+                    "Lower back muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "jack-jump",
+                    "jumping jacks",
+                    "jumping jack squats",
+                    "jumping jack burpees",
+                    "plank jacks"
+                ]
+            }
+        }
+    ]
+}

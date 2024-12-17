@@ -1,0 +1,65 @@
+{
+    "title": "Prayer Squat Yoga Pose",
+    "description": "A stretch exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by standing with your feet hip-width apart and your hands in prayer position in front of your chest.",
+                    "Take a deep breath in and as you exhale, bend your knees and lower your hips down into a squat position.",
+                    "Keep your back straight and your chest lifted as you hold the pose for a few breaths.",
+                    "As you inhale, straighten your legs and come back up to standing position with your hands still in prayer position.",
+                    "Repeat the squatting motion for several repetitions, focusing on your breath and maintaining proper form."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the lower body muscles, including the quadriceps, hamstrings, and glutes",
+                    "Improves flexibility in the hips, knees, and ankles",
+                    "Stretches the back, shoulders, and neck",
+                    "Helps to improve balance and stability",
+                    "Can help to relieve stress and tension in the body",
+                    "May improve digestion and circulation",
+                    "Can be modified for different levels of flexibility and strength"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Glutes",
+                    "Calves",
+                    "Core muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Prayer Squat with Twist",
+                    "Prayer Squat with Eagle Arms",
+                    "Prayer Squat with Forward Fold",
+                    "Prayer Squat with Side Stretch",
+                    "Prayer Squat with Shoulder Opener"
+                ]
+            }
+        }
+    ]
+}

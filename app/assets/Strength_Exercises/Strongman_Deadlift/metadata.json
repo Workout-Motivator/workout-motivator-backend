@@ -1,0 +1,75 @@
+{
+    "title": "Strongman Deadlift",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with feet shoulder-width apart and toes pointing forward.",
+                    "Place a barbell on the ground in front of you.",
+                    "Bend down and grip the barbell with both hands, palms facing down and hands shoulder-width apart.",
+                    "Engage your core and lift the barbell off the ground, keeping your back straight and your arms fully extended.",
+                    "As you lift the barbell, push your hips forward and stand up straight.",
+                    "Hold the barbell at the top of the lift for a few seconds, then slowly lower it back down to the ground.",
+                    "Repeat for desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Increases overall strength and power",
+                    "Targets multiple muscle groups including the back, legs, and core",
+                    "Improves grip strength",
+                    "Enhances functional movement patterns",
+                    "Can improve athletic performance in other sports",
+                    "May help prevent injury by strengthening muscles and improving posture"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Erector Spinae",
+                    "Glutes",
+                    "Hamstrings",
+                    "Quadriceps",
+                    "Calves",
+                    "Forearms",
+                    "Trapezius",
+                    "Rhomboids",
+                    "Latissimus Dorsi"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Sumo Deadlift",
+                    "Conventional Deadlift",
+                    "Romanian Deadlift",
+                    "Trap Bar Deadlift",
+                    "Deficit Deadlift",
+                    "Paused Deadlift",
+                    "Deadlift with Chains",
+                    "Deadlift with Bands",
+                    "Single-Leg Deadlift",
+                    "Stiff-Leg Deadlift"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "title": "Lying Calf Stretch",
+    "description": "A stretch exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by finding a flat surface to lie down on, such as a yoga mat or carpeted floor.",
+                    "Lie down on your back with your legs extended straight out in front of you.",
+                    "Bend your right knee and bring your foot towards your buttocks.",
+                    "Place your left hand on your right knee and gently pull it towards your left shoulder.",
+                    "Use your right hand to grasp your right ankle and gently pull it towards your buttocks.",
+                    "Hold this position for 15-30 seconds, feeling a stretch in your right calf muscle.",
+                    "Release the stretch and repeat on the other side, bending your left knee and pulling it towards your right shoulder while grasping your left ankle with your right hand.",
+                    "Repeat the stretch on both sides 2-3 times, gradually increasing the duration of the stretch as your muscles become more flexible."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the core muscles",
+                    "Improves balance and stability",
+                    "Targets the oblique muscles",
+                    "Increases flexibility in the hips and lower back",
+                    "Can be modified for different fitness levels"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Gastrocnemius",
+                    "Soleus"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "standing-calf-stretch",
+                    "seated-calf-stretch",
+                    "wall-calf-stretch",
+                    "single-leg-calf-raise",
+                    "double-leg-calf-raise"
+                ]
+            }
+        }
+    ]
+}

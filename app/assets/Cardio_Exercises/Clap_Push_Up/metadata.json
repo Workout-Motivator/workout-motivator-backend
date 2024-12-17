@@ -1,0 +1,61 @@
+{
+    "title": "Clap Push Up",
+    "description": "A cardio exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start in a plank position with your hands shoulder-width apart and your feet hip-width apart.",
+                    "Lower your body towards the ground by bending your elbows.",
+                    "As you push back up, quickly clap your hands together before returning to the starting position.",
+                    "Repeat for desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens chest, triceps, and shoulder muscles",
+                    "Improves explosive power and upper body coordination",
+                    "Increases cardiovascular endurance",
+                    "Engages core muscles for stability and balance",
+                    "Variation of traditional push up for added challenge and variety in workout routine"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Chest muscles (pectoralis major and minor)",
+                    "Shoulder muscles (deltoids)",
+                    "Triceps",
+                    "Core muscles (abdominals and lower back)"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "One-Handed Clap Push Up",
+                    "Decline Clap Push Up",
+                    "Spiderman Clap Push Up",
+                    "Explosive Clap Push Up",
+                    "Close Grip Clap Push Up"
+                ]
+            }
+        }
+    ]
+}

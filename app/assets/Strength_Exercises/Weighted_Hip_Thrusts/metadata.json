@@ -1,0 +1,65 @@
+{
+    "title": "Weighted Hip Thrusts",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by sitting on the ground with your back against a bench or step.",
+                    "Place a barbell across your hips and hold it in place with your hands.",
+                    "Position your feet flat on the ground, hip-width apart.",
+                    "Engage your glutes and lift your hips up towards the ceiling, squeezing your glutes at the top of the movement.",
+                    "Lower your hips back down to the ground, but don\u2019t let them touch the ground before starting the next repetition.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Increases upper body strength",
+                    "Improves grip strength",
+                    "Enhances overall body control and coordination",
+                    "Targets multiple muscle groups including chest, back, shoulders, and arms",
+                    "Can be modified for different fitness levels by adjusting the weight or using assistance",
+                    "Provides a challenging and rewarding workout"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Glutes",
+                    "Hamstrings",
+                    "Quadriceps",
+                    "Erector spinae",
+                    "Abdominals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single-leg weighted hip thrusts",
+                    "Barbell hip thrusts",
+                    "Banded hip thrusts",
+                    "Glute bridge hip thrusts",
+                    "Smith machine hip thrusts"
+                ]
+            }
+        }
+    ]
+}

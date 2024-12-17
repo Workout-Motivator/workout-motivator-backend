@@ -1,0 +1,67 @@
+{
+    "title": "Barbell Floor Chest Press",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Lie on your back on the floor with your knees bent and feet flat on the ground.",
+                    "Grasp the barbell with an overhand grip, hands shoulder-width apart.",
+                    "Hold the barbell above your chest with your arms extended.",
+                    "Slowly lower the barbell towards your chest, keeping your elbows close to your body.",
+                    "Pause when the barbell is just above your chest.",
+                    "Push the barbell back up to the starting position, extending your arms fully.",
+                    "Repeat for desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the chest muscles, specifically the pectoralis major and minor",
+                    "Engages the triceps and shoulders as secondary muscles",
+                    "Improves upper body strength and power",
+                    "Increases muscle activation and recruitment compared to traditional bench press",
+                    "Allows for a greater range of motion and deeper stretch in the chest muscles",
+                    "Can be performed with heavier weights due to the stability provided by the floor",
+                    "Reduces strain on the lower back and shoulders compared to bench press",
+                    "Can be modified for different fitness levels and goals, such as incline or decline variations"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Pectoralis major",
+                    "Triceps brachii",
+                    "Anterior deltoids",
+                    "Serratus anterior"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Floor Chest Press",
+                    "Push-up",
+                    "Incline Barbell Chest Press",
+                    "Decline Barbell Chest Press",
+                    "Machine Chest Press"
+                ]
+            }
+        }
+    ]
+}

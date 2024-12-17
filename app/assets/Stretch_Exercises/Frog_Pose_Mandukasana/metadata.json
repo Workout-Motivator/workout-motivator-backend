@@ -1,0 +1,68 @@
+{
+    "title": "Frog Pose Mandukasana",
+    "description": "A stretch exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by sitting on your heels with your knees together.",
+                    "Place your hands on your thighs and take a few deep breaths.",
+                    "On an exhale, slowly lower your torso down towards the floor, keeping your arms extended in front of you.",
+                    "Rest your forehead on the floor and stretch your arms out in front of you.",
+                    "Hold the pose for 5-10 breaths, focusing on deepening your breath and relaxing your body.",
+                    "To release the pose, slowly lift your torso back up and sit back on your heels."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves balance and coordination",
+                    "Strengthens the quadriceps, hamstrings, and glutes",
+                    "Increases flexibility in the hip flexors and hamstrings",
+                    "Improves core stability and control",
+                    "Enhances cardiovascular endurance",
+                    "Develops self-defense skills"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Hip flexors",
+                    "Glutes",
+                    "Calves",
+                    "Abdominals",
+                    "Chest",
+                    "Shoulders"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "frog pose (mandukasana)",
+                    "mandukasana (frog pose)",
+                    "manduka pose (frog pose)",
+                    "frog stretch",
+                    "frog pose stretch"
+                ]
+            }
+        }
+    ]
+}

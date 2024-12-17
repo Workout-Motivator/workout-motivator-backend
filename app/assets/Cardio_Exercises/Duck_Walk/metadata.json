@@ -1,0 +1,65 @@
+{
+    "title": "Duck Walk",
+    "description": "A cardio exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start in a standing position with your feet shoulder-width apart.",
+                    "Squat down until your thighs are parallel to the ground.",
+                    "Place your hands on your hips or out in front of you for balance.",
+                    "Begin walking forward by taking small steps with your feet, keeping your knees bent and your weight on the balls of your feet.",
+                    "Continue walking forward for a set distance or time.",
+                    "Turn around and walk back to your starting position.",
+                    "Repeat for desired number of sets."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the shoulders and upper back muscles",
+                    "Improves posture and stability",
+                    "Increases range of motion in the shoulders",
+                    "Helps prevent shoulder injuries",
+                    "Can be done with minimal equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Core muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "duck-walk with weights",
+                    "duck-walk with resistance band",
+                    "duck-walk with lateral steps",
+                    "duck-walk with squat jumps",
+                    "duck-walk with medicine ball toss"
+                ]
+            }
+        }
+    ]
+}

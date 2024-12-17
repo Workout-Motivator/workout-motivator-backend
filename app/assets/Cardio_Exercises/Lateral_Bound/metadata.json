@@ -1,0 +1,65 @@
+{
+    "title": "Lateral Bound",
+    "description": "A cardio exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart.",
+                    "Take a big step to your right with your right foot.",
+                    "As you land on your right foot, push off with your right foot and jump to your left, landing on your left foot.",
+                    "Repeat this movement, jumping back and forth between your right and left foot.",
+                    "Complete the desired number of repetitions or time interval."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves balance and stability",
+                    "Increases power and explosiveness in lower body",
+                    "Targets the glutes, quads, and hamstrings",
+                    "Helps prevent injuries by strengthening the muscles around the knees and ankles",
+                    "Can be modified to challenge different fitness levels"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Glutes",
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Calves",
+                    "Abductors",
+                    "Adductors",
+                    "Core muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single Leg Lateral Bound",
+                    "Double Leg Lateral Bound",
+                    "Weighted Lateral Bound",
+                    "Box Lateral Bound",
+                    "Depth Drop Lateral Bound"
+                ]
+            }
+        }
+    ]
+}

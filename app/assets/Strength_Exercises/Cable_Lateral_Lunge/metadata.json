@@ -1,0 +1,66 @@
+{
+    "title": "Cable Lateral Lunge",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and a cable machine to your left side.",
+                    "Grab the handle of the cable machine with your right hand and bring it up to your shoulder.",
+                    "Step your left foot out to the side and bend your left knee, keeping your right leg straight.",
+                    "As you lunge to the left, extend your right arm straight out to the side, keeping it parallel to the ground.",
+                    "Push off your left foot and return to the starting position, bringing the cable handle back to your shoulder.",
+                    "Repeat for the desired number of reps, then switch sides and repeat with your left hand holding the cable handle."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets multiple muscle groups including the glutes, quads, hamstrings, and adductors",
+                    "Improves balance and stability",
+                    "Increases hip mobility",
+                    "Can be modified to increase or decrease resistance",
+                    "Provides a functional movement pattern that translates to daily activities"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Glutes",
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Calves",
+                    "Abductors",
+                    "Adductors",
+                    "Core muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Weighted Cable Lateral Lunge",
+                    "Reverse Cable Lateral Lunge",
+                    "Cable Lateral Lunge with Rotation",
+                    "Cable Lateral Lunge with Knee Drive",
+                    "Cable Lateral Lunge with Bicep Curl"
+                ]
+            }
+        }
+    ]
+}

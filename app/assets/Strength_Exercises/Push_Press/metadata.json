@@ -1,0 +1,65 @@
+{
+    "title": "Push Press",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by standing with your feet shoulder-width apart and the barbell resting on your shoulders.",
+                    "Engage your core and bend your knees slightly.",
+                    "Next, explosively push the barbell overhead by extending your arms and legs.",
+                    "As you push the barbell up, exhale and fully extend your arms overhead.",
+                    "Lower the barbell back down to your shoulders by bending your knees and bringing the barbell down in a controlled manner.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets multiple muscle groups including shoulders, triceps, and core",
+                    "Improves upper body strength and power",
+                    "Increases shoulder stability and mobility",
+                    "Can be modified for different fitness levels and goals",
+                    "Can be incorporated into a full body workout routine"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Shoulders (deltoids)",
+                    "Triceps",
+                    "Chest (pectoralis major)",
+                    "Upper back (trapezius)",
+                    "Core (abdominals and lower back)",
+                    "Legs (quadriceps, hamstrings, and glutes)"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Push Jerk",
+                    "Split Jerk",
+                    "Strict Press",
+                    "Push Press from behind the neck",
+                    "Single-arm Push Press"
+                ]
+            }
+        }
+    ]
+}

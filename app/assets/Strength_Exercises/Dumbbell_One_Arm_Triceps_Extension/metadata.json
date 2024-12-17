@@ -1,0 +1,61 @@
+{
+    "title": "Dumbbell One Arm Triceps Extension",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a dumbbell in one hand.",
+                    "Extend your arm straight up towards the ceiling, keeping your elbow close to your head.",
+                    "Bend your elbow and lower the dumbbell behind your head, keeping your upper arm stationary.",
+                    "Extend your arm back up to the starting position.",
+                    "Repeat for desired number of reps, then switch arms and repeat."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets biceps, forearms, and brachialis muscles",
+                    "Improves grip strength",
+                    "Increases arm strength and size",
+                    "Helps prevent injury by strengthening supporting muscles",
+                    "Can be done with minimal equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Triceps brachii",
+                    "Anconeus"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "dumbbell-two-arm-triceps-extension",
+                    "dumbbell-kickback",
+                    "cable-one-arm-triceps-extension",
+                    "cable-two-arm-triceps-extension",
+                    "overhead-dumbbell-triceps-extension",
+                    "close-grip-bench-press"
+                ]
+            }
+        }
+    ]
+}

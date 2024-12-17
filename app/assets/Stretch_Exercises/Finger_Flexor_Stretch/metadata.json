@@ -1,0 +1,62 @@
+{
+    "title": "Finger Flexor Stretch",
+    "description": "A stretch exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by sitting on a chair or bench with your feet flat on the ground.",
+                    "Extend your arms out in front of you, with your palms facing down.",
+                    "Slowly bend your fingers down towards your palms, using your other hand to gently push them down if needed.",
+                    "Hold the stretch for 15-30 seconds, feeling a stretch in your fingers and forearms.",
+                    "Release the stretch and shake out your hands.",
+                    "Repeat the stretch 2-3 times on each hand."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Increases flexibility and range of motion in the fingers and hands",
+                    "Helps prevent and alleviate symptoms of carpal tunnel syndrome",
+                    "Reduces tension and stiffness in the hands and forearms",
+                    "Improves grip strength and dexterity",
+                    "Can be done anywhere, anytime, without any equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Flexor Digitorum Profundus",
+                    "Flexor Digitorum Superficialis",
+                    "Flexor Pollicis Longus"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Finger Extension Stretch",
+                    "Wrist Flexor Stretch",
+                    "Wrist Extensor Stretch",
+                    "Forearm Pronator Stretch",
+                    "Forearm Supinator Stretch"
+                ]
+            }
+        }
+    ]
+}

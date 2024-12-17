@@ -1,0 +1,65 @@
+{
+    "title": "Dumbbell Farmers Carry",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a dumbbell in each hand.",
+                    "Keep your shoulders down and back, and engage your core.",
+                    "Walk forward, taking small steps, while keeping your arms straight and your shoulders level.",
+                    "Continue walking for a set distance or time, then turn around and walk back to your starting point.",
+                    "Repeat for the desired number of sets."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves grip strength",
+                    "Strengthens forearms, shoulders, and core muscles",
+                    "Improves posture and stability",
+                    "Increases cardiovascular endurance",
+                    "Can be done with minimal equipment and space"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Trapezius",
+                    "Rhomboids",
+                    "Deltoids",
+                    "Forearms",
+                    "Abdominals",
+                    "Glutes",
+                    "Quadriceps"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Suitcase Carry",
+                    "Dumbbell Waiter\u2019s Carry",
+                    "Dumbbell Overhead Carry",
+                    "Dumbbell Rack Carry",
+                    "Dumbbell Zercher Carry"
+                ]
+            }
+        }
+    ]
+}

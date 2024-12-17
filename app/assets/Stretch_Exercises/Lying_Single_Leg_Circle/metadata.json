@@ -1,0 +1,64 @@
+{
+    "title": "Lying Single Leg Circle",
+    "description": "A stretch exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on your back with your legs extended and your arms by your sides.",
+                    "Lift your right leg up towards the ceiling, keeping it straight and your toes pointed.",
+                    "Begin to circle your right leg in a clockwise direction, making small circles at first and gradually increasing the size of the circles.",
+                    "Complete 10 circles in a clockwise direction, then switch to counterclockwise and complete 10 more circles.",
+                    "Lower your right leg back down to the starting position and repeat the exercise with your left leg.",
+                    "Complete 2-3 sets of 10 circles in each direction with each leg."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the lower abdominal muscles",
+                    "Improves balance and stability",
+                    "Helps to prevent lower back pain",
+                    "Increases flexibility in the hips and lower back",
+                    "Can be modified for different fitness levels",
+                    "Can be done anywhere without equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Abdominal muscles",
+                    "Gluteus maximus",
+                    "Hip flexors",
+                    "Inner and outer thighs"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "standing-single-leg-circle",
+                    "seated-single-leg-circle",
+                    "reformer-single-leg-circle",
+                    "pilates-ring-single-leg-circle",
+                    "swiss-ball-single-leg-circle"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "title": "Band Push Up",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start in a plank position with your hands slightly wider than shoulder-width apart and your feet hip-width apart.",
+                    "Place a resistance band around your back, just below your shoulder blades, and hold onto the ends of the band with your hands.",
+                    "Lower your body towards the ground, keeping your elbows close to your sides and your core engaged.",
+                    "Push back up to the starting position, keeping tension on the band throughout the movement.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets multiple muscle groups including chest, shoulders, triceps, and core",
+                    "Increases upper body strength and endurance",
+                    "Improves stability and balance",
+                    "Allows for variation in resistance by using different strength bands",
+                    "Can be done anywhere with minimal equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Chest muscles (pectoralis major and minor)",
+                    "Triceps",
+                    "Shoulder muscles (anterior deltoids)"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Close-grip band push up",
+                    "Wide-grip band push up",
+                    "Single-arm band push up",
+                    "Band-resisted push up",
+                    "Band-assisted push up",
+                    "Decline band push up",
+                    "Incline band push up",
+                    "Explosive band push up",
+                    "Spiderman band push up",
+                    "Staggered band push up"
+                ]
+            }
+        }
+    ]
+}

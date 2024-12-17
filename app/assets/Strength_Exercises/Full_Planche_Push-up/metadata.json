@@ -1,0 +1,71 @@
+{
+    "title": "Full Planche Push-up",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start in a push-up position with your hands shoulder-width apart and your feet together.",
+                    "Slowly lower your body down to the ground, keeping your elbows close to your body.",
+                    "Once your chest is close to the ground, push your body up and forward, shifting your weight onto your hands.",
+                    "As you push forward, lift your feet off the ground and extend your legs straight out behind you.",
+                    "Hold the full planche position for a few seconds, keeping your body straight and your arms locked out.",
+                    "Slowly lower your body back down to the ground, bending your arms and bringing your feet back to the starting position.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the chest, shoulders, triceps, and core muscles",
+                    "Improves overall upper body strength and stability",
+                    "Increases wrist and forearm strength",
+                    "Improves balance and body control",
+                    "Challenges the mind-body connection and mental focus",
+                    "Can be a impressive party trick or show of strength"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Pectoralis major",
+                    "Triceps brachii",
+                    "Deltoids",
+                    "Abdominals",
+                    "Obliques",
+                    "Erector spinae",
+                    "Quadriceps",
+                    "Glutes"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Straddle Planche Push-Up",
+                    "Half-Planche Push-Up",
+                    "Planche Lean Push-Up",
+                    "Planche Push-Up with Feet Elevated",
+                    "Planche Push-Up with Hands Elevated",
+                    "Single Leg Planche Push-Up",
+                    "One Arm Planche Push-Up"
+                ]
+            }
+        }
+    ]
+}

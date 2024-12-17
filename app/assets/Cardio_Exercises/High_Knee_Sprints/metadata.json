@@ -1,0 +1,64 @@
+{
+    "title": "High Knee Sprints",
+    "description": "A cardio exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by standing with your feet hip-width apart and your arms at your sides.",
+                    "Begin running in place, lifting your knees up towards your chest as high as you can.",
+                    "As you lift your knees, pump your arms as if you were sprinting.",
+                    "Continue running in place with high knees for 30 seconds to 1 minute.",
+                    "Rest for 30 seconds to 1 minute, then repeat for 3-4 sets."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves cardiovascular endurance",
+                    "Increases leg strength and power",
+                    "Enhances coordination and balance",
+                    "Burns calories and aids in weight loss",
+                    "Boosts metabolism and improves overall fitness",
+                    "Can be done anywhere with no equipment needed"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Glutes",
+                    "Calf muscles",
+                    "Abdominals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "High Knee Marches",
+                    "High Knee Skips",
+                    "High Knee Jumps",
+                    "High Knee Runs",
+                    "High Knee Butt Kicks"
+                ]
+            }
+        }
+    ]
+}

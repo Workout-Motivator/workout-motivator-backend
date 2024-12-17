@@ -1,0 +1,61 @@
+{
+    "title": "Standing Gastrocnemius Calf Stretch",
+    "description": "A stretch exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand facing a wall with your hands on the wall at shoulder height.",
+                    "Step back with one foot, keeping your heel on the ground.",
+                    "Bend your front knee and keep your back leg straight.",
+                    "Lean forward, keeping your back heel on the ground and feeling the stretch in your calf.",
+                    "Hold the stretch for 15-30 seconds.",
+                    "Switch legs and repeat the stretch."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves flexibility and range of motion in the calf muscles",
+                    "Reduces the risk of injury in the lower leg and ankle",
+                    "Relieves tension and tightness in the calf muscles",
+                    "Helps to improve balance and stability",
+                    "Can be done anywhere without any equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Gastrocnemius",
+                    "Soleus"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Seated Gastrocnemius Calf Stretch",
+                    "Wall Gastrocnemius Calf Stretch",
+                    "Stair Gastrocnemius Calf Stretch",
+                    "Donkey Calf Raise",
+                    "Single Leg Calf Raise"
+                ]
+            }
+        }
+    ]
+}

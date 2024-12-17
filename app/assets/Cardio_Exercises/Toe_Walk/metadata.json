@@ -1,0 +1,62 @@
+{
+    "title": "Toe Walk",
+    "description": "A cardio exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand up straight with your feet together.",
+                    "Raise up onto the balls of your feet, keeping your heels off the ground.",
+                    "Take small steps forward, only using the balls of your feet.",
+                    "Continue walking forward for a set distance or time.",
+                    "Lower your heels back down to the ground and rest for a few seconds.",
+                    "Repeat the exercise for several sets."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the muscles in the feet and calves",
+                    "Improves balance and stability",
+                    "Helps prevent ankle sprains and other foot injuries",
+                    "Can be done anywhere without equipment",
+                    "Can be modified to increase or decrease difficulty"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Gastrocnemius",
+                    "Soleus",
+                    "Tibialis anterior"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Heel Walk",
+                    "Tiptoe Walk",
+                    "Backward Toe Walk",
+                    "Lateral Toe Walk",
+                    "Single-Leg Toe Walk"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "title": "Cable Drag Curl",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your knees slightly bent.",
+                    "Attach a rope handle to a low pulley cable machine.",
+                    "Grasp the rope with an underhand grip, with your palms facing up and your hands shoulder-width apart.",
+                    "Step back from the machine to create tension in the cable.",
+                    "Keeping your elbows close to your sides, curl the rope towards your chest by flexing your biceps.",
+                    "Pause at the top of the movement and squeeze your biceps.",
+                    "Slowly lower the rope back to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the biceps brachii muscle, helping to increase arm strength and size",
+                    "Allows for a greater range of motion compared to traditional bicep curls",
+                    "Engages the brachialis muscle, which can help create a more defined and aesthetically pleasing arm shape",
+                    "Can be easily modified by adjusting the weight or cable height to accommodate different fitness levels",
+                    "Helps to improve grip strength and forearm endurance"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Biceps brachii",
+                    "Brachialis",
+                    "Brachioradialis"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single Arm Cable Drag Curl",
+                    "Reverse Cable Drag Curl",
+                    "Standing Cable Drag Curl",
+                    "Seated Cable Drag Curl",
+                    "Wide Grip Cable Drag Curl",
+                    "Narrow Grip Cable Drag Curl",
+                    "Low Cable Drag Curl",
+                    "High Cable Drag Curl"
+                ]
+            }
+        }
+    ]
+}

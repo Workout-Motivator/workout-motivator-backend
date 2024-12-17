@@ -1,0 +1,64 @@
+{
+    "title": "One Leg Donkey Calf Raise",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand on one leg with your toes on the edge of a step or raised surface.",
+                    "Lower your heel down as far as you can without losing balance.",
+                    "Raise your heel up as high as you can, contracting your calf muscle.",
+                    "Hold for a second at the top of the movement.",
+                    "Lower your heel back down and repeat for desired number of reps.",
+                    "Switch legs and repeat the exercise."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens and tones the calf muscles",
+                    "Improves balance and stability",
+                    "Targets the soleus muscle, which is often neglected in traditional calf exercises",
+                    "Can be done with minimal equipment and in a small space",
+                    "Can be easily modified for different fitness levels by adjusting the weight or using a support"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Gastrocnemius",
+                    "Soleus"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Two Leg Donkey Calf Raise",
+                    "Seated Calf Raise",
+                    "Standing Calf Raise",
+                    "Smith Machine Calf Raise",
+                    "Barbell Calf Raise",
+                    "Dumbbell Calf Raise",
+                    "Single Leg Calf Raise",
+                    "Toe Press"
+                ]
+            }
+        }
+    ]
+}

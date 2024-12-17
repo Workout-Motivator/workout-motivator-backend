@@ -1,0 +1,64 @@
+{
+    "title": "Cable One Arm Bent Over Row",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a cable in one hand with an overhand grip.",
+                    "Bend forward at the waist, keeping your back straight and your abs engaged.",
+                    "Extend your arm fully, keeping it close to your body.",
+                    "Slowly pull the cable towards your body, bending your elbow and squeezing your shoulder blade.",
+                    "Pause for a moment at the top of the movement, then slowly lower the cable back to the starting position.",
+                    "Repeat for the desired number of reps, then switch sides and repeat."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the back muscles, specifically the latissimus dorsi, rhomboids, and trapezius",
+                    "Improves posture and spinal alignment",
+                    "Increases upper body strength and muscle definition",
+                    "Can be modified to target different areas of the back by adjusting the angle of the cable and grip position",
+                    "Engages the core muscles for added stability and balance"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Latissimus dorsi",
+                    "Trapezius",
+                    "Rhomboids",
+                    "Erector spinae",
+                    "Biceps brachii"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Cable One Arm Bent over Row with Twist",
+                    "Cable One Arm Bent over Row with Resistance Band",
+                    "Cable One Arm Bent over Row with Dumbbell",
+                    "Cable One Arm Bent over Row with Barbell",
+                    "Cable One Arm Bent over Row with Kettlebell"
+                ]
+            }
+        }
+    ]
+}

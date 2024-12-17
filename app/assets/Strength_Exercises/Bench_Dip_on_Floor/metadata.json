@@ -1,0 +1,68 @@
+{
+    "title": "Bench Dip on Floor",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Find a sturdy bench or chair and place it behind you.",
+                    "Sit on the edge of the bench or chair and place your hands on the edge next to your hips, fingers pointing forward.",
+                    "Walk your feet forward until your knees are at a 90-degree angle and your arms are straight.",
+                    "Lower your body by bending your elbows until your upper arms are parallel to the floor.",
+                    "Push yourself back up to the starting position by straightening your arms.",
+                    "Repeat for desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets triceps, chest, and shoulders",
+                    "Can be done anywhere with a sturdy surface",
+                    "Requires no equipment",
+                    "Can be modified to increase or decrease difficulty",
+                    "Helps improve upper body strength and stability"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Triceps brachii",
+                    "Pectoralis major",
+                    "Anterior deltoids",
+                    "Rhomboids",
+                    "Trapezius"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Tricep dip on bench",
+                    "Weighted bench dip",
+                    "Single-leg bench dip",
+                    "Parallel bar dip",
+                    "Assisted dip machine",
+                    "Ring dip",
+                    "Decline bench dip",
+                    "Close-grip bench press",
+                    "Push-up with tricep extension"
+                ]
+            }
+        }
+    ]
+}

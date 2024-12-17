@@ -1,0 +1,69 @@
+{
+    "title": "Bodyweight Overhead Squat",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your arms extended overhead, holding a broomstick or PVC pipe.",
+                    "Engage your core and keep your arms straight as you lower into a squat, keeping your weight in your heels.",
+                    "As you squat down, keep your arms extended overhead and your elbows locked out.",
+                    "Lower until your thighs are parallel to the ground, or as low as you can go while maintaining proper form.",
+                    "Pause briefly at the bottom of the squat, then push through your heels to stand back up to the starting position.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves mobility and flexibility in the hips, ankles, and shoulders",
+                    "Strengthens the core, legs, and upper body",
+                    "Improves balance and coordination",
+                    "Increases overall body awareness and control",
+                    "Can be done anywhere without equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Glutes",
+                    "Core",
+                    "Shoulders",
+                    "Triceps"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Barbell Overhead Squat",
+                    "Dumbbell Overhead Squat",
+                    "Kettlebell Overhead Squat",
+                    "Single Arm Overhead Squat",
+                    "Assisted Overhead Squat",
+                    "Paused Overhead Squat",
+                    "Jumping Overhead Squat",
+                    "Overhead Squat with Resistance Bands",
+                    "Overhead Squat with Medicine Ball"
+                ]
+            }
+        }
+    ]
+}

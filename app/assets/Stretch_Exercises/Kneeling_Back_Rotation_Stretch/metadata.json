@@ -1,0 +1,62 @@
+{
+    "title": "Kneeling Back Rotation Stretch",
+    "description": "A stretch exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by kneeling on the ground with your knees hip-width apart and your toes pointed behind you.",
+                    "Place your hands on your lower back, with your fingers pointing downwards.",
+                    "Slowly rotate your torso to the right, keeping your hips facing forward and your hands on your lower back.",
+                    "Hold the stretch for 10-15 seconds, feeling the stretch in your lower back and obliques.",
+                    "Return to the starting position and repeat the stretch on the left side.",
+                    "Repeat the stretch on each side 2-3 times."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves flexibility and range of motion in the spine",
+                    "Relieves tension and tightness in the back muscles",
+                    "Helps to prevent back pain and injury",
+                    "Stretches the chest and shoulders",
+                    "Can improve posture and alignment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Obliques",
+                    "Erector Spinae",
+                    "Quadratus Lumborum"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Standing Back Rotation Stretch",
+                    "Seated Back Rotation Stretch",
+                    "Supine Back Rotation Stretch",
+                    "Side-Lying Back Rotation Stretch",
+                    "Standing Hip Rotation Stretch"
+                ]
+            }
+        }
+    ]
+}

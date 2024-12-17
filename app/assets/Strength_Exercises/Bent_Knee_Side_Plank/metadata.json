@@ -1,0 +1,61 @@
+{
+    "title": "Bent Knee Side Plank",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on your side with your legs bent at a 90-degree angle and your elbow directly under your shoulder.",
+                    "Engage your core and lift your hips off the ground, creating a straight line from your head to your knees.",
+                    "Hold this position for 30 seconds to 1 minute, or as long as you can maintain proper form.",
+                    "Lower your hips back down to the ground and repeat on the other side."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the oblique muscles",
+                    "Improves core stability",
+                    "Increases balance and coordination",
+                    "Helps prevent lower back pain",
+                    "Can be modified for different fitness levels"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Obliques",
+                    "Glutes",
+                    "Quadratus Lumborum",
+                    "Transverse Abdominis"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Straight Leg Side Plank",
+                    "Side Plank with Hip Dip",
+                    "Side Plank with Leg Lift",
+                    "Side Plank with Arm Reach",
+                    "Side Plank with Knee Tuck"
+                ]
+            }
+        }
+    ]
+}

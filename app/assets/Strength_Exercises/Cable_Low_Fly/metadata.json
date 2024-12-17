@@ -1,0 +1,63 @@
+{
+    "title": "Cable Low Fly",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Attach a cable pulley to the lowest setting on a cable machine.",
+                    "Attach two stirrup handles to the cable pulley.",
+                    "Stand facing the cable machine with your feet shoulder-width apart.",
+                    "Grab the stirrup handles with an overhand grip.",
+                    "Bring your arms up and out to the sides until they are parallel to the ground.",
+                    "Slowly lower your arms back down to your sides, keeping a slight bend in your elbows.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the lower portion of the chest muscles",
+                    "Helps to improve overall chest definition and shape",
+                    "Allows for a greater range of motion compared to traditional chest exercises",
+                    "Engages the stabilizer muscles in the shoulders and core",
+                    "Can be easily modified to increase or decrease resistance"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Chest muscles (pectoralis major)",
+                    "Shoulder muscles (anterior deltoids)",
+                    "Triceps"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Cable High Fly",
+                    "Cable Crossover Fly",
+                    "Cable Reverse Fly",
+                    "Cable Bent-Over Fly",
+                    "Cable Face Pull"
+                ]
+            }
+        }
+    ]
+}

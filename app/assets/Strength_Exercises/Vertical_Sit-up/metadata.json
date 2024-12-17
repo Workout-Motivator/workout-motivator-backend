@@ -1,0 +1,65 @@
+{
+    "title": "Vertical Sit-up",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying flat on your back with your legs extended straight up towards the ceiling.",
+                    "Place your hands behind your head, with your elbows pointing out to the sides.",
+                    "Engage your core muscles and lift your upper body off the ground towards your legs.",
+                    "As you lift up, try to touch your toes with your hands.",
+                    "Slowly lower your upper body back down to the ground.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Increases flexibility and strength",
+                    "Improves cardiovascular health",
+                    "Reduces stress and anxiety",
+                    "Enhances focus and concentration",
+                    "Improves balance and coordination",
+                    "Boosts immune system function",
+                    "Helps with weight loss and management",
+                    "Promotes overall physical and mental well-being"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus abdominis",
+                    "Obliques",
+                    "Hip flexors"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Reverse crunches",
+                    "Leg raises",
+                    "Plank hip dips",
+                    "Russian twists",
+                    "Oblique crunches"
+                ]
+            }
+        }
+    ]
+}

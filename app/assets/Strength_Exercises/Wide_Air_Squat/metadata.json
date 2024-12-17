@@ -1,0 +1,66 @@
+{
+    "title": "Wide Air Squat",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your toes pointed slightly outward.",
+                    "Engage your core and keep your chest lifted throughout the exercise.",
+                    "Lower your hips down and back as if you are sitting in a chair.",
+                    "Keep your knees in line with your toes and your weight in your heels.",
+                    "Lower until your thighs are parallel to the ground or as low as you can comfortably go.",
+                    "Pause briefly at the bottom of the squat.",
+                    "Push through your heels to stand back up to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the lower body muscles, including the quadriceps, hamstrings, and glutes",
+                    "Improves balance and stability",
+                    "Increases flexibility in the hips and ankles",
+                    "Can be done without equipment and in a variety of settings",
+                    "Engages the core muscles for added abdominal strength"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Narrow Air Squat",
+                    "Sumo Squat",
+                    "Jump Squat",
+                    "Pistol Squat",
+                    "Bulgarian Split Squat"
+                ]
+            }
+        }
+    ]
+}

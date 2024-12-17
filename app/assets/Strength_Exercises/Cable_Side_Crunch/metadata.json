@@ -1,0 +1,61 @@
+{
+    "title": "Cable Side Crunch",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on your right side with your legs extended and your left leg crossed over your right leg.",
+                    "Place your right hand behind your head and your left hand on the floor in front of you for support.",
+                    "Engage your core and lift your shoulders off the ground, bringing your right elbow towards your left knee.",
+                    "Pause at the top of the movement and then slowly lower back down to the starting position.",
+                    "Complete the desired number of reps on your right side before switching to your left side and repeating the exercise."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the oblique muscles, which are responsible for twisting and rotating the torso",
+                    "Improves core stability and balance",
+                    "Increases overall abdominal strength",
+                    "Can be modified to increase or decrease resistance, making it suitable for all fitness levels",
+                    "Engages multiple muscle groups, including the rectus abdominis, transverse abdominis, and erector spinae"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Obliques",
+                    "Rectus Abdominis",
+                    "Transverse Abdominis"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Weighted Cable Side Crunch",
+                    "Standing Cable Side Crunch",
+                    "Seated Cable Side Crunch",
+                    "Single Arm Cable Side Crunch",
+                    "Reverse Cable Side Crunch"
+                ]
+            }
+        }
+    ]
+}

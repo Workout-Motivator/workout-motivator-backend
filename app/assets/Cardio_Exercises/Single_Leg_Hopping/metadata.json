@@ -1,0 +1,63 @@
+{
+    "title": "Single Leg Hopping",
+    "description": "A cardio exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand on one leg with your knee slightly bent.",
+                    "Hop forward as far as you can on the same leg.",
+                    "Land softly on the ball of your foot and immediately hop back to your starting position.",
+                    "Repeat for the desired number of repetitions before switching to the other leg."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves balance and coordination",
+                    "Strengthens leg muscles, particularly the calves and ankles",
+                    "Increases cardiovascular endurance",
+                    "Can be done anywhere with minimal equipment",
+                    "Helps prevent injuries by improving stability and control"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Calf muscles",
+                    "Glutes",
+                    "Core muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single Leg Hopping with Arms",
+                    "Single Leg Hopping with Knee Drive",
+                    "Single Leg Hopping with Lateral Movement",
+                    "Single Leg Hopping with Backward Movement",
+                    "Single Leg Hopping with Forward Movement",
+                    "Single Leg Hopping with Obstacle Course"
+                ]
+            }
+        }
+    ]
+}

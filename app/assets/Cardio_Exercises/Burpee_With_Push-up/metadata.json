@@ -1,0 +1,69 @@
+{
+    "title": "Burpee With Push-up",
+    "description": "A cardio exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start in a standing position with your feet shoulder-width apart.",
+                    "Squat down and place your hands on the ground in front of you.",
+                    "Jump your feet back into a plank position.",
+                    "Perform a push-up by lowering your body to the ground and then pushing back up.",
+                    "Jump your feet back up to your hands.",
+                    "Stand up and jump into the air, reaching your arms overhead.",
+                    "Repeat for desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets glutes and hamstrings",
+                    "Improves balance and stability",
+                    "Increases hip mobility",
+                    "Can be modified for different fitness levels",
+                    "Can be done with minimal equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Chest muscles (pectoralis major and minor)",
+                    "Shoulder muscles (deltoids)",
+                    "Triceps",
+                    "Back muscles (latissimus dorsi and erector spinae)",
+                    "Abdominal muscles (rectus abdominis and obliques)",
+                    "Glutes (gluteus maximus, medius, and minimus)",
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Calves (gastrocnemius and soleus)"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Burpee with push-up and jump",
+                    "Burpee with push-up and knee tuck",
+                    "Burpee with push-up and mountain climber",
+                    "Burpee with push-up and plank jack",
+                    "Burpee with push-up and dumbbell row"
+                ]
+            }
+        }
+    ]
+}

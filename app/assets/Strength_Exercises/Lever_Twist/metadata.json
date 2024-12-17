@@ -1,0 +1,63 @@
+{
+    "title": "Lever Twist",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a dumbbell in each hand.",
+                    "Extend your arms straight out in front of you, parallel to the ground.",
+                    "Twist your torso to the right, keeping your arms straight and parallel to the ground.",
+                    "Return to the starting position and twist your torso to the left.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the core muscles",
+                    "Improves flexibility in the spine",
+                    "Increases range of motion in the shoulders",
+                    "Helps to relieve tension in the neck and shoulders",
+                    "Improves balance and stability"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Obliques",
+                    "Rectus Abdominis",
+                    "Transverse Abdominis",
+                    "Erector Spinae",
+                    "Quadratus Lumborum"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Lever Twist with Dumbbell",
+                    "Lever Twist with Barbell",
+                    "Lever Twist with Resistance Band",
+                    "Lever Twist on Stability Ball",
+                    "Single Arm Lever Twist"
+                ]
+            }
+        }
+    ]
+}

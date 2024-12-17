@@ -1,0 +1,61 @@
+{
+    "title": "Cable Standing Fly",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand in the center of a cable machine with the pulleys set at shoulder height.",
+                    "Grasp the handles with an overhand grip and step forward to create tension in the cables.",
+                    "Keep your arms slightly bent and your palms facing forward.",
+                    "Slowly bring your arms forward and together in front of your body, squeezing your chest muscles as you do so.",
+                    "Pause for a moment at the end of the movement, then slowly release back to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the chest muscles, specifically the pectoralis major and minor",
+                    "Helps to improve upper body strength and muscle definition",
+                    "Allows for a greater range of motion compared to traditional dumbbell fly exercises",
+                    "Engages the stabilizer muscles in the shoulders and core",
+                    "Can be easily adjusted to target different areas of the chest by changing the height of the cable pulleys"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Chest muscles (pectoralis major and minor)",
+                    "Shoulder muscles (anterior deltoids)"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Cable Reverse Fly",
+                    "Cable Crossover Fly",
+                    "Cable Chest Fly",
+                    "Cable Incline Fly",
+                    "Cable Decline Fly"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "title": "Backward Jump",
+    "description": "A cardio exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your arms at your sides.",
+                    "Bend your knees slightly and jump backwards as far as you can.",
+                    "Land softly on the balls of your feet and immediately jump backwards again.",
+                    "Repeat for the desired number of repetitions or time."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves explosive power in the legs",
+                    "Increases agility and coordination",
+                    "Strengthens the lower body muscles, including the glutes, hamstrings, and calves",
+                    "Improves cardiovascular endurance",
+                    "Can be done with minimal equipment and space"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calf muscles",
+                    "Core muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Forward Jump",
+                    "Lateral Jump",
+                    "Single-Leg Jump",
+                    "Box Jump",
+                    "Tuck Jump",
+                    "Split Squat Jump",
+                    "Skater Jump",
+                    "Broad Jump",
+                    "Depth Jump"
+                ]
+            }
+        }
+    ]
+}

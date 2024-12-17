@@ -1,0 +1,69 @@
+{
+    "title": "Kettlebell Hang Clean",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold the kettlebell in one hand with an overhand grip.",
+                    "Let the kettlebell hang down in front of your body.",
+                    "Bend your knees slightly and hinge forward at the hips, keeping your back straight.",
+                    "As you stand up, pull the kettlebell up towards your shoulder, keeping it close to your body.",
+                    "As the kettlebell reaches your shoulder, rotate your wrist so that your palm faces up and the kettlebell rests on the back of your forearm.",
+                    "Lower the kettlebell back down to the starting position and repeat for the desired number of reps.",
+                    "Switch hands and repeat the exercise with the other arm."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves explosive power and strength in the lower body",
+                    "Targets the glutes, hamstrings, quads, and calves",
+                    "Engages the core muscles for stability and balance",
+                    "Increases cardiovascular endurance",
+                    "Enhances grip strength and forearm muscles",
+                    "Can be modified for different fitness levels and goals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Glutes",
+                    "Calves",
+                    "Abdominals",
+                    "Lower back",
+                    "Shoulders",
+                    "Forearms"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Kettlebell Hang Clean and Press",
+                    "Kettlebell Hang Clean and Jerk",
+                    "Kettlebell Hang Clean and Squat",
+                    "Kettlebell Hang Clean and Front Rack Carry",
+                    "Kettlebell Hang Clean and Lunge"
+                ]
+            }
+        }
+    ]
+}

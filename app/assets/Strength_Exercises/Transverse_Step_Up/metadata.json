@@ -1,0 +1,65 @@
+{
+    "title": "Transverse Step Up",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand facing a bench or step that is knee height or lower.",
+                    "Place your right foot on the bench or step.",
+                    "Step up onto the bench or step with your right foot, straightening your right leg and lifting your left foot off the ground.",
+                    "Bring your left foot up to the bench or step, so that both feet are on the bench or step.",
+                    "Step down with your left foot, returning to the starting position.",
+                    "Repeat the exercise with your left foot on the bench or step.",
+                    "Continue alternating legs for the desired number of repetitions or time."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves balance and stability",
+                    "Strengthens the glutes, quads, and hamstrings",
+                    "Increases hip mobility",
+                    "Engages the core muscles",
+                    "Can be modified for different fitness levels"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Core muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Lateral Step Up",
+                    "Single Leg Step Up",
+                    "Weighted Step Up",
+                    "Box Jump Step Up",
+                    "Reverse Step Up"
+                ]
+            }
+        }
+    ]
+}

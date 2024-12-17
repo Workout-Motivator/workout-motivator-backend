@@ -1,0 +1,64 @@
+{
+    "title": "Hip Flexor Stretch Rear Foot Elevated",
+    "description": "A stretch exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by finding a sturdy elevated surface, such as a bench or step.",
+                    "Place one foot on the elevated surface, with the toes pointing towards the ceiling.",
+                    "Step forward with the other foot, keeping it flat on the ground and maintaining a hip-width distance between your feet.",
+                    "Engage your core and glutes, and slowly lower your body towards the ground, bending your front knee.",
+                    "Keep your back straight and your hips level, and hold the stretch for 20-30 seconds.",
+                    "Slowly release the stretch and switch sides, repeating the same steps with the opposite leg."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the core muscles",
+                    "Improves hip mobility and flexibility",
+                    "Tones the glutes and hamstrings",
+                    "Helps to prevent lower back pain",
+                    "Increases overall stability and balance"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus femoris",
+                    "Iliopsoas",
+                    "Sartorius",
+                    "Pectineus",
+                    "Tensor fasciae latae"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "hip-flexor-stretch-rear-foot-elevated",
+                    "hip-flexor-stretch-front-foot-elevated",
+                    "hip-flexor-stretch-kneeling",
+                    "hip-flexor-stretch-lunge",
+                    "hip-flexor-stretch-seated"
+                ]
+            }
+        }
+    ]
+}

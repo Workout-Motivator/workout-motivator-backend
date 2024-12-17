@@ -1,0 +1,65 @@
+{
+    "title": "Weighted Donkey Calf Raise",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Place a weight plate on a weightlifting belt and secure it around your waist.",
+                    "Stand facing a sturdy object, such as a squat rack or wall, with your feet shoulder-width apart.",
+                    "Place the balls of your feet on a raised surface, such as a step or block, with your heels hanging off the edge.",
+                    "Keeping your legs straight, lift your heels as high as possible while contracting your calf muscles.",
+                    "Lower your heels back down to the starting position, feeling a stretch in your calves.",
+                    "Repeat for the desired number of repetitions.",
+                    "After completing the set, switch the weight plate to the other side of your waist and repeat the exercise."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the calf muscles specifically, helping to build strength and size in this area",
+                    "Can be done with weights to increase resistance and challenge the muscles even more",
+                    "Helps to improve ankle stability and balance",
+                    "Can be done at home or in the gym with minimal equipment",
+                    "Can be modified for different fitness levels by adjusting the weight or number of reps"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Gastrocnemius",
+                    "Soleus"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Unweighted Donkey Calf Raise",
+                    "Standing Calf Raise",
+                    "Seated Calf Raise",
+                    "Single Leg Calf Raise",
+                    "Smith Machine Calf Raise",
+                    "Barbell Calf Raise",
+                    "Dumbbell Calf Raise",
+                    "Leg Press Calf Raise"
+                ]
+            }
+        }
+    ]
+}

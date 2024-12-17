@@ -1,0 +1,67 @@
+{
+    "title": "Spider Plank",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start in a plank position with your forearms on the ground and your body in a straight line from head to heels.",
+                    "Bring your right knee towards your right elbow, keeping your foot off the ground.",
+                    "Return your right leg to the starting position and repeat with your left leg, bringing your left knee towards your left elbow.",
+                    "Continue alternating legs for the desired number of repetitions or time."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves posture",
+                    "Stretches the spine and hamstrings",
+                    "Relieves tension in the neck and shoulders",
+                    "Increases flexibility in the spine",
+                    "Stimulates digestion and improves circulation",
+                    "Calms the mind and reduces stress"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus abdominis",
+                    "Obliques",
+                    "Erector spinae",
+                    "Glutes",
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Shoulders",
+                    "Chest",
+                    "Triceps"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Spider crawl plank",
+                    "Spiderman plank",
+                    "Spider push-up plank",
+                    "Spider twist plank",
+                    "Spider walk plank"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "title": "Forward Lunge",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet hip-width apart and your hands on your hips.",
+                    "Take a big step forward with your right foot, keeping your left foot in place.",
+                    "Bend your right knee and lower your body until your right thigh is parallel to the ground.",
+                    "Make sure your right knee is directly above your right ankle and your left knee is hovering just above the ground.",
+                    "Push off with your right foot and return to the starting position.",
+                    "Repeat on the other side, stepping forward with your left foot.",
+                    "Continue alternating legs for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the arms, wrists, and core muscles",
+                    "Improves posture and balance",
+                    "Increases flexibility in the shoulders, chest, and spine",
+                    "Helps to develop focus and concentration",
+                    "Can be modified for different levels of fitness and ability"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Reverse lunge",
+                    "Walking lunge",
+                    "Curtsy lunge",
+                    "Side lunge",
+                    "Jumping lunge"
+                ]
+            }
+        }
+    ]
+}

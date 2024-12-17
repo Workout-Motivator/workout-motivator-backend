@@ -1,0 +1,64 @@
+{
+    "title": "Barbell Power Shrug",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your knees slightly bent.",
+                    "Grasp the barbell with an overhand grip, hands shoulder-width apart.",
+                    "Lift the barbell by extending your hips and knees, keeping your back straight.",
+                    "As you lift the barbell, shrug your shoulders up towards your ears.",
+                    "Hold the shrug for a second, then lower the barbell back down to the starting position.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the upper trapezius muscles",
+                    "Improves posture and shoulder stability",
+                    "Increases grip strength",
+                    "Can help prevent neck and shoulder injuries",
+                    "Targets the muscles in the back, shoulders, and neck"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Trapezius",
+                    "Rhomboids",
+                    "Erector Spinae",
+                    "Levator Scapulae",
+                    "Serratus Anterior"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Power Shrug",
+                    "Kettlebell Power Shrug",
+                    "Trap Bar Power Shrug",
+                    "Smith Machine Power Shrug",
+                    "Cable Power Shrug"
+                ]
+            }
+        }
+    ]
+}

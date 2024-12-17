@@ -1,0 +1,63 @@
+{
+    "title": "Cable Decline Press",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Adjust the decline bench to the desired angle.",
+                    "Attach the cable handles to the low pulleys on either side of the bench.",
+                    "Lie down on the bench with your feet securely planted on the floor.",
+                    "Grasp the cable handles with an overhand grip and bring them up to your chest, keeping your elbows bent and close to your sides.",
+                    "Press the handles away from your chest, extending your arms fully.",
+                    "Slowly lower the handles back down to your chest, keeping your elbows bent.",
+                    "Repeat for desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the lower portion of the chest muscles",
+                    "Allows for a greater range of motion compared to traditional decline bench press",
+                    "Engages the triceps and shoulders as secondary muscles",
+                    "Provides constant tension throughout the movement, leading to greater muscle activation",
+                    "Can be easily adjusted to accommodate different fitness levels and goals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Pectoralis major (lower fibers)",
+                    "Triceps brachii",
+                    "Anterior deltoid"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Decline Press",
+                    "Barbell Decline Press",
+                    "Machine Decline Press",
+                    "Resistance Band Decline Press",
+                    "Single Arm Cable Decline Press"
+                ]
+            }
+        }
+    ]
+}

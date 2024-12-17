@@ -1,0 +1,65 @@
+{
+    "title": "Kneeling Jump Squat",
+    "description": "A cardio exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by kneeling on the ground with your feet flat on the floor and your toes pointing forward.",
+                    "Place your hands on your hips or behind your head.",
+                    "Engage your core and glutes, and then explosively jump up as high as you can.",
+                    "As you jump, extend your hips and knees fully.",
+                    "Land softly back on the ground in the kneeling position.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Increases lower body strength and power",
+                    "Improves explosive jumping ability",
+                    "Engages core muscles for stability and balance",
+                    "Can be modified for different fitness levels by adjusting the depth of the squat and the height of the jump",
+                    "Provides a cardiovascular workout",
+                    "Can be done with minimal equipment, making it a convenient exercise to do at home or while traveling"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single-leg Kneeling Jump Squat",
+                    "Weighted Kneeling Jump Squat",
+                    "Kneeling Jump Squat with Resistance Band",
+                    "Explosive Kneeling Jump Squat",
+                    "Alternating Kneeling Jump Squat"
+                ]
+            }
+        }
+    ]
+}

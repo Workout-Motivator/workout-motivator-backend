@@ -1,0 +1,72 @@
+{
+    "title": "High Jump Rope",
+    "description": "A cardio exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by standing with your feet shoulder-width apart and holding the high jump rope in both hands.",
+                    "Swing the rope backwards over your head, keeping your elbows close to your sides.",
+                    "As the rope comes forward, jump up and over it, landing softly on the balls of your feet.",
+                    "Repeat the jump as the rope swings back over your head.",
+                    "Continue jumping over the rope, gradually increasing your speed and height.",
+                    "Once you have mastered the basic jump, try adding in variations such as double unders or criss-crosses.",
+                    "Remember to keep your core engaged and your shoulders relaxed throughout the exercise."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves cardiovascular health",
+                    "Increases endurance and stamina",
+                    "Burns calories and aids in weight loss",
+                    "Strengthens leg muscles",
+                    "Improves coordination and balance",
+                    "Enhances agility and speed",
+                    "Can be done anywhere with minimal equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Calves",
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Glutes",
+                    "Core muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "High jump",
+                    "Rope jumping",
+                    "Jump rope",
+                    "Skipping",
+                    "Double unders",
+                    "Boxer skip",
+                    "Crossover",
+                    "Side swing",
+                    "Criss-cross",
+                    "Jumping jacks"
+                ]
+            }
+        }
+    ]
+}

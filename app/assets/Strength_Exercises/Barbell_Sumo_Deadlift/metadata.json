@@ -1,0 +1,71 @@
+{
+    "title": "Barbell Sumo Deadlift",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your toes pointing outwards.",
+                    "Place the barbell on the ground in front of you and position your feet so that they are directly under the bar.",
+                    "Bend down and grip the bar with your hands shoulder-width apart and your palms facing down.",
+                    "Engage your core and lift the bar off the ground by straightening your legs and pushing your hips forward.",
+                    "As you lift the bar, keep your back straight and your chest up.",
+                    "Once you have lifted the bar to a standing position, pause for a moment and then slowly lower it back down to the ground.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets multiple muscle groups including the glutes, hamstrings, quads, lower back, and core",
+                    "Improves overall strength and power",
+                    "Increases hip mobility and flexibility",
+                    "Can help improve posture and reduce lower back pain",
+                    "Allows for heavier weight to be lifted compared to traditional deadlifts",
+                    "Variations can be made to target specific muscle groups or accommodate for injuries"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Glutes",
+                    "Lower back",
+                    "Abdominals",
+                    "Forearms"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single-leg Barbell Sumo Deadlift",
+                    "Barbell Romanian Deadlift",
+                    "Barbell Deadlift",
+                    "Trap Bar Deadlift",
+                    "Sumo Deadlift with Bands",
+                    "Sumo Deadlift with Chains",
+                    "Deficit Sumo Deadlift",
+                    "Paused Sumo Deadlift",
+                    "Sumo Deadlift High Pull"
+                ]
+            }
+        }
+    ]
+}

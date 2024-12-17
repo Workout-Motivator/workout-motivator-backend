@@ -1,0 +1,68 @@
+{
+    "title": "Band Bench Press",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying flat on a bench with your feet firmly planted on the ground.",
+                    "Grasp the barbell with an overhand grip, hands slightly wider than shoulder-width apart.",
+                    "Lift the barbell off the rack and hold it directly above your chest with your arms fully extended.",
+                    "Slowly lower the barbell towards your chest, keeping your elbows tucked in close to your body.",
+                    "Pause for a moment when the barbell touches your chest, then push it back up to the starting position.",
+                    "Repeat for the desired number of repetitions.",
+                    "When finished, carefully rack the barbell back onto the rack."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the chest, shoulders, and triceps",
+                    "Allows for a greater range of motion compared to traditional bench press",
+                    "Increases muscle activation due to the resistance provided by the bands",
+                    "Helps improve stability and balance during the exercise",
+                    "Can be used as a variation to traditional bench press to prevent plateauing"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Chest muscles (pectoralis major and minor)",
+                    "Shoulder muscles (anterior deltoids)",
+                    "Triceps"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Incline Bench Press",
+                    "Close-Grip Bench Press",
+                    "Decline Bench Press",
+                    "Reverse-Grip Bench Press",
+                    "Paused Bench Press",
+                    "Board Press",
+                    "Spoto Press",
+                    "Dumbbell Bench Press",
+                    "Machine Chest Press",
+                    "Push-Ups"
+                ]
+            }
+        }
+    ]
+}

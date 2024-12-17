@@ -1,0 +1,63 @@
+{
+    "title": "Lying Rear Lateral Raise",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying face down on a flat bench or exercise ball, with your arms hanging straight down towards the floor.",
+                    "Engage your shoulder blades and lift your arms up and out to the sides, keeping them straight, until they are level with your shoulders.",
+                    "Hold for a moment, then slowly lower your arms back down to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the rear deltoids, which are often neglected in traditional shoulder exercises",
+                    "Helps improve posture by strengthening the muscles in the upper back",
+                    "Can be done with light weights or bodyweight, making it accessible for beginners",
+                    "Can be easily modified by changing the angle of the arms or the position of the body",
+                    "Can be done at home or in the gym with minimal equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rhomboids",
+                    "Trapezius",
+                    "Posterior deltoids",
+                    "Infraspinatus",
+                    "Terres minor"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Standing Rear Lateral Raise",
+                    "Bent-Over Rear Lateral Raise",
+                    "Cable Rear Lateral Raise",
+                    "Seated Rear Lateral Raise",
+                    "One-Arm Rear Lateral Raise",
+                    "Reverse Fly"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "title": "Cable Straight Back Seated Row",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Adjust the cable machine to a low setting and attach a straight bar to the cable.",
+                    "Sit on the bench with your feet flat on the ground and your knees bent.",
+                    "Grab the bar with an overhand grip, hands shoulder-width apart.",
+                    "Sit up straight and engage your core muscles.",
+                    "Pull the bar towards your chest, keeping your elbows close to your body.",
+                    "Squeeze your shoulder blades together at the top of the movement.",
+                    "Slowly release the bar back to the starting position.",
+                    "Repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the upper back muscles, including the rhomboids, trapezius, and rear deltoids",
+                    "Improves posture and spinal alignment",
+                    "Increases strength and muscle definition in the back",
+                    "Can be modified to target different areas of the back by adjusting the grip or angle of the cable",
+                    "Provides a low-impact exercise option for those with joint pain or injuries"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rhomboids",
+                    "Trapezius",
+                    "Latissimus dorsi",
+                    "Erector spinae",
+                    "Biceps"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single-Arm Cable Straight Back Seated Row",
+                    "Wide-Grip Cable Straight Back Seated Row",
+                    "Narrow-Grip Cable Straight Back Seated Row",
+                    "Reverse-Grip Cable Straight Back Seated Row",
+                    "Low-Pulley Cable Straight Back Seated Row",
+                    "High-Pulley Cable Straight Back Seated Row"
+                ]
+            }
+        }
+    ]
+}

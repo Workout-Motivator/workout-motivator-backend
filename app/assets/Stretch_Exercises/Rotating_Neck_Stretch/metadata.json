@@ -1,0 +1,62 @@
+{
+    "title": "Rotating Neck Stretch",
+    "description": "A stretch exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand or sit with your back straight and shoulders relaxed.",
+                    "Slowly turn your head to the right, keeping your chin parallel to the floor.",
+                    "Hold for 10-15 seconds, feeling the stretch in your neck and shoulder.",
+                    "Slowly return your head to the center.",
+                    "Repeat on the left side, holding for 10-15 seconds.",
+                    "Return your head to the center and relax your shoulders."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Relieves tension and stiffness in the neck muscles",
+                    "Improves range of motion in the neck",
+                    "Reduces the risk of neck injuries",
+                    "Helps alleviate headaches and migraines",
+                    "Can improve posture and reduce neck and shoulder pain"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Sternocleidomastoid",
+                    "Trapezius",
+                    "Levator Scapulae"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Chin to Chest Stretch",
+                    "Ear to Shoulder Stretch",
+                    "Chin to Shoulder Stretch",
+                    "Half Circle Neck Stretch",
+                    "Full Circle Neck Stretch"
+                ]
+            }
+        }
+    ]
+}

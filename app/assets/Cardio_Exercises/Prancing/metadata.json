@@ -1,0 +1,72 @@
+{
+    "title": "Prancing",
+    "description": "A cardio exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your arms at your sides.",
+                    "Step forward with your left foot and lift your right foot off the ground.",
+                    "As you lift your right foot, bend your left knee and raise your left heel off the ground.",
+                    "Bring your right foot back down to the ground and step forward with your right foot, lifting your left foot off the ground.",
+                    "As you lift your left foot, bend your right knee and raise your right heel off the ground.",
+                    "Repeat steps 2-5, alternating between your left and right foot.",
+                    "As you become more comfortable with the movement, increase the speed and height of your steps to create a prancing motion."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves balance and coordination",
+                    "Strengthens leg muscles",
+                    "Increases cardiovascular endurance",
+                    "Enhances flexibility and range of motion",
+                    "Provides a low-impact workout",
+                    "Can be a fun and enjoyable form of exercise"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Hamstrings",
+                    "Glutes",
+                    "Calf muscles",
+                    "Abdominals",
+                    "Obliques"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Prancing",
+                    "Gallop",
+                    "Trotting",
+                    "Cantering",
+                    "Walking",
+                    "Backing up",
+                    "Side passing",
+                    "Spinning",
+                    "Jumping",
+                    "Rollbacks"
+                ]
+            }
+        }
+    ]
+}

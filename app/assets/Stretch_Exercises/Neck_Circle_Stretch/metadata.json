@@ -1,0 +1,70 @@
+{
+    "title": "Neck Circle Stretch",
+    "description": "A stretch exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand or sit with your back straight and shoulders relaxed.",
+                    "Slowly tilt your head to the right, bringing your ear towards your shoulder.",
+                    "Hold the stretch for 10-15 seconds, feeling the stretch in the left side of your neck.",
+                    "Slowly bring your head back to center.",
+                    "Repeat the stretch on the left side, tilting your head to the left and holding for 10-15 seconds.",
+                    "Bring your head back to center and slowly roll your head forward, chin to chest.",
+                    "Hold the stretch for 10-15 seconds, feeling the stretch in the back of your neck.",
+                    "Slowly roll your head back, looking up towards the ceiling.",
+                    "Hold the stretch for 10-15 seconds, feeling the stretch in the front of your neck.",
+                    "Bring your head back to center and repeat the sequence as desired."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Relieves tension and stiffness in the neck muscles",
+                    "Improves range of motion in the neck",
+                    "Reduces headaches and neck pain",
+                    "Increases blood flow to the neck and head",
+                    "Can be done anywhere, anytime, without equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Neck muscles",
+                    "Trapezius muscles",
+                    "Levator scapulae muscles",
+                    "Sternocleidomastoid muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Neck Flexion Stretch",
+                    "Neck Extension Stretch",
+                    "Neck Lateral Flexion Stretch",
+                    "Neck Rotation Stretch",
+                    "Seated Neck Stretch",
+                    "Standing Neck Stretch",
+                    "Wall-Assisted Neck Stretch",
+                    "Partner-Assisted Neck Stretch"
+                ]
+            }
+        }
+    ]
+}

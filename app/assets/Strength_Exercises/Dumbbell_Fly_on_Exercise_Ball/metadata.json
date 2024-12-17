@@ -1,0 +1,65 @@
+{
+    "title": "Dumbbell Fly on Exercise Ball",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Choose a pair of dumbbells that you can comfortably lift for 10-12 reps.",
+                    "Sit on an exercise ball and walk your feet forward until your upper back is resting on the ball.",
+                    "Hold the dumbbells with your palms facing each other and your arms extended above your chest.",
+                    "Slowly lower the dumbbells out to the sides, keeping a slight bend in your elbows.",
+                    "Stop when your arms are parallel to the ground.",
+                    "Pause for a moment, then slowly bring the dumbbells back up to the starting position.",
+                    "Repeat for 10-12 reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the chest muscles, specifically the pectoralis major and minor",
+                    "Engages the core muscles for stability and balance",
+                    "Improves upper body strength and endurance",
+                    "Increases range of motion in the shoulders",
+                    "Can be modified for different fitness levels by adjusting the weight of the dumbbells",
+                    "Provides a full body workout by incorporating the use of an exercise ball"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Chest muscles (pectoralis major and minor)",
+                    "Shoulder muscles (anterior deltoids)",
+                    "Triceps",
+                    "Core muscles (abdominals and lower back)"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Fly on Flat Bench",
+                    "Dumbbell Fly on Incline Bench",
+                    "Cable Fly",
+                    "Pec Deck Machine Fly",
+                    "Push-up with Shoulder Tap"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "title": "Lateral Step Up",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand next to a bench or step with your feet hip-width apart.",
+                    "Place your left foot on the bench or step.",
+                    "Push through your left foot and lift your body up onto the bench or step.",
+                    "Bring your right foot up to meet your left foot on the bench or step.",
+                    "Step back down with your right foot, followed by your left foot.",
+                    "Repeat for the desired number of repetitions, then switch sides and repeat with your right foot on the bench or step."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the glutes, quadriceps, and hamstrings",
+                    "Improves balance and stability",
+                    "Increases hip mobility",
+                    "Can be modified to increase or decrease difficulty",
+                    "Can be done with or without weights"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calves",
+                    "Abductors"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Lateral Box Step Up",
+                    "Lateral Bench Step Up",
+                    "Lateral Dumbbell Step Up",
+                    "Lateral Barbell Step Up",
+                    "Lateral Cable Step Up"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "title": "Full Maltese",
+    "description": "A stretch exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Set up gymnastics rings or parallel bars at a height that allows you to perform the exercise without touching the ground.",
+                    "Stand or kneel between the rings or bars, positioning them at your sides.",
+                    "Grab the rings or bars with a pronated (overhand) grip, ensuring your hands are firmly and securely placed.",
+                    "Engage your core, chest, and shoulder muscles to press your body upwards and enter a support position with arms fully extended and locked, and legs straight.",
+                    "Slowly and carefully begin to lower your body by widening the angle between your arms and torso, maintaining a straight line from head to toe.",
+                    "Continue lowering until your body is parallel to the ground and your arms are extended out to the sides, resembling a Maltese Cross.",
+                    "Hold the Full Maltese position for as long as you can, focusing on keeping your body straight and stable.",
+                    "When you are ready to exit the position, carefully lift your body back into the support position by engaging your chest and shoulder muscles.",
+                    "Lower yourself down to the starting position and rest before attempting another repetition or set.",
+                    "As this is an advanced exercise, consider practicing progressions and building strength in related movements before attempting the Full Maltese."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves cardiovascular health",
+                    "Strengthens leg muscles",
+                    "Improves balance and coordination",
+                    "Increases flexibility in hips and lower back",
+                    "Engages core muscles for stability",
+                    "Can be done with minimal equipment",
+                    "Can be modified for different fitness levels",
+                    "Provides a low-impact workout",
+                    "Can be done indoors or outdoors"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Pectoralis major",
+                    "Deltoids",
+                    "Triceps",
+                    "Abdominals",
+                    "Obliques",
+                    "Quadriceps",
+                    "Glutes"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Half Maltese",
+                    "Quarter Maltese",
+                    "Maltese Cross",
+                    "Maltese Twist",
+                    "Maltese Push-Up"
+                ]
+            }
+        }
+    ]
+}

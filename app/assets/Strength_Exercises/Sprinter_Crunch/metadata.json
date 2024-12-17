@@ -1,0 +1,65 @@
+{
+    "title": "Sprinter Crunch",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on your back with your knees bent and feet flat on the ground.",
+                    "Place your hands behind your head, with your elbows pointing out to the sides.",
+                    "Engage your core muscles and lift your head, shoulders, and upper back off the ground.",
+                    "At the same time, bring your right knee towards your chest and extend your left leg out straight.",
+                    "Rotate your torso to the right and bring your left elbow towards your right knee.",
+                    "Switch sides by bringing your left knee towards your chest and extending your right leg out straight.",
+                    "Rotate your torso to the left and bring your right elbow towards your left knee.",
+                    "Repeat this movement, alternating sides, for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the rectus abdominis (six-pack muscles) and obliques (side muscles)",
+                    "Improves core stability and balance",
+                    "Increases overall abdominal strength and definition",
+                    "Can be modified for different fitness levels and abilities",
+                    "Engages multiple muscle groups for a more efficient workout"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rectus abdominis",
+                    "Obliques",
+                    "Hip flexors",
+                    "Quadriceps"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Reverse Sprinter Crunch",
+                    "Side-to-Side Sprinter Crunch",
+                    "Single-Leg Sprinter Crunch",
+                    "Weighted Sprinter Crunch",
+                    "Medicine Ball Sprinter Crunch"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "title": "Landmine Single Leg Romanian Deadlift",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet hip-width apart and your left foot slightly behind your right foot.",
+                    "Place a landmine barbell in front of your right foot.",
+                    "Grab the end of the barbell with your left hand and lift it up to your hip level.",
+                    "Shift your weight onto your right foot and lift your left foot off the ground.",
+                    "Slowly hinge forward at your hips, keeping your back straight and your left leg straight behind you.",
+                    "Lower the barbell towards the ground, keeping it close to your body.",
+                    "Pause when you feel a stretch in your hamstring and glute muscles.",
+                    "Slowly return to the starting position by squeezing your glutes and hamstrings.",
+                    "Repeat for the desired number of reps, then switch sides."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets multiple muscle groups including quads, glutes, hamstrings, and core",
+                    "Improves lower body strength and power",
+                    "Increases hip mobility and flexibility",
+                    "Can be modified for different fitness levels and goals",
+                    "Helps to prevent injury by strengthening muscles and improving range of motion"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Hamstrings",
+                    "Glutes",
+                    "Lower back",
+                    "Core"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single-leg Romanian deadlift with dumbbells",
+                    "Single-leg Romanian deadlift with kettlebells",
+                    "Single-leg Romanian deadlift with barbell",
+                    "Single-leg Romanian deadlift with resistance band",
+                    "Single-leg Romanian deadlift with cable machine",
+                    "Single-leg Romanian deadlift with stability ball",
+                    "Single-leg Romanian deadlift with TRX suspension trainer"
+                ]
+            }
+        }
+    ]
+}

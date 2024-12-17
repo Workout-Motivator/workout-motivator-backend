@@ -1,0 +1,64 @@
+{
+    "title": "Jump Shrug",
+    "description": "A cardio exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a dumbbell in each hand.",
+                    "Bend your knees slightly and jump up, extending your arms straight up above your head.",
+                    "As you land, immediately shrug your shoulders up towards your ears.",
+                    "Lower your arms and repeat for the desired number of reps."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Increases explosive power in the legs and hips",
+                    "Strengthens the traps and upper back muscles",
+                    "Improves grip strength",
+                    "Enhances overall athletic performance",
+                    "Burns calories and promotes weight loss"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Trapezius",
+                    "Rhomboids",
+                    "Deltoids",
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Gastrocnemius"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Jump Shrug with Dumbbells",
+                    "Jump Shrug with Barbell",
+                    "Single Leg Jump Shrug",
+                    "Explosive Jump Shrug",
+                    "Jump Shrug with Resistance Bands"
+                ]
+            }
+        }
+    ]
+}

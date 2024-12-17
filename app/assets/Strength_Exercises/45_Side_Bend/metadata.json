@@ -1,0 +1,64 @@
+{
+    "title": "45 Side Bend",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your arms at your sides.",
+                    "Place your right hand on your hip and raise your left arm straight up above your head.",
+                    "Slowly bend your torso to the right, keeping your left arm straight and your hand reaching towards the right side of your body.",
+                    "Hold the stretch for 10-15 seconds, feeling the stretch in your left side.",
+                    "Return to the starting position and repeat on the other side, placing your left hand on your hip and raising your right arm above your head.",
+                    "Repeat the exercise for 10-15 repetitions on each side."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the oblique muscles on the sides of the abdomen",
+                    "Improves posture and balance",
+                    "Increases flexibility in the spine and hips",
+                    "May help alleviate lower back pain",
+                    "Can be done with or without weights for added resistance"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "External obliques",
+                    "Internal obliques",
+                    "Transverse abdominis",
+                    "Erector spinae",
+                    "Quadratus lumborum"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "45 Side Bend with Dumbbell",
+                    "45 Side Bend with Kettlebell",
+                    "45 Side Bend with Resistance Band",
+                    "45 Side Bend on Stability Ball",
+                    "45 Side Bend with Barbell"
+                ]
+            }
+        }
+    ]
+}

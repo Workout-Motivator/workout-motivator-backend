@@ -1,0 +1,59 @@
+{
+    "title": "Barbell Wrist Curl",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by sitting on a bench with your forearms resting on the bench and your palms facing up.",
+                    "Grasp the barbell with an underhand grip, with your hands shoulder-width apart.",
+                    "Slowly curl the barbell up towards your forearms, keeping your wrists straight.",
+                    "Pause for a moment at the top of the movement, then slowly lower the barbell back down to the starting position.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the wrist flexor muscles",
+                    "Improves grip strength",
+                    "Helps prevent wrist injuries",
+                    "Can improve performance in sports that require wrist strength, such as tennis or golf",
+                    "Can be done with relatively light weights, making it accessible for beginners"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Forearm Flexors"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Dumbbell Wrist Curl",
+                    "Reverse Barbell Wrist Curl",
+                    "Reverse Dumbbell Wrist Curl",
+                    "Plate Pinch Curl",
+                    "Wrist Roller"
+                ]
+            }
+        }
+    ]
+}

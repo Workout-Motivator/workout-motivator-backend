@@ -1,0 +1,62 @@
+{
+    "title": "Double Leg Butt Kick",
+    "description": "A cardio exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet hip-width apart and your arms at your sides.",
+                    "Engage your core and lift your right foot off the ground, bending your knee and bringing your heel towards your glutes.",
+                    "Lower your right foot back to the ground and repeat with your left foot.",
+                    "Continue alternating legs, picking up the pace to create a jogging motion.",
+                    "As you get more comfortable with the movement, focus on kicking your heels up towards your glutes and engaging your hamstrings.",
+                    "Perform for 30-60 seconds, rest for 10-15 seconds, and repeat for 2-3 sets."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Increases heart rate and improves cardiovascular health",
+                    "Targets the glutes, hamstrings, and calves for muscle strengthening and toning",
+                    "Improves flexibility and range of motion in the lower body",
+                    "Can be done anywhere without equipment",
+                    "Can be modified for different fitness levels by adjusting speed and intensity"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Hamstrings",
+                    "Glutes",
+                    "Calves"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Single Leg Butt Kick",
+                    "Butt Kicks with High Knees",
+                    "Butt Kicks with Jumping Jacks",
+                    "Butt Kicks with Lunges",
+                    "Butt Kicks with Squats"
+                ]
+            }
+        }
+    ]
+}

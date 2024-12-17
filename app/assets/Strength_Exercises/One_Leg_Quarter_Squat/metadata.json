@@ -1,0 +1,63 @@
+{
+    "title": "One Leg Quarter Squat",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet hip-width apart and your weight on your left foot.",
+                    "Slowly lift your right foot off the ground and balance on your left foot.",
+                    "Bend your left knee and lower your body down into a squat position, keeping your right foot off the ground.",
+                    "Pause for a moment at the bottom of the squat, then slowly rise back up to the starting position.",
+                    "Repeat for the desired number of reps, then switch legs and repeat on the other side."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Strengthens the quadriceps, hamstrings, and glutes",
+                    "Improves balance and stability",
+                    "Targets the muscles in one leg at a time, helping to correct muscle imbalances",
+                    "Can be done with or without weights, making it accessible for all fitness levels",
+                    "Engages the core muscles for added stability and support"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Quadriceps",
+                    "Glutes",
+                    "Hamstrings",
+                    "Calf muscles",
+                    "Core muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "One Leg Quarter Squat with Dumbbell",
+                    "One Leg Quarter Squat with Kettlebell",
+                    "One Leg Quarter Squat with Resistance Band",
+                    "One Leg Quarter Squat with Barbell",
+                    "One Leg Quarter Squat with Medicine Ball"
+                ]
+            }
+        }
+    ]
+}

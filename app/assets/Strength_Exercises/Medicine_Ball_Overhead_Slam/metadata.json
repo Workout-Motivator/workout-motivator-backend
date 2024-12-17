@@ -1,0 +1,66 @@
+{
+    "title": "Medicine Ball Overhead Slam",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and hold a medicine ball with both hands at chest level.",
+                    "Lift the ball overhead, fully extending your arms.",
+                    "Slam the ball onto the ground as hard as you can, using your core and upper body strength.",
+                    "Catch the ball as it bounces back up and repeat the movement for the desired number of reps.",
+                    "Make sure to keep your back straight and engage your core throughout the exercise."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Full body workout",
+                    "Improves power and explosiveness",
+                    "Increases core strength and stability",
+                    "Enhances cardiovascular endurance",
+                    "Improves hand-eye coordination",
+                    "Can be done alone or with a partner",
+                    "Low impact exercise",
+                    "Can be modified for different fitness levels"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Abdominal muscles",
+                    "Shoulder muscles",
+                    "Arm muscles",
+                    "Back muscles",
+                    "Leg muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Medicine Ball Side Slam",
+                    "Medicine Ball Slams with a partner",
+                    "Medicine Ball Rotational Slams",
+                    "Medicine Ball Chest Passes",
+                    "Medicine Ball Wall Throws"
+                ]
+            }
+        }
+    ]
+}

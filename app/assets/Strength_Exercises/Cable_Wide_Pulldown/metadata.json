@@ -1,0 +1,65 @@
+{
+    "title": "Cable Wide Pulldown",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Adjust the cable pulley to the highest position on the machine.",
+                    "Attach a wide grip bar to the cable pulley.",
+                    "Stand facing the machine and grab the bar with both hands using an overhand grip.",
+                    "Step back a few feet from the machine, keeping your arms extended and your back straight.",
+                    "Inhale and pull the bar down towards your chest, keeping your elbows close to your body.",
+                    "Pause for a moment at the bottom of the movement, squeezing your shoulder blades together.",
+                    "Exhale and slowly release the bar back to the starting position, keeping your arms extended.",
+                    "Repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the latissimus dorsi, which is the largest muscle in the back and helps with overall upper body strength and posture",
+                    "Engages the biceps and forearms as secondary muscles, leading to improved grip strength",
+                    "Allows for a greater range of motion compared to traditional pull-ups or chin-ups",
+                    "Can be easily modified for different fitness levels by adjusting the weight or using different grip attachments",
+                    "Helps to improve overall upper body muscle definition and tone"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Latissimus dorsi",
+                    "Trapezius",
+                    "Rhomboids",
+                    "Biceps"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Close Grip Cable Pulldown",
+                    "Reverse Grip Cable Pulldown",
+                    "Single Arm Cable Pulldown",
+                    "Assisted Pull-up Machine",
+                    "Lat Pulldown Machine"
+                ]
+            }
+        }
+    ]
+}

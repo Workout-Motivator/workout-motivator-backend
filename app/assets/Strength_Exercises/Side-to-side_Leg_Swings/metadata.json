@@ -1,0 +1,64 @@
+{
+    "title": "Side-to-side Leg Swings",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Stand with your feet shoulder-width apart and your hands on your hips.",
+                    "Shift your weight to your left foot and swing your right leg out to the side, keeping it straight.",
+                    "Swing your right leg back across your body to the left side, again keeping it straight.",
+                    "Repeat the swinging motion for 10-15 repetitions on one side.",
+                    "Switch sides and repeat the exercise with your left leg."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Improves flexibility in the hamstrings and lower back",
+                    "Strengthens the core muscles",
+                    "Increases balance and coordination",
+                    "Helps to prevent lower back pain",
+                    "Can be done anywhere without equipment"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Abductor muscles",
+                    "Adductor muscles",
+                    "Gluteus medius muscle",
+                    "Quadriceps muscles",
+                    "Hamstring muscles",
+                    "Calf muscles"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "front-to-back-leg-swings",
+                    "standing-hip-circles",
+                    "single-leg-deadlifts",
+                    "lateral-lunges",
+                    "curtsy-lunges"
+                ]
+            }
+        }
+    ]
+}

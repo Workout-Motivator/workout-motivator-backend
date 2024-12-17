@@ -1,0 +1,64 @@
+{
+    "title": "Cable Rear Drive",
+    "description": "A strength exercise.",
+    "difficulty": "Beginner",
+    "content": [
+        {
+            "type": "section",
+            "title": "Instructions",
+            "content": {
+                "type": "steps",
+                "items": [
+                    "Start by lying on your stomach on an exercise mat or the floor.",
+                    "Extend your arms straight out in front of you and lift your legs off the ground, keeping them straight.",
+                    "Next, bend your knees and bring your heels towards your buttocks.",
+                    "Grab the cable handle with both hands and attach it to your ankles.",
+                    "Slowly lift your legs towards the ceiling, keeping them straight and squeezing your glutes at the top of the movement.",
+                    "Lower your legs back down to the starting position and repeat for the desired number of repetitions."
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Benefits",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Targets the rear deltoids, upper back, and trapezius muscles",
+                    "Improves posture and shoulder stability",
+                    "Can be performed with various attachments and grip positions for variation",
+                    "Allows for a full range of motion and isolation of the targeted muscles",
+                    "Can be easily adjusted for different fitness levels and goals"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Primary Muscles",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Rhomboids",
+                    "Trapezius",
+                    "Posterior deltoids",
+                    "Latissimus dorsi",
+                    "Erector spinae"
+                ]
+            }
+        },
+        {
+            "type": "section",
+            "title": "Variations",
+            "content": {
+                "type": "list",
+                "items": [
+                    "Cable Rear Delt Fly",
+                    "Cable Reverse Fly",
+                    "Cable Face Pull",
+                    "Cable Rear Delt Row",
+                    "Cable Seated Rear Delt Row"
+                ]
+            }
+        }
+    ]
+}
