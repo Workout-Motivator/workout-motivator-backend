@@ -75,3 +75,4 @@ docker-compose.override.yml
 
 # Assets
 # Removing these lines to include assets in git
+app/scripts/generate_metadata.py
