@@ -21,7 +21,8 @@ class User(Base):
     is_active = Column(Boolean, default=True)
     created_at = Column(DateTime, default=datetime.datetime.utcnow)
     
-    workouts = relationship("Workout", back_populates="user", cascade="all, delete-orphan")
+    workout_templates = relationship("WorkoutTemplate", back_populates="user")
+    workout_sessions = relationship("WorkoutSession", back_populates="user")
     partners = relationship(
         "User",
         secondary=accountability_partners,
@@ -30,42 +31,11 @@ class User(Base):
         backref="partner_users"
     )
 
-class Workout(Base):
-    __tablename__ = "workouts"
-
-    id = Column(Integer, primary_key=True, index=True)
-    title = Column(String, index=True)
-    description = Column(Text)
-    date = Column(DateTime, default=datetime.datetime.utcnow)
-    completed = Column(Boolean, default=False)
-    user_id = Column(Integer, ForeignKey("users.id"))
-    created_at = Column(DateTime, default=datetime.datetime.utcnow)
-    updated_at = Column(DateTime, onupdate=datetime.datetime.utcnow)
-
-    user = relationship("User", back_populates="workouts")
-    exercises = relationship("Exercise", back_populates="workout", cascade="all, delete-orphan")
-
 class Exercise(Base):
     __tablename__ = "exercises"
 
     id = Column(Integer, primary_key=True, index=True)
     title = Column(String, index=True)
-    description = Column(Text)
-    workout_id = Column(Integer, ForeignKey("workouts.id"))
-    sets = Column(Integer)
-    reps = Column(Integer)
-    weight = Column(Float)
-    duration = Column(Integer)  # in seconds
-    distance = Column(Float)    # in meters
-    created_at = Column(DateTime, default=datetime.datetime.utcnow)
-
-    workout = relationship("Workout", back_populates="exercises")
-
-class WorkoutAsset(Base):
-    __tablename__ = "workout_assets"
-
-    id = Column(Integer, primary_key=True, index=True)
-    title = Column(String)
     description = Column(Text)
     category = Column(String, index=True)
     difficulty = Column(String, index=True)
@@ -77,20 +47,78 @@ class WorkoutAsset(Base):
     animation_path = Column(String)
     created_at = Column(DateTime, default=datetime.datetime.utcnow)
 
-    exercise_assets = relationship("ExerciseAsset", back_populates="workout", cascade="all, delete-orphan")
+    # Relationships
+    template_exercises = relationship("WorkoutExercise", back_populates="exercise")
+    workout_sets = relationship("WorkoutSet", back_populates="exercise")
 
     def __repr__(self):
-        return f"<WorkoutAsset {self.title}>"
+        return f"<Exercise {self.title}>"
 
-class ExerciseAsset(Base):
-    __tablename__ = "exercise_assets"
+class WorkoutTemplate(Base):
+    __tablename__ = "workout_templates"
 
     id = Column(Integer, primary_key=True, index=True)
     title = Column(String, index=True)
-    instructions = Column(Text)
-    benefits = Column(Text)
-    image_paths = Column(String)
-    workout_id = Column(Integer, ForeignKey("workout_assets.id"))
+    description = Column(Text)
+    user_id = Column(Integer, ForeignKey("users.id"))
+    difficulty = Column(String, index=True)
+    estimated_duration = Column(Integer)  # in minutes
     created_at = Column(DateTime, default=datetime.datetime.utcnow)
+    updated_at = Column(DateTime, onupdate=datetime.datetime.utcnow)
 
-    workout = relationship("WorkoutAsset", back_populates="exercise_assets")
+    # Relationships
+    user = relationship("User", back_populates="workout_templates")
+    exercises = relationship("WorkoutExercise", back_populates="template", cascade="all, delete-orphan")
+    sessions = relationship("WorkoutSession", back_populates="template")
+
+class WorkoutExercise(Base):
+    __tablename__ = "workout_template_exercises"
+
+    id = Column(Integer, primary_key=True, index=True)
+    template_id = Column(Integer, ForeignKey("workout_templates.id"))
+    exercise_id = Column(Integer, ForeignKey("exercises.id"))
+    sets = Column(Integer)
+    reps = Column(Integer)
+    weight = Column(Float)
+    duration = Column(Integer)  # in seconds
+    distance = Column(Float)    # in meters
+    notes = Column(Text)
+    order = Column(Integer)     # For exercise order in the workout
+
+    # Relationships
+    template = relationship("WorkoutTemplate", back_populates="exercises")
+    exercise = relationship("Exercise", back_populates="template_exercises")
+
+class WorkoutSession(Base):
+    __tablename__ = "workout_sessions"
+
+    id = Column(Integer, primary_key=True, index=True)
+    template_id = Column(Integer, ForeignKey("workout_templates.id"))
+    user_id = Column(Integer, ForeignKey("users.id"))
+    start_time = Column(DateTime, default=datetime.datetime.utcnow)
+    end_time = Column(DateTime)
+    completed = Column(Boolean, default=False)
+    notes = Column(Text)
+
+    # Relationships
+    template = relationship("WorkoutTemplate", back_populates="sessions")
+    user = relationship("User", back_populates="workout_sessions")
+    sets = relationship("WorkoutSet", back_populates="session", cascade="all, delete-orphan")
+
+class WorkoutSet(Base):
+    __tablename__ = "workout_sets"
+
+    id = Column(Integer, primary_key=True, index=True)
+    session_id = Column(Integer, ForeignKey("workout_sessions.id"))
+    exercise_id = Column(Integer, ForeignKey("exercises.id"))
+    set_number = Column(Integer)
+    reps = Column(Integer)
+    weight = Column(Float)
+    duration = Column(Integer)  # in seconds
+    distance = Column(Float)    # in meters
+    completed = Column(Boolean, default=False)
+    notes = Column(Text)
+
+    # Relationships
+    session = relationship("WorkoutSession", back_populates="sets")
+    exercise = relationship("Exercise", back_populates="workout_sets")

@@ -2,25 +2,8 @@ from pydantic import BaseModel, Field
 from typing import Optional, List
 from datetime import datetime
 
-class WorkoutBase(BaseModel):
-    title: str
-    description: Optional[str] = None
-    date: Optional[datetime] = Field(default_factory=datetime.utcnow)
-    completed: bool = False
-    user_id: str
-
-class WorkoutCreate(WorkoutBase):
-    pass
-
-class Workout(WorkoutBase):
-    id: int
-    created_at: datetime = Field(default_factory=datetime.utcnow)
-    updated_at: Optional[datetime] = None
-
-    class Config:
-        orm_mode = True
-
-class WorkoutAssetBase(BaseModel):
+# Exercise Library Schemas
+class ExerciseBase(BaseModel):
     title: str
     description: Optional[str] = None
     category: Optional[str] = None
@@ -32,61 +15,114 @@ class WorkoutAssetBase(BaseModel):
     image_path: Optional[str] = None
     animation_path: Optional[str] = None
 
-class WorkoutAssetCreate(WorkoutAssetBase):
+class ExerciseCreate(ExerciseBase):
     pass
 
-class WorkoutAsset(WorkoutAssetBase):
+class Exercise(ExerciseBase):
     id: int
 
     class Config:
         orm_mode = True
         from_attributes = True
 
-class WorkoutAssetDetail(WorkoutAsset):
-    exercise_assets: List['ExerciseAsset'] = []
-
-class ExerciseBase(BaseModel):
-    title: str
-    description: Optional[str] = None
-    workout_id: int
-    sets: Optional[int] = None
-    reps: Optional[int] = None
-    weight: Optional[float] = None
-    duration: Optional[int] = None  # in seconds
-    distance: Optional[float] = None  # in meters
-
-class ExerciseCreate(ExerciseBase):
+class WorkoutAssetDetail(Exercise):
     pass
 
-class Exercise(ExerciseBase):
-    id: int
-    created_at: datetime = Field(default_factory=datetime.utcnow)
-
-    class Config:
-        orm_mode = True
-
-class ExerciseAsset(BaseModel):
-    id: int
-    title: str
-    instructions: Optional[str] = None
-    benefits: Optional[str] = None
-    image_paths: Optional[str] = None
-    workout_id: int
-
-    class Config:
-        orm_mode = True
-
-class CategoryCount(BaseModel):
-    category: str
-    count: int
-
 class PaginatedWorkoutAssets(BaseModel):
-    exercises: List[WorkoutAsset]
+    exercises: List[Exercise]
     total: int
 
     class Config:
         orm_mode = True
         from_attributes = True
 
-# Update forward references
-WorkoutAssetDetail.update_forward_refs()
+# Workout Template Schemas
+class WorkoutExerciseBase(BaseModel):
+    exercise_id: int
+    sets: Optional[int] = None
+    reps: Optional[int] = None
+    weight: Optional[float] = None
+    duration: Optional[int] = None  # in seconds
+    distance: Optional[float] = None  # in meters
+    notes: Optional[str] = None
+
+class WorkoutExerciseCreate(WorkoutExerciseBase):
+    pass
+
+class WorkoutExercise(WorkoutExerciseBase):
+    id: int
+    exercise: Exercise
+
+    class Config:
+        orm_mode = True
+
+class WorkoutTemplateBase(BaseModel):
+    title: str
+    description: Optional[str] = None
+    user_id: str
+    difficulty: Optional[str] = None
+    estimated_duration: Optional[int] = None  # in minutes
+
+class WorkoutTemplateCreate(WorkoutTemplateBase):
+    exercises: List[WorkoutExerciseCreate]
+
+class WorkoutTemplate(WorkoutTemplateBase):
+    id: int
+    created_at: datetime = Field(default_factory=datetime.utcnow)
+    updated_at: Optional[datetime] = None
+    exercises: List[WorkoutExercise]
+
+    class Config:
+        orm_mode = True
+
+# Workout Tracking Schemas
+class WorkoutSetBase(BaseModel):
+    exercise_id: int
+    set_number: int
+    reps: Optional[int] = None
+    weight: Optional[float] = None
+    duration: Optional[int] = None  # in seconds
+    distance: Optional[float] = None  # in meters
+    notes: Optional[str] = None
+
+class WorkoutSetCreate(WorkoutSetBase):
+    pass
+
+class WorkoutSet(WorkoutSetBase):
+    id: int
+    completed: bool = False
+
+    class Config:
+        orm_mode = True
+
+class WorkoutSessionBase(BaseModel):
+    template_id: int
+    user_id: str
+    start_time: datetime = Field(default_factory=datetime.utcnow)
+    notes: Optional[str] = None
+
+class WorkoutSessionCreate(WorkoutSessionBase):
+    pass
+
+class WorkoutSession(WorkoutSessionBase):
+    id: int
+    end_time: Optional[datetime] = None
+    completed: bool = False
+    sets: List[WorkoutSet]
+
+    class Config:
+        orm_mode = True
+
+# Utility Schemas
+class CategoryCount(BaseModel):
+    category: str
+    count: int
+
+class PaginatedResponse(BaseModel):
+    items: List[Exercise]
+    total: int
+    page: int
+    pages: int
+
+    class Config:
+        orm_mode = True
