@@ -69,23 +69,3 @@ def get_exercise(exercise_id: int, db: Session = Depends(database.get_db)):
     if not exercise:
         raise HTTPException(status_code=404, detail="Exercise not found")
     return exercise
-
-@router.get("/categories/", response_model=List[schemas.CategoryCount])
-def get_exercise_categories(db: Session = Depends(database.get_db)):
-    """
-    Get all available exercise categories with counts.
-    """
-    categories = (
-        db.query(
-            models.Exercise.category,
-            func.count(models.Exercise.id).label("count")
-        )
-        .group_by(models.Exercise.category)
-        .all()
-    )
-    
-    return [
-        schemas.CategoryCount(category=category, count=count)
-        for category, count in categories
-        if category  # Filter out None categories
-    ]
