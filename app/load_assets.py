@@ -88,8 +88,8 @@ def load_exercise_assets(db: Session, category_dir: Path, category: str):
             # Find image files
             image_path, animation_path = find_image_paths(exercise_dir)
 
-            # Create workout asset
-            workout_asset = models.WorkoutAsset(
+            # Create exercise
+            exercise = models.Exercise(
                 title=title,
                 description=description,
                 category=category.replace("_Exercises", "").strip(),
@@ -102,110 +102,91 @@ def load_exercise_assets(db: Session, category_dir: Path, category: str):
                 animation_path=animation_path
             )
 
-            db.add(workout_asset)
-            logger.info(f"Added exercise: {workout_asset.title}")
+            # Add to database
+            db.add(exercise)
+            db.commit()
+            logger.info(f"Added exercise: {title}")
 
         except Exception as e:
-            logger.error(f"Error processing {exercise_dir}: {str(e)}")
+            logger.error(f"Error loading exercise from {exercise_dir}: {str(e)}")
+            db.rollback()
 
 def load_assets(db: Session):
     """Load all fitness assets into the database."""
+    logger.info("Starting asset loading process...")
+    
+    # Get the assets directory path
+    assets_dir = Path(__file__).parent / "assets"
+    
+    if not assets_dir.exists():
+        logger.warning(f"Assets directory not found: {assets_dir}")
+        return
+    
     try:
-        logger.info("Starting asset loading process...")
-        
-        # Clear existing assets
-        existing_count = db.query(models.WorkoutAsset).count()
-        logger.info(f"Found {existing_count} existing assets")
-        db.query(models.WorkoutAsset).delete()
-        db.commit()
-        logger.info("Cleared existing assets")
-
-        # Get the absolute path to the assets directory
-        current_dir = os.path.dirname(os.path.dirname(__file__))
-        assets_dir = os.path.join(current_dir, "app", "assets")
-        
-        if not os.path.exists(assets_dir):
-            raise FileNotFoundError(f"Assets directory not found: {assets_dir}")
-        
-        # Get all exercise categories
-        categories = [d for d in os.listdir(assets_dir) 
-                     if os.path.isdir(os.path.join(assets_dir, d)) and "Exercises" in d]
-        
-        total_assets = 0
-        for category in categories:
-            category_dir = os.path.join(assets_dir, category)
-            exercises = [d for d in os.listdir(category_dir) 
-                        if os.path.isdir(os.path.join(category_dir, d))]
-            
-            for exercise in exercises:
-                try:
-                    exercise_dir = os.path.join(category_dir, exercise)
-                    content_file = os.path.join(exercise_dir, "content.json")
-                    
-                    if not os.path.exists(content_file):
-                        logger.warning(f"No content.json found for {exercise}")
-                        continue
-                        
-                    with open(content_file, 'r') as f:
-                        content_data = json.load(f)
-                    
-                    # Extract exercise data
-                    asset_data = {
-                        "title": content_data.get("title", exercise),
-                        "category": category.replace("_Exercises", "").strip(),
-                        "description": "",
-                        "instructions": "",
-                        "benefits": "",
-                        "muscles_worked": "",
-                        "image_path": ""
-                    }
-                    
-                    # Process content sections
-                    for section in content_data.get("content", []):
-                        if section["type"] == "image" and not asset_data["image_path"]:
-                            # Extract image filename from path and check if it exists in exercise dir
-                            image_name = os.path.basename(section["path"].replace("images/", ""))
-                            image_path = os.path.join(exercise_dir, image_name)
-                            if os.path.exists(image_path):
-                                # Store relative path from assets directory
-                                rel_path = os.path.relpath(image_path, assets_dir)
-                                asset_data["image_path"] = rel_path.replace("\\", "/")
-                                logger.info(f"Found image: {asset_data['image_path']}")
-                        
-                        elif section["type"] == "section":
-                            section_title = section.get("title", "").lower()
-                            section_content = section.get("content", {})
+        # Process each category directory
+        for category_dir in assets_dir.iterdir():
+            if category_dir.is_dir():
+                # Convert directory name to category format (e.g., "Cardio_Exercises" -> "Cardio")
+                category = category_dir.name.replace("_Exercises", "")
+                logger.info(f"Processing category: {category}")
+                
+                # Process exercises in this category
+                for exercise_dir in category_dir.iterdir():
+                    if exercise_dir.is_dir():
+                        try:
+                            # Load the exercise metadata
+                            metadata_file = exercise_dir / "metadata.json"
+                            if not metadata_file.exists():
+                                logger.warning(f"No metadata.json found in {exercise_dir}")
+                                continue
                             
-                            if "instruction" in section_title:
-                                if isinstance(section_content, dict) and "items" in section_content:
-                                    asset_data["instructions"] = "\n".join(section_content["items"])
-                            elif "benefit" in section_title:
-                                if isinstance(section_content, dict) and "items" in section_content:
-                                    asset_data["benefits"] = "\n".join(section_content["items"])
-                            elif "muscles" in section_title:
-                                if isinstance(section_content, dict) and "items" in section_content:
-                                    asset_data["muscles_worked"] = ", ".join(section_content["items"])
-                            elif section_content and isinstance(section_content, str):
-                                # Use section content as description if it's a string
-                                asset_data["description"] = section_content
-                    
-                    # Create database entry
-                    db_asset = models.WorkoutAsset(**asset_data)
-                    db.add(db_asset)
-                    db.commit()
-                    total_assets += 1
-                    logger.info(f"Added asset to database: {asset_data['title']} ({asset_data['category']})")
-                    
-                except Exception as exercise_error:
-                    logger.error(f"Error processing exercise {exercise}: {str(exercise_error)}")
-                    continue
-        
-        logger.info(f"Successfully loaded {total_assets} assets")
+                            with open(metadata_file, "r", encoding="utf-8") as f:
+                                metadata = json.load(f)
+                            
+                            # Find image and animation paths
+                            image_path, animation_path = find_image_paths(exercise_dir)
+                            
+                            # Extract content sections
+                            content_data = metadata.get("content", {})
+                            instructions = extract_content_by_title(metadata, "Instructions")
+                            benefits = extract_content_by_title(metadata, "Benefits")
+                            muscles_worked = extract_content_by_title(metadata, "Primary Muscles")
+                            variations = extract_content_by_title(metadata, "Variations")
+                            
+                            # Create or update exercise in database
+                            exercise = db.query(models.Exercise).filter(
+                                models.Exercise.title == metadata.get("title")
+                            ).first()
+                            
+                            if not exercise:
+                                exercise = models.Exercise(
+                                    title=metadata.get("title"),
+                                    description=metadata.get("description", ""),
+                                    category=category,
+                                    difficulty=metadata.get("difficulty", "Beginner"),
+                                    instructions=instructions,
+                                    benefits=benefits,
+                                    muscles_worked=muscles_worked,
+                                    variations=variations,
+                                    image_path=image_path,
+                                    animation_path=animation_path
+                                )
+                                db.add(exercise)
+                                logger.info(f"Added exercise: {exercise.title}")
+                            else:
+                                logger.info(f"Exercise already exists: {exercise.title}")
+                            
+                        except Exception as e:
+                            logger.error(f"Error processing exercise {exercise_dir}: {str(e)}")
+                            continue
+                
+        db.commit()
+        logger.info("Asset loading completed successfully")
         
     except Exception as e:
         db.rollback()
         logger.error(f"Error loading assets: {str(e)}")
-        raise e
+        raise
 
 def init_assets():
     """Initialize the database with workout assets."""
