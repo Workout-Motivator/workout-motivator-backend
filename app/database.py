@@ -260,8 +260,22 @@ def verify_database_integrity():
         db.close()
 
 def recreate_database():
-    Base.metadata.drop_all(bind=engine)
-    Base.metadata.create_all(bind=engine)
+    """Recreate all database tables with proper handling of dependencies."""
+    try:
+        # Drop all tables with CASCADE to handle dependencies
+        with engine.connect() as connection:
+            # Disable foreign key checks temporarily
+            connection.execute(text("DROP SCHEMA public CASCADE;"))
+            connection.execute(text("CREATE SCHEMA public;"))
+            connection.execute(text("GRANT ALL ON SCHEMA public TO postgres;"))
+            connection.execute(text("GRANT ALL ON SCHEMA public TO public;"))
+            
+        # Recreate all tables
+        Base.metadata.create_all(bind=engine)
+        logger.info("Database tables recreated successfully")
+    except Exception as e:
+        logger.error(f"Error recreating database: {str(e)}")
+        raise
 
 def migrate_data():
     """Migrate data from old schema to new schema if needed"""
