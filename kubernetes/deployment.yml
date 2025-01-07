@@ -16,6 +16,17 @@ spec:
     spec:
       imagePullSecrets:
       - name: acr-secret
+      initContainers:
+      - name: check-db-ready
+        image: postgres:15-alpine
+        command: ['sh', '-c', 
+          'until pg_isready -h workout-motivator-db -p 5432; do echo waiting for database; sleep 2; done;']
+        env:
+        - name: POSTGRES_PASSWORD
+          valueFrom:
+            secretKeyRef:
+              name: db-config
+              key: POSTGRES_PASSWORD
       containers:
       - name: workout-motivator-backend
         image: workoutmotivatoracr.azurecr.io/workout-motivator-backend:latest
@@ -28,6 +39,18 @@ spec:
           limits:
             cpu: "500m"
             memory: "512Mi"
+        readinessProbe:
+          httpGet:
+            path: /health
+            port: 8000
+          initialDelaySeconds: 10
+          periodSeconds: 5
+        livenessProbe:
+          httpGet:
+            path: /health
+            port: 8000
+          initialDelaySeconds: 15
+          periodSeconds: 20
         env:
         - name: POSTGRES_DB
           valueFrom:
@@ -51,22 +74,6 @@ spec:
               key: JWT_SECRET
         - name: CORS_ORIGINS
           value: "http://localhost:3000,https://workout-motivator.azurewebsites.net"
-        livenessProbe:
-          httpGet:
-            path: /health
-            port: 8000
-          initialDelaySeconds: 60
-          periodSeconds: 15
-          timeoutSeconds: 5
-          failureThreshold: 3
-        readinessProbe:
-          httpGet:
-            path: /health
-            port: 8000
-          initialDelaySeconds: 30
-          periodSeconds: 10
-          timeoutSeconds: 5
-          failureThreshold: 3
         startupProbe:
           httpGet:
             path: /health
