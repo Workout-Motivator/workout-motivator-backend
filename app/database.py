@@ -173,58 +173,48 @@ def restore_from_backup(backup_file, db):
 
 def init_db(max_retries=5, retry_delay=5):
     """Initialize the database with retries"""
-    logger.info("Initializing database...")
-    from time import sleep
     retry_count = 0
-    
+    last_exception = None
+
     while retry_count < max_retries:
         try:
-            # Test database connection
-            conn = psycopg2.connect(
-                dbname=DB_NAME,
-                user=DB_USER,
-                password=DB_PASSWORD,
-                host=DB_HOST,
-                port=DB_PORT
-            )
-            conn.close()
-            logger.info("Database connection successful")
-
-            # Initialize database session
-            db = SessionLocal()
-
-            try:
-                # Drop all tables if they exist with CASCADE
-                logger.info("Dropping existing tables...")
-                with engine.connect() as connection:
-                    connection.execute(text("DROP SCHEMA public CASCADE"))
-                    connection.execute(text("CREATE SCHEMA public"))
-                    connection.commit()
-                
-                # Create tables with new schema
-                logger.info("Creating database tables with new schema...")
-                Base.metadata.create_all(bind=engine)
-                
-                logger.info("Database initialization completed successfully")
-                return
+            logger.info(f"Attempting database initialization (attempt {retry_count + 1}/{max_retries})")
             
-            except Exception as e:
-                logger.error(f"Error during database initialization: {str(e)}")
-                raise
+            # Create a new connection for schema operations
+            connection = engine.connect()
+            connection = connection.execution_options(isolation_level="AUTOCOMMIT")
+
+            # Drop and recreate schema
+            connection.execute(text("DROP SCHEMA IF EXISTS public CASCADE"))
+            connection.execute(text("CREATE SCHEMA IF NOT EXISTS public"))
             
-            finally:
-                db.close()
+            # Create all tables
+            Base.metadata.create_all(bind=engine)
+            
+            logger.info("Database initialized successfully")
+            connection.close()
+            return True
 
         except Exception as e:
+            last_exception = e
+            logger.error(f"Database initialization attempt {retry_count + 1} failed: {str(e)}")
             retry_count += 1
-            logger.error(f"Database initialization attempt {retry_count} failed: {str(e)}")
-            
             if retry_count < max_retries:
                 logger.info(f"Retrying in {retry_delay} seconds...")
-                sleep(retry_delay)
-            else:
-                logger.error("Max retries reached. Database initialization failed.")
-                raise
+                import time
+                time.sleep(retry_delay)
+
+    logger.error(f"Database initialization failed after {max_retries} attempts")
+    raise last_exception
+
+def recreate_database():
+    """Recreate all database tables with proper handling of dependencies."""
+    try:
+        logger.info("Recreating database tables...")
+        init_db(max_retries=5, retry_delay=5)
+    except Exception as e:
+        logger.error(f"Error recreating database: {str(e)}")
+        raise
 
 def verify_database_integrity():
     """Verify database integrity after migration"""
@@ -258,33 +248,6 @@ def verify_database_integrity():
     
     finally:
         db.close()
-
-def recreate_database():
-    """Recreate all database tables with proper handling of dependencies."""
-    try:
-        logger.info("Recreating database tables...")
-        
-        # Create a new connection for schema operations
-        connection = engine.connect()
-        connection = connection.execution_options(isolation_level="AUTOCOMMIT")
-
-        # Drop and recreate schema
-        connection.execute(text("DROP SCHEMA IF EXISTS public CASCADE;"))
-        connection.execute(text("CREATE SCHEMA public;"))
-        
-        # Grant privileges to the configured database user instead of hardcoded 'postgres'
-        connection.execute(text(f"GRANT ALL ON SCHEMA public TO {DB_USER};"))
-        connection.execute(text("GRANT ALL ON SCHEMA public TO public;"))
-        
-        # Create all tables
-        Base.metadata.create_all(bind=engine)
-        
-        logger.info("Database tables recreated successfully")
-        connection.close()
-        
-    except Exception as e:
-        logger.error(f"Error recreating database: {str(e)}")
-        raise
 
 def migrate_data():
     """Migrate data from old schema to new schema if needed"""
