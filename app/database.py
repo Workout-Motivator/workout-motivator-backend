@@ -262,17 +262,26 @@ def verify_database_integrity():
 def recreate_database():
     """Recreate all database tables with proper handling of dependencies."""
     try:
-        # Drop all tables with CASCADE to handle dependencies
-        with engine.connect() as connection:
-            # Disable foreign key checks temporarily
-            connection.execute(text("DROP SCHEMA public CASCADE;"))
-            connection.execute(text("CREATE SCHEMA public;"))
-            connection.execute(text("GRANT ALL ON SCHEMA public TO postgres;"))
-            connection.execute(text("GRANT ALL ON SCHEMA public TO public;"))
-            
-        # Recreate all tables
+        logger.info("Recreating database tables...")
+        
+        # Create a new connection for schema operations
+        connection = engine.connect()
+        connection = connection.execution_options(isolation_level="AUTOCOMMIT")
+
+        # Drop and recreate schema
+        connection.execute(text("DROP SCHEMA IF EXISTS public CASCADE;"))
+        connection.execute(text("CREATE SCHEMA public;"))
+        
+        # Grant privileges to the configured database user instead of hardcoded 'postgres'
+        connection.execute(text(f"GRANT ALL ON SCHEMA public TO {DB_USER};"))
+        connection.execute(text("GRANT ALL ON SCHEMA public TO public;"))
+        
+        # Create all tables
         Base.metadata.create_all(bind=engine)
+        
         logger.info("Database tables recreated successfully")
+        connection.close()
+        
     except Exception as e:
         logger.error(f"Error recreating database: {str(e)}")
         raise
