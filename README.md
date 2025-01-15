@@ -2,6 +2,8 @@
 
 ![Backend Tests](https://github.com/Workout-Motivator/workout-motivator-backend/actions/workflows/backend-tests.yml/badge.svg)
 [![codecov](https://codecov.io/gh/Workout-Motivator/workout-motivator-backend/graph/badge.svg)](https://codecov.io/gh/Workout-Motivator/workout-motivator-backend)
+[![CI](https://github.com/Workout-Motivator/workout-motivator-backend/actions/workflows/main.yml/badge.svg)](https://github.com/Workout-Motivator/workout-motivator-backend/actions/workflows/main.yml)
+[![Coverage](https://codecov.io/gh/Workout-Motivator/workout-motivator-backend/branch/main/graph/badge.svg)](https://codecov.io/gh/Workout-Motivator/workout-motivator-backend/branch/main)
 
 A FastAPI backend service for the Workout Motivator application. This service handles user management, workout tracking, and partner matching functionality.
 
