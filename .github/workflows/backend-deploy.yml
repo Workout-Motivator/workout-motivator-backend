@@ -1,118 +1,118 @@
-name: Deploy Backend to AKS
+# name: Deploy Backend to AKS
 
-on:
-  push:
-    branches: [ main ]
-    paths-ignore:
-      - '**.md'
-      - '.gitignore'
-      - 'LICENSE'
-      - 'README.md'
+# on:
+#   push:
+#     branches: [ main ]
+#     paths-ignore:
+#       - '**.md'
+#       - '.gitignore'
+#       - 'LICENSE'
+#       - 'README.md'
 
-env:
-  AZURE_CONTAINER_REGISTRY: workoutmotivatoracr.azurecr.io
-  BACKEND_IMAGE_NAME: workout-motivator-backend
-  NAMESPACE: workout-motivator
-  CLUSTER_NAME: workout-motivator
-  RESOURCE_GROUP: WAP
+# env:
+#   AZURE_CONTAINER_REGISTRY: workoutmotivatoracr.azurecr.io
+#   BACKEND_IMAGE_NAME: workout-motivator-backend
+#   NAMESPACE: workout-motivator
+#   CLUSTER_NAME: workout-motivator
+#   RESOURCE_GROUP: WAP
 
-jobs:
-  build-and-deploy:
-    runs-on: ubuntu-latest
+# jobs:
+#   build-and-deploy:
+#     runs-on: ubuntu-latest
     
-    steps:
-    - uses: actions/checkout@v3
+#     steps:
+#     - uses: actions/checkout@v3
 
-    - name: Set up Docker Buildx
-      uses: docker/setup-buildx-action@v2
+#     - name: Set up Docker Buildx
+#       uses: docker/setup-buildx-action@v2
 
-    - name: Log in to Azure
-      uses: azure/login@v1
-      with:
-        creds: ${{ secrets.AZURE_CREDENTIALS }}
+#     - name: Log in to Azure
+#       uses: azure/login@v1
+#       with:
+#         creds: ${{ secrets.AZURE_CREDENTIALS }}
 
-    - name: Log in to ACR
-      uses: azure/docker-login@v1
-      with:
-        login-server: ${{ env.AZURE_CONTAINER_REGISTRY }}
-        username: ${{ secrets.AZURE_CONTAINER_REGISTRY_USERNAME }}
-        password: ${{ secrets.AZURE_CONTAINER_REGISTRY_PASSWORD }}
+#     - name: Log in to ACR
+#       uses: azure/docker-login@v1
+#       with:
+#         login-server: ${{ env.AZURE_CONTAINER_REGISTRY }}
+#         username: ${{ secrets.AZURE_CONTAINER_REGISTRY_USERNAME }}
+#         password: ${{ secrets.AZURE_CONTAINER_REGISTRY_PASSWORD }}
 
-    - name: Build and push backend image
-      uses: docker/build-push-action@v4
-      with:
-        context: .
-        push: true
-        tags: ${{ env.AZURE_CONTAINER_REGISTRY }}/${{ env.BACKEND_IMAGE_NAME }}:${{ github.sha }},${{ env.AZURE_CONTAINER_REGISTRY }}/${{ env.BACKEND_IMAGE_NAME }}:latest
+#     - name: Build and push backend image
+#       uses: docker/build-push-action@v4
+#       with:
+#         context: .
+#         push: true
+#         tags: ${{ env.AZURE_CONTAINER_REGISTRY }}/${{ env.BACKEND_IMAGE_NAME }}:${{ github.sha }},${{ env.AZURE_CONTAINER_REGISTRY }}/${{ env.BACKEND_IMAGE_NAME }}:latest
 
-    - name: Set up kubelogin for non-interactive login
-      uses: azure/use-kubelogin@v1
-      with:
-        kubelogin-version: 'v0.0.25'
+#     - name: Set up kubelogin for non-interactive login
+#       uses: azure/use-kubelogin@v1
+#       with:
+#         kubelogin-version: 'v0.0.25'
 
-    - name: Get K8s context
-      uses: azure/aks-set-context@v3
-      with:
-        resource-group: ${{ env.RESOURCE_GROUP }}
-        cluster-name: ${{ env.CLUSTER_NAME }}
-        admin: 'false'
-        use-kubelogin: 'true'
+#     - name: Get K8s context
+#       uses: azure/aks-set-context@v3
+#       with:
+#         resource-group: ${{ env.RESOURCE_GROUP }}
+#         cluster-name: ${{ env.CLUSTER_NAME }}
+#         admin: 'false'
+#         use-kubelogin: 'true'
 
-    - name: Create namespace if not exists
-      run: |
-        kubectl create namespace ${{ env.NAMESPACE }} --dry-run=client -o yaml | kubectl apply -f -
+#     - name: Create namespace if not exists
+#       run: |
+#         kubectl create namespace ${{ env.NAMESPACE }} --dry-run=client -o yaml | kubectl apply -f -
 
-    - name: Create database secrets
-      run: |
-        kubectl delete secret db-config --namespace ${{ env.NAMESPACE }} --ignore-not-found
-        DB_USER="${{ secrets.POSTGRES_USER }}"
-        DB_PASS="${{ secrets.POSTGRES_PASSWORD }}"
-        DB_NAME="${{ secrets.POSTGRES_DB }}"
-        DB_URL="postgresql://${DB_USER}:${DB_PASS}@workout-motivator-db:5432/${DB_NAME}"
-        kubectl create secret generic db-config \
-          --namespace ${{ env.NAMESPACE }} \
-          --from-literal=POSTGRES_DB="$DB_NAME" \
-          --from-literal=POSTGRES_USER="$DB_USER" \
-          --from-literal=POSTGRES_PASSWORD="$DB_PASS" \
-          --from-literal=DATABASE_URL="$DB_URL"
+#     - name: Create database secrets
+#       run: |
+#         kubectl delete secret db-config --namespace ${{ env.NAMESPACE }} --ignore-not-found
+#         DB_USER="${{ secrets.POSTGRES_USER }}"
+#         DB_PASS="${{ secrets.POSTGRES_PASSWORD }}"
+#         DB_NAME="${{ secrets.POSTGRES_DB }}"
+#         DB_URL="postgresql://${DB_USER}:${DB_PASS}@workout-motivator-db:5432/${DB_NAME}"
+#         kubectl create secret generic db-config \
+#           --namespace ${{ env.NAMESPACE }} \
+#           --from-literal=POSTGRES_DB="$DB_NAME" \
+#           --from-literal=POSTGRES_USER="$DB_USER" \
+#           --from-literal=POSTGRES_PASSWORD="$DB_PASS" \
+#           --from-literal=DATABASE_URL="$DB_URL"
 
-    - name: Create backend secrets
-      run: |
-        kubectl create secret generic backend-secrets \
-          --namespace ${{ env.NAMESPACE }} \
-          --from-literal=JWT_SECRET=${{ secrets.JWT_SECRET }} \
-          --dry-run=client -o yaml | kubectl apply -f -
+#     - name: Create backend secrets
+#       run: |
+#         kubectl create secret generic backend-secrets \
+#           --namespace ${{ env.NAMESPACE }} \
+#           --from-literal=JWT_SECRET=${{ secrets.JWT_SECRET }} \
+#           --dry-run=client -o yaml | kubectl apply -f -
 
-    - name: Deploy database
-      run: |
-        kubectl apply -f kubernetes/database/
+#     - name: Deploy database
+#       run: |
+#         kubectl apply -f kubernetes/database/
 
-    - name: Deploy backend
-      run: |
-        kubectl apply -f kubernetes/deployment.yml
-        kubectl apply -f kubernetes/service.yml
+#     - name: Deploy backend
+#       run: |
+#         kubectl apply -f kubernetes/deployment.yml
+#         kubectl apply -f kubernetes/service.yml
 
-    - name: Update backend deployment image
-      run: |
-        kubectl set image deployment/workout-motivator-backend \
-          workout-motivator-backend=${{ env.AZURE_CONTAINER_REGISTRY }}/${{ env.BACKEND_IMAGE_NAME }}:${{ github.sha }} \
-          --namespace ${{ env.NAMESPACE }}
+#     - name: Update backend deployment image
+#       run: |
+#         kubectl set image deployment/workout-motivator-backend \
+#           workout-motivator-backend=${{ env.AZURE_CONTAINER_REGISTRY }}/${{ env.BACKEND_IMAGE_NAME }}:${{ github.sha }} \
+#           --namespace ${{ env.NAMESPACE }}
 
-    - name: Verify deployment
-      run: |
-        echo "Checking pod status..."
-        kubectl get pods -n ${{ env.NAMESPACE }} -l app=workout-motivator-backend
+#     - name: Verify deployment
+#       run: |
+#         echo "Checking pod status..."
+#         kubectl get pods -n ${{ env.NAMESPACE }} -l app=workout-motivator-backend
         
-        echo "Checking pod logs..."
-        for pod in $(kubectl get pods -n ${{ env.NAMESPACE }} -l app=workout-motivator-backend -o name); do
-          echo "Logs for $pod:"
-          kubectl logs -n ${{ env.NAMESPACE }} $pod --previous || true
-          kubectl logs -n ${{ env.NAMESPACE }} $pod || true
-        done
+#         echo "Checking pod logs..."
+#         for pod in $(kubectl get pods -n ${{ env.NAMESPACE }} -l app=workout-motivator-backend -o name); do
+#           echo "Logs for $pod:"
+#           kubectl logs -n ${{ env.NAMESPACE }} $pod --previous || true
+#           kubectl logs -n ${{ env.NAMESPACE }} $pod || true
+#         done
 
-        echo "Checking deployment events..."
-        kubectl describe deployment workout-motivator-backend -n ${{ env.NAMESPACE }}
+#         echo "Checking deployment events..."
+#         kubectl describe deployment workout-motivator-backend -n ${{ env.NAMESPACE }}
 
-        echo "Waiting for rollouts..."
-        kubectl rollout status deployment/workout-motivator-backend --namespace ${{ env.NAMESPACE }}
-        kubectl rollout status deployment/postgres --namespace ${{ env.NAMESPACE }}
+#         echo "Waiting for rollouts..."
+#         kubectl rollout status deployment/workout-motivator-backend --namespace ${{ env.NAMESPACE }}
+#         kubectl rollout status deployment/postgres --namespace ${{ env.NAMESPACE }}
