@@ -21,6 +21,7 @@ jobs:
     strategy:
       matrix:
         python-version: ["3.11"]
+      fail-fast: false
 
     steps:
     - uses: actions/checkout@v4
@@ -37,7 +38,7 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         pip install -r requirements.txt
-        pip install pytest pytest-cov httpx starlette
+        pip install pytest pytest-cov httpx starlette pytest-github-actions-annotate-failures
 
     - name: List installed packages
       run: |
@@ -51,7 +52,19 @@ jobs:
 
     - name: Run tests with coverage
       run: |
-        PYTHONPATH=. python -m pytest --cov=app --cov-report=xml --cov-report=term-missing tests/
+        PYTHONPATH=. python -m pytest \
+          --cov=app \
+          --cov-report=xml \
+          --cov-report=term-missing \
+          --junitxml=pytest.xml \
+          -v \
+          tests/
+
+    - name: Test Summary
+      uses: test-summary/action@v2
+      with:
+        paths: pytest.xml
+      if: always()
 
     - name: Upload coverage reports to Codecov
       uses: codecov/codecov-action@v3
