@@ -1,5 +1,4 @@
 from sqlalchemy import create_engine, inspect, text
-from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import sessionmaker
 import os
 import logging
@@ -8,12 +7,10 @@ from urllib.parse import quote_plus
 from datetime import datetime
 import json
 from . import models
+from .base import Base
 
 # Create a logger
 logger = logging.getLogger(__name__)
-
-# Create declarative base
-Base = declarative_base()
 
 # Get database connection parameters from environment variables
 DB_NAME = os.getenv("POSTGRES_DB", "workout_motivator_db")

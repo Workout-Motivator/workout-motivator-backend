@@ -1,6 +1,6 @@
-from sqlalchemy import Column, Integer, String, ForeignKey, DateTime, Boolean, Float, Text, Table
+from sqlalchemy import Column, Integer, String, ForeignKey, DateTime, Float, Table
 from sqlalchemy.orm import relationship
-from .database import Base
+from .base import Base
 import datetime
 
 # Association table for accountability partnerships
