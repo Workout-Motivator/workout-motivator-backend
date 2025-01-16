@@ -165,11 +165,20 @@ def test_database_integrity(test_db):
         test_db.commit()
     test_db.rollback()
     
+    # Create a test user
+    test_user = models.User(
+        email="test@example.com",
+        username="testuser",
+        hashed_password="dummyhash"
+    )
+    test_db.add(test_user)
+    test_db.commit()
+    
     # Test cascade delete
     template = models.WorkoutTemplate(
         title="Test Template",
         description="Test Description",
-        user_id="test_user",
+        user_id=test_user.id,
         difficulty="beginner"
     )
     test_db.add(template)
@@ -178,7 +187,7 @@ def test_database_integrity(test_db):
     # Add workout session linked to template
     session = models.WorkoutSession(
         template_id=template.id,
-        user_id="test_user",
+        user_id=test_user.id,
         start_time=datetime.now()
     )
     test_db.add(session)
