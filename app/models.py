@@ -32,10 +32,11 @@ class User(Base):
     )
 
 class Exercise(Base):
+    """Exercise model."""
     __tablename__ = "exercises"
 
     id = Column(Integer, primary_key=True, index=True)
-    title = Column(String, index=True)
+    title = Column(String, unique=True, index=True)
     description = Column(Text)
     category = Column(String, index=True)
     difficulty = Column(String, index=True)
@@ -46,6 +47,7 @@ class Exercise(Base):
     image_path = Column(String)
     animation_path = Column(String)
     created_at = Column(DateTime, default=datetime.datetime.utcnow)
+    updated_at = Column(DateTime, default=datetime.datetime.utcnow, onupdate=datetime.datetime.utcnow)
 
     # Relationships
     template_exercises = relationship("WorkoutExercise", back_populates="exercise")
