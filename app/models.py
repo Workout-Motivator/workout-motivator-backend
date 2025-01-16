@@ -71,7 +71,7 @@ class WorkoutTemplate(Base):
     # Relationships
     user = relationship("User", back_populates="workout_templates")
     exercises = relationship("WorkoutExercise", back_populates="template", cascade="all, delete-orphan")
-    sessions = relationship("WorkoutSession", back_populates="template")
+    sessions = relationship("WorkoutSession", back_populates="template", cascade="all, delete-orphan")
 
 class WorkoutExercise(Base):
     __tablename__ = "workout_template_exercises"
