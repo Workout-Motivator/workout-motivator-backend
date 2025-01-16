@@ -54,6 +54,8 @@ jobs:
         python -m pip install --upgrade pip
         pip install -r requirements.txt
         pip install pytest pytest-cov httpx starlette pytest-github-actions-annotate-failures psycopg2-binary
+        sudo apt-get update
+        sudo apt-get install -y postgresql-client
 
     - name: List installed packages
       run: |
@@ -64,6 +66,12 @@ jobs:
         pwd
         ls -la
         ls -la tests/
+
+    - name: Create test database
+      env:
+        PGPASSWORD: admin
+      run: |
+        psql -h localhost -U postgres -c 'CREATE DATABASE test_workout_motivator_db;'
 
     - name: Run unit tests
       run: |
