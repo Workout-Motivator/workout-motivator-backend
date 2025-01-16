@@ -4,6 +4,7 @@ import json
 from pathlib import Path
 from sqlalchemy import create_engine
 from sqlalchemy.orm import Session
+from sqlalchemy.exc import IntegrityError
 from app import database, load_assets, models
 from datetime import datetime
 
@@ -160,7 +161,7 @@ def test_database_integrity(test_db):
     test_db.add(exercise2)
     
     # Should raise an integrity error
-    with pytest.raises(Exception):
+    with pytest.raises(IntegrityError):
         test_db.commit()
     test_db.rollback()
     

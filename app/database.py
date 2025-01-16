@@ -7,6 +7,7 @@ import psycopg2
 from urllib.parse import quote_plus
 from datetime import datetime
 import json
+from . import models
 
 # Create a logger
 logger = logging.getLogger(__name__)
