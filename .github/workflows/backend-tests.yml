@@ -18,6 +18,21 @@ jobs:
   test:
     runs-on: ubuntu-latest
 
+    services:
+      postgres:
+        image: postgres:15
+        env:
+          POSTGRES_USER: postgres
+          POSTGRES_PASSWORD: admin
+          POSTGRES_DB: workout_motivator_db
+        ports:
+          - 5432:5432
+        options: >-
+          --health-cmd pg_isready
+          --health-interval 10s
+          --health-timeout 5s
+          --health-retries 5
+
     strategy:
       matrix:
         python-version: ["3.11"]
@@ -38,7 +53,7 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         pip install -r requirements.txt
-        pip install pytest pytest-cov httpx starlette pytest-github-actions-annotate-failures
+        pip install pytest pytest-cov httpx starlette pytest-github-actions-annotate-failures psycopg2-binary
 
     - name: List installed packages
       run: |
@@ -50,7 +65,7 @@ jobs:
         ls -la
         ls -la tests/
 
-    - name: Run tests with coverage
+    - name: Run unit tests
       run: |
         PYTHONPATH=. python -m pytest \
           --cov=app \
@@ -58,7 +73,23 @@ jobs:
           --cov-report=term-missing \
           --junitxml=pytest.xml \
           -v \
-          tests/
+          tests/test_exercises.py
+
+    - name: Run integration tests
+      env:
+        POSTGRES_USER: postgres
+        POSTGRES_PASSWORD: admin
+        POSTGRES_DB: test_workout_motivator_db
+        POSTGRES_HOST: localhost
+        POSTGRES_PORT: 5432
+      run: |
+        PYTHONPATH=. python -m pytest \
+          --cov=app \
+          --cov-append \
+          --cov-report=xml \
+          --cov-report=term-missing \
+          -v \
+          tests/test_integration.py
 
     - name: Test Summary
       uses: test-summary/action@v2

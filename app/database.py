@@ -7,10 +7,12 @@ import psycopg2
 from urllib.parse import quote_plus
 from datetime import datetime
 import json
-from . import models
 
 # Create a logger
 logger = logging.getLogger(__name__)
+
+# Create declarative base
+Base = declarative_base()
 
 # Get database connection parameters from environment variables
 DB_NAME = os.getenv("POSTGRES_DB", "workout_motivator_db")
@@ -24,8 +26,6 @@ SQLALCHEMY_DATABASE_URL = f"postgresql://{DB_USER}:{quote_plus(DB_PASSWORD)}@{DB
 
 engine = create_engine(SQLALCHEMY_DATABASE_URL)
 SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)
-
-Base = declarative_base()
 
 def get_db():
     db = SessionLocal()
